@@ -1,0 +1,20 @@
+{
+  "name": "around-town-community-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4187",
+    "build": "python3 scripts/build_calendar.py && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4187",
+    "test": "python3 -m unittest discover -s tests -v"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3",
+    "@vitejs/plugin-react": "^4.7.0"
+  }
+}

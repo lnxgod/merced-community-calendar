@@ -1,0 +1,1575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Game Changers AI//Merced Atwater McSwain Community Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Merced · Atwater · McSwain Community Calendar
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-09-27@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20260927T140000Z
+DTEND:20260927T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:sensory-playgroup-atwater-library-2026-09-29@community.gamechangersai.o
+ rg
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Sensory Playgroup — Atwater Library
+DESCRIPTION:Sensory play session.\n\nSource: Merced County Library\nhttps:/
+ /www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&year=
+ 2026
+LOCATION:Atwater Library\, Atwater\, CA
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=
+ week&year=2026
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20260929T180000Z
+DTEND:20260929T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:children-make-a-card-catalog-merced-library-2026-09-29@community.gamech
+ angersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Children: Make a Card Catalog — Merced Library
+DESCRIPTION:Children’s library activity.\n\nSource: Merced County Library
+ \nhttps://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=w
+ eek&year=2026
+LOCATION:Merced Main Library\, Children’s Department\, Merced\, CA
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=
+ week&year=2026
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20260929T230000Z
+DTEND:20260930T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:sewing-atwater-library-2026-09-29@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Sewing — Atwater Library
+DESCRIPTION:Library sewing session.\n\nSource: Merced County Library\nhttps
+ ://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&yea
+ r=2026
+LOCATION:Atwater Library\, Atwater\, CA
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=
+ week&year=2026
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20260930T000000Z
+DTEND:20260930T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-01@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261001T140000Z
+DTEND:20261001T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:spanish-bilingual-story-time-merced-library-2026-10-01@community.gamech
+ angersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Spanish Bilingual Story Time — Merced Library
+DESCRIPTION:Bilingual story session.\n\nSource: Merced County Library\nhttp
+ s://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&ye
+ ar=2026
+LOCATION:Merced Main Library\, Gracey Room\, Merced\, CA
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=
+ week&year=2026
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261001T173000Z
+DTEND:20261001T183000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wiggle-read-atwater-library-2026-10-01@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Wiggle & Read — Atwater Library
+DESCRIPTION:Library reading activity.\n\nSource: Merced County Library\nhtt
+ ps://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&y
+ ear=2026
+LOCATION:Atwater Library\, Atwater\, CA
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=
+ week&year=2026
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261001T173000Z
+DTEND:20261001T183000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:old-town-atwater-farmers-market-2026-10-01@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Old Town Atwater Farmers Market
+DESCRIPTION:Farmers and local vendors. The organizer lists first and third 
+ Thursdays in August\, September and October 2026.\n\nSource: Old Town Atwa
+ ter\nhttps://docs.google.com/forms/d/e/1FAIpQLSeYO2G377Iv3hnA8ioRHjagMZhdu
+ nC_Ylvr5n5e1NVxdSIMPA/viewform
+LOCATION:Ralston Park\, Atwater\, CA 95301
+CATEGORIES:Markets
+URL:https://docs.google.com/forms/d/e/1FAIpQLSeYO2G377Iv3hnA8ioRHjagMZhdunC
+ _Ylvr5n5e1NVxdSIMPA/viewform
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261001T230000Z
+DTEND:20261002T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:lego-time-atwater-library-2026-10-02@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:LEGO Time — Atwater Library
+DESCRIPTION:Library LEGO activity.\n\nSource: Merced County Library\nhttps:
+ //www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&year
+ =2026
+LOCATION:Atwater Library\, Atwater\, CA
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=
+ week&year=2026
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261002T220000Z
+DTEND:20261002T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:inside-the-teachers-lounge-2026-10-02@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Inside the Teachers Lounge
+DESCRIPTION:Ticketed performance. End time not published in the venue listi
+ ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
+ m with the organizer.\n\nSource: Merced Theatre / AXS\nhttps://www.axs.com
+ /venues/133321/merced-theatre-merced-tickets
+LOCATION:Merced Theatre\, 301 West Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.axs.com/venues/133321/merced-theatre-merced-tickets
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-10-03@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T150000Z
+DTEND:20261003T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-nights-mcswain-education-foundation-2026-10-03@community.gamech
+ angersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mustang Nights — McSwain Education Foundation
+DESCRIPTION:Public ticketed fundraiser supporting McSwain School\, with din
+ ner\, auctions and dancing. Adults over 21 only\; bring ID.\n\nCost: $75 i
+ ndividual dinner ticket plus $3 fee\n\nSource: McSwain Education Foundatio
+ n\nhttps://mcswaineducationfoundation.ticketspice.com/2026-mustang-nights
+LOCATION:Merced Elks Park\, 3600 Wardrobe Avenue\, Merced\, CA 95341
+CATEGORIES:Festivals & community
+URL:https://mcswaineducationfoundation.ticketspice.com/2026-mustang-nights
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261004T003000Z
+DTEND:20261004T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-04@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261004T140000Z
+DTEND:20261004T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-national-night-out-2026-10-06@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater National Night Out · TIME TBD
+DESCRIPTION:Community event listed by MCAG as a transportation-safety outre
+ ach stop.\n\nMCAG lists its participation window as 16:00–18:00 Pacific\
+ ; full event hours are unconfirmed. Check the organizer before going.\n\nT
+ ime TBD. This is a date placeholder\, not an all-day event.\n\nSource: Mer
+ ced County Association of Governments\nhttps://www.mcagov.org/424/Transpor
+ tation-Safety-Program
+LOCATION:Ralston Park\, 1550 3rd Street\, Atwater\, CA
+CATEGORIES:Festivals & community
+URL:https://www.mcagov.org/424/Transportation-Safety-Program
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-08@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261008T140000Z
+DTEND:20261008T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-chess-club-free-play-friday-2026-10-09@community.gamechangersai.
+ org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Chess Club — Free-Play Friday
+DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
+ \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
+ nts/merced-chess-club-free-play-fridays/
+LOCATION:Marketplace at Merced\, food court by Burlington\, Merced\, CA
+CATEGORIES:Games & hobbies
+URL:https://www.marketplaceatmerced.com/events/merced-chess-club-free-play-
+ fridays/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261010T010000Z
+DTEND:20261010T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-10-10@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261010T150000Z
+DTEND:20261010T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:food-para-todos-harvest-festival-2026-10-10@community.gamechangersai.or
+ g
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Food Para Todos Harvest Festival
+DESCRIPTION:Free community festival with vendors\, entertainment\, a car sh
+ ow and children’s activities.\n\nCost: Free\n\nSource: Food Para Todos /
+  The Merced FOCUS\nhttps://themercedfocus.org/event/food-para-todos-harves
+ t-festival/
+LOCATION:West 18th Street between P and Q Streets\, 936 W 18th St\, Merced\
+ , CA 95340
+CATEGORIES:Festivals & community
+URL:https://themercedfocus.org/event/food-para-todos-harvest-festival/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261010T180000Z
+DTEND:20261010T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-11@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261011T140000Z
+DTEND:20261011T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:central-valley-pride-at-kiddieland-2026-10-11@community.gamechangersai.
+ org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Central Valley Pride at Kiddieland
+DESCRIPTION:Community celebration open to the public.\n\nCost: Free\n\nSour
+ ce: Kiwanis Greater Merced Kiddieland\nhttps://kiwaniskiddieland.com/event
+ s/
+LOCATION:Kiddieland\, Applegate Park\, Merced\, CA
+CATEGORIES:Festivals & community
+URL:https://kiwaniskiddieland.com/events/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261011T170000Z
+DTEND:20261011T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-15@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261015T140000Z
+DTEND:20261015T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:old-town-atwater-farmers-market-2026-10-15@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Old Town Atwater Farmers Market
+DESCRIPTION:Farmers and local vendors. The organizer lists first and third 
+ Thursdays in August\, September and October 2026.\n\nSource: Old Town Atwa
+ ter\nhttps://docs.google.com/forms/d/e/1FAIpQLSeYO2G377Iv3hnA8ioRHjagMZhdu
+ nC_Ylvr5n5e1NVxdSIMPA/viewform
+LOCATION:Ralston Park\, Atwater\, CA 95301
+CATEGORIES:Markets
+URL:https://docs.google.com/forms/d/e/1FAIpQLSeYO2G377Iv3hnA8ioRHjagMZhdunC
+ _Ylvr5n5e1NVxdSIMPA/viewform
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261015T230000Z
+DTEND:20261016T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:art-spirits-paint-along-2026-10-15@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Art & Spirits — Paint Along
+DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
+ e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
+ rced County Arts Council / The MAC\nhttps://www.artsmerced.org/events-list
+LOCATION:The MAC\, 645 W. Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.artsmerced.org/events-list
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261016T003000Z
+DTEND:20261016T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:night-of-the-living-dead-live-playhouse-merced-2026-10-16@community.gam
+ echangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Night of the Living Dead Live — Playhouse Merced
+DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
+ s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
+ een published. Confirm ticket availability before visiting.\n\nEnd time no
+ t published\; confirm with the organizer.\n\nSource: Playhouse Merced\nhtt
+ ps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261017T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-10-17@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261017T150000Z
+DTEND:20261017T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:castle-air-fest-fall-blitz-car-show-2026-10-17@community.gamechangersai
+ .org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Castle Air Fest — Fall Blitz Car Show
+DESCRIPTION:Public car show held during Castle Airfest.\n\nStarts at 9 AM. 
+ The car-show description says it ends at 3 PM\; the page header says 5 PM.
+  Confirm the end time with Castle Air Museum.\n\nEnd time not published\; 
+ confirm with the organizer.\n\nSource: Castle Air Museum\nhttps://castleai
+ rmuseum.org/event/castle-air-fest-fall-blitz-car-show/
+LOCATION:Castle Airport\, Gate 6\, 3140 Apron Avenue\, Atwater\, CA
+CATEGORIES:Festivals & community
+URL:https://castleairmuseum.org/event/castle-air-fest-fall-blitz-car-show/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261017T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:flicks-of-flight-flight-of-the-intruder-2026-10-17@community.gamechange
+ rsai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Flicks of Flight — Flight of the Intruder
+DESCRIPTION:Museum film screening\; see organizer for admission details.\n\
+ nSource: Castle Air Museum\nhttps://castleairmuseum.org/event/flicks-of-fl
+ ight-october/
+LOCATION:Castle Air Museum\, 5050 Santa Fe Drive\, Atwater\, CA 95301
+CATEGORIES:Arts & performances
+URL:https://castleairmuseum.org/event/flicks-of-flight-october/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261018T013000Z
+DTEND:20261018T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:night-of-the-living-dead-live-playhouse-merced-2026-10-17@community.gam
+ echangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Night of the Living Dead Live — Playhouse Merced
+DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
+ s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
+ een published. Confirm ticket availability before visiting.\n\nEnd time no
+ t published\; confirm with the organizer.\n\nSource: Playhouse Merced\nhtt
+ ps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261018T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-18@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261018T140000Z
+DTEND:20261018T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:night-of-the-living-dead-live-playhouse-merced-2026-10-18@community.gam
+ echangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Night of the Living Dead Live — Playhouse Merced
+DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
+ s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
+ een published. Confirm ticket availability before visiting.\n\nEnd time no
+ t published\; confirm with the organizer.\n\nSource: Playhouse Merced\nhtt
+ ps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261018T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-22@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261022T140000Z
+DTEND:20261022T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:kiddieland-annual-fright-night-day-1-2026-10-23@community.gamechangersa
+ i.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Kiddieland Annual Fright Night — Day 1
+DESCRIPTION:Halloween event open to the public.\n\nCost: Free\n\nSource: Ki
+ wanis Greater Merced Kiddieland\nhttps://kiwaniskiddieland.com/events/
+LOCATION:Kiddieland\, Applegate Park\, Merced\, CA
+CATEGORIES:Festivals & community
+URL:https://kiwaniskiddieland.com/events/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T000000Z
+DTEND:20261024T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-chess-club-free-play-friday-2026-10-23@community.gamechangersai.
+ org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Chess Club — Free-Play Friday
+DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
+ \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
+ nts/merced-chess-club-free-play-fridays/
+LOCATION:Marketplace at Merced\, food court by Burlington\, Merced\, CA
+CATEGORIES:Games & hobbies
+URL:https://www.marketplaceatmerced.com/events/merced-chess-club-free-play-
+ fridays/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T010000Z
+DTEND:20261024T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:night-of-the-living-dead-live-playhouse-merced-2026-10-23@community.gam
+ echangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Night of the Living Dead Live — Playhouse Merced
+DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
+ s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
+ een published. Confirm ticket availability before visiting.\n\nEnd time no
+ t published\; confirm with the organizer.\n\nSource: Playhouse Merced\nhtt
+ ps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-10-24@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T150000Z
+DTEND:20261024T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6th-annual-cops-for-critters-car-show-2026-10-24@community.gamechangers
+ ai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:6th Annual Cops for Critters Car Show
+DESCRIPTION:Public car show with food trucks and vendors\, benefiting the l
+ ocal zoo.\n\nCost: Free to attend\; vehicle and vendor registration costs 
+ extra\n\nSource: Merced Police Department\nhttps://www.eventbrite.com/e/6t
+ h-annual-cops-for-critters-car-show-registration-1997481028527
+LOCATION:611 West 22nd Street\, Merced\, CA 95340
+CATEGORIES:Festivals & community
+URL:https://www.eventbrite.com/e/6th-annual-cops-for-critters-car-show-regi
+ stration-1997481028527
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bear-creek-ukulele-society-group-jam-2026-10-24@community.gamechangersa
+ i.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Bear Creek Ukulele Society — Group Jam
+DESCRIPTION:Ukulele group jam.\n\nSource: Merced County Arts Council / The 
+ MAC\nhttps://www.artsmerced.org/events-list
+LOCATION:The MAC\, 645 W. Main Street\, Merced\, CA 95340
+CATEGORIES:Games & hobbies
+URL:https://www.artsmerced.org/events-list
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T183000Z
+DTEND:20261024T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:kiddieland-annual-fright-night-day-2-2026-10-24@community.gamechangersa
+ i.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Kiddieland Annual Fright Night — Day 2
+DESCRIPTION:Halloween event open to the public.\n\nCost: Free\n\nSource: Ki
+ wanis Greater Merced Kiddieland\nhttps://kiwaniskiddieland.com/events/
+LOCATION:Kiddieland\, Applegate Park\, Merced\, CA
+CATEGORIES:Festivals & community
+URL:https://kiwaniskiddieland.com/events/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261025T000000Z
+DTEND:20261025T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:night-of-the-living-dead-live-playhouse-merced-2026-10-24@community.gam
+ echangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Night of the Living Dead Live — Playhouse Merced
+DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
+ s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
+ een published. Confirm ticket availability before visiting.\n\nEnd time no
+ t published\; confirm with the organizer.\n\nSource: Playhouse Merced\nhtt
+ ps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261025T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-25@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261025T140000Z
+DTEND:20261025T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:night-of-the-living-dead-live-playhouse-merced-2026-10-25@community.gam
+ echangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Night of the Living Dead Live — Playhouse Merced
+DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
+ s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
+ een published. Confirm ticket availability before visiting.\n\nEnd time no
+ t published\; confirm with the organizer.\n\nSource: Playhouse Merced\nhtt
+ ps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261025T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:kalani-pea-2026-10-25@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Kalani Pe’a
+DESCRIPTION:Ticketed performance. End time not published in the venue listi
+ ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
+ m with the organizer.\n\nSource: Merced Theatre / AXS\nhttps://www.axs.com
+ /venues/133321/merced-theatre-merced-tickets
+LOCATION:Merced Theatre\, 301 West Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.axs.com/venues/133321/merced-theatre-merced-tickets
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261026T020000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-10-29@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261029T140000Z
+DTEND:20261029T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nineteen-minutes-later-2026-10-30@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Nineteen Minutes Later
+DESCRIPTION:Ticketed performance. End time not published in the venue listi
+ ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
+ m with the organizer.\n\nSource: Merced Theatre / AXS\nhttps://www.axs.com
+ /venues/133321/merced-theatre-merced-tickets
+LOCATION:Merced Theatre\, 301 West Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.axs.com/venues/133321/merced-theatre-merced-tickets
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261031T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-10-31@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261031T150000Z
+DTEND:20261031T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-01@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261101T150000Z
+DTEND:20261101T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mercado-night-market-2026-11-05@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mercado Night Market · TIME TBD
+DESCRIPTION:Downtown night market listed on MCAG’s event outreach calenda
+ r.\n\nMCAG lists its participation window as 18:00–21:00 Pacific\; full 
+ event hours are unconfirmed. Check the organizer before going.\n\nTime TBD
+ . This is a date placeholder\, not an all-day event.\n\nSource: Merced Cou
+ nty Association of Governments\nhttps://www.mcagov.org/424/Transportation-
+ Safety-Program
+LOCATION:Downtown Merced\, N Street and Main Street\, Merced\, CA
+CATEGORIES:Markets
+URL:https://www.mcagov.org/424/Transportation-Safety-Program
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-05@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261105T150000Z
+DTEND:20261105T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-chess-club-free-play-friday-2026-11-06@community.gamechangersai.
+ org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Chess Club — Free-Play Friday
+DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
+ \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
+ nts/merced-chess-club-free-play-fridays/
+LOCATION:Marketplace at Merced\, food court by Burlington\, Merced\, CA
+CATEGORIES:Games & hobbies
+URL:https://www.marketplaceatmerced.com/events/merced-chess-club-free-play-
+ fridays/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261107T020000Z
+DTEND:20261107T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-11-07@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261107T160000Z
+DTEND:20261107T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-08@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261108T150000Z
+DTEND:20261108T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-12@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261112T150000Z
+DTEND:20261112T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-11-14@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261114T160000Z
+DTEND:20261114T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-15@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261115T150000Z
+DTEND:20261115T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-19@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261119T150000Z
+DTEND:20261119T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:art-spirits-paint-along-2026-11-19@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Art & Spirits — Paint Along
+DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
+ e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
+ rced County Arts Council / The MAC\nhttps://www.artsmerced.org/events-list
+LOCATION:The MAC\, 645 W. Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.artsmerced.org/events-list
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261120T013000Z
+DTEND:20261120T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-chess-club-free-play-friday-2026-11-20@community.gamechangersai.
+ org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Chess Club — Free-Play Friday
+DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
+ \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
+ nts/merced-chess-club-free-play-fridays/
+LOCATION:Marketplace at Merced\, food court by Burlington\, Merced\, CA
+CATEGORIES:Games & hobbies
+URL:https://www.marketplaceatmerced.com/events/merced-chess-club-free-play-
+ fridays/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261121T020000Z
+DTEND:20261121T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-11-21@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261121T160000Z
+DTEND:20261121T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-22@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261122T150000Z
+DTEND:20261122T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-26@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261126T150000Z
+DTEND:20261126T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-11-28@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bear-creek-ukulele-society-group-jam-2026-11-28@community.gamechangersa
+ i.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Bear Creek Ukulele Society — Group Jam
+DESCRIPTION:Ukulele group jam.\n\nSource: Merced County Arts Council / The 
+ MAC\nhttps://www.artsmerced.org/events-list
+LOCATION:The MAC\, 645 W. Main Street\, Merced\, CA 95340
+CATEGORIES:Games & hobbies
+URL:https://www.artsmerced.org/events-list
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261128T193000Z
+DTEND:20261128T203000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-11-29@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261129T150000Z
+DTEND:20261129T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-03@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261203T150000Z
+DTEND:20261203T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:leyendas-del-mariachi-2026-12-04@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Leyendas del Mariachi
+DESCRIPTION:Ticketed performance. End time not published in the venue listi
+ ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
+ m with the organizer.\n\nSource: Merced Theatre / AXS\nhttps://www.axs.com
+ /venues/133321/merced-theatre-merced-tickets
+LOCATION:Merced Theatre\, 301 West Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.axs.com/venues/133321/merced-theatre-merced-tickets
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261205T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-04@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261205T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-12-05@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261205T160000Z
+DTEND:20261205T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-05@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261206T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-06@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261206T150000Z
+DTEND:20261206T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-06@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261206T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-10@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261210T150000Z
+DTEND:20261210T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-11@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261212T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-12-12@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261212T160000Z
+DTEND:20261212T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-12@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261213T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-13@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261213T150000Z
+DTEND:20261213T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-13@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261213T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-17@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261217T150000Z
+DTEND:20261217T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:art-spirits-paint-along-2026-12-17@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Art & Spirits — Paint Along
+DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
+ e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
+ rced County Arts Council / The MAC\nhttps://www.artsmerced.org/events-list
+LOCATION:The MAC\, 645 W. Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.artsmerced.org/events-list
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261218T013000Z
+DTEND:20261218T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:world-ballet-company-the-nutcracker-2026-12-17@community.gamechangersai
+ .org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:World Ballet Company — The Nutcracker
+DESCRIPTION:Ticketed performance. End time not published in the venue listi
+ ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
+ m with the organizer.\n\nSource: Merced Theatre / AXS\nhttps://www.axs.com
+ /venues/133321/merced-theatre-merced-tickets
+LOCATION:Merced Theatre\, 301 West Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.axs.com/venues/133321/merced-theatre-merced-tickets
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261218T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-18@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261219T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-12-19@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261219T160000Z
+DTEND:20261219T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bear-creek-ukulele-society-group-jam-2026-12-19@community.gamechangersa
+ i.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Bear Creek Ukulele Society — Group Jam
+DESCRIPTION:Ukulele group jam.\n\nSource: Merced County Arts Council / The 
+ MAC\nhttps://www.artsmerced.org/events-list
+LOCATION:The MAC\, 645 W. Main Street\, Merced\, CA 95340
+CATEGORIES:Games & hobbies
+URL:https://www.artsmerced.org/events-list
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261219T193000Z
+DTEND:20261219T213000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-19@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261220T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-20@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261220T150000Z
+DTEND:20261220T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mary-poppins-playhouse-merced-2026-12-20@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Mary Poppins — Playhouse Merced
+DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
+ quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
+  been published. Confirm ticket availability before visiting.\n\nEnd time 
+ not published\; confirm with the organizer.\n\nSource: Playhouse Merced\nh
+ ttps://playhousemerced.ludus.com/index.php
+LOCATION:Playhouse Merced\, 452 W Main Street\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://playhousemerced.ludus.com/index.php
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261220T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-24@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261224T150000Z
+DTEND:20261224T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:merced-flea-farmers-market-2026-12-26@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Merced Flea & Farmers Market
+DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
+  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
+  parking\n\nBased on the organizer’s published weekly schedule. Check fo
+ r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
+ ket\nhttps://mercedatwaterflea.com/merced-market
+LOCATION:900 G Street\, Merced\, CA 95348
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/merced-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261226T160000Z
+DTEND:20261226T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-27@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
+ $2 per car\n\nBased on the organizer’s published weekly schedule. Check 
+ for holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers M
+ arket\nhttps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261227T150000Z
+DTEND:20261227T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:atwater-flea-farmers-market-2026-12-31@community.gamechangersai.org
+DTSTAMP:20260927T005517Z
+LAST-MODIFIED:20260927T005517Z
+SUMMARY:Atwater Flea & Farmers Market
+DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
+ rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
+ g\n\nBased on the organizer’s published weekly schedule. Check for holid
+ ay or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Market\nht
+ tps://mercedatwaterflea.com/atwater-market
+LOCATION:2877 Atwater Boulevard\, Atwater\, CA
+CATEGORIES:Markets
+URL:https://mercedatwaterflea.com/atwater-market
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261231T150000Z
+DTEND:20261231T230000Z
+END:VEVENT
+END:VCALENDAR
