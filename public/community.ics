@@ -7,8 +7,8 @@ X-WR-CALNAME:Merced · Atwater · McSwain Community Calendar
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-09-27@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -24,10 +24,28 @@ DTSTART:20260927T140000Z
 DTEND:20260927T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:dream-day-artistic-vibrations-merced-2026-09-27@community.gamechangersa
+ i.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Dream Day — Artistic Vibrations
+DESCRIPTION:Community gathering with local art\, live music and complimenta
+ ry coffee or another drink. The organizer welcomes newcomers and requests 
+ an RSVP through the event page.\n\nSource: United We Dream Network / Mobil
+ ize\nhttps://www.mobilize.us/unitedwedream/event/1004591/
+LOCATION:The Sensory Lab\, 847 W Main St\, Merced\, CA 95340
+CATEGORIES:Arts & performances
+URL:https://www.mobilize.us/unitedwedream/event/1004591/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20260927T203000Z
+DTEND:20260927T223000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-09-29@community.gamechangersai.o
  rg
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Sensory play session.\n\nSource: Merced County Library\nhttps:/
  /www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&year=
@@ -44,8 +62,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:children-make-a-card-catalog-merced-library-2026-09-29@community.gamech
  angersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Children: Make a Card Catalog — Merced Library
 DESCRIPTION:Children’s library activity.\n\nSource: Merced County Library
  \nhttps://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=w
@@ -61,8 +79,8 @@ DTEND:20260930T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:sewing-atwater-library-2026-09-29@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Sewing — Atwater Library
 DESCRIPTION:Library sewing session.\n\nSource: Merced County Library\nhttps
  ://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&yea
@@ -77,9 +95,29 @@ DTSTART:20260930T000000Z
 DTEND:20260930T023000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:merced-schools-superintendent-debate-2026-09-29@community.gamechangersa
+ i.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Merced County Superintendent of Schools Debate
+DESCRIPTION:Public candidate debate featuring Ana Boyenga and Richard Lopez
+ . Organizer offers childcare\, Spanish interpretation and light refreshmen
+ ts\; register through the source page and request accommodations there.\n\
+ nSource: The Merced FOCUS\nhttps://themercedfocus.org/event/merced-county-
+ superintendent-of-schools-debate/
+LOCATION:MCOE Mondo Building\, 1715 Canal St.\, Merced\, CA 95340
+CATEGORIES:Festivals & community
+URL:https://themercedfocus.org/event/merced-county-superintendent-of-school
+ s-debate/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20260930T010000Z
+DTEND:20260930T023000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-01@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -97,8 +135,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spanish-bilingual-story-time-merced-library-2026-10-01@community.gamech
  angersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Spanish Bilingual Story Time — Merced Library
 DESCRIPTION:Bilingual story session.\n\nSource: Merced County Library\nhttp
  s://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&ye
@@ -114,8 +152,8 @@ DTEND:20261001T183000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-atwater-library-2026-10-01@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Wiggle & Read — Atwater Library
 DESCRIPTION:Library reading activity.\n\nSource: Merced County Library\nhtt
  ps://www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&y
@@ -131,8 +169,8 @@ DTEND:20261001T183000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:old-town-atwater-farmers-market-2026-10-01@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Old Town Atwater Farmers Market
 DESCRIPTION:Farmers and local vendors. The organizer lists first and third 
  Thursdays in August\, September and October 2026.\n\nSource: Old Town Atwa
@@ -149,8 +187,8 @@ DTEND:20261002T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-atwater-library-2026-10-02@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:LEGO Time — Atwater Library
 DESCRIPTION:Library LEGO activity.\n\nSource: Merced County Library\nhttps:
  //www.countyofmerced.com/calendar.aspx?CID=0&day=29&month=9&view=week&year
@@ -166,8 +204,8 @@ DTEND:20261002T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:inside-the-teachers-lounge-2026-10-02@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Inside the Teachers Lounge
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -182,8 +220,8 @@ DTSTART:20261003T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-10-03@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -199,10 +237,160 @@ DTSTART:20261003T150000Z
 DTEND:20261003T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:walk-to-end-alzheimers-merced-2026-10-03@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Walk to End Alzheimer's — Merced County
+DESCRIPTION:Community fundraising walk organized by the Alzheimer's Associa
+ tion. Registration opens at 8 a.m.\; the program begins at 9:15 a.m. and t
+ he walk starts at 9:30 a.m. Visit the organizer page to register or check 
+ current details.\n\nListed start is registration opening. Program at 9:15 
+ a.m.\; walk at 9:30 a.m. End time not published.\n\nEnd time not published
+ \; confirm with the organizer.\n\nSource: Alzheimer's Association\nhttps:/
+ /act.alz.org/site/TR/Walk2026/CA-NorthernCalifornia?pg=entry&fr_id=19469
+LOCATION:Applegate Park\, 1045 W 25th St.\, Merced\, CA 95340
+CATEGORIES:Festivals & community
+URL:https://act.alz.org/site/TR/Walk2026/CA-NorthernCalifornia?pg=entry&fr_
+ id=19469
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cars-coffee-merced-car-show-2026-10-03@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Cars & Coffee — Merced Car Show
+DESCRIPTION:Family-friendly car gathering welcoming cars\, trucks and motor
+ cycles. Meet local enthusiasts and see vintage and modern vehicles. The or
+ ganizer asks visitors to avoid burnouts and excessive revving.\n\nCost: Fr
+ ee\n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/e
+ vents/cars-coffee-merced-car-show/
+LOCATION:Marketplace at Merced\, Lot E behind JCPenney\, 851 West Olive Ave
+ nue\, Merced\, CA 95348
+CATEGORIES:Festivals & community
+URL:https://www.marketplaceatmerced.com/events/cars-coffee-merced-car-show/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:adult-makerspace-print-making-atwater-library-2026-10-03@community.game
+ changersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Adult Makerspace: Print Making — Atwater Library
+DESCRIPTION:Printmaking activity for adults ages 18 and older.\n\nCost: Fre
+ e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
+ r.aspx?EID=20222&month=10&year=2026&day=27&calType=0
+LOCATION:Atwater Library\, 1600 3rd Street\, Atwater\, CA 95301
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20222&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T170000Z
+DTEND:20261003T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:coloring-corner-atwater-library-2026-10-03@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Coloring Corner — Atwater Library
+DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
+ urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
+ EID=18496&month=10&year=2026&day=27&calType=0
+LOCATION:Atwater Library\, 1600 3rd Street\, Atwater\, CA 95301
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=18496&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T170000Z
+DTEND:20261004T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:adult-makerspace-merced-library-2026-10-03@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Adult Makerspace — Merced Library
+DESCRIPTION:Library makerspace session for adults ages 18 and older.\n\nCos
+ t: Free\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/C
+ alendar.aspx?EID=20236&month=10&year=2026&day=27&calType=0
+LOCATION:Merced Main Library\, Main Floor\, 2100 O Street\, Merced\, CA 953
+ 40
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20236&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T180000Z
+DTEND:20261003T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:children-pizza-craft-merced-library-2026-10-03@community.gamechangersai
+ .org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Children: Pizza Craft — Merced Library
+DESCRIPTION:Pizza-themed craft activity for children of all ages.\n\nCost: 
+ Free\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Cale
+ ndar.aspx?EID=20204&month=10&year=2026&day=27&calType=0
+LOCATION:Merced Main Library\, Children’s Department\, 2100 O Street\, Me
+ rced\, CA 95340
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20204&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:drop-in-digital-help-merced-library-2026-10-03@community.gamechangersai
+ .org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Drop-In Digital Help — Merced Library
+DESCRIPTION:Drop-in help with technology questions\, including email and e-
+ books. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
+ y\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19286&month=10&year=20
+ 26&day=27&calType=0
+LOCATION:Merced Main Library\, Main Floor\, 2100 O Street\, Merced\, CA 953
+ 40
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=19286&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T220000Z
+DTEND:20261003T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:great-pet-parent-seminar-merced-library-2026-10-03@community.gamechange
+ rsai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:How to Be a Great Pet Parent — Merced Library
+DESCRIPTION:Pet-care seminar for adults ages 18 and older.\n\nCost: Free\n\
+ nSource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.as
+ px?EID=20237&month=10&year=2026&day=27&calType=0
+LOCATION:Merced Main Library\, Main Floor\, 2100 O Street\, Merced\, CA 953
+ 40
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20237&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261003T220000Z
+DTEND:20261003T233000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:mustang-nights-mcswain-education-foundation-2026-10-03@community.gamech
  angersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mustang Nights — McSwain Education Foundation
 DESCRIPTION:Public ticketed fundraiser supporting McSwain School\, with din
  ner\, auctions and dancing. Adults over 21 only\; bring ID.\n\nCost: $75 i
@@ -218,8 +406,8 @@ DTEND:20261004T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-04@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -235,9 +423,51 @@ DTSTART:20261004T140000Z
 DTEND:20261004T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:ucm-mens-soccer-2026-10-04@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Men’s Soccer vs. Cal State San Bernardino
+DESCRIPTION:UC Merced home men’s soccer match against Cal State San Berna
+ rdino. Check the university ticket page for admission and schedule updates
+ . Athletics parking is in the Bellevue Lot\; weekday parking permits are r
+ equired.\n\nOfficial start time. Match end time is not published.\n\nEnd t
+ ime not published\; confirm with the organizer.\n\nSource: UC Merced Athle
+ tics\nhttps://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-
+ cal-state-san-bernardi-1meqxi
+LOCATION:Bobcat Field\, UC Merced\, 5200 North Lake Road\, Merced\, CA 9534
+ 3
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-cal
+ -state-san-bernardi-1meqxi
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261004T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ucm-womens-soccer-2026-10-04@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Women’s Soccer vs. Cal State San Bernardino
+DESCRIPTION:UC Merced home women’s soccer match against Cal State San Ber
+ nardino. Check the university ticket page for admission and schedule updat
+ es. Athletics parking is in the Bellevue Lot\; weekday parking permits are
+  required.\n\nOfficial start time. Match end time is not published.\n\nEnd
+  time not published\; confirm with the organizer.\n\nSource: UC Merced Ath
+ letics\nhttps://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-v
+ s-cal-state-san-bernardi-1meqxi
+LOCATION:Bobcat Field\, UC Merced\, 5200 North Lake Road\, Merced\, CA 9534
+ 3
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-cal
+ -state-san-bernardi-1meqxi
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261004T210000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:atwater-national-night-out-2026-10-06@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater National Night Out · TIME TBD
 DESCRIPTION:Community event listed by MCAG as a transportation-safety outre
  ach stop.\n\nMCAG lists its participation window as 16:00–18:00 Pacific\
@@ -255,8 +485,8 @@ DTEND;VALUE=DATE:20261007
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-08@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -272,10 +502,73 @@ DTSTART:20261008T140000Z
 DTEND:20261008T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:ucm-mens-water-polo-2026-10-09@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Men’s Water Polo vs. Concordia University Irvine
+DESCRIPTION:UC Merced home men’s water polo match against Concordia Unive
+ rsity Irvine. Check the university ticket page for admission and schedule 
+ updates. Athletics parking is in the Bellevue Lot\; weekday parking permit
+ s are required.\n\nOfficial start time. Match end time is not published.\n
+ \nEnd time not published\; confirm with the organizer.\n\nSource: UC Merce
+ d Athletics\nhttps://tickets.ucmercedbobcats.com/event/mens-water-polo-vs-
+ concordia-university-irvine-0fm4pm
+LOCATION:Aquatics Center\, UC Merced\, 5200 North Lake Road\, Merced\, CA 9
+ 5343
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/mens-water-polo-vs-concordia-
+ university-irvine-0fm4pm
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261009T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ucm-womens-volleyball-2026-10-09@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Women’s Volleyball vs. San Francisco State
+DESCRIPTION:UC Merced home women’s volleyball match against San Francisco
+  State. Check the university ticket page for admission and schedule update
+ s. Athletics parking is in the Bellevue Lot\; weekday parking permits are 
+ required.\n\nOfficial start time. Match end time is not published.\n\nEnd 
+ time not published\; confirm with the organizer.\n\nSource: UC Merced Athl
+ etics\nhttps://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-san-
+ francisco-state-crs48x
+LOCATION:Joseph Edward Gallo Recreation Center\, UC Merced\, 5200 North Lak
+ e Road\, Merced\, CA 95343
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-san-fran
+ cisco-state-crs48x
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261009T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ucm-mens-soccer-2026-10-09@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Men’s Soccer vs. Cal State Monterey Bay
+DESCRIPTION:UC Merced home men’s soccer match against Cal State Monterey 
+ Bay. Check the university ticket page for admission and schedule updates. 
+ Athletics parking is in the Bellevue Lot\; weekday parking permits are req
+ uired.\n\nOfficial start time. Match end time is not published.\n\nEnd tim
+ e not published\; confirm with the organizer.\n\nSource: UC Merced Athleti
+ cs\nhttps://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-ca
+ l-state-monterey-bay-6wsz0h
+LOCATION:Bobcat Field\, UC Merced\, 5200 North Lake Road\, Merced\, CA 9534
+ 3
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-cal
+ -state-monterey-bay-6wsz0h
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261009T233000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:merced-chess-club-free-play-friday-2026-10-09@community.gamechangersai.
  org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Chess Club — Free-Play Friday
 DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
  \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
@@ -290,9 +583,30 @@ DTSTART:20261010T010000Z
 DTEND:20261010T030000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:ucm-womens-soccer-2026-10-09@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Women’s Soccer vs. Cal State Monterey Bay
+DESCRIPTION:UC Merced home women’s soccer match against Cal State Montere
+ y Bay. Check the university ticket page for admission and schedule updates
+ . Athletics parking is in the Bellevue Lot\; weekday parking permits are r
+ equired.\n\nOfficial start time. Match end time is not published.\n\nEnd t
+ ime not published\; confirm with the organizer.\n\nSource: UC Merced Athle
+ tics\nhttps://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-
+ cal-state-monterey-bay-6wsz0h
+LOCATION:Bobcat Field\, UC Merced\, 5200 North Lake Road\, Merced\, CA 9534
+ 3
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-cal
+ -state-monterey-bay-6wsz0h
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261010T023000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-10-10@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -310,8 +624,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:food-para-todos-harvest-festival-2026-10-10@community.gamechangersai.or
  g
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Food Para Todos Harvest Festival
 DESCRIPTION:Free community festival with vendors\, entertainment\, a car sh
  ow and children’s activities.\n\nCost: Free\n\nSource: Food Para Todos /
@@ -327,9 +641,74 @@ DTSTART:20261010T180000Z
 DTEND:20261010T230000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:marketplace-merced-kids-club-2026-10-10@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Kids’ Club — Marketplace at Merced
+DESCRIPTION:Children ages 4–11 can join this activity with an accompanyin
+ g adult. The organizer has not yet announced the activity details.\n\nCost
+ : Free\; adult accompaniment required\n\nSource: Marketplace at Merced\nht
+ tps://www.marketplaceatmerced.com/events/kids-club-weekend-activities-for-
+ kids-in-merced-merced-community-kids-events-monthly-free-kids-club-events-
+ in-merced-things-to-do-with-kids-in-merced-free-kids-events-near-me-kid-ac
+ tivities-while-shop/
+LOCATION:Marketplace at Merced\, Center Court by Boot Barn\, 851 West Olive
+  Avenue\, Merced\, CA 95348
+CATEGORIES:Festivals & community
+URL:https://www.marketplaceatmerced.com/events/kids-club-weekend-activities
+ -for-kids-in-merced-merced-community-kids-events-monthly-free-kids-club-ev
+ ents-in-merced-things-to-do-with-kids-in-merced-free-kids-events-near-me-k
+ id-activities-while-shop/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261010T200000Z
+DTEND:20261010T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ucm-mens-water-polo-2026-10-10@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Men’s Water Polo vs. Biola
+DESCRIPTION:UC Merced home men’s water polo match against Biola. Check th
+ e university ticket page for admission and schedule updates. Athletics par
+ king is in the Bellevue Lot\; weekday parking permits are required.\n\nOff
+ icial start time. Match end time is not published.\n\nEnd time not publish
+ ed\; confirm with the organizer.\n\nSource: UC Merced Athletics\nhttps://t
+ ickets.ucmercedbobcats.com/event/mens-water-polo-vs-biola-xcjsou
+LOCATION:Aquatics Center\, UC Merced\, 5200 North Lake Road\, Merced\, CA 9
+ 5343
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/mens-water-polo-vs-biola-xcjs
+ ou
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261010T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ucm-womens-volleyball-2026-10-10@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:UC Merced Women’s Volleyball vs. Cal State East Bay
+DESCRIPTION:UC Merced home women’s volleyball match against Cal State Eas
+ t Bay. Check the university ticket page for admission and schedule updates
+ . Athletics parking is in the Bellevue Lot\; weekday parking permits are r
+ equired.\n\nOfficial start time. Match end time is not published.\n\nEnd t
+ ime not published\; confirm with the organizer.\n\nSource: UC Merced Athle
+ tics\nhttps://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-s
+ tate-east-bay-t34cxp
+LOCATION:Joseph Edward Gallo Recreation Center\, UC Merced\, 5200 North Lak
+ e Road\, Merced\, CA 95343
+CATEGORIES:Sports
+URL:https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-stat
+ e-east-bay-t34cxp
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261011T000000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-11@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -347,8 +726,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:central-valley-pride-at-kiddieland-2026-10-11@community.gamechangersai.
  org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Central Valley Pride at Kiddieland
 DESCRIPTION:Community celebration open to the public.\n\nCost: Free\n\nSour
  ce: Kiwanis Greater Merced Kiddieland\nhttps://kiwaniskiddieland.com/event
@@ -363,8 +742,8 @@ DTEND:20261011T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-15@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -381,8 +760,8 @@ DTEND:20261015T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:old-town-atwater-farmers-market-2026-10-15@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Old Town Atwater Farmers Market
 DESCRIPTION:Farmers and local vendors. The organizer lists first and third 
  Thursdays in August\, September and October 2026.\n\nSource: Old Town Atwa
@@ -399,8 +778,8 @@ DTEND:20261016T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:art-spirits-paint-along-2026-10-15@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Art & Spirits — Paint Along
 DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
  e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
@@ -416,8 +795,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:night-of-the-living-dead-live-playhouse-merced-2026-10-16@community.gam
  echangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Night of the Living Dead Live — Playhouse Merced
 DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
  s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
@@ -432,9 +811,31 @@ CLASS:PUBLIC
 DTSTART:20261017T023000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:household-hazardous-waste-highway-59-2026-10-17@community.gamechangersa
+ i.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Household Hazardous Waste Collection — Highway 59
+DESCRIPTION:Household hazardous-waste collection. Gasoline and contaminated
+  motor oil are each limited to 5 gallons. Agricultural waste\, compressed-
+ gas cylinders\, propane-containing tanks\, explosives\, medical or biohaza
+ rdous waste\, munitions and radioactive materials are not accepted. The au
+ thority directs businesses to separate disposal options\; check the linked
+  program for eligibility and other material limits before bringing items.\
+ n\nSource: Merced County Regional Waste Management Authority\nhttps://mcrw
+ ma.org/31/Household-Hazardous-Waste
+LOCATION:Highway 59 Landfill\, 7040 North Highway 59\, Merced\, CA
+CATEGORIES:Community services
+URL:https://mcrwma.org/31/Household-Hazardous-Waste
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261017T150000Z
+DTEND:20261017T190000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-10-17@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -452,8 +853,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:castle-air-fest-fall-blitz-car-show-2026-10-17@community.gamechangersai
  .org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Castle Air Fest — Fall Blitz Car Show
 DESCRIPTION:Public car show held during Castle Airfest.\n\nStarts at 9 AM. 
  The car-show description says it ends at 3 PM\; the page header says 5 PM.
@@ -468,10 +869,28 @@ CLASS:PUBLIC
 DTSTART:20261017T160000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:adult-makerspace-clay-fairy-houses-atwater-library-2026-10-17@community
+ .gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Adult Makerspace: Clay Fairy Houses — Atwater Library
+DESCRIPTION:Clay fairy-house activity for adults ages 18 and older.\n\nCost
+ : Free\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Ca
+ lendar.aspx?EID=20223&month=10&year=2026&day=27&calType=0
+LOCATION:Atwater Library\, 1600 3rd Street\, Atwater\, CA 95301
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20223&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:flicks-of-flight-flight-of-the-intruder-2026-10-17@community.gamechange
  rsai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Flicks of Flight — Flight of the Intruder
 DESCRIPTION:Museum film screening\; see organizer for admission details.\n\
  nSource: Castle Air Museum\nhttps://castleairmuseum.org/event/flicks-of-fl
@@ -487,8 +906,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:night-of-the-living-dead-live-playhouse-merced-2026-10-17@community.gam
  echangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Night of the Living Dead Live — Playhouse Merced
 DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
  s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
@@ -504,8 +923,8 @@ DTSTART:20261018T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-18@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -523,8 +942,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:night-of-the-living-dead-live-playhouse-merced-2026-10-18@community.gam
  echangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Night of the Living Dead Live — Playhouse Merced
 DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
  s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
@@ -539,9 +958,28 @@ CLASS:PUBLIC
 DTSTART:20261018T210000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:vermiculture-workshop-merced-library-2026-10-20@community.gamechangersa
+ i.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Community Workshop: Vermiculture — Merced Library
+DESCRIPTION:Public UC Master Gardeners workshop about composting with red w
+ iggler worms and current research. Open to all\; walk-ins welcome.\n\nCost
+ : Free\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Ca
+ lendar.aspx?EID=20247&month=10&year=2026&day=27&calType=0
+LOCATION:Merced Main Library\, 2100 O Street\, Merced\, CA 95340
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20247&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261021T000000Z
+DTEND:20261021T020000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-22@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -559,8 +997,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kiddieland-annual-fright-night-day-1-2026-10-23@community.gamechangersa
  i.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Kiddieland Annual Fright Night — Day 1
 DESCRIPTION:Halloween event open to the public.\n\nCost: Free\n\nSource: Ki
  wanis Greater Merced Kiddieland\nhttps://kiwaniskiddieland.com/events/
@@ -575,8 +1013,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-chess-club-free-play-friday-2026-10-23@community.gamechangersai.
  org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Chess Club — Free-Play Friday
 DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
  \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
@@ -593,8 +1031,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:night-of-the-living-dead-live-playhouse-merced-2026-10-23@community.gam
  echangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Night of the Living Dead Live — Playhouse Merced
 DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
  s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
@@ -610,8 +1048,8 @@ DTSTART:20261024T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-10-24@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -627,10 +1065,29 @@ DTSTART:20261024T150000Z
 DTEND:20261024T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:mcswain-community-cleanup-2026-10-24@community.gamechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:McSwain Community Cleanup
+DESCRIPTION:Reduced-fee disposal for local county residents. No commercial 
+ loads\, household chemicals or liquids\, automotive fluids\, heavy-equipme
+ nt tires or treated wood. Trucks over one ton and trailers over eight feet
+  are not accepted.\n\nCost: Loads $1–$4 depending on vehicle\; large app
+ liances $1 each\; tire fees vary\n\nDrop-off closes promptly at 1:30 PM.\n
+ \nSource: Merced County\nhttps://www.countyofmerced.com/communitycleanup
+LOCATION:Quinley Avenue\, south of Moran Avenue\, McSwain\, CA
+CATEGORIES:Community services
+URL:https://www.countyofmerced.com/communitycleanup
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T153000Z
+DTEND:20261024T203000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:6th-annual-cops-for-critters-car-show-2026-10-24@community.gamechangers
  ai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:6th Annual Cops for Critters Car Show
 DESCRIPTION:Public car show with food trucks and vendors\, benefiting the l
  ocal zoo.\n\nCost: Free to attend\; vehicle and vendor registration costs 
@@ -646,10 +1103,28 @@ DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:adult-book-club-victorian-psycho-atwater-library-2026-10-24@community.g
+ amechangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Adult Book Club: Victorian Psycho — Atwater Library
+DESCRIPTION:Book club discussion of Victorian Psycho for adults ages 18 and
+  older.\n\nCost: Free\n\nSource: Merced County Library\nhttps://www.county
+ ofmerced.com/Calendar.aspx?EID=20224&month=10&year=2026&day=27&calType=0
+LOCATION:Atwater Library\, 1600 3rd Street\, Atwater\, CA 95301
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20224&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261024T180000Z
+DTEND:20261024T190000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:bear-creek-ukulele-society-group-jam-2026-10-24@community.gamechangersa
  i.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Bear Creek Ukulele Society — Group Jam
 DESCRIPTION:Ukulele group jam.\n\nSource: Merced County Arts Council / The 
  MAC\nhttps://www.artsmerced.org/events-list
@@ -664,8 +1139,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kiddieland-annual-fright-night-day-2-2026-10-24@community.gamechangersa
  i.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Kiddieland Annual Fright Night — Day 2
 DESCRIPTION:Halloween event open to the public.\n\nCost: Free\n\nSource: Ki
  wanis Greater Merced Kiddieland\nhttps://kiwaniskiddieland.com/events/
@@ -680,8 +1155,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:night-of-the-living-dead-live-playhouse-merced-2026-10-24@community.gam
  echangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Night of the Living Dead Live — Playhouse Merced
 DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
  s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
@@ -697,8 +1172,8 @@ DTSTART:20261025T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-25@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -716,8 +1191,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:night-of-the-living-dead-live-playhouse-merced-2026-10-25@community.gam
  echangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Night of the Living Dead Live — Playhouse Merced
 DESCRIPTION:Community theatre production\; rated PG-13 by the venue. Ticket
  s required.\n\nCost: $25\; check ticket availability\n\nEnd time has not b
@@ -733,8 +1208,8 @@ DTSTART:20261025T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:kalani-pea-2026-10-25@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Kalani Pe’a
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -749,8 +1224,8 @@ DTSTART:20261026T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-10-29@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -767,8 +1242,8 @@ DTEND:20261029T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nineteen-minutes-later-2026-10-30@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Nineteen Minutes Later
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -783,8 +1258,8 @@ DTSTART:20261031T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-10-31@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -800,9 +1275,49 @@ DTSTART:20261031T150000Z
 DTEND:20261031T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:children-boo-bash-merced-library-2026-10-31@community.gamechangersai.or
+ g
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Children: Boo Bash! — Merced Library
+DESCRIPTION:Children’s Halloween activities with games\, crafts\, photo o
+ pportunities and a scavenger hunt. Crafts for all ages\; ceramic pumpkin d
+ ecorating for ages 6–11 while supplies last.\n\nCost: Free\n\nSource: Me
+ rced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=2021
+ 7&month=10&year=2026&day=27&calType=0
+LOCATION:Merced Main Library\, Children’s Department\, 2100 O Street\, Me
+ rced\, CA 95340
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20217&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261031T170000Z
+DTEND:20261031T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-de-los-muertos-diy-frames-merced-library-2026-10-31@community.gamec
+ hangersai.org
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
+SUMMARY:Día de los Muertos DIY Frames — Merced Library
+DESCRIPTION:DIY frame-making activity for adults ages 18 and older.\n\nCost
+ : Free\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Ca
+ lendar.aspx?EID=20251&month=10&year=2026&day=27&calType=0
+LOCATION:Merced Main Library\, Main Floor\, 2100 O Street\, Merced\, CA 953
+ 40
+CATEGORIES:Library & learning
+URL:https://www.countyofmerced.com/Calendar.aspx?EID=20251&month=10&year=20
+ 26&day=27&calType=0
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261031T213000Z
+DTEND:20261031T230000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-01@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -819,8 +1334,8 @@ DTEND:20261101T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mercado-night-market-2026-11-05@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mercado Night Market · TIME TBD
 DESCRIPTION:Downtown night market listed on MCAG’s event outreach calenda
  r.\n\nMCAG lists its participation window as 18:00–21:00 Pacific\; full 
@@ -838,8 +1353,8 @@ DTEND;VALUE=DATE:20261106
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-05@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -857,8 +1372,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-chess-club-free-play-friday-2026-11-06@community.gamechangersai.
  org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Chess Club — Free-Play Friday
 DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
  \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
@@ -874,8 +1389,8 @@ DTEND:20261107T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-07@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -892,8 +1407,8 @@ DTEND:20261107T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-08@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -910,8 +1425,8 @@ DTEND:20261108T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-12@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -928,8 +1443,8 @@ DTEND:20261112T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-14@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -946,8 +1461,8 @@ DTEND:20261114T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-15@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -964,8 +1479,8 @@ DTEND:20261115T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-19@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -982,8 +1497,8 @@ DTEND:20261119T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:art-spirits-paint-along-2026-11-19@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Art & Spirits — Paint Along
 DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
  e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
@@ -999,8 +1514,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-chess-club-free-play-friday-2026-11-20@community.gamechangersai.
  org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Chess Club — Free-Play Friday
 DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
  \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
@@ -1016,8 +1531,8 @@ DTEND:20261121T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-21@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1034,8 +1549,8 @@ DTEND:20261121T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-22@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1052,8 +1567,8 @@ DTEND:20261122T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-26@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -1070,8 +1585,8 @@ DTEND:20261126T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-28@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1089,8 +1604,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bear-creek-ukulele-society-group-jam-2026-11-28@community.gamechangersa
  i.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Bear Creek Ukulele Society — Group Jam
 DESCRIPTION:Ukulele group jam.\n\nSource: Merced County Arts Council / The 
  MAC\nhttps://www.artsmerced.org/events-list
@@ -1104,8 +1619,8 @@ DTEND:20261128T203000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-29@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1122,8 +1637,8 @@ DTEND:20261129T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-03@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -1140,8 +1655,8 @@ DTEND:20261203T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:leyendas-del-mariachi-2026-12-04@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Leyendas del Mariachi
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -1156,8 +1671,8 @@ DTSTART:20261205T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-04@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1173,8 +1688,8 @@ DTSTART:20261205T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-05@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1191,8 +1706,8 @@ DTEND:20261205T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-05@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1208,8 +1723,8 @@ DTSTART:20261206T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-06@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1226,8 +1741,8 @@ DTEND:20261206T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-06@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1243,8 +1758,8 @@ DTSTART:20261206T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-10@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -1261,8 +1776,8 @@ DTEND:20261210T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-11@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1278,8 +1793,8 @@ DTSTART:20261212T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-12@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1296,8 +1811,8 @@ DTEND:20261212T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-12@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1313,8 +1828,8 @@ DTSTART:20261213T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-13@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1331,8 +1846,8 @@ DTEND:20261213T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-13@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1348,8 +1863,8 @@ DTSTART:20261213T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-17@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -1366,8 +1881,8 @@ DTEND:20261217T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:art-spirits-paint-along-2026-12-17@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Art & Spirits — Paint Along
 DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
  e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
@@ -1383,8 +1898,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:world-ballet-company-the-nutcracker-2026-12-17@community.gamechangersai
  .org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:World Ballet Company — The Nutcracker
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -1399,8 +1914,8 @@ DTSTART:20261218T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-18@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1416,8 +1931,8 @@ DTSTART:20261219T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-19@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1435,8 +1950,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bear-creek-ukulele-society-group-jam-2026-12-19@community.gamechangersa
  i.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Bear Creek Ukulele Society — Group Jam
 DESCRIPTION:Ukulele group jam.\n\nSource: Merced County Arts Council / The 
  MAC\nhttps://www.artsmerced.org/events-list
@@ -1450,8 +1965,8 @@ DTEND:20261219T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-19@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1467,8 +1982,8 @@ DTSTART:20261220T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-20@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1485,8 +2000,8 @@ DTEND:20261220T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-20@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -1502,8 +2017,8 @@ DTSTART:20261220T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-24@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -1520,8 +2035,8 @@ DTEND:20261224T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-26@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1538,8 +2053,8 @@ DTEND:20261226T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-27@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1556,8 +2071,8 @@ DTEND:20261227T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-31@community.gamechangersai.org
-DTSTAMP:20260927T005517Z
-LAST-MODIFIED:20260927T005517Z
+DTSTAMP:20260927T151039Z
+LAST-MODIFIED:20260927T151039Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin

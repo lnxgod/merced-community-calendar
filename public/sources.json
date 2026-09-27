@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:55:17Z",
+  "updatedAt": "2026-09-27T15:10:39Z",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -74,6 +74,46 @@
     {
       "name": "Merced Police Department",
       "url": "https://www.eventbrite.com/e/6th-annual-cops-for-critters-car-show-registration-1997481028527",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "Merced County Library",
+      "url": "https://www.countyofmerced.com/calendar.aspx?view=list&year=2026&month=10&CID=0",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "Merced County Regional Waste Management Authority",
+      "url": "https://mcrwma.org/31/Household-Hazardous-Waste",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "Merced County",
+      "url": "https://www.countyofmerced.com/communitycleanup",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "The Merced FOCUS",
+      "url": "https://themercedfocus.org/event/merced-county-superintendent-of-schools-debate/",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "Alzheimer's Association",
+      "url": "https://act.alz.org/site/TR/Walk2026/CA-NorthernCalifornia?pg=entry&fr_id=19469",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "UC Merced Athletics",
+      "url": "https://tickets.ucmercedbobcats.com/",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "United We Dream Network / Mobilize",
+      "url": "https://www.mobilize.us/unitedwedream/event/1004591/",
+      "lastChecked": "2026-09-27"
+    },
+    {
+      "name": "Marketplace at Merced",
+      "url": "https://www.marketplaceatmerced.com/events/",
       "lastChecked": "2026-09-27"
     }
   ]
