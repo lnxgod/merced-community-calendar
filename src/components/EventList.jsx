@@ -1,3 +1,4 @@
+import { useId } from 'react';
 import Icon from './Icon.jsx';
 import { SelectField } from './Filters.jsx';
 import { eventTime, formatDate, monthLabel } from '../dates.js';
@@ -9,7 +10,8 @@ function categoryClass(category) {
   return 'category-blue';
 }
 function EventRow({ event, onSelect }) {
-  return <li><button className="event-row" onClick={() => onSelect(event)} aria-label={`View ${event.title}, ${formatDate(event.date, { month: 'long', day: 'numeric' })}`}><span className="event-date"><span>{formatDate(event.date, { month: 'short' })}</span><strong>{event.date.slice(-2)}</strong></span><span className="event-copy"><h3>{event.title}</h3><span className="event-meta">{eventTime(event)}<span aria-hidden="true"> · </span>{event.location || event.city}{event.location && !event.location.toLowerCase().includes(event.city.toLowerCase()) ? `, ${event.city}` : ''}</span></span><span className={`category-chip ${categoryClass(event.category)}`}>{event.category}</span><Icon name="right" size={21} /></button></li>;
+  const rowId = useId();
+  return <li><button className="event-row" onClick={() => onSelect(event)} aria-labelledby={`${rowId}-title ${rowId}-date`} aria-describedby={`${rowId}-time ${rowId}-place ${rowId}-category`}><span id={`${rowId}-date`} hidden>{formatDate(event.date, { month: 'long', day: 'numeric', year: 'numeric' })}</span><span className="event-date" aria-hidden="true"><span>{formatDate(event.date, { month: 'short' })}</span><strong>{event.date.slice(-2)}</strong></span><span className="event-copy"><h3 id={`${rowId}-title`}>{event.title}</h3><span className="event-meta"><span id={`${rowId}-time`}>{eventTime(event)}</span><span aria-hidden="true"> · </span><span id={`${rowId}-place`}>{event.location || event.city}{event.location && !event.location.toLowerCase().includes(event.city.toLowerCase()) ? `, ${event.city}` : ''}</span></span></span><span id={`${rowId}-category`} className={`category-chip ${categoryClass(event.category)}`}>{event.category}</span><Icon name="right" size={21} /></button></li>;
 }
 export default function EventList({ events, month, selectedDate, clearDate, sort, setSort, onSelect, status, onRetry, onReset }) {
   const range = selectedDate ? formatDate(selectedDate, { month: 'long', day: 'numeric', year: 'numeric' }) : monthLabel(month);
