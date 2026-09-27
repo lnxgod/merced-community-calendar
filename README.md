@@ -1,6 +1,6 @@
 # Around Town community calendar
 
-An independent public events calendar for Merced, Atwater and McSwain, California.
+A public events calendar for Merced, Atwater and McSwain, California, from GameChangers AI, a 501(c)(3) nonprofit. This community project uses AI to help neighbors find and participate in local events. Organization and mission: https://gamechangersai.org.
 
 Website: https://community.gamechangersai.org
 
