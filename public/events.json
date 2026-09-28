@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T15:10:39Z",
+  "updatedAt": "2026-09-28T23:26:42.341408Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -123,6 +123,20 @@
       "id": "wiggle-read-atwater-library-2026-10-01"
     },
     {
+      "id": "adult-cosic-coding-music-merced-library-2026-10-01",
+      "title": "Adult COSIC Coding Music — Merced Library",
+      "date": "2026-10-01",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Coding music activity for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20234&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "title": "Old Town Atwater Farmers Market",
       "date": "2026-10-01",
       "city": "Atwater",
@@ -134,6 +148,35 @@
       "sourceUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeYO2G377Iv3hnA8ioRHjagMZhdunC_Ylvr5n5e1NVxdSIMPA/viewform",
       "sourceName": "Old Town Atwater",
       "id": "old-town-atwater-farmers-market-2026-10-01"
+    },
+    {
+      "id": "merced-running-club-fall-fun-run-2026-10-01",
+      "title": "Fall Fun Run — Merced Running Club",
+      "date": "2026-10-01",
+      "startTime": "17:45",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Rahilly Park, 3400 Parsons Avenue, Merced, CA",
+      "category": "Sports",
+      "description": "Choose a 1-, 2- or 3-mile route. Arrive early to register.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/ffr/",
+      "sourceName": "Merced Running Club",
+      "cost": "Free",
+      "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
+    },
+    {
+      "id": "adult-dungeons-dragons-character-creation-merced-library-2026-10-02",
+      "title": "Dungeons & Dragons: Character Creation — Merced Library",
+      "date": "2026-10-02",
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Character creation session for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20235&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
     },
     {
       "title": "LEGO Time — Atwater Library",
@@ -190,6 +233,21 @@
       "sourceUrl": "https://act.alz.org/site/TR/Walk2026/CA-NorthernCalifornia?pg=entry&fr_id=19469",
       "sourceName": "Alzheimer's Association",
       "timeNote": "Listed start is registration opening. Program at 9:15 a.m.; walk at 9:30 a.m. End time not published."
+    },
+    {
+      "id": "paws-on-patrol-atwater-2026-10-03",
+      "title": "Paws on Patrol — 5K & 2K Run/Walk",
+      "date": "2026-10-03",
+      "startTime": "08:30",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "Castle Air Museum, 5050 Santa Fe Drive, Atwater, CA 95301",
+      "category": "Sports",
+      "description": "Registered 5K and 2K run/walk supporting protective equipment for law-enforcement K9s. Both distances start at 8:30 a.m. Online registration lists an October 3, 11:59 a.m. deadline; confirm availability before visiting.",
+      "sourceUrl": "https://runsignup.com/Race/CA/Atwater/PawsOnPatrolFunRun",
+      "sourceName": "Paws on Patrol / RunSignup",
+      "cost": "$59.80 including fee, per published current registration listing",
+      "timeNote": "Start applies to both in-person distances. Overall event end time not confirmed; the 2K form lists an 11:59 p.m. end."
     },
     {
       "id": "cars-coffee-merced-car-show-2026-10-03",
@@ -319,6 +377,20 @@
       "id": "atwater-flea-farmers-market-2026-10-04"
     },
     {
+      "id": "merced-community-health-fair-2026-10-04",
+      "title": "Merced Community Health Fair",
+      "date": "2026-10-04",
+      "startTime": "09:00",
+      "endTime": "13:00",
+      "city": "Merced",
+      "location": "Central California Alliance for Health, 530 W. 16th Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Family event with information booths, screenings, snacks and entertainment. Flu vaccines and $25 gift cards are for Alliance members. Mammogram screenings and $50 gift cards require Alliance primary coverage, ages 40–74, and no mammogram in the previous year. Prize winners must be present. Check organizer details for services and eligibility.",
+      "sourceUrl": "https://thealliance.health/community_events/2026-merced-community-health-fair/",
+      "sourceName": "Central California Alliance for Health",
+      "cost": "Free"
+    },
+    {
       "id": "ucm-mens-soccer-2026-10-04",
       "title": "UC Merced Men’s Soccer vs. Cal State San Bernardino",
       "date": "2026-10-04",
@@ -361,6 +433,20 @@
       "id": "atwater-national-night-out-2026-10-06"
     },
     {
+      "id": "children-become-a-scientist-merced-library-2026-10-06",
+      "title": "Children: Become a Scientist — Merced Library",
+      "date": "2026-10-06",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Children’s Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Science activity for children ages 6–11.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20207&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -374,6 +460,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-10-08"
+    },
+    {
+      "id": "merced-running-club-fall-fun-run-2026-10-08",
+      "title": "Fall Fun Run — Merced Running Club",
+      "date": "2026-10-08",
+      "startTime": "17:45",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Rahilly Park, 3400 Parsons Avenue, Merced, CA",
+      "category": "Sports",
+      "description": "Choose a 1-, 2- or 3-mile route. Arrive early to register.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/ffr/",
+      "sourceName": "Merced Running Club",
+      "cost": "Free",
+      "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
     },
     {
       "id": "ucm-mens-water-polo-2026-10-09",
@@ -415,7 +516,7 @@
       "description": "UC Merced home men’s soccer match against Cal State Monterey Bay. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-cal-state-monterey-bay-6wsz0h",
       "sourceName": "UC Merced Athletics",
-      "timeNote": "Official start time. Match end time is not published."
+      "timeNote": "Start time needs confirmation: the official ticket page lists 4:30 p.m.; UC Merced’s men’s soccer schedule lists 5 p.m. Check with the organizer before going. Match end time is not published."
     },
     {
       "title": "Merced Chess Club — Free-Play Friday",
@@ -588,6 +689,50 @@
       "id": "art-spirits-paint-along-2026-10-15"
     },
     {
+      "id": "merced-running-club-fall-fun-run-2026-10-15",
+      "title": "Fall Fun Run — Merced Running Club",
+      "date": "2026-10-15",
+      "startTime": "17:45",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Rahilly Park, 3400 Parsons Avenue, Merced, CA",
+      "category": "Sports",
+      "description": "Choose a 1-, 2- or 3-mile route. Arrive early to register.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/ffr/",
+      "sourceName": "Merced Running Club",
+      "cost": "Free",
+      "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
+    },
+    {
+      "id": "adult-dungeons-dragons-gameplay-merced-library-2026-10-16",
+      "title": "Dungeons & Dragons: Gameplay — Merced Library",
+      "date": "2026-10-16",
+      "startTime": "13:00",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Gameplay session for adults ages 18 and older. Sign-up is required; contact the library to register.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20244&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "flor-de-toloache-uc-merced-arts-2026-10-16",
+      "title": "Flor de Toloache — UC Merced Arts",
+      "date": "2026-10-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Live mariachi concert by the all-women ensemble Flor de Toloache. Presented by UC Merced Arts.",
+      "sourceUrl": "https://ucmercedarts.vivenushop.com/event/flor-de-toloache-1xn54a",
+      "sourceName": "UC Merced Arts",
+      "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
+      "cost": "General admission $20; students/children $5; free for UC Merced and Merced College students with required ID (one ticket per student)."
+    },
+    {
       "title": "Night of the Living Dead Live — Playhouse Merced",
       "date": "2026-10-16",
       "startTime": "19:30",
@@ -601,6 +746,20 @@
       "cost": "$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "night-of-the-living-dead-live-playhouse-merced-2026-10-16"
+    },
+    {
+      "id": "the-welkin-mac-2026-10-16",
+      "title": "The Welkin — Phoenix Creative Collective",
+      "date": "2026-10-16",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "city": "Merced",
+      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Phoenix Creative Collective theatre production set in 1759 England, exploring justice through twelve women asked to decide a condemned woman’s fate. Tickets required.",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https/the-welkin",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "cost": "$12–$20; check ticket availability"
     },
     {
       "id": "household-hazardous-waste-highway-59-2026-10-17",
@@ -645,6 +804,20 @@
       "id": "castle-air-fest-fall-blitz-car-show-2026-10-17"
     },
     {
+      "id": "merced-paws-on-patrol-2026-10-17",
+      "title": "Merced Paws on Patrol Fun Run",
+      "date": "2026-10-17",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Lake Yosemite, 5714 N. Lake Road, Merced, CA 95340",
+      "category": "Sports",
+      "description": "1-mile, 5K and 10K options, with or without a registered dog, support the Merced Police Department K9 Association. Published early registration closes October 1 at 8 a.m.; check organizer availability.",
+      "sourceUrl": "https://runsignup.com/Race/CA/Merced/PawsOnPatrol5K10K",
+      "sourceName": "Merced Paws on Patrol / RunSignup",
+      "cost": "Published early entry: $30–$40 depending on distance and dog option; check fees"
+    },
+    {
       "id": "adult-makerspace-clay-fairy-houses-atwater-library-2026-10-17",
       "title": "Adult Makerspace: Clay Fairy Houses — Atwater Library",
       "date": "2026-10-17",
@@ -655,6 +828,48 @@
       "category": "Library & learning",
       "description": "Clay fairy-house activity for adults ages 18 and older.",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20223&month=10&year=2026&day=27&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "adult-digital-art-tutorial-merced-library-2026-10-17",
+      "title": "Adult Digital Art Tutorial — Merced Library",
+      "date": "2026-10-17",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Digital art tutorial for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20245&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "children-owl-craft-merced-library-2026-10-17",
+      "title": "Children: Owl Craft — Merced Library",
+      "date": "2026-10-17",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Children’s Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Owl craft activity for children of all ages.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20210&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "adult-improv-club-merced-library-2026-10-17",
+      "title": "Adult Improv Club — Merced Library",
+      "date": "2026-10-17",
+      "startTime": "14:30",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Improv club session for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20246&month=10&year=2026&day=28&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
     },
@@ -687,6 +902,20 @@
       "id": "night-of-the-living-dead-live-playhouse-merced-2026-10-17"
     },
     {
+      "id": "the-welkin-mac-2026-10-17",
+      "title": "The Welkin — Phoenix Creative Collective",
+      "date": "2026-10-17",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "city": "Merced",
+      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Phoenix Creative Collective theatre production set in 1759 England, exploring justice through twelve women asked to decide a condemned woman’s fate. Tickets required.",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https/the-welkin-s2stk",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "cost": "$12–$20; check ticket availability"
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -717,6 +946,34 @@
       "id": "night-of-the-living-dead-live-playhouse-merced-2026-10-18"
     },
     {
+      "id": "the-welkin-mac-2026-10-18",
+      "title": "The Welkin — Phoenix Creative Collective",
+      "date": "2026-10-18",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Phoenix Creative Collective theatre production set in 1759 England, exploring justice through twelve women asked to decide a condemned woman’s fate. Tickets required.",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https/the-welkin-s2stk-mgkyw",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "cost": "$12–$20; check ticket availability"
+    },
+    {
+      "id": "valley-water-collaborative-atwater-library-2026-10-20",
+      "title": "Valley Water Collaborative — Atwater Library",
+      "date": "2026-10-20",
+      "startTime": "16:30",
+      "endTime": "19:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Library event featuring Valley Water Collaborative. Open to all ages.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20233&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "id": "vermiculture-workshop-merced-library-2026-10-20",
       "title": "Community Workshop: Vermiculture — Merced Library",
       "date": "2026-10-20",
@@ -727,6 +984,20 @@
       "category": "Library & learning",
       "description": "Public UC Master Gardeners workshop about composting with red wiggler worms and current research. Open to all; walk-ins welcome.",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20247&month=10&year=2026&day=27&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "adult-fabric-pumpkin-board-craft-merced-library-2026-10-21",
+      "title": "Adult Fabric Pumpkin Board Craft — Merced Library",
+      "date": "2026-10-21",
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Fabric pumpkin board craft activity for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20248&month=10&year=2026&day=28&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
     },
@@ -746,6 +1017,63 @@
       "id": "atwater-flea-farmers-market-2026-10-22"
     },
     {
+      "id": "ucm-womens-soccer-2026-10-22",
+      "title": "UC Merced Women’s Soccer vs. Menlo College",
+      "date": "2026-10-22",
+      "startTime": "16:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bobcat Field, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s soccer match against Menlo College. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-menlo-e628db",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "merced-running-club-fall-fun-run-2026-10-22",
+      "title": "Fall Fun Run — Merced Running Club",
+      "date": "2026-10-22",
+      "startTime": "17:45",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Rahilly Park, 3400 Parsons Avenue, Merced, CA",
+      "category": "Sports",
+      "description": "Choose a 1-, 2- or 3-mile route. Arrive early to register.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/ffr/",
+      "sourceName": "Merced Running Club",
+      "cost": "Free",
+      "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
+    },
+    {
+      "id": "ucm-mens-soccer-2026-10-22",
+      "title": "UC Merced Men’s Soccer vs. Menlo College",
+      "date": "2026-10-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bobcat Field, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home men’s soccer match against Menlo College. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-menlo-e628db",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "the-welkin-mac-2026-10-22",
+      "title": "The Welkin — Phoenix Creative Collective",
+      "date": "2026-10-22",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "city": "Merced",
+      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Phoenix Creative Collective theatre production set in 1759 England, exploring justice through twelve women asked to decide a condemned woman’s fate. Tickets required.",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https/the-welkin-s2stk-kc73h",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "cost": "$12–$20; check ticket availability"
+    },
+    {
       "title": "Kiddieland Annual Fright Night — Day 1",
       "date": "2026-10-23",
       "startTime": "17:00",
@@ -758,6 +1086,20 @@
       "sourceName": "Kiwanis Greater Merced Kiddieland",
       "cost": "Free",
       "id": "kiddieland-annual-fright-night-day-1-2026-10-23"
+    },
+    {
+      "id": "ucm-womens-volleyball-2026-10-23",
+      "title": "UC Merced Women’s Volleyball vs. Chico State",
+      "date": "2026-10-23",
+      "startTime": "17:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Joseph Edward Gallo Recreation Center, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s volleyball match against Chico State. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-chico-state-3s1nzx",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
     },
     {
       "title": "Merced Chess Club — Free-Play Friday",
@@ -787,6 +1129,34 @@
       "cost": "$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "night-of-the-living-dead-live-playhouse-merced-2026-10-23"
+    },
+    {
+      "id": "the-welkin-mac-2026-10-23",
+      "title": "The Welkin — Phoenix Creative Collective",
+      "date": "2026-10-23",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "city": "Merced",
+      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Phoenix Creative Collective theatre production set in 1759 England, exploring justice through twelve women asked to decide a condemned woman’s fate. Tickets required.",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https/the-welkin-s2stk-kc73h-29ppc",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "cost": "$12–$20; check ticket availability"
+    },
+    {
+      "id": "rocky-horror-picture-show-merced-theatre-2026-10-23",
+      "title": "The Rocky Horror Picture Show — Interactive Movie",
+      "date": "2026-10-23",
+      "startTime": "22:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Interactive screening of The Rocky Horror Picture Show. See the theatre’s ticket page for admission details.",
+      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=287",
+      "sourceName": "Merced Theatre",
+      "timeNote": "End time has not been published. Confirm ticket availability before visiting."
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -833,6 +1203,20 @@
       "id": "6th-annual-cops-for-critters-car-show-2026-10-24"
     },
     {
+      "id": "adult-tabletop-super-saturday-merced-library-2026-10-24",
+      "title": "Adult Tabletop Super Saturday — Merced Library",
+      "date": "2026-10-24",
+      "startTime": "10:00",
+      "endTime": "16:45",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Tabletop activities for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20250&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "id": "adult-book-club-victorian-psycho-atwater-library-2026-10-24",
       "title": "Adult Book Club: Victorian Psycho — Atwater Library",
       "date": "2026-10-24",
@@ -847,6 +1231,20 @@
       "cost": "Free"
     },
     {
+      "id": "ucm-womens-soccer-2026-10-24",
+      "title": "UC Merced Women’s Soccer vs. Cal State San Marcos",
+      "date": "2026-10-24",
+      "startTime": "11:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bobcat Field, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s soccer match against Cal State San Marcos. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-soccer-vs-cal-state-san-marcos-dskszb",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
       "title": "Bear Creek Ukulele Society — Group Jam",
       "date": "2026-10-24",
       "city": "Merced",
@@ -858,6 +1256,34 @@
       "sourceUrl": "https://www.artsmerced.org/events-list",
       "sourceName": "Merced County Arts Council / The MAC",
       "id": "bear-creek-ukulele-society-group-jam-2026-10-24"
+    },
+    {
+      "id": "children-vampire-bat-craft-merced-library-2026-10-24",
+      "title": "Children: Vampire Bat Craft — Merced Library",
+      "date": "2026-10-24",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Children’s Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Vampire bat craft activity for children of all ages.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20214&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "ucm-mens-soccer-2026-10-24",
+      "title": "UC Merced Men’s Soccer vs. Cal State San Marcos",
+      "date": "2026-10-24",
+      "startTime": "14:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bobcat Field, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home men’s soccer match against Cal State San Marcos. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-soccer-vs-cal-state-san-marcos-dskszb",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
     },
     {
       "title": "Kiddieland Annual Fright Night — Day 2",
@@ -874,6 +1300,20 @@
       "id": "kiddieland-annual-fright-night-day-2-2026-10-24"
     },
     {
+      "id": "ucm-womens-volleyball-2026-10-24",
+      "title": "UC Merced Women’s Volleyball vs. Cal Poly Humboldt",
+      "date": "2026-10-24",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Joseph Edward Gallo Recreation Center, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s volleyball match against Cal Poly Humboldt. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-poly-humboldt-eptoe0",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
       "title": "Night of the Living Dead Live — Playhouse Merced",
       "date": "2026-10-24",
       "startTime": "19:30",
@@ -887,6 +1327,20 @@
       "cost": "$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "night-of-the-living-dead-live-playhouse-merced-2026-10-24"
+    },
+    {
+      "id": "the-welkin-mac-2026-10-24",
+      "title": "The Welkin — Phoenix Creative Collective",
+      "date": "2026-10-24",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "city": "Merced",
+      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Phoenix Creative Collective theatre production set in 1759 England, exploring justice through twelve women asked to decide a condemned woman’s fate. Tickets required.",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https/the-welkin-s2stk-kc73h-29ppc-7ffwe",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "cost": "$12–$20; check ticket availability"
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -933,6 +1387,20 @@
       "id": "kalani-pea-2026-10-25"
     },
     {
+      "id": "children-scary-book-cover-merced-library-2026-10-27",
+      "title": "Children: Make a Scary Book Cover — Merced Library",
+      "date": "2026-10-27",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Children’s Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Scary book-cover activity for children ages 6–11.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20215&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -946,6 +1414,35 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-10-29"
+    },
+    {
+      "id": "ucm-womens-soccer-2026-10-29",
+      "title": "UC Merced Women’s Soccer vs. San Francisco State",
+      "date": "2026-10-29",
+      "startTime": "11:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bobcat Field, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s soccer match against San Francisco State. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-soccer-vs-san-francisco-state-pib8jc",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "merced-running-club-fall-fun-run-2026-10-29",
+      "title": "Fall Fun Run — Merced Running Club",
+      "date": "2026-10-29",
+      "startTime": "17:45",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Rahilly Park, 3400 Parsons Avenue, Merced, CA",
+      "category": "Sports",
+      "description": "Choose a 1-, 2- or 3-mile route. Arrive early to register.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/ffr/",
+      "sourceName": "Merced Running Club",
+      "cost": "Free",
+      "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
     },
     {
       "title": "Nineteen Minutes Later",
@@ -991,6 +1488,20 @@
       "cost": "Free"
     },
     {
+      "id": "ucm-mens-water-polo-2026-10-31",
+      "title": "UC Merced Men’s Water Polo vs. Fresno Pacific",
+      "date": "2026-10-31",
+      "startTime": "13:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Aquatics Center, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home men’s water polo match against Fresno Pacific. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-water-polo-vs-fresno-pacific-5giegs",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
       "id": "dia-de-los-muertos-diy-frames-merced-library-2026-10-31",
       "title": "Día de los Muertos DIY Frames — Merced Library",
       "date": "2026-10-31",
@@ -1001,6 +1512,20 @@
       "category": "Library & learning",
       "description": "DIY frame-making activity for adults ages 18 and older.",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20251&month=10&year=2026&day=27&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "adult-silent-book-club-merced-library-2026-10-31",
+      "title": "Last Saturday Silent Book Club — Merced Library",
+      "date": "2026-10-31",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Silent book club session for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20252&month=10&year=2026&day=28&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
     },
@@ -1020,6 +1545,21 @@
       "id": "atwater-flea-farmers-market-2026-11-01"
     },
     {
+      "id": "no-no-boy-uc-merced-arts-2026-11-04",
+      "title": "No-No Boy — UC Merced Arts",
+      "date": "2026-11-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Multimedia concert by Julian Saporiti, combining original songs, storytelling and historical images. Presented by UC Merced Arts.",
+      "sourceUrl": "https://ucmercedarts.vivenushop.com/event/no-no-boy-xwpz6w",
+      "sourceName": "UC Merced Arts",
+      "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
+      "cost": "General admission $20; students/children $5; free for UC Merced and Merced College students with required ID (one ticket per student)."
+    },
+    {
       "title": "Mercado Night Market",
       "date": "2026-11-05",
       "city": "Merced",
@@ -1030,7 +1570,7 @@
       "endTime": null,
       "sourceUrl": "https://www.mcagov.org/424/Transportation-Safety-Program",
       "sourceName": "Merced County Association of Governments",
-      "timeNote": "MCAG lists its participation window as 18:00–21:00 Pacific; full event hours are unconfirmed. Check the organizer before going.",
+      "timeNote": "MCAG’s outreach calendar lists 6–9 p.m. Pacific. Full event hours have not been independently confirmed with the organizer.",
       "id": "mercado-night-market-2026-11-05"
     },
     {
@@ -1049,6 +1589,20 @@
       "id": "atwater-flea-farmers-market-2026-11-05"
     },
     {
+      "id": "ucm-womens-volleyball-2026-11-06",
+      "title": "UC Merced Women’s Volleyball vs. Cal Poly Pomona",
+      "date": "2026-11-06",
+      "startTime": "17:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Joseph Edward Gallo Recreation Center, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s volleyball match against Cal Poly Pomona. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-poly-pomona-3ke0tr",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
       "title": "Merced Chess Club — Free-Play Friday",
       "date": "2026-11-06",
       "city": "Merced",
@@ -1061,6 +1615,20 @@
       "sourceName": "Marketplace at Merced",
       "cost": "Free",
       "id": "merced-chess-club-free-play-friday-2026-11-06"
+    },
+    {
+      "id": "nightmare-before-christmas-sing-along-merced-2026-11-06",
+      "title": "Nightmare Before Christmas — Sing-A-Long Movie",
+      "date": "2026-11-06",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Sing-along movie screening. See the organizer for admission details.",
+      "sourceUrl": "https://www.facebook.com/events/1642003403547684/",
+      "sourceName": "Merced Theatre",
+      "timeNote": "End time has not been published. Confirm ticket availability before visiting."
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -1078,6 +1646,20 @@
       "id": "merced-flea-farmers-market-2026-11-07"
     },
     {
+      "id": "ucm-womens-volleyball-2026-11-07",
+      "title": "UC Merced Women’s Volleyball vs. Cal State LA",
+      "date": "2026-11-07",
+      "startTime": "13:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Joseph Edward Gallo Recreation Center, UC Merced, 5200 North Lake Road, Merced, CA 95343",
+      "category": "Sports",
+      "description": "UC Merced home women’s volleyball match against Cal State LA. Check the university ticket page for admission and schedule updates. Athletics parking is in the Bellevue Lot; weekday parking permits are required.",
+      "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-state-la-gr5a7u",
+      "sourceName": "UC Merced Athletics",
+      "timeNote": "Official start time. Match end time is not published."
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -1093,6 +1675,21 @@
       "id": "atwater-flea-farmers-market-2026-11-08"
     },
     {
+      "id": "run-for-the-fallen-merced-2026-11-08",
+      "title": "Run for the Fallen — Merced College",
+      "date": "2026-11-08",
+      "startTime": "08:20",
+      "endTime": "11:00",
+      "city": "Merced",
+      "location": "Merced College, 3600 M Street, Merced, CA 95348",
+      "category": "Sports",
+      "description": "Kids’ 400m starts at 8:20 a.m.; 5K run/walk and 10K start at 9 a.m. Online registration closes November 5 at 6 p.m. Race-day registration and bib pickup run 7–8:30 a.m. Confirm ceremony timing with the organizer.",
+      "sourceUrl": "https://runsignup.com/Race/CA/Merced/RunfortheFallen5K10kMerced",
+      "sourceName": "Merced Sunrise Rotary Club / RunSignup",
+      "cost": "5K/10K registration free without a shirt; optional shirts $25 while supplies last",
+      "timeNote": "Listed start is the kids’ race. Published 5K/10K time block is 9–11 a.m."
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -1106,6 +1703,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-11-12"
+    },
+    {
+      "id": "merced-half-marathon-2026-11-14",
+      "title": "Merced Half Marathon",
+      "date": "2026-11-14",
+      "startTime": "07:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Applegate Park, 1045 W 25th Street, Merced, CA 95340",
+      "category": "Sports",
+      "description": "Half marathon hosted by Planada Run Club and Alterego Run Club, with a four-hour course cutoff. Registration required; the current entry deadline is October 2 at 12:01 a.m. Confirm availability with the organizer.",
+      "sourceUrl": "https://runsignup.com/Race/CA/Merced/MercedHalfMarathon",
+      "sourceName": "Planada Run Club & Alterego Run Club / RunSignup",
+      "timeNote": "Race starts at 7 a.m.; four-hour course cutoff. Overall event end not published.",
+      "cost": "$107 including fee, per published current registration listing"
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -1196,6 +1808,20 @@
       "id": "merced-flea-farmers-market-2026-11-21"
     },
     {
+      "id": "merced-running-club-turkey-trot-2026-11-21",
+      "title": "Merced Turkey Trot",
+      "date": "2026-11-21",
+      "startTime": "09:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Lake Yosemite County Park, Merced, CA",
+      "category": "Sports",
+      "description": "Check-in opens at 9 a.m.; kids’ 1K starts at 10:15 a.m. and 2-mile/5-mile races at 10:30 a.m. Benefits Merced County Toys for Tots. Confirm 2026 registration details with the club; its linked registration page still displays 2025.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/tt/",
+      "sourceName": "Merced Running Club",
+      "timeNote": "Listed start is check-in. Race starts are 10:15 a.m. and 10:30 a.m.; end not published."
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -1224,6 +1850,20 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-11-26"
+    },
+    {
+      "id": "merced-thanksgiving-fun-run-2026-11-26",
+      "title": "Thanksgiving Day Fun Run",
+      "date": "2026-11-26",
+      "startTime": "08:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Corner of Tuscany Avenue and Reggio Court, Merced, CA",
+      "category": "Sports",
+      "description": "Merced Running Club outing on Bear Creek paths. Choose a 5-mile, 10-mile or personal-distance route. Walkers welcome; no registration required.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/tdfr/",
+      "sourceName": "Merced Running Club",
+      "timeNote": "End time not published."
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -1388,6 +2028,20 @@
       "id": "atwater-flea-farmers-market-2026-12-10"
     },
     {
+      "id": "its-a-wonderful-life-merced-2026-12-11",
+      "title": "It’s a Wonderful Life — Movie",
+      "date": "2026-12-11",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Movie screening at Merced Theatre. See the organizer for admission details.",
+      "sourceUrl": "https://www.facebook.com/events/1818219262304316/",
+      "sourceName": "Merced Theatre",
+      "timeNote": "End time has not been published. Confirm ticket availability before visiting."
+    },
+    {
       "title": "Mary Poppins — Playhouse Merced",
       "date": "2026-12-11",
       "startTime": "19:30",
@@ -1461,6 +2115,20 @@
       "cost": "$22–$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "mary-poppins-playhouse-merced-2026-12-13"
+    },
+    {
+      "id": "polar-express-merced-2026-12-13",
+      "title": "The Polar Express — Movie with Santa",
+      "date": "2026-12-13",
+      "startTime": "15:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Movie screening with special guest Santa, as listed by the theatre. See the organizer for admission details.",
+      "sourceUrl": "https://www.facebook.com/events/1677869659934312/",
+      "sourceName": "Merced Theatre",
+      "timeNote": "End time has not been published. Confirm ticket availability before visiting."
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1607,6 +2275,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-12-24"
+    },
+    {
+      "id": "merced-christmas-eve-fun-run-2026-12-24",
+      "title": "Christmas Eve Fun Run",
+      "date": "2026-12-24",
+      "startTime": "08:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Applegate Park, corner of 26th and O Streets, Merced, CA",
+      "category": "Sports",
+      "description": "Approximately 5.3 miles along Bear Creek. No registration required. An optional gift exchange follows; a gift is not required to join the run.",
+      "sourceUrl": "https://mercedrunningclub.com/home/running-events/cefr/",
+      "sourceName": "Merced Running Club",
+      "cost": "Free",
+      "timeNote": "End time not published."
     },
     {
       "title": "Merced Flea & Farmers Market",
