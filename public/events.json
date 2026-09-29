@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T23:26:42.341408Z",
+  "updatedAt": "2026-09-29T15:06:37.925537Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -248,6 +248,21 @@
       "sourceName": "Paws on Patrol / RunSignup",
       "cost": "$59.80 including fee, per published current registration listing",
       "timeNote": "Start applies to both in-person distances. Overall event end time not confirmed; the 2K form lists an 11:59 p.m. end."
+    },
+    {
+      "id": "widowmaker-vi-disc-golf-merced-2026-10-03",
+      "title": "Widowmaker VI — Disc Golf Tournament",
+      "date": "2026-10-03",
+      "startTime": "08:45",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Fahrens Park Disc Golf Course, Merced, CA",
+      "category": "Sports",
+      "description": "Merced Disc Golf Club hosts a two-round PDGA C-tier tournament. Player meeting at 8:45 a.m.; first round at 9 a.m. Registration closes October 2 at 3 p.m. Pacific. Professional, amateur and junior divisions have different fees and eligibility; select the appropriate division and check availability on the organizer page.",
+      "sourceUrl": "https://www.discgolfscene.com/tournament/The_VVIdowmaker_2026",
+      "sourceName": "Merced Disc Golf Club / Disc Golf Scene",
+      "cost": "Player entry $40–$60 depending on division; see registration page",
+      "timeNote": "Organizer lists the event schedule as 8:45 a.m.–4:30 p.m.; second-round and ceremony times are approximate."
     },
     {
       "id": "cars-coffee-merced-car-show-2026-10-03",
@@ -647,6 +662,19 @@
       "id": "central-valley-pride-at-kiddieland-2026-10-11"
     },
     {
+      "id": "old-town-atwater-monthly-mixer-2026-10-14",
+      "title": "Old Town Atwater Monthly Mixer",
+      "date": "2026-10-14",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "city": "Atwater",
+      "location": "Transportation Research Center, 3750 Turbine Drive, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Old Town Atwater invites the community to its monthly mixer at the Transportation Research Center on the former Castle Air Base. See the organizer’s event page for attendance details.",
+      "sourceUrl": "https://www.oldtownatwater.org/our-events",
+      "sourceName": "Old Town Atwater"
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -797,11 +825,12 @@
       "category": "Festivals & community",
       "description": "Public car show held during Castle Airfest.",
       "startTime": "09:00",
-      "endTime": null,
-      "sourceUrl": "https://castleairmuseum.org/event/castle-air-fest-fall-blitz-car-show/",
-      "sourceName": "Castle Air Museum",
-      "timeNote": "Starts at 9 AM. The car-show description says it ends at 3 PM; the page header says 5 PM. Confirm the end time with Castle Air Museum.",
-      "id": "castle-air-fest-fall-blitz-car-show-2026-10-17"
+      "endTime": "15:00",
+      "sourceUrl": "https://www.flycastleairport.com/airfest-2026",
+      "sourceName": "Castle Airport / Merced County",
+      "timeNote": "The airport organizer and the museum’s detailed event text list 9 a.m.–3 p.m. The museum’s calendar header still shows 5 p.m.; confirm with the organizer before going.",
+      "id": "castle-air-fest-fall-blitz-car-show-2026-10-17",
+      "cost": "Free public admission; car-show vehicle entry is separate"
     },
     {
       "id": "merced-paws-on-patrol-2026-10-17",
