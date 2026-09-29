@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:06:37.925537Z",
+  "updatedAt": "2026-09-29T21:07:21.769772Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1687,6 +1687,20 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-state-la-gr5a7u",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "pizzas-pints-man-up-opportunity-foundation-2026-11-07",
+      "title": "Pizzas & Pints — The Man Up Opportunity Foundation",
+      "date": "2026-11-07",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "city": "Merced",
+      "location": "Bob Hart Square, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Pizza and beer gathering hosted by The Man Up Opportunity Foundation. The public event flyer advertises all-you-can-eat-and-drink admission, live music, and proceeds supporting local high school aquatic programs. Ages 21 and older; tickets required.",
+      "sourceUrl": "https://www.eventbrite.com/e/pizzas-pints-2026-tickets-2000999591644",
+      "sourceName": "The Man Up Opportunity Foundation / Eventbrite",
+      "cost": "$45 entry advertised on the flyer; ticket page currently lists $49.87. Check final ticket price and availability."
     },
     {
       "title": "Atwater Flea & Farmers Market",
