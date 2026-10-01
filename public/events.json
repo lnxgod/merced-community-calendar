@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:11:39.520930Z",
+  "updatedAt": "2026-10-01T15:15:32.992593Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -697,7 +697,7 @@
       "endTime": null,
       "sourceUrl": "https://www.mcagov.org/424/Transportation-Safety-Program",
       "sourceName": "Merced County Association of Governments",
-      "timeNote": "MCAG lists its participation window as 16:00–18:00 Pacific; full event hours are unconfirmed. Check the organizer before going.",
+      "timeNote": "Date needs confirmation: MCAG’s outreach table and event description say October 6, but its event-calendar heading says October 2. Its listed outreach window is 4–6 p.m. Pacific; full event hours remain unconfirmed. Check with Atwater Police before going. Conflicting official listing: https://www.mcagov.org/m/calendar/event/detail/965",
       "id": "atwater-national-night-out-2026-10-06"
     },
     {
@@ -1209,6 +1209,62 @@
       "sourceName": "Merced County Arts Council / The MAC",
       "cost": "Varies; confirm class fee when registering.",
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
+    },
+    {
+      "id": "sensory-playgroup-atwater-library-2026-10-13",
+      "title": "Sensory Playgroup — Atwater Library",
+      "date": "2026-10-13",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Library sensory playgroup for children ages 0–2.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18530&calType=0&day=1&month=10&year=2026",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "teen-tuesday-pokemon-card-magnets-atwater-library-2026-10-13",
+      "title": "Teen Tuesday: Pokémon Card Magnets — Atwater Library",
+      "date": "2026-10-13",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Make Pokémon card magnets at the library. For teens ages 12–18.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20230&calType=0&day=1&month=10&year=2026",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "children-coding-from-scratch-merced-library-2026-10-13",
+      "title": "Children: Coding from Scratch — Merced Library",
+      "date": "2026-10-13",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "city": "Merced",
+      "location": "Merced Main Library - Children’s Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Coding from Scratch library activity for children ages 8–11.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20208&calType=0&day=1&month=10&year=2026",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "teens-sewing-tutorial-merced-library-2026-10-13",
+      "title": "Teens: Sewing Tutorial — Merced Library",
+      "date": "2026-10-13",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "city": "Merced",
+      "location": "Merced Library - Teen Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Sewing tutorial for teens ages 12–18.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20337&calType=0&day=1&month=10&year=2026",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
     },
     {
       "id": "old-town-atwater-monthly-mixer-2026-10-14",
