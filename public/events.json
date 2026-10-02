@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T15:15:32.992593Z",
+  "updatedAt": "2026-10-02T15:12:07.089928Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1111,6 +1111,20 @@
       "id": "merced-flea-farmers-market-2026-10-10"
     },
     {
+      "id": "kiddieland-family-day-merced-swat-k9-2026-10-10",
+      "title": "Free Family Day — Kiddieland",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "Kiddieland, Applegate Park, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Free Kiddieland rides sponsored by the Merced SWAT Association and Merced PD K9 Association. Both associations will also provide free food at booths outside Kiddieland; park concessions will be open.",
+      "cost": "Free rides and sponsor-provided food",
+      "sourceName": "Kiwanis Greater Merced Kiddieland",
+      "sourceUrl": "https://kiwaniskiddieland.com/event/family-day-sponsored-by-merced-swat-association-merced-pd-k9-association/"
+    },
+    {
       "title": "Food Para Todos Harvest Festival",
       "date": "2026-10-10",
       "city": "Merced",
@@ -1193,7 +1207,8 @@
       "sourceUrl": "https://kiwaniskiddieland.com/events/",
       "sourceName": "Kiwanis Greater Merced Kiddieland",
       "cost": "Free",
-      "id": "central-valley-pride-at-kiddieland-2026-10-11"
+      "id": "central-valley-pride-at-kiddieland-2026-10-11",
+      "timeNote": "Status needs confirmation: this previously listed October 11 event is absent from Kiddieland’s current event calendar as checked October 2. This is not a confirmed cancellation; verify the date, hours and admission with the organizer before going."
     },
     {
       "id": "mommy-me-tap-ballet-mac-2026-10-12",
@@ -1466,6 +1481,21 @@
       "cost": "Free"
     },
     {
+      "id": "kiddieland-free-day-gold-runner-2026-10-17",
+      "title": "Free Day at Kiddieland — Sponsored by Gold Runner",
+      "date": "2026-10-17",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "Kiddieland, Applegate Park, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Gold Runner sponsors a free day at Kiddieland, alongside Cultiva Central Valley’s Zombie Bike Ride next to the park.",
+      "cost": "Free",
+      "timeNote": "These are the published Kiddieland free-day hours. The neighboring Zombie Bike Ride has a separate schedule that remains unconfirmed.",
+      "sourceName": "Kiwanis Greater Merced Kiddieland",
+      "sourceUrl": "https://kiwaniskiddieland.com/event/zombie-bike-ride-invades-kiddieland-free-day-kiddieland-sponsored-by-gold-runner/"
+    },
+    {
       "id": "adult-digital-art-tutorial-merced-library-2026-10-17",
       "title": "Adult Digital Art Tutorial — Merced Library",
       "date": "2026-10-17",
@@ -1726,14 +1756,14 @@
       "title": "Kiddieland Annual Fright Night — Day 1",
       "date": "2026-10-23",
       "startTime": "17:00",
-      "endTime": "21:00",
+      "endTime": "20:00",
       "city": "Merced",
       "location": "Kiddieland, Applegate Park, Merced, CA",
       "category": "Festivals & community",
-      "description": "Halloween event open to the public.",
-      "sourceUrl": "https://kiwaniskiddieland.com/events/",
+      "description": "Family Halloween evening with Kiddieland rides, games and prizes. One admission fee covers the evening.",
+      "sourceUrl": "https://kiwaniskiddieland.com/event/kiddielands-annual-fright-night-day-1/",
       "sourceName": "Kiwanis Greater Merced Kiddieland",
-      "cost": "Free",
+      "cost": "$5 admission, including Kiddieland rides",
       "id": "kiddieland-annual-fright-night-day-1-2026-10-23"
     },
     {
@@ -1938,14 +1968,14 @@
       "title": "Kiddieland Annual Fright Night — Day 2",
       "date": "2026-10-24",
       "startTime": "17:00",
-      "endTime": "21:00",
+      "endTime": "20:00",
       "city": "Merced",
       "location": "Kiddieland, Applegate Park, Merced, CA",
       "category": "Festivals & community",
-      "description": "Halloween event open to the public.",
-      "sourceUrl": "https://kiwaniskiddieland.com/events/",
+      "description": "Family Halloween evening with Kiddieland rides, games and prizes. One admission fee covers the evening.",
+      "sourceUrl": "https://kiwaniskiddieland.com/event/kiddielands-annual-fright-night-day-2/",
       "sourceName": "Kiwanis Greater Merced Kiddieland",
-      "cost": "Free",
+      "cost": "$5 admission, including Kiddieland rides",
       "id": "kiddieland-annual-fright-night-day-2-2026-10-24"
     },
     {
@@ -2051,6 +2081,21 @@
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
     },
     {
+      "id": "jonathan-foley-climate-speaker-uc-merced-2026-10-26",
+      "title": "Distinguished Climate Speaker Series: Jonathan Foley",
+      "date": "2026-10-26",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Dr. Vikram and Priya Lakireddy Grand Ballroom, UC Merced Conference Center, 5200 North Lake Road, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "UC Merced Earth Institute hosts a talk on practical climate solutions, followed by a panel discussion and audience questions. RSVP through the organizer’s Eventbrite listing. Visitor parking in the Bellevue Lot is paid.",
+      "cost": "Free registration; paid visitor parking",
+      "timeNote": "Doors open at 2:30 p.m. The organizer lists a 3–5 p.m. event window, with an approximate 4:45 p.m. finish in the detailed agenda.",
+      "sourceName": "UC Merced Earth Institute / Eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/e/distinguished-climate-speaker-series-jonathan-foley-tickets-2000520604982"
+    },
+    {
       "id": "children-scary-book-cover-merced-library-2026-10-27",
       "title": "Children: Make a Scary Book Cover — Merced Library",
       "date": "2026-10-27",
@@ -2107,20 +2152,6 @@
       "sourceName": "Merced Running Club",
       "cost": "Free",
       "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
-    },
-    {
-      "title": "Nineteen Minutes Later",
-      "date": "2026-10-30",
-      "city": "Merced",
-      "location": "Merced Theatre, 301 West Main Street, Merced, CA 95340",
-      "category": "Arts & performances",
-      "description": "Ticketed performance. End time not published in the venue listing.",
-      "startTime": "20:00",
-      "endTime": null,
-      "sourceUrl": "https://www.axs.com/venues/133321/merced-theatre-merced-tickets",
-      "sourceName": "Merced Theatre / AXS",
-      "timeNote": "End time has not been published.",
-      "id": "nineteen-minutes-later-2026-10-30"
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -3133,6 +3164,20 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-12-31"
+    },
+    {
+      "title": "Nineteen Minutes Later",
+      "date": "2027-02-19",
+      "city": "Merced",
+      "location": "Merced Theatre, 301 West Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Ticketed performance. End time not published in the venue listing.",
+      "startTime": "20:00",
+      "endTime": null,
+      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=443",
+      "sourceName": "Merced Theatre",
+      "timeNote": "Date updated from October 30, 2026 to February 19, 2027 to match the venue’s current ticket listing. Starts at 8 p.m. Pacific; end time is not published.",
+      "id": "nineteen-minutes-later-2026-10-30"
     }
   ]
 }
