@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:12:07.089928Z",
+  "updatedAt": "2026-10-03T15:10:19.426773Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -374,20 +374,6 @@
       "id": "inside-the-teachers-lounge-2026-10-02"
     },
     {
-      "id": "tarmac-oktoberfest-atwater-2026-10-03",
-      "title": "Oktoberfest — The Tarmac",
-      "date": "2026-10-03",
-      "startTime": null,
-      "endTime": null,
-      "city": "Atwater",
-      "location": "The Tarmac Event Venue, 1930 Airdrome Entry, Atwater, CA 95301",
-      "category": "Festivals & community",
-      "description": "Oktoberfest listed on The Tarmac’s 2026 event schedule. Check with the venue for admission details and event-specific age rules.",
-      "sourceUrl": "https://tarmaceventvenue.com/2026-event-season",
-      "sourceName": "The Tarmac Event Venue",
-      "timeNote": "Organizer confirms the date but does not publish event hours on its season page."
-    },
-    {
       "title": "Merced Flea & Farmers Market",
       "city": "Merced",
       "location": "900 G Street, Merced, CA 95348",
@@ -501,6 +487,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20236&month=10&year=2026&day=27&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "tarmac-oktoberfest-atwater-2026-10-03",
+      "title": "Oktoberfest with Fired Up — The Tarmac",
+      "date": "2026-10-03",
+      "startTime": "12:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "The Tarmac Event Venue, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Oktoberfest with Fired Up at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/3/oktoberfest-with-fired-up",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "timeNote": "Blaker Brewing’s individual event page confirms noon–9 p.m. Pacific.",
+      "cost": "Admission price not published; check the organizer."
     },
     {
       "id": "teens-dungeons-dragons-merced-library-2026-10-03",
@@ -628,6 +629,20 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-cal-state-san-bernardi-1meqxi",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "first-sundays-dj-tag-tarmac-2026-10-04",
+      "title": "First Sundays — DJ Tag at The Tarmac",
+      "date": "2026-10-04",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Arts & performances",
+      "description": "DJ Tag at The Tarmac taproom and Annex. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/4/first-sundays-dj-tag",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "cost": "Admission price not published; check the organizer."
     },
     {
       "id": "mommy-me-tap-ballet-mac-2026-10-05",
@@ -1211,6 +1226,21 @@
       "timeNote": "Status needs confirmation: this previously listed October 11 event is absent from Kiddieland’s current event calendar as checked October 2. This is not a confirmed cancellation; verify the date, hours and admission with the organizer before going."
     },
     {
+      "id": "red-gold-rush-tarmac-2026-10-11",
+      "title": "Red & Gold Rush — Niners vs. Seahawks at The Tarmac",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Sports",
+      "description": "Football viewing on the big screens at The Tarmac. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/11/red-gold-rush-niners-vs-seahawks-1",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "cost": "Admission price not published; check the organizer.",
+      "timeNote": "The organizer lists 10 a.m.–9 p.m. as event hours; this is not a statement of game kickoff time."
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-10-12",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-10-12",
@@ -1767,6 +1797,20 @@
       "id": "kiddieland-annual-fright-night-day-1-2026-10-23"
     },
     {
+      "id": "trunk-or-treat-tarmac-2026-10-23",
+      "title": "Trunk or Treat — The Tarmac",
+      "date": "2026-10-23",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Trunk or Treat at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/23/trunk-or-treat",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "cost": "Admission price not published; check the organizer."
+    },
+    {
       "id": "ucm-womens-volleyball-2026-10-23",
       "title": "UC Merced Women’s Volleyball vs. Chico State",
       "date": "2026-10-23",
@@ -2154,6 +2198,20 @@
       "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
     },
     {
+      "id": "halloween-party-tarmac-2026-10-30",
+      "title": "Halloween Party — The Tarmac",
+      "date": "2026-10-30",
+      "startTime": "19:00",
+      "endTime": "23:59",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Halloween party at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/30/halloween-party",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "cost": "Admission price not published; check the organizer."
+    },
+    {
       "title": "Merced Flea & Farmers Market",
       "city": "Merced",
       "location": "900 G Street, Merced, CA 95348",
@@ -2472,6 +2530,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "$1 admission; ages 10 and under free; free parking",
       "id": "merced-flea-farmers-market-2026-11-14"
+    },
+    {
+      "id": "cfjc-earthseed-screening-merced-2026-11-14",
+      "title": "Earthseed Film Screening & Community Gathering — CFJC",
+      "date": "2026-11-14",
+      "startTime": "15:00",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Sweet Valley Produce, 4050 Jerry Collins Avenue, Merced, CA 95341",
+      "category": "Arts & performances",
+      "description": "California Farmer Justice Collaborative hosts a community gathering with local food, a screening of the People's Kitchen Collective's Earthseed, and a film discussion. The screening is indoors in the farm warehouse; the organizer encourages masks and provides them. Reserve a spot through the organizer's Eventbrite listing.",
+      "sourceUrl": "https://www.eventbrite.com/e/cfjc-earthseed-film-screening-merced-ca-tickets-1999043574143",
+      "sourceName": "California Farmer Justice Collaborative / Eventbrite",
+      "cost": "Free; reserve a spot through Eventbrite.",
+      "timeNote": "Gathering: 3–7:30 p.m. Pacific. The film itself is scheduled for 4:15–6:15 p.m., followed by food and discussion."
     },
     {
       "title": "Atwater Flea & Farmers Market",
