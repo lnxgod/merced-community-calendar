@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T15:10:19.426773Z",
+  "updatedAt": "2026-10-04T18:25:56.880242Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -643,6 +643,21 @@
       "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/4/first-sundays-dj-tag",
       "sourceName": "Blaker Brewing / The Tarmac",
       "cost": "Admission price not published; check the organizer."
+    },
+    {
+      "id": "silent-book-club-merced-2026-10-04",
+      "title": "Silent Book Club — Coffee Bandits",
+      "date": "2026-10-04",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Coffee Bandits, 309 W Main Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "LGBTQ Merced hosts a reading and social meetup. Bring a book of your choice; participants read their own books and can chat with other readers.",
+      "cost": "Admission charge not published; check with the organizer.",
+      "sourceName": "LGBTQ Merced",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/silent-book-club/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
     },
     {
       "id": "mommy-me-tap-ballet-mac-2026-10-05",
@@ -1338,6 +1353,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-10-15"
+    },
+    {
+      "id": "free-food-umc-merced-2026-10-15",
+      "title": "Free Food Distribution — United Methodist Church of Merced",
+      "date": "2026-10-15",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "United Methodist Church of Merced, 899 Yosemite Parkway, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Collect free food provided by Merced Food Bank at the United Methodist Church of Merced. The public listing welcomes everyone.",
+      "cost": "Free",
+      "sourceName": "United Methodist Church of Merced / LGBTQ Merced calendar",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/free-food-in-merced-5/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
     },
     {
       "title": "Old Town Atwater Farmers Market",
@@ -2081,6 +2111,21 @@
       "id": "atwater-flea-farmers-market-2026-10-25"
     },
     {
+      "id": "queer-craft-meetup-merced-2026-10-25",
+      "title": "Queer Craft Meetup — Coffee Bandits",
+      "date": "2026-10-25",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "Coffee Bandits, 309 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "LGBTQ Merced hosts an open arts-and-crafts social; everyone is welcome. Bring your own project and materials. Some materials are also provided.",
+      "cost": "Admission charge not published; check with the organizer.",
+      "sourceName": "LGBTQ Merced",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/queer-craft-meetup/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
+    },
+    {
       "title": "Night of the Living Dead Live — Playhouse Merced",
       "date": "2026-10-25",
       "startTime": "14:00",
@@ -2298,6 +2343,21 @@
       "id": "atwater-flea-farmers-market-2026-11-01"
     },
     {
+      "id": "silent-book-club-merced-2026-11-01",
+      "title": "Silent Book Club — Coffee Bandits",
+      "date": "2026-11-01",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Coffee Bandits, 309 W Main Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "LGBTQ Merced hosts a reading and social meetup. Bring a book of your choice; participants read their own books and can chat with other readers.",
+      "cost": "Admission charge not published; check with the organizer.",
+      "sourceName": "LGBTQ Merced",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/silent-book-club/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-11-02",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-11-02",
@@ -2355,6 +2415,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-11-05"
+    },
+    {
+      "id": "free-food-umc-merced-2026-11-05",
+      "title": "Free Food Distribution — United Methodist Church of Merced",
+      "date": "2026-11-05",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "United Methodist Church of Merced, 899 Yosemite Parkway, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Collect free food provided by Merced Food Bank at the United Methodist Church of Merced. The public listing welcomes everyone.",
+      "cost": "Free",
+      "sourceName": "United Methodist Church of Merced / LGBTQ Merced calendar",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/free-food-in-merced-5/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
     },
     {
       "id": "ucm-womens-volleyball-2026-11-06",
@@ -2592,6 +2667,21 @@
       "id": "atwater-flea-farmers-market-2026-11-19"
     },
     {
+      "id": "free-food-umc-merced-2026-11-19",
+      "title": "Free Food Distribution — United Methodist Church of Merced",
+      "date": "2026-11-19",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "United Methodist Church of Merced, 899 Yosemite Parkway, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Collect free food provided by Merced Food Bank at the United Methodist Church of Merced. The public listing welcomes everyone.",
+      "cost": "Free",
+      "sourceName": "United Methodist Church of Merced / LGBTQ Merced calendar",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/free-food-in-merced-5/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
+    },
+    {
       "title": "Art & Spirits — Paint Along",
       "date": "2026-11-19",
       "city": "Merced",
@@ -2751,6 +2841,21 @@
       "id": "atwater-flea-farmers-market-2026-11-29"
     },
     {
+      "id": "queer-craft-meetup-merced-2026-11-29",
+      "title": "Queer Craft Meetup — Coffee Bandits",
+      "date": "2026-11-29",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "Coffee Bandits, 309 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "LGBTQ Merced hosts an open arts-and-crafts social; everyone is welcome. Bring your own project and materials. Some materials are also provided.",
+      "cost": "Admission charge not published; check with the organizer.",
+      "sourceName": "LGBTQ Merced",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/queer-craft-meetup/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-11-30",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-11-30",
@@ -2779,6 +2884,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-12-03"
+    },
+    {
+      "id": "free-food-umc-merced-2026-12-03",
+      "title": "Free Food Distribution — United Methodist Church of Merced",
+      "date": "2026-12-03",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "United Methodist Church of Merced, 899 Yosemite Parkway, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Collect free food provided by Merced Food Bank at the United Methodist Church of Merced. The public listing welcomes everyone.",
+      "cost": "Free",
+      "sourceName": "United Methodist Church of Merced / LGBTQ Merced calendar",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/free-food-in-merced-5/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
     },
     {
       "title": "Leyendas del Mariachi",
@@ -2868,6 +2988,21 @@
       "cost": "$22–$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "mary-poppins-playhouse-merced-2026-12-06"
+    },
+    {
+      "id": "silent-book-club-merced-2026-12-06",
+      "title": "Silent Book Club — Coffee Bandits",
+      "date": "2026-12-06",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Coffee Bandits, 309 W Main Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "LGBTQ Merced hosts a reading and social meetup. Bring a book of your choice; participants read their own books and can chat with other readers.",
+      "cost": "Admission charge not published; check with the organizer.",
+      "sourceName": "LGBTQ Merced",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/silent-book-club/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
     },
     {
       "id": "mommy-me-tap-ballet-mac-2026-12-07",
