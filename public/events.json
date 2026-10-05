@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:09:13Z",
+  "updatedAt": "2026-10-05T18:14:47Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1454,6 +1454,19 @@
       "cost": "Free"
     },
     {
+      "id": "merced-lao-family-trunk-or-treat-2026-10-16",
+      "title": "Trunk or Treat — Merced Lao Family Community",
+      "date": "2026-10-16",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B parking lot, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Public trunk-or-treat hosted by Merced Lao Family Community, Inc. in the Suite B parking lot.",
+      "sourceUrl": "https://www.facebook.com/events/4521431838072041/",
+      "sourceName": "Merced Lao Family Community, Inc."
+    },
+    {
       "id": "flor-de-toloache-uc-merced-arts-2026-10-16",
       "title": "Flor de Toloache — UC Merced Arts",
       "date": "2026-10-16",
@@ -2107,6 +2120,19 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-poly-humboldt-eptoe0",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "city-of-atwater-trunk-or-treat-2026-10-24",
+      "title": "City of Atwater Trunk or Treat",
+      "date": "2026-10-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, 760 E Bellevue Road, Atwater, CA",
+      "category": "Festivals & community",
+      "description": "Public trunk-or-treat hosted by the City of Atwater at the Atwater Community Center.",
+      "sourceUrl": "https://www.facebook.com/events/1355086950023321/",
+      "sourceName": "City of Atwater"
     },
     {
       "title": "Night of the Living Dead Live — Playhouse Merced",
