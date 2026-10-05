@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:25:56.880242Z",
+  "updatedAt": "2026-10-05T15:10:24.247878Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -857,6 +857,20 @@
       "cost": "Free"
     },
     {
+      "id": "teens-makerspace-merced-library-2026-10-07",
+      "title": "Teens: Makerspace — Merced Library",
+      "date": "2026-10-07",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced Library - Teen Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Library makerspace session for teens ages 12–18.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20339&month=10&year=2026&day=5&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "id": "adults-game-night-merced-library-2026-10-07",
       "title": "Adults: Game Night — Merced Library",
       "date": "2026-10-07",
@@ -1426,6 +1440,20 @@
       "cost": "Free"
     },
     {
+      "id": "lego-time-atwater-library-2026-10-16",
+      "title": "LEGO Time — Atwater Library",
+      "date": "2026-10-16",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "LEGO activity for children of all ages.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18469&month=10&year=2026&day=5&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "id": "flor-de-toloache-uc-merced-arts-2026-10-16",
       "title": "Flor de Toloache — UC Merced Arts",
       "date": "2026-10-16",
@@ -1594,6 +1622,20 @@
       "category": "Library & learning",
       "description": "Improv club session for adults ages 18 and older.",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20246&month=10&year=2026&day=28&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "drop-in-digital-help-merced-library-2026-10-17",
+      "title": "Drop-In Digital Help — Merced Library",
+      "date": "2026-10-17",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Merced Main Library - Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Drop-in help with technology questions, including e-books and email. Laptops are provided.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19288&month=10&year=2026&day=5&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
     },
@@ -2373,6 +2415,34 @@
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
     },
     {
+      "id": "teens-movie-merced-library-2026-11-02",
+      "title": "Teens: Movie — Merced Library",
+      "date": "2026-11-02",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced Library - Teen Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Library movie session for teens ages 12–18. The event page does not name the film.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19427&month=11&year=2026&day=5&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "sensory-playgroup-atwater-library-2026-11-03",
+      "title": "Sensory Playgroup — Atwater Library",
+      "date": "2026-11-03",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Library sensory playgroup for children ages 0–2.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18533&month=11&year=2026&day=5&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "id": "no-no-boy-uc-merced-arts-2026-11-04",
       "title": "No-No Boy — UC Merced Arts",
       "date": "2026-11-04",
@@ -2430,6 +2500,20 @@
       "sourceName": "United Methodist Church of Merced / LGBTQ Merced calendar",
       "sourceUrl": "https://www.lgbtqmerced.org/events/free-food-in-merced-5/",
       "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
+    },
+    {
+      "id": "lego-time-atwater-library-2026-11-06",
+      "title": "LEGO Time — Atwater Library",
+      "date": "2026-11-06",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "LEGO activity for children of all ages.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18472&month=11&year=2026&day=5&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
     },
     {
       "id": "ucm-womens-volleyball-2026-11-06",
@@ -3166,6 +3250,21 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-12-17"
+    },
+    {
+      "id": "free-food-umc-merced-2026-12-17",
+      "title": "Free Food Distribution — United Methodist Church of Merced",
+      "date": "2026-12-17",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "United Methodist Church of Merced, 899 Yosemite Parkway, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Collect free food provided by Merced Food Bank at the United Methodist Church of Merced. The public listing welcomes everyone.",
+      "cost": "Free",
+      "sourceName": "United Methodist Church of Merced / LGBTQ Merced calendar",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/free-food-in-merced-5/",
+      "timeNote": "This occurrence and its hours are explicitly listed in the public calendar: https://www.lgbtqmerced.org/events/"
     },
     {
       "title": "Art & Spirits — Paint Along",
