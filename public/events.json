@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T15:10:24.247878Z",
+  "updatedAt": "2026-10-05T18:09:13Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1984,14 +1984,14 @@
       "timeNote": "Drop-off closes promptly at 1:30 PM."
     },
     {
-      "title": "6th Annual Cops for Critters Car Show",
+      "title": "6th Annual Cops for Critters Car Show & Trunk-or-Treat",
       "date": "2026-10-24",
       "startTime": "10:00",
       "endTime": "13:00",
       "city": "Merced",
       "location": "611 West 22nd Street, Merced, CA 95340",
       "category": "Festivals & community",
-      "description": "Public car show with food trucks and vendors, benefiting the local zoo.",
+      "description": "Public car show and trunk-or-treat with food trucks and vendors, benefiting the local zoo. Trunk-or-treat begins at 10 a.m.; car judging begins at noon.",
       "sourceUrl": "https://www.eventbrite.com/e/6th-annual-cops-for-critters-car-show-registration-1997481028527",
       "sourceName": "Merced Police Department",
       "cost": "Free to attend; vehicle and vendor registration costs extra",
@@ -2368,6 +2368,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20252&month=10&year=2026&day=28&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "yosemite-church-fall-family-fun-night-2026-10-31",
+      "title": "Fall Family Fun Night — Yosemite Church",
+      "date": "2026-10-31",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Yosemite Church, 2230 E Yosemite Avenue, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Free community celebration with a 30-car trunk-or-treat loop, dinner and treats, inflatables, a toddler play zone and a family photo booth.",
+      "sourceUrl": "https://yosemitechurch.com/calendar/2026/10/31/fall-family-fun-night",
+      "sourceName": "Yosemite Church",
+      "cost": "Free admission, food and activities"
     },
     {
       "title": "Atwater Flea & Farmers Market",
