@@ -112,6 +112,24 @@ class CalendarTests(unittest.TestCase):
         after = next(line for line in unfold(calendar.build_ics(catalog(revised))).splitlines() if line.startswith("UID:"))
         self.assertEqual(before, after)
 
+    def test_generation_preserves_history_and_only_explicit_recurrence_dates(self):
+        data = catalog(
+            event(id="historic", date="2000-01-01"),
+            event(id="weekly-one", date="2099-10-01"),
+            event(id="weekly-two", date="2099-10-08"),
+            event(id="untimed", date="2099-10-31", startTime=None, endTime=None),
+        )
+        original = copy.deepcopy(data)
+        content = calendar.build_ics(data)
+        result = unfold(content)
+        self.assertEqual(result.count("BEGIN:VEVENT"), 4)
+        for row in data["events"]:
+            self.assertIn("UID:" + row["id"] + "@community.gamechangersai.org", result)
+        self.assertNotIn("RRULE:", result)
+        self.assertNotIn("20991015", result)
+        self.assertEqual(data, original)
+        self.assertEqual(calendar.build_ics(data), content)
+
     def test_no_alarm_invitation_or_organizer_properties(self):
         result = unfold(calendar.build_ics(catalog()))
         for property_name in ("ATTENDEE:", "ORGANIZER:", "BEGIN:VALARM", "TRIGGER:", "METHOD:REQUEST"):

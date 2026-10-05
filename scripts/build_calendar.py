@@ -3,6 +3,8 @@
 
 Only the explicitly supplied public JSON is read. This script never imports
 Home, family calendars, credentials, or Google event payloads.
+Retain history and all explicitly published occurrences; upcoming visibility is
+computed in the browser from the current Pacific time, never frozen at build time.
 """
 
 from __future__ import annotations

@@ -1,11 +1,10 @@
 import Icon from './Icon.jsx';
 import { dateObject, formatDate, localToday, monthLabel, stepMonth } from '../dates.js';
-export default function MiniCalendar({ month, setMonth, events, selectedDate, setSelectedDate }) {
+export default function MiniCalendar({ month, setMonth, events, selectedDate, setSelectedDate, today = localToday() }) {
   const first = dateObject(`${month}-01`);
   const dayOffset = first.getUTCDay();
   const dayCount = new Date(Date.UTC(first.getUTCFullYear(), first.getUTCMonth() + 1, 0)).getUTCDate();
   const eventDates = new Set(events.map(event => event.date));
-  const today = localToday();
   return <section className="mini-calendar" aria-label="Choose an event date"><div className="calendar-heading"><h2>{monthLabel(month)}</h2><div><button aria-label="Previous month" className="icon-button" onClick={() => setMonth(stepMonth(month, -1))}><Icon name="left" size={18} /></button><button aria-label="Next month" className="icon-button" onClick={() => setMonth(stepMonth(month, 1))}><Icon name="right" size={18} /></button></div></div><div className="calendar-grid">{['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map(day => <span className="weekday" key={day}>{day}</span>)}{Array.from({ length: dayOffset }, (_, i) => <span key={`blank-${i}`} />)}{Array.from({ length: dayCount }, (_, i) => {
     const date = `${month}-${String(i + 1).padStart(2, '0')}`;
     const selected = date === selectedDate;

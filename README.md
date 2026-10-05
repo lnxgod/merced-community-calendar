@@ -17,10 +17,14 @@ npm run dev
 The reviewed public catalog is `public/events.json`. Organizer links and research scope are in `public/sources.json`. Each event has a stable ID; preserve it when correcting a title, venue or time. All wall times are America/Los_Angeles. Use `null` for an unpublished start or end, with a useful `timeNote`; do not infer durations or future occurrences.
 
 ```sh
-python3 -m unittest discover -s tests -v
-python3 scripts/build_calendar.py
 npm run build
 ```
+
+`npm run build` runs the frontend visibility tests and Python publication tests, validates the full catalog, generates the subscription feed, and builds the site. This is also the GitHub Pages and daily maintenance build path; run `npm test` for the tests alone.
+
+The default website view shows current and upcoming occurrences across months, soonest first, using the visitor's current time in America/Los_Angeles. It refreshes at minute boundaries and when a tab regains focus. Events remain visible until their published end; unknown ends and untimed date placeholders remain for their Pacific date. The schema has no true all-day, multi-day or recurrence-rule fields: an untimed record is still labeled time TBD, and recurring activities appear only on the explicit dates in the catalog. Do not infer further occurrences.
+
+Preserve history in `public/events.json` and `community.ics`; neither the builder nor maintenance should prune past records to achieve the default view. Selecting a month or calendar date explicitly browses that period, including history. “Upcoming events” returns to the current list. The ghost quick filter uses explicit trunk-or-treat/trick-or-treat wording, or Halloween/“Boo Bash” wording together with candy, in event titles/descriptions; an October date or generic fall festival alone is not enough. Keep these descriptions factual instead of adding keywords just to make an event match.
 
 Push reviewed changes to `main`. GitHub Actions validates the catalog, builds the site and publishes only `dist`. The public subscription feed is `/community.ics`; IDs are stable across updates. Do not put credentials, private source material or personal calendar exports in this repository.
 
