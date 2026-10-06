@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:14:47Z",
+  "updatedAt": "2026-10-06T15:13:30.718163Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1455,16 +1455,17 @@
     },
     {
       "id": "merced-lao-family-trunk-or-treat-2026-10-16",
-      "title": "Trunk or Treat — Merced Lao Family Community",
+      "title": "Merced Lao Family's 3rd Annual Trunk-or-Treat",
       "date": "2026-10-16",
       "startTime": "18:00",
       "endTime": "19:30",
       "city": "Merced",
-      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B parking lot, Merced, CA",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B parking lot, Merced, CA 95348",
       "category": "Festivals & community",
-      "description": "Public trunk-or-treat hosted by Merced Lao Family Community, Inc. in the Suite B parking lot.",
+      "description": "Public trunk-or-treat hosted by Merced Lao Family Community, Inc. Costumes welcome. The organizer lists candy, games and activities, raffle prizes and music.",
       "sourceUrl": "https://www.facebook.com/events/4521431838072041/",
-      "sourceName": "Merced Lao Family Community, Inc."
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "cost": "Free candy, games and activities, raffle prizes and music, according to the organizer."
     },
     {
       "id": "flor-de-toloache-uc-merced-arts-2026-10-16",
@@ -2004,10 +2005,10 @@
       "city": "Merced",
       "location": "611 West 22nd Street, Merced, CA 95340",
       "category": "Festivals & community",
-      "description": "Public car show and trunk-or-treat with food trucks and vendors, benefiting the local zoo. Trunk-or-treat begins at 10 a.m.; car judging begins at noon.",
+      "description": "Public car show and trunk-or-treat with a costume contest, food vendors, candy and music, benefiting the local zoo. All ages are welcome.",
       "sourceUrl": "https://www.eventbrite.com/e/6th-annual-cops-for-critters-car-show-registration-1997481028527",
       "sourceName": "Merced Police Department",
-      "cost": "Free to attend; vehicle and vendor registration costs extra",
+      "cost": "Free to attend; vehicle or vendor registration is $30 and nonrefundable.",
       "id": "6th-annual-cops-for-critters-car-show-2026-10-24"
     },
     {
@@ -2108,6 +2109,20 @@
       "id": "kiddieland-annual-fright-night-day-2-2026-10-24"
     },
     {
+      "id": "city-of-atwater-trunk-or-treat-2026-10-24",
+      "title": "City of Atwater Trunk or Treat — Community Center",
+      "date": "2026-10-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, 760 E Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public City of Atwater trunk-or-treat at the Community Center, with games and prizes. Check the organizer for event details and admission information.",
+      "sourceUrl": "https://www.facebook.com/events/1355086950023321/",
+      "sourceName": "The City of Atwater",
+      "cost": "Admission price not published; check the organizer."
+    },
+    {
       "id": "ucm-womens-volleyball-2026-10-24",
       "title": "UC Merced Women’s Volleyball vs. Cal Poly Humboldt",
       "date": "2026-10-24",
@@ -2120,19 +2135,6 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-poly-humboldt-eptoe0",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
-    },
-    {
-      "id": "city-of-atwater-trunk-or-treat-2026-10-24",
-      "title": "City of Atwater Trunk or Treat",
-      "date": "2026-10-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "city": "Atwater",
-      "location": "Atwater Community Center, 760 E Bellevue Road, Atwater, CA",
-      "category": "Festivals & community",
-      "description": "Public trunk-or-treat hosted by the City of Atwater at the Atwater Community Center.",
-      "sourceUrl": "https://www.facebook.com/events/1355086950023321/",
-      "sourceName": "City of Atwater"
     },
     {
       "title": "Night of the Living Dead Live — Playhouse Merced",
@@ -2397,17 +2399,17 @@
     },
     {
       "id": "yosemite-church-fall-family-fun-night-2026-10-31",
-      "title": "Fall Family Fun Night — Yosemite Church",
+      "title": "Yosemite Church Fall Family Fun Night & Trunk-or-Treat",
       "date": "2026-10-31",
       "startTime": "18:00",
       "endTime": "20:00",
       "city": "Merced",
-      "location": "Yosemite Church, 2230 E Yosemite Avenue, Merced, CA 95340",
+      "location": "Yosemite Church, 2230 E Yosemite Avenue, Merced, CA",
       "category": "Festivals & community",
-      "description": "Free community celebration with a 30-car trunk-or-treat loop, dinner and treats, inflatables, a toddler play zone and a family photo booth.",
+      "description": "A community event for families, children and neighbors of all ages, with a 30-car trunk-or-treat loop, dinner and treats, inflatables, and a fall photo booth. The dedicated toddler play area is for ages 0–3.",
       "sourceUrl": "https://yosemitechurch.com/calendar/2026/10/31/fall-family-fun-night",
       "sourceName": "Yosemite Church",
-      "cost": "Free admission, food and activities"
+      "cost": "Free admission, food and activities, according to the organizer."
     },
     {
       "title": "Atwater Flea & Farmers Market",
