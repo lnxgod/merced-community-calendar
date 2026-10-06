@@ -7,6 +7,7 @@ import MiniCalendar from './components/MiniCalendar.jsx';
 import { AboutDialog, EventDialog, SubscribeDialog } from './components/Dialogs.jsx';
 import { localToday, stepMonth } from './dates.js';
 import { filterEvents, selectVisibleEvents } from './events.js';
+import { withEventImages } from './images.js';
 
 const DEFAULT_CONFIG = { published: false, icsUrl: 'https://community.gamechangersai.org/community.ics' };
 async function readJson(url, signal) {
@@ -19,6 +20,7 @@ function validEvent(event) {
 }
 export default function App() {
   const [data, setData] = useState({ events: [], updatedAt: null });
+  const [imageManifest, setImageManifest] = useState(null);
   const [config, setConfig] = useState(DEFAULT_CONFIG);
   const [status, setStatus] = useState('loading');
   const [configStatus, setConfigStatus] = useState('loading');
@@ -55,6 +57,10 @@ export default function App() {
   useEffect(() => {
     const abort = new AbortController();
     setStatus('loading');
+    setImageManifest(null);
+    readJson(`${import.meta.env.BASE_URL}event-images.json`, abort.signal).then(manifest => {
+      if (!abort.signal.aborted) setImageManifest(manifest);
+    }).catch(() => { /* Optional images must never prevent the catalog from loading. */ });
     Promise.allSettled([readJson(`${import.meta.env.BASE_URL}events.json`, abort.signal), readJson(`${import.meta.env.BASE_URL}calendar-config.json`, abort.signal)]).then(([eventsResult, configResult]) => {
       if (abort.signal.aborted) return;
       if (eventsResult.status === 'fulfilled' && Array.isArray(eventsResult.value.events)) {
@@ -76,7 +82,8 @@ export default function App() {
     for (let index = 0; index < 12; index++) values.add(stepMonth(today.slice(0, 7), index));
     return [...values].sort();
   }, [data.events, month, today]);
-  const matchingEvents = useMemo(() => filterEvents(data.events, { city, category, query, halloweenOnly }), [data.events, city, category, query, halloweenOnly]);
+  const illustratedEvents = useMemo(() => withEventImages(data.events, imageManifest), [data.events, imageManifest]);
+  const matchingEvents = useMemo(() => filterEvents(illustratedEvents, { city, category, query, halloweenOnly }), [illustratedEvents, city, category, query, halloweenOnly]);
   const visibleEvents = useMemo(() => selectVisibleEvents(matchingEvents, { now, month: browsingMonth, selectedDate, sort }), [matchingEvents, now, browsingMonth, selectedDate, sort]);
   function showUpcoming() { setBrowsingMonth(null); setSelectedDate(null); setSort('asc'); }
   function setMonth(value) {
@@ -88,5 +95,5 @@ export default function App() {
   const onAbout = () => setDialog({ type: 'about' });
   const onSubscribe = () => setDialog({ type: 'subscribe' });
   const onClose = () => setDialog(null);
-  return <><a href="#events" className="skip-link">Skip to events</a><div className="site-shell"><Header onAbout={onAbout} onSubscribe={onSubscribe} /><main><Hero /><div className="calendar-content" id="events"><Filters query={query} setQuery={setQuery} city={city} setCity={setCity} category={category} setCategory={setCategory} month={upcoming ? 'upcoming' : month} setMonth={setMonth} months={months} categories={categories} halloweenOnly={halloweenOnly} setHalloweenOnly={setHalloweenOnly} /><div className="calendar-layout"><details className="mobile-date-picker"><summary><Icon name="calendar" size={18} />Choose a date<Icon name="down" size={16} /></summary><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /></details><EventList events={visibleEvents} month={month} upcoming={upcoming} showUpcoming={showUpcoming} selectedDate={selectedDate} clearDate={() => setSelectedDate(null)} sort={sort} setSort={setSort} onSelect={event => setDialog({ type: 'event', event })} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /><aside className="calendar-rail"><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /><SubscribeBand onSubscribe={onSubscribe} /></aside></div></div></main><Footer onAbout={onAbout} onSubscribe={onSubscribe} /></div>{dialog?.type === 'event' ? <EventDialog event={dialog.event} onClose={onClose} /> : dialog?.type === 'about' ? <AboutDialog onClose={onClose} updatedAt={data.updatedAt} count={data.events.length} /> : dialog?.type === 'subscribe' ? <SubscribeDialog onClose={onClose} config={config} configStatus={configStatus} /> : null}</>;
+  return <><a href="#events" className="skip-link">Skip to events</a><div className="site-shell"><Header onAbout={onAbout} onSubscribe={onSubscribe} /><main><Hero /><div className="calendar-content" id="events"><Filters query={query} setQuery={setQuery} city={city} setCity={setCity} category={category} setCategory={setCategory} month={upcoming ? 'upcoming' : month} setMonth={setMonth} months={months} categories={categories} halloweenOnly={halloweenOnly} setHalloweenOnly={setHalloweenOnly} /><div className="calendar-layout"><details className="mobile-date-picker"><summary><Icon name="calendar" size={18} />Choose a date<Icon name="down" size={16} /></summary><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /></details><EventList events={visibleEvents} month={month} upcoming={upcoming} showUpcoming={showUpcoming} selectedDate={selectedDate} clearDate={() => setSelectedDate(null)} sort={sort} setSort={setSort} onSelect={event => setDialog({ type: 'event', event })} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /><aside className="calendar-rail"><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /><SubscribeBand onSubscribe={onSubscribe} /></aside></div></div></main><Footer onAbout={onAbout} onSubscribe={onSubscribe} /></div>{dialog?.type === 'event' ? <EventDialog event={withEventImages([dialog.event], imageManifest)[0]} onClose={onClose} /> : dialog?.type === 'about' ? <AboutDialog onClose={onClose} updatedAt={data.updatedAt} count={data.events.length} /> : dialog?.type === 'subscribe' ? <SubscribeDialog onClose={onClose} config={config} configStatus={configStatus} /> : null}</>;
 }

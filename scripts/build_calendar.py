@@ -28,6 +28,8 @@ FIELDS = frozenset({
 })
 REQUIRED_FIELDS = FIELDS - {"cost", "timeNote"}
 ID_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9_-]{0,119}\Z")
+IMAGE_PATH_PATTERN = re.compile(r"assets/events/[a-z0-9][a-z0-9_-]*\.(?:jpg|jpeg|png|webp)\Z")
+IMAGE_FIELDS = {"src", "alt", "width", "height", "thumbnailSrc"}
 TIME_PATTERN = re.compile(r"(?:[01][0-9]|2[0-3]):[0-5][0-9]\Z")
 PRIVATE_MARKERS = re.compile(
     r"\b(?:Dad|Mom|Child)[- /]only\b|"
@@ -178,6 +180,42 @@ def load_catalog(path: Path) -> dict:
     return validate_catalog(json.loads(path.read_text(encoding="utf-8"), object_pairs_hook=_unique_object))
 
 
+def validate_event_images(manifest: object, catalog: dict, public_root: Path) -> None:
+    """Validate optional website images without changing the shared event schema."""
+    if not isinstance(manifest, dict) or set(manifest) != {"images"} or not isinstance(manifest["images"], dict):
+        raise ValidationError("Image manifest must contain only an images object")
+    event_ids = {event["id"] for event in catalog["events"]}
+    asset_root = public_root.resolve() / "assets/events"
+    for identifier, image in manifest["images"].items():
+        label = f"Image for {identifier}"
+        if identifier not in event_ids:
+            raise ValidationError(f"{label} has no matching catalog event")
+        if not isinstance(image, dict) or set(image) - IMAGE_FIELDS or IMAGE_FIELDS - {"thumbnailSrc"} - set(image):
+            raise ValidationError(f"{label} requires src, alt, width and height; only thumbnailSrc is optional")
+        _text(image["alt"], f"{label} alt", limit=500)
+        for field in ("width", "height"):
+            if type(image[field]) is not int or not 1 <= image[field] <= 10000:
+                raise ValidationError(f"{label} {field} must be an integer from 1 to 10000")
+        for field in ("src", "thumbnailSrc"):
+            if field not in image:
+                continue
+            value = image[field]
+            if not isinstance(value, str) or not IMAGE_PATH_PATTERN.fullmatch(value):
+                raise ValidationError(f"{label} {field} must be a local assets/events JPG, PNG or WebP path")
+            path = public_root / value
+            if path.is_symlink() or not path.resolve().is_relative_to(asset_root) or not path.is_file():
+                raise ValidationError(f"{label} {field} must reference an existing local image file")
+            if not 0 < path.stat().st_size <= 5 * 1024 * 1024:
+                raise ValidationError(f"{label} {field} must be no larger than 5 MiB")
+            with path.open("rb") as asset:
+                header = asset.read(12)
+            raster = ((path.suffix in {".jpg", ".jpeg"} and header.startswith(b"\xff\xd8\xff"))
+                      or (path.suffix == ".png" and header.startswith(b"\x89PNG\r\n\x1a\n"))
+                      or (path.suffix == ".webp" and header[:4] == b"RIFF" and header[8:12] == b"WEBP"))
+            if not raster:
+                raise ValidationError(f"{label} {field} does not contain its declared raster image format")
+
+
 def escape_text(value: str) -> str:
     return value.replace("\\", "\\\\").replace("\n", "\\n").replace(";", "\\;").replace(",", "\\,")
 
@@ -251,6 +289,10 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     try:
         data = load_catalog(args.input)
+        images_path = args.input.with_name("event-images.json")
+        if images_path.exists():
+            manifest = json.loads(images_path.read_text(encoding="utf-8"), object_pairs_hook=_unique_object)
+            validate_event_images(manifest, data, args.input.parent)
         content = build_ics(data)
         if args.check:
             if not args.output.is_file() or args.output.read_bytes() != content:

@@ -30,6 +30,30 @@ Push reviewed changes to `main`. GitHub Actions validates the catalog, builds th
 
 The separate Google Calendar is identified in `public/calendar-config.json`. Updating this repository does not itself update Google. The daily maintenance task reconciles both destinations and verifies each write. Preserve Google event IDs when updating; importing the full feed again is not an update strategy. Google imports assign one-hour blocks to events without end times, so those Google copies are explicitly labeled “end time TBD” and explain that the block is only a placeholder. The website feed omits unknown ends.
 
+## Optional event flyers and photos
+
+Keep website images in `public/event-images.json`, keyed by the existing event ID. This separate manifest preserves the event fields used by Studio, the subscription feed, and Google sync. An event with no entry keeps its text-only layout. For example (replace the ID, filenames, dimensions and alt text with verified material):
+
+```json
+{
+  "images": {
+    "existing-event-id": {
+      "src": "assets/events/existing-event-id-flyer-v1.jpg",
+      "thumbnailSrc": "assets/events/existing-event-id-thumb-v1.webp",
+      "alt": "Describe the public flyer or photo, including any useful visual information.",
+      "width": 1200,
+      "height": 1600
+    }
+  }
+}
+```
+
+`thumbnailSrc` is optional; it can provide a smaller copy with the same composition. Dimensions describe the full image. Use descriptive, versioned lowercase filenames containing letters, digits, hyphens or underscores. Keep reviewed JPG, PNG or WebP files under `public/assets/events/`, at most 5 MiB each; use a reasonably compressed full image and a small thumbnail where possible. Remote hotlinks, expiring attachment URLs, query strings, SVGs and paths outside this folder are not accepted. `npm run build` validates the manifest, event IDs and local assets before generating the unchanged calendar feed.
+
+Use only the public event artwork, with no Messenger interface, sender details or private attachment metadata. Strip embedded metadata before adding an asset. Transcribe verified dates, times, venue, admission and other essential flyer information into the normal event fields so readers never need to read an image. Supply concise, meaningful alt text. The detail view preserves the entire image and links to the local full-size original; images load lazily, and a failed image leaves the event information usable.
+
+Publish the manifest and assets with the related catalog update through the existing reviewed repository build and Pages workflow. Retain image entries and files during later text edits; update their keys only if a catalog event ID must change. Remove an image entry when its event is deliberately removed. Studio can continue editing the shared text catalog; it does not upload or manage this website image manifest.
+
 ## Hosting
 
 This repository uses GitHub Pages and the existing Route 53 record `community.gamechangersai.org` pointing to `lnxgod.github.io`. There is no application server, login, analytics, tracking or public access to the private home dashboard.
