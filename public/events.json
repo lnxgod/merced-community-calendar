@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:13:30.718163Z",
+  "updatedAt": "2026-10-07T15:08:25.951937Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1426,6 +1426,34 @@
       "timeNote": "Organizer explicitly lists Thursdays through October 29, 2026. End time not published."
     },
     {
+      "id": "conversation-circles-merced-library-2026-10-16",
+      "title": "Conversation Circles — Merced Library",
+      "date": "2026-10-16",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Merced Library - Read and Succeed Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Practice everyday English over free coffee. All levels are welcome; registration is not required.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19346&month=10&year=2026&day=7&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "tiny-tales-merced-library-2026-10-16",
+      "title": "Tiny Tales — Merced Library",
+      "date": "2026-10-16",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Library - Gracey Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Picture books, music and fingerplays for children ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m., followed by a craft from 11–11:30 a.m.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18311&month=10&year=2026&day=7&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
       "id": "adult-dungeons-dragons-gameplay-merced-library-2026-10-16",
       "title": "Dungeons & Dragons: Gameplay — Merced Library",
       "date": "2026-10-16",
@@ -1596,6 +1624,20 @@
       "timeNote": "These are the published Kiddieland free-day hours. The neighboring Zombie Bike Ride has a separate schedule that remains unconfirmed.",
       "sourceName": "Kiwanis Greater Merced Kiddieland",
       "sourceUrl": "https://kiwaniskiddieland.com/event/zombie-bike-ride-invades-kiddieland-free-day-kiddieland-sponsored-by-gold-runner/"
+    },
+    {
+      "id": "teens-dungeons-dragons-merced-library-2026-10-17",
+      "title": "Teens: Dungeons & Dragons — Merced Library",
+      "date": "2026-10-17",
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Library - Teen Department, 2100 O Street, Merced, CA 95340",
+      "category": "Games & hobbies",
+      "description": "Dungeons & Dragons session for teens ages 12–18.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20336&month=10&year=2026&day=7&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
     },
     {
       "id": "adult-digital-art-tutorial-merced-library-2026-10-17",
@@ -3188,6 +3230,20 @@
       "cost": "$22–$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "mary-poppins-playhouse-merced-2026-12-11"
+    },
+    {
+      "id": "merced-college-jazz-ensemble-fall-concert-2026-12-11",
+      "title": "Merced College Jazz Ensemble Fall Concert",
+      "date": "2026-12-11",
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Merced College Theater, 3600 M Street, Merced, CA 95348",
+      "category": "Arts & performances",
+      "description": "Live jazz performed by Merced College students and community musicians, directed by Ken Taylor. Tickets go on sale in November.",
+      "cost": "$15 general admission; $10 for students, seniors, Merced College staff and military.",
+      "sourceUrl": "https://www.mccd.edu/event/merced-college-jazz-ensemble-fall-2026-concert/",
+      "sourceName": "Merced College"
     },
     {
       "title": "Merced Flea & Farmers Market",
