@@ -1,3 +1,613 @@
 {
-  "images": {}
+  "images": {
+    "6th-annual-cops-for-critters-car-show-2026-10-24": {
+      "src": "assets/events/6th-annual-cops-for-critters-car-show-trunk-or-treat-4102ec3603.webp",
+      "thumbnailSrc": "assets/events/6th-annual-cops-for-critters-car-show-trunk-or-treat-4102ec3603-thumb.webp",
+      "alt": "Cops for Critters car show and trunk-or-treat flyer with costumed participants and cars, October 24, 2026, 10 a.m.–1 p.m., at 611 W 22nd Street.",
+      "width": 1080,
+      "height": 1350
+    },
+    "adults-game-night-merced-library-2026-10-07": {
+      "src": "assets/events/adults-game-night-merced-library-1f4629b3f9.webp",
+      "thumbnailSrc": "assets/events/adults-game-night-merced-library-1f4629b3f9-thumb.webp",
+      "alt": "Merced County Library Game Night program graphic.",
+      "width": 940,
+      "height": 788
+    },
+    "art-spirits-paint-along-2026-10-15": {
+      "src": "assets/events/art-spirits-paint-along-0a8dac6aee.webp",
+      "thumbnailSrc": "assets/events/art-spirits-paint-along-0a8dac6aee-thumb.webp",
+      "alt": "Art & Spirits participants painting at easels, from the Merced Multicultural Arts Center program page.",
+      "width": 2500,
+      "height": 3333
+    },
+    "art-spirits-paint-along-2026-11-19": {
+      "src": "assets/events/art-spirits-paint-along-0a8dac6aee.webp",
+      "thumbnailSrc": "assets/events/art-spirits-paint-along-0a8dac6aee-thumb.webp",
+      "alt": "Art & Spirits participants painting at easels, from the Merced Multicultural Arts Center program page.",
+      "width": 2500,
+      "height": 3333
+    },
+    "art-spirits-paint-along-2026-12-17": {
+      "src": "assets/events/art-spirits-paint-along-0a8dac6aee.webp",
+      "thumbnailSrc": "assets/events/art-spirits-paint-along-0a8dac6aee-thumb.webp",
+      "alt": "Art & Spirits participants painting at easels, from the Merced Multicultural Arts Center program page.",
+      "width": 2500,
+      "height": 3333
+    },
+    "bear-creek-ukulele-society-group-jam-2026-10-24": {
+      "src": "assets/events/bear-creek-ukulele-society-group-jam-7ff260fdc3.webp",
+      "thumbnailSrc": "assets/events/bear-creek-ukulele-society-group-jam-7ff260fdc3-thumb.webp",
+      "alt": "Bear Creek Ukulele Society group photograph with the society’s banner.",
+      "width": 1640,
+      "height": 924
+    },
+    "bear-creek-ukulele-society-group-jam-2026-11-28": {
+      "src": "assets/events/bear-creek-ukulele-society-group-jam-7ff260fdc3.webp",
+      "thumbnailSrc": "assets/events/bear-creek-ukulele-society-group-jam-7ff260fdc3-thumb.webp",
+      "alt": "Bear Creek Ukulele Society group photograph with the society’s banner.",
+      "width": 1640,
+      "height": 924
+    },
+    "bear-creek-ukulele-society-group-jam-2026-12-19": {
+      "src": "assets/events/bear-creek-ukulele-society-group-jam-7ff260fdc3.webp",
+      "thumbnailSrc": "assets/events/bear-creek-ukulele-society-group-jam-7ff260fdc3-thumb.webp",
+      "alt": "Bear Creek Ukulele Society group photograph with the society’s banner.",
+      "width": 1640,
+      "height": 924
+    },
+    "bookmobile-stephen-leonard-park-2026-10-08": {
+      "src": "assets/events/bookmobile-stephen-leonard-park-7505671776.webp",
+      "thumbnailSrc": "assets/events/bookmobile-stephen-leonard-park-7505671776-thumb.webp",
+      "alt": "The blue Merced County Library Bookmobile pictured on its public program listing.",
+      "width": 2600,
+      "height": 1950
+    },
+    "cfjc-earthseed-screening-merced-2026-11-14": {
+      "src": "assets/events/earthseed-film-screening-community-gathering-cfjc-c341fa1f00.webp",
+      "thumbnailSrc": "assets/events/earthseed-film-screening-community-gathering-cfjc-c341fa1f00-thumb.webp",
+      "alt": "Earthseed community film screening announcement for November 2026.",
+      "width": 2642,
+      "height": 1412
+    },
+    "flicks-of-flight-flight-of-the-intruder-2026-10-17": {
+      "src": "assets/events/flicks-of-flight-flight-of-the-intruder-b6cca6afa4.webp",
+      "thumbnailSrc": "assets/events/flicks-of-flight-flight-of-the-intruder-b6cca6afa4-thumb.webp",
+      "alt": "Castle Air Museum Flicks of Flight poster for Flight of the Intruder on October 17, 2026.",
+      "width": 1545,
+      "height": 2000
+    },
+    "flor-de-toloache-uc-merced-arts-2026-10-16": {
+      "src": "assets/events/flor-de-toloache-uc-merced-arts-52ad5ab770.webp",
+      "thumbnailSrc": "assets/events/flor-de-toloache-uc-merced-arts-52ad5ab770-thumb.webp",
+      "alt": "Flor de Toloache performing on stage in the UC Merced Arts event photograph.",
+      "width": 2420,
+      "height": 900
+    },
+    "food-para-todos-harvest-festival-2026-10-10": {
+      "src": "assets/events/food-para-todos-harvest-festival-1155d6f0f1.webp",
+      "thumbnailSrc": "assets/events/food-para-todos-harvest-festival-1155d6f0f1-thumb.webp",
+      "alt": "Food Para Todos Harvest Festival flyer for October 10, 2026, 11 a.m.–4 p.m., at 936 W 18th Street.",
+      "width": 1545,
+      "height": 1999
+    },
+    "household-hazardous-waste-highway-59-2026-10-17": {
+      "src": "assets/events/household-hazardous-waste-collection-highway-59-e1f5266b10.webp",
+      "thumbnailSrc": "assets/events/household-hazardous-waste-collection-highway-59-e1f5266b10-thumb.webp",
+      "alt": "Household hazardous waste collection flyer for October 17, 2026, 8 a.m.–noon, at 7040 N Highway 59.",
+      "width": 1224,
+      "height": 1585
+    },
+    "its-a-wonderful-life-merced-2026-12-11": {
+      "src": "assets/events/its-a-wonderful-life-movie-1443e9fe85.webp",
+      "thumbnailSrc": "assets/events/its-a-wonderful-life-movie-1443e9fe85-thumb.webp",
+      "alt": "Merced Theatre promotional artwork for It’s a Wonderful Life.",
+      "width": 500,
+      "height": 500
+    },
+    "jonathan-foley-climate-speaker-uc-merced-2026-10-26": {
+      "src": "assets/events/distinguished-climate-speaker-series-jonathan-foley-d7093162b8.webp",
+      "thumbnailSrc": "assets/events/distinguished-climate-speaker-series-jonathan-foley-d7093162b8-thumb.webp",
+      "alt": "Jonathan Foley climate speaker announcement with his portrait and bee imagery.",
+      "width": 2160,
+      "height": 1080
+    },
+    "kalani-pea-2026-10-25": {
+      "src": "assets/events/kalani-pea-065e0b29f4.webp",
+      "thumbnailSrc": "assets/events/kalani-pea-065e0b29f4-thumb.webp",
+      "alt": "Kalani Pe’a promotional concert poster published by Merced Theatre.",
+      "width": 400,
+      "height": 399
+    },
+    "kiddieland-family-day-merced-swat-k9-2026-10-10": {
+      "src": "assets/events/free-family-day-kiddieland-03a3bdf43b.webp",
+      "thumbnailSrc": "assets/events/free-family-day-kiddieland-03a3bdf43b-thumb.webp",
+      "alt": "Kiddieland Free Family Day flyer for October 10 featuring Merced SWAT and K9 activities.",
+      "width": 1440,
+      "height": 1920
+    },
+    "marketplace-merced-kids-club-2026-10-10": {
+      "src": "assets/events/kids-club-marketplace-at-merced-d4f5ab822a.webp",
+      "thumbnailSrc": "assets/events/kids-club-marketplace-at-merced-d4f5ab822a-thumb.webp",
+      "alt": "Marketplace at Merced Kids’ Club program poster with a photograph of children.",
+      "width": 500,
+      "height": 500
+    },
+    "mary-poppins-playhouse-merced-2026-12-04": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-05": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-06": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-11": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-12": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-13": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-18": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-19": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "mary-poppins-playhouse-merced-2026-12-20": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "merced-paws-on-patrol-2026-10-17": {
+      "src": "assets/events/merced-paws-on-patrol-fun-run-66c3ae4745.webp",
+      "thumbnailSrc": "assets/events/merced-paws-on-patrol-fun-run-66c3ae4745-thumb.webp",
+      "alt": "Merced Paws on Patrol Fun Run flyer for October 17 at Lake Yosemite.",
+      "width": 400,
+      "height": 600
+    },
+    "mommy-me-tap-ballet-mac-2026-10-12": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-10-19": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-10-26": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-11-02": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-11-09": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-11-16": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-11-23": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-11-30": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-12-07": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-12-14": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "mommy-me-tap-ballet-mac-2026-12-21": {
+      "src": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8.webp",
+      "thumbnailSrc": "assets/events/mommy-me-merced-tap-and-ballet-31ab7a35e8-thumb.webp",
+      "alt": "Mommy & Me tap and ballet class flyer advertising Monday sessions at 9 a.m., October through April.",
+      "width": 1605,
+      "height": 2047
+    },
+    "night-of-the-living-dead-live-playhouse-merced-2026-10-16": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "night-of-the-living-dead-live-playhouse-merced-2026-10-17": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "night-of-the-living-dead-live-playhouse-merced-2026-10-18": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "night-of-the-living-dead-live-playhouse-merced-2026-10-23": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "night-of-the-living-dead-live-playhouse-merced-2026-10-24": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "night-of-the-living-dead-live-playhouse-merced-2026-10-25": {
+      "src": "assets/events/playhouse-merced-2026-27-season-de31c9963e.webp",
+      "thumbnailSrc": "assets/events/playhouse-merced-2026-27-season-de31c9963e-thumb.webp",
+      "alt": "Playhouse Merced’s complete 2026–27 season poster, including Night of the Living Dead Live, October 16–25, and Mary Poppins, December 4–20.",
+      "width": 1728,
+      "height": 2592
+    },
+    "nightmare-before-christmas-sing-along-merced-2026-11-06": {
+      "src": "assets/events/nightmare-before-christmas-sing-a-long-movie-d5f5dc64fb.webp",
+      "thumbnailSrc": "assets/events/nightmare-before-christmas-sing-a-long-movie-d5f5dc64fb-thumb.webp",
+      "alt": "Merced Theatre promotional artwork for The Nightmare Before Christmas.",
+      "width": 500,
+      "height": 500
+    },
+    "no-no-boy-uc-merced-arts-2026-11-04": {
+      "src": "assets/events/no-no-boy-uc-merced-arts-88b19a510d.webp",
+      "thumbnailSrc": "assets/events/no-no-boy-uc-merced-arts-88b19a510d-thumb.webp",
+      "alt": "No-No Boy promotional portrait from the UC Merced Arts event page.",
+      "width": 2420,
+      "height": 900
+    },
+    "old-town-atwater-farmers-market-2026-10-15": {
+      "src": "assets/events/old-town-atwater-farmers-market-46deb5381c.webp",
+      "thumbnailSrc": "assets/events/old-town-atwater-farmers-market-46deb5381c-thumb.webp",
+      "alt": "Old Town Atwater Farmers Market flyer advertising the first and third Thursdays, 4–8 p.m., starting August 6.",
+      "width": 622,
+      "height": 709
+    },
+    "old-town-atwater-monthly-mixer-2026-10-14": {
+      "src": "assets/events/old-town-atwater-monthly-mixer-2e3225ce39.webp",
+      "thumbnailSrc": "assets/events/old-town-atwater-monthly-mixer-2e3225ce39-thumb.webp",
+      "alt": "Old Town Atwater Monthly Mixer flyer for October 14, 8–9 a.m., at 3750 Turbine Drive.",
+      "width": 928,
+      "height": 1152
+    },
+    "pizzas-pints-man-up-opportunity-foundation-2026-11-07": {
+      "src": "assets/events/pizzas-pints-the-man-up-opportunity-foundation-6c5da7d5ac.webp",
+      "thumbnailSrc": "assets/events/pizzas-pints-the-man-up-opportunity-foundation-6c5da7d5ac-thumb.webp",
+      "alt": "Pizzas & Pints attendees pictured in the organizer’s fundraiser event announcement.",
+      "width": 1280,
+      "height": 854
+    },
+    "polar-express-merced-2026-12-13": {
+      "src": "assets/events/the-polar-express-movie-with-santa-7e053404a5.webp",
+      "thumbnailSrc": "assets/events/the-polar-express-movie-with-santa-7e053404a5-thumb.webp",
+      "alt": "Merced Theatre promotional artwork for The Polar Express.",
+      "width": 500,
+      "height": 500
+    },
+    "queer-craft-meetup-merced-2026-10-25": {
+      "src": "assets/events/queer-craft-meetup-coffee-bandits-27262dfd1d.webp",
+      "thumbnailSrc": "assets/events/queer-craft-meetup-coffee-bandits-27262dfd1d-thumb.webp",
+      "alt": "Queer Crafting meetup flyer for the last Sunday of each month, noon–2 p.m., at Coffee Bandits.",
+      "width": 1620,
+      "height": 1620
+    },
+    "queer-craft-meetup-merced-2026-11-29": {
+      "src": "assets/events/queer-craft-meetup-coffee-bandits-27262dfd1d.webp",
+      "thumbnailSrc": "assets/events/queer-craft-meetup-coffee-bandits-27262dfd1d-thumb.webp",
+      "alt": "Queer Crafting meetup flyer for the last Sunday of each month, noon–2 p.m., at Coffee Bandits.",
+      "width": 1620,
+      "height": 1620
+    },
+    "rocky-horror-picture-show-merced-theatre-2026-10-23": {
+      "src": "assets/events/the-rocky-horror-picture-show-interactive-movie-182147c3da.webp",
+      "thumbnailSrc": "assets/events/the-rocky-horror-picture-show-interactive-movie-182147c3da-thumb.webp",
+      "alt": "Merced Theatre promotional artwork for The Rocky Horror Picture Show.",
+      "width": 450,
+      "height": 450
+    },
+    "run-for-the-fallen-merced-2026-11-08": {
+      "src": "assets/events/run-for-the-fallen-merced-college-0a5beab50d.webp",
+      "thumbnailSrc": "assets/events/run-for-the-fallen-merced-college-0a5beab50d-thumb.webp",
+      "alt": "Run for the Fallen flyer for November 8, 2026, at Merced College, with the morning event schedule.",
+      "width": 613,
+      "height": 784
+    },
+    "silent-book-club-merced-2026-11-01": {
+      "src": "assets/events/silent-book-club-coffee-bandits-efee57830d.webp",
+      "thumbnailSrc": "assets/events/silent-book-club-coffee-bandits-efee57830d-thumb.webp",
+      "alt": "Silent Book Club flyer for the first Sunday of each month, 4–6 p.m., at Coffee Bandits.",
+      "width": 1080,
+      "height": 1080
+    },
+    "silent-book-club-merced-2026-12-06": {
+      "src": "assets/events/silent-book-club-coffee-bandits-efee57830d.webp",
+      "thumbnailSrc": "assets/events/silent-book-club-coffee-bandits-efee57830d-thumb.webp",
+      "alt": "Silent Book Club flyer for the first Sunday of each month, 4–6 p.m., at Coffee Bandits.",
+      "width": 1080,
+      "height": 1080
+    },
+    "spanish-bilingual-story-time-merced-library-2026-10-08": {
+      "src": "assets/events/spanish-bilingual-story-time-merced-library-83672f9770.webp",
+      "thumbnailSrc": "assets/events/spanish-bilingual-story-time-merced-library-83672f9770-thumb.webp",
+      "alt": "Merced County Library Spanish Bilingual Storytime program graphic.",
+      "width": 940,
+      "height": 788
+    },
+    "the-welkin-mac-2026-10-16": {
+      "src": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b.webp",
+      "thumbnailSrc": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b-thumb.webp",
+      "alt": "Phoenix Creative Collective poster for The Welkin, October 16–24.",
+      "width": 1000,
+      "height": 563
+    },
+    "the-welkin-mac-2026-10-17": {
+      "src": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b.webp",
+      "thumbnailSrc": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b-thumb.webp",
+      "alt": "Phoenix Creative Collective poster for The Welkin, October 16–24.",
+      "width": 1000,
+      "height": 563
+    },
+    "the-welkin-mac-2026-10-18": {
+      "src": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b.webp",
+      "thumbnailSrc": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b-thumb.webp",
+      "alt": "Phoenix Creative Collective poster for The Welkin, October 16–24.",
+      "width": 1000,
+      "height": 563
+    },
+    "the-welkin-mac-2026-10-22": {
+      "src": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b.webp",
+      "thumbnailSrc": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b-thumb.webp",
+      "alt": "Phoenix Creative Collective poster for The Welkin, October 16–24.",
+      "width": 1000,
+      "height": 563
+    },
+    "the-welkin-mac-2026-10-23": {
+      "src": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b.webp",
+      "thumbnailSrc": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b-thumb.webp",
+      "alt": "Phoenix Creative Collective poster for The Welkin, October 16–24.",
+      "width": 1000,
+      "height": 563
+    },
+    "the-welkin-mac-2026-10-24": {
+      "src": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b.webp",
+      "thumbnailSrc": "assets/events/the-welkin-phoenix-creative-collective-a22c59e58b-thumb.webp",
+      "alt": "Phoenix Creative Collective poster for The Welkin, October 16–24.",
+      "width": 1000,
+      "height": 563
+    },
+    "tiny-tales-atwater-library-2026-10-07": {
+      "src": "assets/events/tiny-tales-atwater-library-c5148c8f85.webp",
+      "thumbnailSrc": "assets/events/tiny-tales-atwater-library-c5148c8f85-thumb.webp",
+      "alt": "Merced County Library Tiny Tales Storytime program graphic.",
+      "width": 940,
+      "height": 788
+    },
+    "tiny-tales-merced-library-2026-10-09": {
+      "src": "assets/events/tiny-tales-atwater-library-c5148c8f85.webp",
+      "thumbnailSrc": "assets/events/tiny-tales-atwater-library-c5148c8f85-thumb.webp",
+      "alt": "Merced County Library Tiny Tales Storytime program graphic.",
+      "width": 940,
+      "height": 788
+    },
+    "ucm-mens-soccer-2026-10-09": {
+      "src": "assets/events/uc-merced-mens-soccer-vs-cal-state-monterey-bay-f00d9961d8.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-soccer-vs-cal-state-monterey-bay-f00d9961d8-thumb.webp",
+      "alt": "UC Merced soccer announcement against Cal State Monterey Bay on October 9, at 4:30 and 7:30 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-mens-soccer-2026-10-22": {
+      "src": "assets/events/uc-merced-mens-soccer-vs-menlo-college-1ec0bf7441.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-soccer-vs-menlo-college-1ec0bf7441-thumb.webp",
+      "alt": "UC Merced soccer announcement against Menlo College on October 22, at 4 and 7 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-mens-soccer-2026-10-24": {
+      "src": "assets/events/uc-merced-mens-soccer-vs-cal-state-san-marcos-3c6ea87014.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-soccer-vs-cal-state-san-marcos-3c6ea87014-thumb.webp",
+      "alt": "UC Merced soccer announcement against Cal State San Marcos on October 24, at 11 a.m. and 2 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-mens-water-polo-2026-10-09": {
+      "src": "assets/events/uc-merced-mens-water-polo-vs-concordia-university-irvine-a4ed0226c1.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-water-polo-vs-concordia-university-irvine-a4ed0226c1-thumb.webp",
+      "alt": "UC Merced men’s water polo announcement against Concordia University Irvine on October 9 at 11 a.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-mens-water-polo-2026-10-10": {
+      "src": "assets/events/uc-merced-mens-water-polo-vs-biola-c04cffe35b.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-water-polo-vs-biola-c04cffe35b-thumb.webp",
+      "alt": "UC Merced men’s water polo announcement against Biola on October 10 at 2 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-mens-water-polo-2026-10-31": {
+      "src": "assets/events/uc-merced-mens-water-polo-vs-fresno-pacific-92bf326ef1.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-water-polo-vs-fresno-pacific-92bf326ef1-thumb.webp",
+      "alt": "UC Merced men’s water polo announcement against Fresno Pacific on October 31 at 1 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-soccer-2026-10-09": {
+      "src": "assets/events/uc-merced-mens-soccer-vs-cal-state-monterey-bay-f00d9961d8.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-soccer-vs-cal-state-monterey-bay-f00d9961d8-thumb.webp",
+      "alt": "UC Merced soccer announcement against Cal State Monterey Bay on October 9, at 4:30 and 7:30 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-soccer-2026-10-22": {
+      "src": "assets/events/uc-merced-mens-soccer-vs-menlo-college-1ec0bf7441.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-soccer-vs-menlo-college-1ec0bf7441-thumb.webp",
+      "alt": "UC Merced soccer announcement against Menlo College on October 22, at 4 and 7 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-soccer-2026-10-24": {
+      "src": "assets/events/uc-merced-mens-soccer-vs-cal-state-san-marcos-3c6ea87014.webp",
+      "thumbnailSrc": "assets/events/uc-merced-mens-soccer-vs-cal-state-san-marcos-3c6ea87014-thumb.webp",
+      "alt": "UC Merced soccer announcement against Cal State San Marcos on October 24, at 11 a.m. and 2 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-soccer-2026-10-29": {
+      "src": "assets/events/uc-merced-womens-soccer-vs-san-francisco-state-8129e0a0eb.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-soccer-vs-san-francisco-state-8129e0a0eb-thumb.webp",
+      "alt": "UC Merced women’s soccer announcement against San Francisco State on October 29 at 11 a.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-volleyball-2026-10-09": {
+      "src": "assets/events/uc-merced-womens-volleyball-vs-san-francisco-state-d7ccdc148d.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-volleyball-vs-san-francisco-state-d7ccdc148d-thumb.webp",
+      "alt": "UC Merced women’s volleyball announcement against San Francisco State on October 9 at 2 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-volleyball-2026-10-10": {
+      "src": "assets/events/uc-merced-womens-volleyball-vs-cal-state-east-bay-3b92337a63.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-volleyball-vs-cal-state-east-bay-3b92337a63-thumb.webp",
+      "alt": "UC Merced women’s volleyball announcement against Cal State East Bay on October 10 at 5 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-volleyball-2026-10-23": {
+      "src": "assets/events/uc-merced-womens-volleyball-vs-chico-state-47e40617fa.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-volleyball-vs-chico-state-47e40617fa-thumb.webp",
+      "alt": "UC Merced women’s volleyball announcement against Chico State on October 23 at 5 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-volleyball-2026-10-24": {
+      "src": "assets/events/uc-merced-womens-volleyball-vs-cal-poly-humboldt-b338fb529d.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-volleyball-vs-cal-poly-humboldt-b338fb529d-thumb.webp",
+      "alt": "UC Merced women’s volleyball announcement against Cal Poly Humboldt on October 24 at 7 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-volleyball-2026-11-06": {
+      "src": "assets/events/uc-merced-womens-volleyball-vs-cal-poly-pomona-349f748218.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-volleyball-vs-cal-poly-pomona-349f748218-thumb.webp",
+      "alt": "UC Merced women’s volleyball announcement against Cal Poly Pomona on November 6 at 5 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "ucm-womens-volleyball-2026-11-07": {
+      "src": "assets/events/uc-merced-womens-volleyball-vs-cal-state-la-64cc8329b1.webp",
+      "thumbnailSrc": "assets/events/uc-merced-womens-volleyball-vs-cal-state-la-64cc8329b1-thumb.webp",
+      "alt": "UC Merced women’s volleyball announcement against Cal State LA on November 7 at 1 p.m.",
+      "width": 1210,
+      "height": 450
+    },
+    "wiggle-read-atwater-library-2026-10-08": {
+      "src": "assets/events/wiggle-read-story-time-merced-library-d9bf0a83d3.webp",
+      "thumbnailSrc": "assets/events/wiggle-read-story-time-merced-library-d9bf0a83d3-thumb.webp",
+      "alt": "Merced County Library Wiggle & Read Storytime program graphic.",
+      "width": 940,
+      "height": 788
+    },
+    "wiggle-read-story-time-merced-library-2026-10-07": {
+      "src": "assets/events/wiggle-read-story-time-merced-library-d9bf0a83d3.webp",
+      "thumbnailSrc": "assets/events/wiggle-read-story-time-merced-library-d9bf0a83d3-thumb.webp",
+      "alt": "Merced County Library Wiggle & Read Storytime program graphic.",
+      "width": 940,
+      "height": 788
+    },
+    "world-ballet-company-the-nutcracker-2026-12-17": {
+      "src": "assets/events/world-ballet-company-the-nutcracker-9ce41293e6.webp",
+      "thumbnailSrc": "assets/events/world-ballet-company-the-nutcracker-9ce41293e6-thumb.webp",
+      "alt": "World Ballet Company The Nutcracker promotional poster published by Merced Theatre.",
+      "width": 250,
+      "height": 250
+    },
+    "yosemite-church-fall-family-fun-night-2026-10-31": {
+      "src": "assets/events/yosemite-church-fall-family-fun-night-trunk-or-treat-199075bcf5.webp",
+      "thumbnailSrc": "assets/events/yosemite-church-fall-family-fun-night-trunk-or-treat-199075bcf5-thumb.webp",
+      "alt": "Yosemite Church Fall Family Fun Night graphic advertising trunk-or-treat, bounce houses and food.",
+      "width": 1920,
+      "height": 1080
+    }
+  }
 }
