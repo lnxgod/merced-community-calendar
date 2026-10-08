@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T15:08:25.951937Z",
+  "updatedAt": "2026-10-08T15:11:09.096947Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1327,6 +1327,20 @@
       "cost": "Free"
     },
     {
+      "id": "good-bad-movie-club-merced-library-2026-10-13",
+      "title": "Good Bad Movie Club — Merced Library",
+      "date": "2026-10-13",
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Library - Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Movie club for adults ages 18 and older. The movie title is not published; the library lists 209-385-7484 for title information.",
+      "cost": "Free",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20238&month=10&year=2026&day=8&calType=0",
+      "sourceName": "Merced County Library"
+    },
+    {
       "id": "teens-sewing-tutorial-merced-library-2026-10-13",
       "title": "Teens: Sewing Tutorial — Merced Library",
       "date": "2026-10-13",
@@ -1352,6 +1366,34 @@
       "description": "Old Town Atwater invites the community to its monthly mixer at the Transportation Research Center on the former Castle Air Base. See the organizer’s event page for attendance details.",
       "sourceUrl": "https://www.oldtownatwater.org/our-events",
       "sourceName": "Old Town Atwater"
+    },
+    {
+      "id": "tiny-tales-atwater-library-2026-10-14",
+      "title": "Tiny Tales — Atwater Library",
+      "date": "2026-10-14",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Picture books, fingerplays and music for children ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m.; Stay & Play is 11–11:30 a.m., with a craft after story time.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18382&month=10&year=2026&day=8&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
+    },
+    {
+      "id": "adults-beads-banter-merced-library-2026-10-14",
+      "title": "Adults: Beads & Banter — Merced Library",
+      "date": "2026-10-14",
+      "startTime": "17:15",
+      "endTime": "19:15",
+      "city": "Merced",
+      "location": "Merced Library - Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Beads & Banter library activity for adults ages 18 and older.",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20239&month=10&year=2026&day=8&calType=0",
+      "sourceName": "Merced County Library",
+      "cost": "Free"
     },
     {
       "title": "Atwater Flea & Farmers Market",
