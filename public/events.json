@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:29:10.850532Z",
+  "updatedAt": "2026-10-10T19:48:55.593786Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1182,6 +1182,20 @@
       "sourceUrl": "https://kiwaniskiddieland.com/event/family-day-sponsored-by-merced-swat-association-merced-pd-k9-association/"
     },
     {
+      "id": "hunter-farms-pumpkin-patch-2026-10-10",
+      "title": "Hunter Farms Pumpkin Patch",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Hunter Farms Pumpkin Patch, 2989 N. Southern Pacific Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Rides, grounds and pumpkin sales are open on this date. Check the organizer for single-day admission details.",
+      "timeNote": "Ticket booth closes at 7:15 p.m.; food booth closes at 7:30 p.m.",
+      "sourceUrl": "https://hunterfarmspumpkinpatch.ticketspice.com/2026-season-pass-hunter-farms-pumpkin-patch",
+      "sourceName": "Hunter Farms Pumpkin Patch"
+    },
+    {
       "title": "Food Para Todos Harvest Festival",
       "date": "2026-10-10",
       "city": "Merced",
@@ -1565,6 +1579,19 @@
       "cost": "Free candy, games and activities, raffle prizes and music, according to the organizer."
     },
     {
+      "id": "troublesome-tarmac-2026-10-16",
+      "title": "Troublesome — The Tarmac",
+      "date": "2026-10-16",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Arts & performances",
+      "description": "Troublesome at The Annex at The Tarmac. Check the organizer for admission details.",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/16/troublesome",
+      "sourceName": "Blaker Brewing / The Tarmac"
+    },
+    {
       "id": "flor-de-toloache-uc-merced-arts-2026-10-16",
       "title": "Flor de Toloache — UC Merced Arts",
       "date": "2026-10-16",
@@ -1865,6 +1892,20 @@
       "cost": "$12–$25; check ticket availability"
     },
     {
+      "id": "goat-yoga-tarmac-2026-10-18",
+      "title": "Goat Yoga — The Tarmac",
+      "date": "2026-10-18",
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Sports",
+      "description": "Ticketed goat yoga event at The Tarmac. Check the organizer for availability and participation details.",
+      "cost": "Ticket required; see organizer for pricing",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/18/goat-yoga",
+      "sourceName": "Blaker Brewing / The Tarmac"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-10-19",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-10-19",
@@ -1878,6 +1919,19 @@
       "sourceName": "Merced County Arts Council / The MAC",
       "cost": "Varies; confirm class fee when registering.",
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
+    },
+    {
+      "id": "tattoos-touchdowns-commanders-niners-tarmac-2026-10-19",
+      "title": "Tattoos & Touchdowns — Commanders vs. Niners at The Tarmac",
+      "date": "2026-10-19",
+      "startTime": "17:15",
+      "endTime": "20:45",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Sports",
+      "description": "Football viewing on the big screens at The Tarmac. The organizer lists a 5:15 p.m. kickoff. Check the organizer for admission details.",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/19/tattoos-touchdowns-commanders-vs-niners",
+      "sourceName": "Blaker Brewing / The Tarmac"
     },
     {
       "id": "valley-water-collaborative-atwater-library-2026-10-20",
@@ -2048,6 +2102,19 @@
       "sourceName": "Marketplace at Merced",
       "cost": "Free",
       "id": "merced-chess-club-free-play-friday-2026-10-23"
+    },
+    {
+      "id": "rearview-mirror-tarmac-2026-10-23",
+      "title": "Rearview Mirror — The Tarmac",
+      "date": "2026-10-23",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Arts & performances",
+      "description": "Live music by Rearview Mirror at The Tarmac. Check the organizer for admission details.",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/23/rearview-mirror",
+      "sourceName": "Blaker Brewing / The Tarmac"
     },
     {
       "title": "Night of the Living Dead Live — Playhouse Merced",
