@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:48:55.593786Z",
+  "updatedAt": "2026-10-10T21:09:38.165077Z",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -614,6 +614,16 @@
     {
       "name": "Hunter Farms — current farm address",
       "url": "https://www.hunterfamilyfarms.com/",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "name": "PattiSweets — shared event flyer",
+      "url": "https://www.facebook.com/stories/105196475581507/UzpfSVNDOjE2NTkwMzY2MzI0ODc4MTg=?view_single=false",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "name": "PattiSweets",
+      "url": "https://www.facebook.com/pattisweets",
       "lastChecked": "2026-10-10"
     }
   ]

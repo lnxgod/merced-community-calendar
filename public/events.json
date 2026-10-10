@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:48:55.593786Z",
+  "updatedAt": "2026-10-10T21:09:38.165077Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1166,6 +1166,19 @@
       "description": "Yard sale fundraiser benefiting the animals of Merced County, organized by New Beginnings for Merced County Animals.",
       "sourceUrl": "https://www.facebook.com/newbeginningsforanimalsmerced/posts/1119842557274908/",
       "sourceName": "New Beginnings for Merced County Animals"
+    },
+    {
+      "id": "fall-leaves-vendor-event-atwater-2026-10-10",
+      "title": "5th Annual Fall Leaves Vendor Event",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "city": "Atwater",
+      "location": "Atwater United Methodist Church, 2550 Linden Street, Atwater, CA 95301",
+      "category": "Markets",
+      "description": "Fall vendor event with local vendors, food, raffles and face painting.",
+      "sourceUrl": "https://www.facebook.com/stories/105196475581507/UzpfSVNDOjE2NTkwMzY2MzI0ODc4MTg=?view_single=false",
+      "sourceName": "PattiSweets — shared event flyer"
     },
     {
       "id": "kiddieland-family-day-merced-swat-k9-2026-10-10",
