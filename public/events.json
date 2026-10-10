@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:07:59.567094Z",
+  "updatedAt": "2026-10-10T15:29:10.850532Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1153,6 +1153,19 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "$1 admission; ages 10 and under free; free parking",
       "id": "merced-flea-farmers-market-2026-10-10"
+    },
+    {
+      "id": "new-beginnings-animal-rescue-yard-sale-2026-10-10",
+      "title": "New Beginnings Yard Sale Fundraiser",
+      "date": "2026-10-10",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "city": "Atwater",
+      "location": "2955 Palomino Lane, Atwater, CA",
+      "category": "Markets",
+      "description": "Yard sale fundraiser benefiting the animals of Merced County, organized by New Beginnings for Merced County Animals.",
+      "sourceUrl": "https://www.facebook.com/newbeginningsforanimalsmerced/posts/1119842557274908/",
+      "sourceName": "New Beginnings for Merced County Animals"
     },
     {
       "id": "kiddieland-family-day-merced-swat-k9-2026-10-10",
