@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:06:38.333869Z",
+  "updatedAt": "2026-10-10T15:07:59.567094Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1270,6 +1270,20 @@
       "timeNote": "The organizer lists 10 a.m.–9 p.m. as event hours; this is not a statement of game kickoff time."
     },
     {
+      "id": "kids-family-day-mac-2026-10-11",
+      "title": "Kids and Family Day — The MAC",
+      "date": "2026-10-11",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "The MAC Main Gallery, 645 W. Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Free art activities for kids and families, presented by the Merced County Arts Council through ARTREE. All materials are provided; no reservations are required.",
+      "cost": "Free",
+      "sourceName": "Merced County Arts Council / The MAC",
+      "sourceUrl": "https://www.artsmerced.org/events-list/kids-day-august-2026-j2cbh"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-10-12",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-10-12",
@@ -1608,6 +1622,20 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "$1 admission; ages 10 and under free; free parking",
       "id": "merced-flea-farmers-market-2026-10-17"
+    },
+    {
+      "id": "atwater-community-cleanup-2026-10-17",
+      "title": "Atwater Community Cleanup",
+      "date": "2026-10-17",
+      "startTime": "08:30",
+      "endTime": "13:30",
+      "city": "Atwater",
+      "location": "2877 Atwater Blvd, Atwater, CA 95301",
+      "category": "Community services",
+      "description": "Community cleanup listed by the Merced County Regional Waste Management Authority and Mid Valley Disposal. Household hazardous waste will not be accepted. Check the organizer for eligibility, accepted loads and fees. Provider information: https://www.midvalleydisposal.com/locations/atwater/",
+      "cost": "Fees not published in the event listing; check organizer",
+      "sourceName": "Merced County Regional Waste Management Authority / Mid Valley Disposal",
+      "sourceUrl": "https://www.mcrwma.org/Calendar.aspx?EID=637&month=10&year=2026&day=10&calType=0"
     },
     {
       "title": "Castle Air Fest — Fall Blitz Car Show",
@@ -2148,7 +2176,8 @@
       "endTime": "12:30",
       "sourceUrl": "https://www.artsmerced.org/events-list",
       "sourceName": "Merced County Arts Council / The MAC",
-      "id": "bear-creek-ukulele-society-group-jam-2026-10-24"
+      "id": "bear-creek-ukulele-society-group-jam-2026-10-24",
+      "timeNote": "Schedule unconfirmed: this session is no longer on the organizer’s current event calendar, and its detail page was unavailable when checked October 10, 2026. Cancellation has not been confirmed; check the organizer before making plans."
     },
     {
       "id": "children-vampire-bat-craft-merced-library-2026-10-24",
@@ -3033,7 +3062,8 @@
       "endTime": "12:30",
       "sourceUrl": "https://www.artsmerced.org/events-list",
       "sourceName": "Merced County Arts Council / The MAC",
-      "id": "bear-creek-ukulele-society-group-jam-2026-11-28"
+      "id": "bear-creek-ukulele-society-group-jam-2026-11-28",
+      "timeNote": "Schedule unconfirmed: this session is no longer on the organizer’s current event calendar, and its detail page was unavailable when checked October 10, 2026. Cancellation has not been confirmed; check the organizer before making plans."
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -3475,7 +3505,8 @@
       "endTime": "13:30",
       "sourceUrl": "https://www.artsmerced.org/events-list",
       "sourceName": "Merced County Arts Council / The MAC",
-      "id": "bear-creek-ukulele-society-group-jam-2026-12-19"
+      "id": "bear-creek-ukulele-society-group-jam-2026-12-19",
+      "timeNote": "Schedule unconfirmed: this session is no longer on the organizer’s current event calendar, and its detail page was unavailable when checked October 10, 2026. Cancellation has not been confirmed; check the organizer before making plans."
     },
     {
       "title": "Mary Poppins — Playhouse Merced",
