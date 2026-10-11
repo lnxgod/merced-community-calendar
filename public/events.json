@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T21:09:38.165077Z",
+  "updatedAt": "2026-10-11T15:08:47.947671Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2562,6 +2562,21 @@
       "cost": "Free"
     },
     {
+      "id": "monster-mash-dash-zombie-zoom-2026-10-31",
+      "title": "Monster Mash Dash and Zombie Zoom",
+      "date": "2026-10-31",
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Lake Yosemite, Rotary Cove 1, 5715 North Lake Road, Merced, CA 95340",
+      "category": "Sports",
+      "description": "Costume-friendly races at Lake Yosemite. The 400 m Zombie Zoom is for ages 10 and under; the Monster Dash offers timed 5K and 10K races. Costumed high schoolers chase and scare runners in the 5K and 10K, with an option not to be chased. Registration is required and closes October 31 at 11:45 a.m. Pacific.",
+      "cost": "Published registration totals including fees: 400 m $22.20; 5K $48.70; 10K $59.30. Check registration for current prices.",
+      "timeNote": "Published race windows: 400 m noon–12:15 p.m.; 5K 12:15–1 p.m.; 10K 12:15–1:30 p.m. Pacific. The calendar span covers these race windows.",
+      "sourceName": "Monster Mash Dash and Zombie Zoom / RunSignup",
+      "sourceUrl": "https://runsignup.com/Race/CA/Merced/MonsterMashDashAndZombieZoom"
+    },
+    {
       "id": "ucm-mens-water-polo-2026-10-31",
       "title": "UC Merced Men’s Water Polo vs. Fresno Pacific",
       "date": "2026-10-31",
@@ -2892,6 +2907,21 @@
       "sourceName": "Merced County Arts Council / The MAC",
       "cost": "Varies; confirm class fee when registering.",
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
+    },
+    {
+      "id": "a-magical-day-lgbtq-merced-2026-11-09",
+      "title": "A Magical F!?!ing Day",
+      "date": "2026-11-09",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "Merced County Public Library, upstairs small conference room, 2100 O Street, Merced, CA",
+      "category": "Festivals & community",
+      "description": "A casual LGBTQ Merced meetup for people interested in spirituality, tarot, divination, crystals and the moon. Open to LGBTQ+ people and their friends and family.",
+      "cost": "Admission charge not published; check with the organizer.",
+      "timeNote": "This entry covers the organizer's published November 9 meeting only.",
+      "sourceName": "LGBTQ Merced",
+      "sourceUrl": "https://www.lgbtqmerced.org/events/a-magical-f-day/"
     },
     {
       "title": "Atwater Flea & Farmers Market",
