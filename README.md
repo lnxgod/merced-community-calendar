@@ -4,6 +4,8 @@ A public events calendar for Merced, Atwater and McSwain, California, from GameC
 
 Website: https://community.gamechangersai.org
 
+Daily upkeep and recovery: [maintenance guide](docs/maintenance.md). New maintainers and automated tasks should read [AGENTS.md](AGENTS.md) before updating or synchronizing the calendar.
+
 ## Run locally
 
 ```sh
