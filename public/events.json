@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T15:08:47.947671Z",
+  "updatedAt": "2026-10-12T15:10:41.045589Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2285,6 +2285,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20214&month=10&year=2026&day=28&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "teens-pokemon-fidget-clickers-merced-library-2026-10-24",
+      "title": "Teens: Pokémon Fidget Clickers — Merced Library",
+      "date": "2026-10-24",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "city": "Merced",
+      "location": "Merced Library — Teen's Department, 2100 O St., Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Make Pokémon fidget clickers at Merced Main Library. This free teen program is for ages 12–18.",
+      "cost": "Free; ages 12–18.",
+      "timeNote": "Public library event detail checked October 12, 2026. Published hours are 2–3:30 p.m. Pacific.",
+      "sourceName": "Merced County Library — official event calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20343&month=10&year=2026&day=11&calType=0"
     },
     {
       "id": "ucm-mens-soccer-2026-10-24",
