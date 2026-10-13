@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:10:41.045589Z",
+  "updatedAt": "2026-10-13T01:37:03.104070Z",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2117,6 +2117,21 @@
       "id": "merced-chess-club-free-play-friday-2026-10-23"
     },
     {
+      "id": "atwater-broadway-trunk-or-treat-movie-museum-2026-10-23",
+      "title": "Atwater Trunk-or-Treat, Movie Night & Bloss House Museum Tours",
+      "date": "2026-10-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "1260 Broadway Avenue and Bloss House Museum, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Second annual public family trunk-or-treat presented by the City of Atwater, Atwater Historical Society and NextHome D&G Realty Group. Includes a family movie night at the Bloss House, free museum tours from 7–9 p.m., and prizes for best decorated trunk and best kids' costume. Trunk participants and vendors are asked to register using the organizer's sign-up link: https://tally.so/r/xXGlMo",
+      "sourceUrl": "https://www.facebook.com/events/1415442603344387/",
+      "sourceName": "NextHome D&G Realty Group / City of Atwater / Atwater Historical Society",
+      "cost": "Free community event. No fee to decorate a trunk and pass out candy; vendors pay a small fee (amount not published).",
+      "timeNote": "Organizer lists Friday, October 23, 2026, 7–9 p.m."
+    },
+    {
       "id": "rearview-mirror-tarmac-2026-10-23",
       "title": "Rearview Mirror — The Tarmac",
       "date": "2026-10-23",
@@ -2432,6 +2447,21 @@
       "id": "night-of-the-living-dead-live-playhouse-merced-2026-10-25"
     },
     {
+      "id": "electric-needle-room-trunk-or-treat-2026-10-25",
+      "title": "Electric Needle Room Trunk-or-Treat",
+      "date": "2026-10-25",
+      "startTime": "17:30",
+      "endTime": "20:30",
+      "city": "Atwater",
+      "location": "Broadway Plaza, 1484 Broadway Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Free family trunk-or-treat hosted by The Electric Needle Room, with food vendors, games and music. Featured vendors include Merced BBQ, The Drink Spot and Lonches Mi Ángel. The flyer separately advertises a $31 tattoo flash event from 3–9 p.m.; those are not the trunk-or-treat hours.",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1635668771904049&set=a.487261100078161",
+      "sourceName": "The Electric Needle Room Tattoos & Body Mods",
+      "cost": "Free family event; food-vendor prices are not listed.",
+      "timeNote": "Trunk-or-treat runs 5:30–8:30 p.m., as published on the organizer's flyer."
+    },
+    {
       "title": "Kalani Pe’a",
       "date": "2026-10-25",
       "city": "Merced",
@@ -2604,6 +2634,21 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-water-polo-vs-fresno-pacific-5giegs",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "bellevue-bowl-halloween-monster-bash-family-2026-10-31",
+      "title": "Halloween Monster Bash — Family Time at Bellevue Bowl",
+      "date": "2026-10-31",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "city": "Atwater",
+      "location": "Bellevue Bowl, 785 Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Family Time session of Bellevue Bowl's Halloween Monster Bash, with bowling, games and Halloween activities. The organizer lists a costume contest, zombie walk contest and Halloween movie trivia. Lanes are limited; reserve through Bellevue Bowl at (209) 358-6466. This listing covers the 2–5 p.m. family session.",
+      "sourceUrl": "https://www.facebook.com/events/4039211689721685/",
+      "sourceName": "Bellevue Bowl",
+      "cost": "$100 per lane for up to 6 people; shoes included. Lane reservations requested.",
+      "timeNote": "Family Time is 2–5 p.m. A separately advertised late-night session has different hours."
     },
     {
       "id": "dia-de-los-muertos-diy-frames-merced-library-2026-10-31",
