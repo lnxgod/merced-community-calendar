@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:37:03.104070Z",
+  "updatedAt": "2026-10-13T15:09:45.485089+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -3839,6 +3839,21 @@
       "sourceName": "Merced Theatre",
       "timeNote": "Date updated from October 30, 2026 to February 19, 2027 to match the venue’s current ticket listing. Starts at 8 p.m. Pacific; end time is not published.",
       "id": "nineteen-minutes-later-2026-10-30"
+    },
+    {
+      "id": "atwater-pumpkin-decorating-contest-2026-10-16",
+      "title": "Pumpkin Decorating Contest — City of Atwater",
+      "date": "2026-10-16",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, Evelyn Chambers Room, 760 East Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Pumpkin decorating contest for ages 3–17. All materials provided; no carving. Registration required through the city recreation catalog or office; catalog registration closes October 15 at noon, with limited spaces. Registration: https://secure.rec1.com/CA/atwater-ca/catalog",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1597169385783239&set=a.306203218213202",
+      "sourceName": "City of Atwater Recreation & Community Events",
+      "cost": "$12 per participant",
+      "timeNote": "The city’s 2026 public flyer and catalog session table confirm October 16, 6–8 p.m. and $12. The catalog’s older description contains conflicting October 10/$10 details."
     }
   ]
 }
