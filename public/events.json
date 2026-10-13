@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:32:55.062258+00:00",
+  "updatedAt": "2026-10-13T23:40:30.677665+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2102,6 +2102,20 @@
       "sourceName": "Kiwanis Greater Merced Kiddieland",
       "cost": "$5 admission, including Kiddieland rides",
       "id": "kiddieland-annual-fright-night-day-1-2026-10-23"
+    },
+    {
+      "id": "merchants-closet-halloween-pop-up-2026-10-23",
+      "title": "Merchant’s Closet Halloween Pop-Up & Trick-or-Treating",
+      "date": "2026-10-23",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Merchant’s Closet, 1725 G Street, Suite B, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Halloween vendor pop-up with free trick-or-treating, a costume contest and a Treasure Passport activity. Vendor registration is separate and space is first come, first served. Organizer public contact: 209-271-6768. Organizer page: https://www.facebook.com/profile.php?id=61591415745730",
+      "sourceUrl": "https://www.facebook.com/groups/778207255844187/posts/3052340951764128/",
+      "sourceName": "Merchant’s Closet / public organizer announcement",
+      "cost": "Trick-or-treating is free; vendor purchases and vendor registration are separate."
     },
     {
       "id": "trunk-or-treat-tarmac-2026-10-23",
