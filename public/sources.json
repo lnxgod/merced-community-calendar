@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:37:03.104070Z",
+  "updatedAt": "2026-10-13T01:57:50.758046+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -664,6 +664,56 @@
     {
       "name": "Bellevue Bowl",
       "url": "https://www.facebook.com/bellevuebowlingcenter",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "City of Atwater Recreation & Community Events",
+      "url": "https://secure.rec1.com/CA/atwater-ca/catalog",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "The City of Atwater — public Facebook page",
+      "url": "https://www.facebook.com/profile.php?id=100064705783811",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "City of Merced Parks & Community Services — special events",
+      "url": "https://www.cityofmerced.gov/parks-and-community/special-events",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "McSwain public calendar — community-event leads only",
+      "url": "https://www.mcswain.k12.ca.us/apps/events/",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "Merced College — public events calendar",
+      "url": "https://www.mccd.edu/events/",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "UC Merced Arts — season and upcoming events",
+      "url": "https://arts.ucmerced.edu/",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "UC Merced Community Engagement Center — event leads",
+      "url": "https://cec.ucmerced.edu/calendar",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "Merced County Courthouse Museum — events",
+      "url": "https://mercedmuseum.org/events.shtml",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "The Merced FOCUS — community event leads",
+      "url": "https://themercedfocus.org/community-events/",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "name": "Merced County Events — discovery listings",
+      "url": "https://mercedcountyevents.com/events",
       "lastChecked": "2026-10-12"
     }
   ]
