@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:31:14.840621+00:00",
+  "updatedAt": "2026-10-13T23:32:55.062258+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1834,6 +1834,20 @@
       "cost": "Free"
     },
     {
+      "id": "tractor-supply-merced-trunk-or-treat-2026-10-17",
+      "title": "Tractor Supply Halloween Trunk-or-Treat & Farmers Market",
+      "date": "2026-10-17",
+      "startTime": "16:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Tractor Supply, 882 S Coffee Street, Merced, CA 95348",
+      "category": "Festivals & community",
+      "description": "Public family trunk-or-treat with vendors, treats and music. The current organizer flyer lists Saturday, October 17, 4–8 p.m. A pumpkin-carving contest is limited to the first 10 participants. Vendor and trunk participation are arranged with the organizer. Organizer flyer: https://www.facebook.com/photo/?fbid=1745322136684015&set=gm.1588470012224795&idorvanity=1321047555633710",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1745322136684015&set=gm.1588470012224795&idorvanity=1321047555633710",
+      "sourceName": "Merced Tractor Supply / public organizer flyer",
+      "cost": "Admission price not published; vendor purchases are separate."
+    },
+    {
       "title": "Flicks of Flight — Flight of the Intruder",
       "date": "2026-10-17",
       "city": "Atwater",
@@ -2118,6 +2132,20 @@
       "timeNote": "Official start time. Match end time is not published."
     },
     {
+      "id": "applegate-zoo-boo-2026-10-23",
+      "title": "Zoo Boo — Merced Applegate Zoo · Night 1 of 3",
+      "date": "2026-10-23",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Applegate Zoo, 1045 W 25th Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "This entry is for October 23 only, 5:30–7:30 p.m. Zoo Boo takes place on three separate evenings, October 23, 24 and 25; the calendar lists each night separately and does not imply an overnight event. Annual family Halloween event with spooky animal encounters, trick-or-treating and costumes. Cash and cards accepted. Public organizer contact: 209-388-8930. Venue: https://www.cityofmerced.gov/parks-and-community/applegate-park-zoo",
+      "sourceUrl": "https://www.facebook.com/mercedzoo",
+      "sourceName": "Merced Applegate Zoo",
+      "cost": "Ages 2 and under free; ages 3–13 $6; ages 14–59 $7; ages 60+ $5. Cash and cards accepted."
+    },
+    {
       "title": "Merced Chess Club — Free-Play Friday",
       "date": "2026-10-23",
       "city": "Merced",
@@ -2374,6 +2402,34 @@
       "id": "kiddieland-annual-fright-night-day-2-2026-10-24"
     },
     {
+      "id": "merced-speedway-trick-or-treat-2026-10-24",
+      "title": "Trick-or-Treat on the Track — Merced Speedway",
+      "date": "2026-10-24",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Merced Speedway, 900 Martin Luther King Jr Way, Merced, CA 95341",
+      "category": "Festivals & community",
+      "description": "Trick-or-treat directly from drivers and race cars before Dirt Nationals racing. Children are asked to come in costume. These hours describe the trick-or-treat session, not the full racing program. Official announcement: https://www.facebook.com/mercedspeedway/posts/1772113061352274",
+      "sourceUrl": "https://www.facebook.com/mercedspeedway/posts/1772113061352274",
+      "sourceName": "Merced Speedway",
+      "cost": "All children in costume enter free for the trick-or-treat session. Saturday race admission: adults 16+ $20; children 15 and under free."
+    },
+    {
+      "id": "applegate-zoo-boo-2026-10-24",
+      "title": "Zoo Boo — Merced Applegate Zoo · Night 2 of 3",
+      "date": "2026-10-24",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Applegate Zoo, 1045 W 25th Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "This entry is for October 24 only, 5:30–7:30 p.m. Zoo Boo takes place on three separate evenings, October 23, 24 and 25; the calendar lists each night separately and does not imply an overnight event. Annual family Halloween event with spooky animal encounters, trick-or-treating and costumes. Cash and cards accepted. Public organizer contact: 209-388-8930. Venue: https://www.cityofmerced.gov/parks-and-community/applegate-park-zoo",
+      "sourceUrl": "https://www.facebook.com/mercedzoo",
+      "sourceName": "Merced Applegate Zoo",
+      "cost": "Ages 2 and under free; ages 3–13 $6; ages 14–59 $7; ages 60+ $5. Cash and cards accepted."
+    },
+    {
       "id": "city-of-atwater-trunk-or-treat-2026-10-24",
       "title": "City of Atwater Trunk or Treat — Community Center",
       "date": "2026-10-24",
@@ -2491,6 +2547,20 @@
       "timeNote": "Trunk-or-treat runs 5:30–8:30 p.m., as published on the organizer's flyer."
     },
     {
+      "id": "applegate-zoo-boo-2026-10-25",
+      "title": "Zoo Boo — Merced Applegate Zoo · Night 3 of 3",
+      "date": "2026-10-25",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Applegate Zoo, 1045 W 25th Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "This entry is for October 25 only, 5:30–7:30 p.m. Zoo Boo takes place on three separate evenings, October 23, 24 and 25; the calendar lists each night separately and does not imply an overnight event. Annual family Halloween event with spooky animal encounters, trick-or-treating and costumes. Cash and cards accepted. Public organizer contact: 209-388-8930. Venue: https://www.cityofmerced.gov/parks-and-community/applegate-park-zoo",
+      "sourceUrl": "https://www.facebook.com/mercedzoo",
+      "sourceName": "Merced Applegate Zoo",
+      "cost": "Ages 2 and under free; ages 3–13 $6; ages 14–59 $7; ages 60+ $5. Cash and cards accepted."
+    },
+    {
       "title": "Kalani Pe’a",
       "date": "2026-10-25",
       "city": "Merced",
@@ -2576,6 +2646,20 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/womens-soccer-vs-san-francisco-state-pib8jc",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "starz-halloween-carnival-2026-10-29",
+      "title": "STARZ Halloween Carnival, Performance & Fundraiser",
+      "date": "2026-10-29",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Steps Dance Studio, 156 E Broadway Avenue, Atwater, CA 95301 (event flyer address)",
+      "category": "Festivals & community",
+      "description": "Hosted by the STARZ Dance Team and families. Games, haunted house, food and a performance beginning at 6 p.m. The public event flyer lists 156 Broadway Avenue; the studio general contact page lists the adjacent 158 E Broadway address. Use the event flyer address and confirm entrance with the organizer. Studio: https://www.stepsatwater.com/starz-dance-team",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=29250997874505826&set=p.29250997874505826&type=3",
+      "sourceName": "STARZ Dance Team and families / public event flyer",
+      "cost": "Fundraiser; admission and activity prices are not published on the flyer."
     },
     {
       "id": "merced-running-club-fall-fun-run-2026-10-29",
