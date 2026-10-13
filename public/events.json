@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:09:45.485089+00:00",
+  "updatedAt": "2026-10-13T15:24:53.866205+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1592,6 +1592,21 @@
       "cost": "Free candy, games and activities, raffle prizes and music, according to the organizer."
     },
     {
+      "id": "atwater-pumpkin-decorating-contest-2026-10-16",
+      "title": "Pumpkin Decorating Contest — City of Atwater",
+      "date": "2026-10-16",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, Evelyn Chambers Room, 760 East Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Pumpkin decorating contest for ages 3–17. All materials provided; no carving. Registration required through the city recreation catalog or office; catalog registration closes October 15 at noon, with limited spaces. Registration: https://secure.rec1.com/CA/atwater-ca/catalog",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1597169385783239&set=a.306203218213202",
+      "sourceName": "City of Atwater Recreation & Community Events",
+      "cost": "$12 per participant",
+      "timeNote": "The city’s 2026 public flyer and catalog session table confirm October 16, 6–8 p.m. and $12. The catalog’s older description contains conflicting October 10/$10 details."
+    },
+    {
       "id": "troublesome-tarmac-2026-10-16",
       "title": "Troublesome — The Tarmac",
       "date": "2026-10-16",
@@ -2605,6 +2620,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20217&month=10&year=2026&day=27&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "boys-girls-club-merced-trunk-or-treat-2026-10-31",
+      "title": "Trunk or Treat — Boys & Girls Club of Merced County",
+      "date": "2026-10-31",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Boys & Girls Club of Merced County, 615 W 15th Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Public annual trunk-or-treat hosted by Boys & Girls Club of Merced County. Families are invited to bring children for Halloween fun and treats.",
+      "sourceUrl": "https://www.facebook.com/events/1239124408396663/",
+      "sourceName": "Boys & Girls Club of Merced County",
+      "cost": "Admission price not published; check the organizer."
     },
     {
       "id": "monster-mash-dash-zombie-zoom-2026-10-31",
@@ -3839,21 +3868,6 @@
       "sourceName": "Merced Theatre",
       "timeNote": "Date updated from October 30, 2026 to February 19, 2027 to match the venue’s current ticket listing. Starts at 8 p.m. Pacific; end time is not published.",
       "id": "nineteen-minutes-later-2026-10-30"
-    },
-    {
-      "id": "atwater-pumpkin-decorating-contest-2026-10-16",
-      "title": "Pumpkin Decorating Contest — City of Atwater",
-      "date": "2026-10-16",
-      "startTime": "18:00",
-      "endTime": "20:00",
-      "city": "Atwater",
-      "location": "Atwater Community Center, Evelyn Chambers Room, 760 East Bellevue Road, Atwater, CA 95301",
-      "category": "Festivals & community",
-      "description": "Pumpkin decorating contest for ages 3–17. All materials provided; no carving. Registration required through the city recreation catalog or office; catalog registration closes October 15 at noon, with limited spaces. Registration: https://secure.rec1.com/CA/atwater-ca/catalog",
-      "sourceUrl": "https://www.facebook.com/photo/?fbid=1597169385783239&set=a.306203218213202",
-      "sourceName": "City of Atwater Recreation & Community Events",
-      "cost": "$12 per participant",
-      "timeNote": "The city’s 2026 public flyer and catalog session table confirm October 16, 6–8 p.m. and $12. The catalog’s older description contains conflicting October 10/$10 details."
     }
   ]
 }
