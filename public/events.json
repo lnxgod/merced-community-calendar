@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:24:53.866205+00:00",
+  "updatedAt": "2026-10-13T15:31:14.840621+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2344,6 +2344,20 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-soccer-vs-cal-state-san-marcos-dskszb",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "berkshire-hathaway-merced-trunk-or-treat-2026-10-24",
+      "title": "Trunk or Treat — Berkshire Hathaway HomeServices Drysdale Properties",
+      "date": "2026-10-24",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Berkshire Hathaway HomeServices Drysdale Properties, 2985 G Street, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Public family trunk-or-treat with games, treats and local vendors. The organizer flyer confirms 2985 G Street; another search listing transposes the address. Public event: https://www.facebook.com/events/2614609235659951/",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=122170932272969579&set=gm.3369831809891301&idorvanity=148877871986727",
+      "sourceName": "Robyn K. Lukens / Berkshire Hathaway HomeServices Drysdale Properties",
+      "cost": "Free to the public."
     },
     {
       "title": "Kiddieland Annual Fright Night — Day 2",
