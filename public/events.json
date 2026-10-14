@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:52:44.737621+00:00",
+  "updatedAt": "2026-10-14T00:26:24.467104+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2045,6 +2045,21 @@
       "sourceUrl": "https://tickets.ucmercedbobcats.com/event/mens-and-womens-soccer-vs-menlo-e628db",
       "sourceName": "UC Merced Athletics",
       "timeNote": "Official start time. Match end time is not published."
+    },
+    {
+      "id": "element-salon-spa-yoga-grand-opening-2026-10-22",
+      "title": "Element Salon, Spa & Yoga Grand Opening",
+      "date": "2026-10-22",
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Element Salon, Spa & Yoga, 602 W. 20th Street, Suite C, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Public grand-opening celebration for Element’s yoga studio, salon and spa. The organizer welcomes friends and family. The flyer lists live music, light finger foods and desserts, beer, wine and champagne, three prize drawings, and 20% off retail. Membership packages and spa/salon services will also be offered.",
+      "cost": "Admission price and registration requirements not published; purchases and services separate.",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=10235364269313618&set=a.1221040332305",
+      "sourceName": "Element Yoga Shala / Element Salon, Spa & Yoga",
+      "timeNote": "Organizer flyer specifies Thursday, October 22, 5–7:30 p.m. Pacific. Check the organizer for changes."
     },
     {
       "id": "merced-running-club-fall-fun-run-2026-10-22",
