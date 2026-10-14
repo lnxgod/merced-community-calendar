@@ -12,6 +12,13 @@ export function localToday(now = new Date()) { return pacificDateTime(now).date;
 export function dateObject(value) { return new Date(`${value}T12:00:00Z`); }
 export function formatDate(value, options = { dateStyle: 'full' }) { return new Intl.DateTimeFormat('en-US', { ...options, timeZone: 'UTC' }).format(dateObject(value)); }
 export function monthLabel(month) { return formatDate(`${month}-01`, { month: 'long', year: 'numeric' }); }
+export function eventEndDate(event) { return event.allDay ? event.endDate ?? event.date : event.date; }
+export function eventDateLabel(event, options = { dateStyle: 'full' }) {
+  const end = eventEndDate(event);
+  if (end === event.date) return formatDate(event.date, options);
+  return new Intl.DateTimeFormat('en-US', { ...options, timeZone: 'UTC' })
+    .formatRange(dateObject(event.date), dateObject(end));
+}
 export function stepMonth(month, offset) {
   const [year, number] = month.split('-').map(Number);
   const value = new Date(Date.UTC(year, number - 1 + offset, 1));
@@ -23,6 +30,7 @@ export function timeLabel(value) {
   return `${hours % 12 || 12}${minutes ? `:${String(minutes).padStart(2, '0')}` : ''} ${hours < 12 ? 'AM' : 'PM'}`;
 }
 export function eventTime(event) {
+  if (event.allDay) return 'All day';
   if (!event.startTime) return 'Time to be confirmed';
   return `${timeLabel(event.startTime)}${event.endTime ? `–${timeLabel(event.endTime)}` : ''}`;
 }

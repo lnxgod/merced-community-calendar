@@ -2,8 +2,8 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import test from 'node:test';
-import { eventTime, localToday, pacificDateTime, stepMonth } from '../src/dates.js';
-import { filterEvents, isHalloweenCandyEvent, selectVisibleEvents } from '../src/events.js';
+import { eventDateLabel, eventTime, localToday, pacificDateTime, stepMonth } from '../src/dates.js';
+import { eventMonths, eventOccursOnDate, filterEvents, isHalloweenCandyEvent, selectVisibleEvents } from '../src/events.js';
 
 const event = (id, overrides = {}) => ({
   id, title: id, date: '2026-10-05', startTime: '10:00', endTime: '12:00',
@@ -36,6 +36,64 @@ test('unknown ends and untimed date placeholders remain through their Pacific da
   assert.deepEqual(ids(selectVisibleEvents(records, { now: at('2026-10-06T06:59:59Z') })), ['unknown-end', 'untimed']);
   assert.deepEqual(selectVisibleEvents(records, { now: at('2026-10-06T07:00:00Z') }), []);
   assert.equal(eventTime(records[1]), 'Time to be confirmed');
+});
+
+test('an all-day span covers every inclusive date and expires after its last Pacific day', () => {
+  const field = event('field-of-honor', {
+    date: '2026-11-07', endDate: '2026-11-14', allDay: true, startTime: null, endTime: null,
+  });
+  const records = [field];
+  const original = structuredClone(records);
+  assert.equal(eventTime(field), 'All day');
+  for (let day = 7; day <= 14; day++) {
+    const date = `2026-11-${String(day).padStart(2, '0')}`;
+    assert.equal(eventOccursOnDate(field, date), true, date);
+    assert.deepEqual(ids(selectVisibleEvents(records, { selectedDate: date })), ['field-of-honor']);
+    assert.deepEqual(ids(selectVisibleEvents(records, { now: at(`${date}T20:00:00Z`) })), ['field-of-honor']);
+  }
+  for (const date of ['2026-11-06', '2026-11-15']) {
+    assert.equal(eventOccursOnDate(field, date), false, date);
+    assert.deepEqual(selectVisibleEvents(records, { selectedDate: date }), []);
+  }
+  assert.equal(selectVisibleEvents(records, { now: at('2026-11-15T07:59:59Z') }).length, 1);
+  assert.equal(selectVisibleEvents(records, { now: at('2026-11-15T08:00:00Z') }).length, 0);
+  assert.deepEqual(records, original, 'Span filtering must not rewrite the catalog');
+});
+
+test('all-day spans include intervening months and remain available across DST and year boundaries', () => {
+  const fall = event('fall-display', {
+    date: '2026-10-31', endDate: '2026-11-01', allDay: true, startTime: null, endTime: null,
+  });
+  for (const now of ['2026-11-01T08:30:00Z', '2026-11-01T09:30:00Z', '2026-11-02T07:59:59Z']) {
+    assert.equal(selectVisibleEvents([fall], { now: at(now) }).length, 1, now);
+  }
+  assert.equal(selectVisibleEvents([fall], { now: at('2026-11-02T08:00:00Z') }).length, 0);
+  const spring = event('spring-display', {
+    date: '2026-03-07', endDate: '2026-03-08', allDay: true, startTime: null, endTime: null,
+  });
+  assert.equal(selectVisibleEvents([spring], { now: at('2026-03-09T06:59:59Z') }).length, 1);
+  assert.equal(selectVisibleEvents([spring], { now: at('2026-03-09T07:00:00Z') }).length, 0);
+  const long = event('winter-display', {
+    date: '2026-11-30', endDate: '2027-01-02', allDay: true, startTime: null, endTime: null,
+  });
+  assert.deepEqual(eventMonths(long), ['2026-11', '2026-12', '2027-01']);
+  for (const month of ['2026-11', '2026-12', '2027-01']) {
+    assert.deepEqual(ids(selectVisibleEvents([long], { month })), ['winter-display'], month);
+  }
+  for (const month of ['2026-10', '2027-02']) assert.deepEqual(selectVisibleEvents([long], { month }), []);
+  assert.equal(eventOccursOnDate(long, '2027-01-01'), true);
+});
+
+test('date-only labels expose full spans while one-day and legacy labels stay precise', () => {
+  const allDay = event('one-day', { allDay: true, startTime: null, endTime: null });
+  assert.equal(eventTime(allDay), 'All day');
+  assert.equal(eventDateLabel(allDay), 'Monday, October 5, 2026');
+  const multiDay = { ...allDay, date: '2026-11-07', endDate: '2026-11-14' };
+  const label = eventDateLabel(multiDay, { month: 'long', day: 'numeric', year: 'numeric' });
+  assert.match(label, /November 7.*14, 2026/);
+  assert.equal(eventTime(event('legacy')), '10 AM–12 PM');
+  assert.equal(eventTime(event('placeholder', { allDay: false, startTime: null, endTime: null })), 'Time to be confirmed');
+  assert.deepEqual(eventMonths(event('single')), ['2026-10']);
 });
 
 test('Pacific midnight, month/year rollover and leap day work independently of UTC date', () => {

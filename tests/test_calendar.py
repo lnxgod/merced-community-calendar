@@ -83,6 +83,57 @@ class CalendarTests(unittest.TestCase):
         self.assertIn("DTEND;VALUE=DATE:20270101", result)
         self.assertIn("not an all-day event", result)
 
+    def test_all_day_span_has_exclusive_ics_end_and_preserves_identity(self):
+        row = event(id="field-of-honor-merced-2026-11-07", date="2026-11-07",
+                    endDate="2026-11-14", allDay=True, startTime=None, endTime=None)
+        data = catalog(row)
+        original = copy.deepcopy(data)
+        result = unfold(calendar.build_ics(data))
+        self.assertIn("DTSTART;VALUE=DATE:20261107", result)
+        self.assertIn("DTEND;VALUE=DATE:20261115", result)
+        self.assertIn("UID:field-of-honor-merced-2026-11-07@community.gamechangersai.org", result)
+        self.assertNotIn("TIME TBD", result)
+        self.assertNotIn("not an all-day event", result)
+        self.assertNotIn("End time not published", result)
+        self.assertEqual(data, original)
+
+    def test_all_day_date_arithmetic_is_independent_of_dst_and_year_rollover(self):
+        for start, last, exclusive in (
+            ("2026-10-31", "2026-11-01", "20261102"),
+            ("2026-03-07", "2026-03-08", "20260309"),
+            ("2026-12-31", "2027-01-01", "20270102"),
+            ("2028-02-28", "2028-02-29", "20280301"),
+        ):
+            with self.subTest(start=start):
+                result = unfold(calendar.build_ics(catalog(event(
+                    date=start, endDate=last, allDay=True, startTime=None, endTime=None))))
+                self.assertIn("DTEND;VALUE=DATE:" + exclusive, result)
+                self.assertNotIn("DTSTART:", result)
+                self.assertNotIn("DTEND:", result)
+        single = unfold(calendar.build_ics(catalog(event(
+            date="2026-12-31", allDay=True, startTime=None, endTime=None))))
+        self.assertIn("DTEND;VALUE=DATE:20270101", single)
+
+    def test_date_spans_cannot_mix_timed_fields_or_invalid_ranges(self):
+        for overrides in (
+            {"allDay": "true"}, {"allDay": 1}, {"allDay": None},
+            {"allDay": True},
+            {"endDate": "2026-10-05"},
+            {"allDay": False, "endDate": "2026-10-05"},
+            {"allDay": True, "startTime": None, "endTime": None, "endDate": "2026-10-02"},
+            {"allDay": True, "startTime": None, "endTime": None, "endDate": "2026-02-30"},
+            {"allDay": True, "startTime": None, "endTime": None, "endDate": "9999-12-31"},
+        ):
+            with self.subTest(overrides=overrides), self.assertRaises(calendar.ValidationError):
+                calendar.build_ics(catalog(event(**overrides)))
+
+    def test_explicit_false_all_day_preserves_legacy_feed_bytes(self):
+        for row in (event(), event(endTime=None), event(startTime=None, endTime=None)):
+            original = copy.deepcopy(row)
+            self.assertEqual(calendar.build_ics(catalog(row)),
+                             calendar.build_ics(catalog(dict(row, allDay=False))))
+            self.assertEqual(row, original)
+
     def test_source_urls_cannot_inject_credentials_private_hosts_or_properties(self):
         for url in ("http://example.com/event", "https://user:password@example.com/event",
                     "https://127.0.0.1/event", "https://192.168.42.21/", "https://localserver/",

@@ -1,4 +1,22 @@
-import { pacificDateTime } from './dates.js';
+import { eventEndDate, pacificDateTime, stepMonth } from './dates.js';
+
+export function eventOccursOnDate(event, date) {
+  return event.date <= date && eventEndDate(event) >= date;
+}
+
+export function eventOverlapsMonth(event, month) {
+  return event.date.slice(0, 7) <= month && eventEndDate(event).slice(0, 7) >= month;
+}
+
+export function eventMonths(event) {
+  const months = [];
+  const last = eventEndDate(event).slice(0, 7);
+  for (let month = event.date.slice(0, 7); month <= last; month = stepMonth(month, 1)) {
+    months.push(month);
+    if (month === last) break;
+  }
+  return months;
+}
 
 export function isHalloweenCandyEvent(event) {
   const text = `${event.title ?? ''} ${event.description ?? ''}`.toLowerCase().replace(/[‐‑‒–—]/g, '-');
@@ -16,8 +34,8 @@ export function filterEvents(events, { query = '', city = 'all', category = 'all
 }
 
 function hasNotEnded(event, current) {
+  if (event.allDay) return eventEndDate(event) >= current.date;
   if (event.date !== current.date) return event.date > current.date;
-  // The catalog has single-date occurrences, not RRULEs or multi-day spans.
   // Unknown ends and untimed date placeholders stay visible for their Pacific
   // date; do not invent an end time or mislabel a placeholder as all-day.
   return event.endTime == null || event.endTime > current.time;
@@ -25,8 +43,8 @@ function hasNotEnded(event, current) {
 
 export function selectVisibleEvents(events, { now = new Date(), month = null, selectedDate = null, sort = 'asc' } = {}) {
   const current = pacificDateTime(now);
-  return events.filter(event => selectedDate ? event.date === selectedDate
-    : month ? event.date.startsWith(month) : hasNotEnded(event, current))
+  return events.filter(event => selectedDate ? eventOccursOnDate(event, selectedDate)
+    : month ? eventOverlapsMonth(event, month) : hasNotEnded(event, current))
     .sort((a, b) => {
       const chronological = a.date.localeCompare(b.date)
         || (a.startTime ?? '99:99').localeCompare(b.startTime ?? '99:99')

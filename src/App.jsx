@@ -6,7 +6,7 @@ import EventList from './components/EventList.jsx';
 import MiniCalendar from './components/MiniCalendar.jsx';
 import { AboutDialog, EventDialog, SubscribeDialog } from './components/Dialogs.jsx';
 import { localToday, stepMonth } from './dates.js';
-import { filterEvents, selectVisibleEvents } from './events.js';
+import { eventMonths, filterEvents, selectVisibleEvents } from './events.js';
 import { withEventImages } from './images.js';
 
 const DEFAULT_CONFIG = { published: false, icsUrl: 'https://community.gamechangersai.org/community.ics' };
@@ -78,7 +78,7 @@ export default function App() {
   }, [retry]);
   const categories = useMemo(() => [...new Set(data.events.map(event => event.category))].sort(), [data.events]);
   const months = useMemo(() => {
-    const values = new Set([month, ...data.events.map(event => event.date.slice(0, 7))]);
+    const values = new Set([month, ...data.events.flatMap(eventMonths)]);
     for (let index = 0; index < 12; index++) values.add(stepMonth(today.slice(0, 7), index));
     return [...values].sort();
   }, [data.events, month, today]);

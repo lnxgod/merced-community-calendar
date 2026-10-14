@@ -25,8 +25,9 @@ UTC = timezone.utc
 FIELDS = frozenset({
     "id", "title", "date", "startTime", "endTime", "city", "location",
     "category", "description", "sourceUrl", "sourceName", "cost", "timeNote",
+    "allDay", "endDate",
 })
-REQUIRED_FIELDS = FIELDS - {"cost", "timeNote"}
+REQUIRED_FIELDS = FIELDS - {"cost", "timeNote", "allDay", "endDate"}
 ID_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9_-]{0,119}\Z")
 IMAGE_PATH_PATTERN = re.compile(r"assets/events/[a-z0-9][a-z0-9_-]*\.(?:jpg|jpeg|png|webp)\Z")
 IMAGE_FIELDS = {"src", "alt", "width", "height", "thumbnailSrc"}
@@ -148,6 +149,16 @@ def validate_catalog(data: object) -> dict:
         day = _day(event["date"], f"{label} date")
         if day == date.max:
             raise ValidationError(f"{label} date is outside the supported range")
+        if "allDay" in event and not isinstance(event["allDay"], bool):
+            raise ValidationError(f"{label} allDay must be true or false")
+        if "endDate" in event:
+            if not event.get("allDay", False):
+                raise ValidationError(f"{label} endDate requires allDay true")
+            end_day = _day(event["endDate"], f"{label} endDate")
+            if end_day < day or end_day == date.max:
+                raise ValidationError(f"{label} endDate must be on or after date and within the supported range")
+        if event.get("allDay", False) and (event["startTime"] is not None or event["endTime"] is not None):
+            raise ValidationError(f"{label} all-day events must have null startTime and endTime")
         for field in ("title", "city", "location", "category", "sourceName"):
             _text(event[field], f"{label} {field}", limit=1000)
         _text(event["description"], f"{label} description", multiline=True, allow_empty=True)
@@ -252,7 +263,9 @@ def build_ics(data: dict) -> bytes:
             description.append("Cost: " + event["cost"])
         if event.get("timeNote"):
             description.append(event["timeNote"])
-        if event["startTime"] is None:
+        if event.get("allDay", False):
+            pass
+        elif event["startTime"] is None:
             title += " · TIME TBD"
             description.append("Time TBD. This is a date placeholder, not an all-day event.")
         elif event["endTime"] is None:
@@ -267,7 +280,15 @@ def build_ics(data: dict) -> bytes:
             "CATEGORIES:" + escape_text(event["category"]),
             "URL:" + event["sourceUrl"], "TRANSP:TRANSPARENT", "CLASS:PUBLIC",
         ])
-        if event["startTime"] is None:
+        if event.get("allDay", False):
+            # The catalog endDate is the last included date; iCalendar uses an
+            # exclusive DATE end. Date arithmetic also avoids DST hour shifts.
+            last_day = date.fromisoformat(event.get("endDate", event["date"]))
+            lines.extend([
+                "DTSTART;VALUE=DATE:" + day.strftime("%Y%m%d"),
+                "DTEND;VALUE=DATE:" + (last_day + timedelta(days=1)).strftime("%Y%m%d"),
+            ])
+        elif event["startTime"] is None:
             lines.extend([
                 "DTSTART;VALUE=DATE:" + day.strftime("%Y%m%d"),
                 "DTEND;VALUE=DATE:" + (day + timedelta(days=1)).strftime("%Y%m%d"),
