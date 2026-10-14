@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:19:24.564646+00:00",
+  "updatedAt": "2026-10-14T15:34:41.085922+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2434,15 +2434,16 @@
       "id": "merced-speedway-trick-or-treat-2026-10-24",
       "title": "Trick-or-Treat on the Track — Merced Speedway",
       "date": "2026-10-24",
-      "startTime": "17:00",
-      "endTime": "18:00",
+      "startTime": "17:15",
+      "endTime": "17:45",
       "city": "Merced",
       "location": "Merced Speedway, 900 Martin Luther King Jr Way, Merced, CA 95341",
       "category": "Festivals & community",
-      "description": "Trick-or-treat directly from drivers and race cars before Dirt Nationals racing. Children are asked to come in costume. These hours describe the trick-or-treat session, not the full racing program. Official announcement: https://www.facebook.com/mercedspeedway/posts/1772113061352274",
-      "sourceUrl": "https://www.facebook.com/mercedspeedway/posts/1772113061352274",
+      "description": "Trick-or-treat directly from drivers and race cars before Dirt Nationals racing. Children are asked to come in costume. These hours describe the trick-or-treat session, not the full racing program.",
+      "sourceUrl": "https://www.facebook.com/mercedspeedway/posts/pfbid0xpQPhbQ62xrszjngBx4nDTpEPtng9enLirgASBvkqM5pETv52C45FapNW2s3rT1dl",
       "sourceName": "Merced Speedway",
-      "cost": "All children in costume enter free for the trick-or-treat session. Saturday race admission: adults 16+ $20; children 15 and under free."
+      "cost": "Children 15 and under free; Saturday adult race admission (16+) $20.",
+      "timeNote": "The organizer’s October 12 detailed schedule gives 5:15–5:45 p.m., superseding the older October 6 announcement’s 5–6 p.m. Confirm with the organizer before heading out."
     },
     {
       "id": "applegate-zoo-boo-2026-10-24",
@@ -4338,6 +4339,20 @@
       "timeNote": "The organizer explicitly publishes this schedule every night through October. No dates beyond October 31 are inferred.",
       "sourceUrl": "https://www.facebook.com/reel/2188463665414805/",
       "sourceName": "Nightmare on Nutmeg",
+      "cost": "Admission price not published; check the organizer."
+    },
+    {
+      "id": "jenny-nicoles-classic-car-trunk-or-treat-2026-10-16",
+      "title": "Jenny Nicole’s Classic Car Trunk or Treat",
+      "date": "2026-10-16",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Jenny Nicole’s Old School House Bakery, 2649 Canal Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Fourth annual classic car trunk-or-treat with candy, music and classic cars. All cars welcome. The organizer’s public event confirms the 6 p.m. start; its October 13 reminder flyer gives 6–8. Public bakery contact: (209) 325-4439.",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1150166164244082&set=a.196477086279666",
+      "sourceName": "Jenny Nicole’s Old School House Bakery",
       "cost": "Admission price not published; check the organizer."
     }
   ]
