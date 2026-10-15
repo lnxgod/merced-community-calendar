@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:48:23.367845+00:00",
+  "updatedAt": "2026-10-15T05:33:25.708605+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -854,6 +854,61 @@
     {
       "name": "McSwain 4-H Club",
       "url": "https://www.facebook.com/mcswain4h/",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Merced Streets / Streetnews Merced — public community-event leads",
+      "url": "https://www.facebook.com/streetnews.merced",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Hometown Homeless Feed — La Viola public organizer flyer",
+      "url": "https://www.facebook.com/photo.php?fbid=10104028758487801&set=p.10104028758487801&type=3",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Merced County Food Bank — emergency food distribution sites",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list/",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Merced County Rescue Mission — news and community meals",
+      "url": "https://www.mercedcountyrescuemission.org/news",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "The Salvation Army Merced Corps — food pantry and outreach",
+      "url": "https://www.salvationarmyusa.org/ca/merced/w-12th-street-corps/hunger/",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Food. ¡Para todos! — free food and pop-up pantries",
+      "url": "https://www.facebook.com/FoodParaTodos/",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Merced County Public Health — Food Resources",
+      "url": "https://www.countyofmerced.com/4197/Food-Resources",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "United Methodist Church of Merced — pantry information",
+      "url": "https://sites.google.com/umcmerced.org/united-methodist-church-of-mer/information",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "UC Merced Basic Needs — community USDA food distribution",
+      "url": "https://basicneeds.ucmerced.edu/food-support/usda-food-distribution",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Merced Streets — public community-event leads",
+      "url": "https://www.facebook.com/merced.streets",
+      "lastChecked": "2026-10-14"
+    },
+    {
+      "name": "Food. ¡Para todos! — official website",
+      "url": "https://foodparatodos.org/",
       "lastChecked": "2026-10-14"
     }
   ]

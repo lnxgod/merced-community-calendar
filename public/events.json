@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:48:23.365761+00:00",
+  "updatedAt": "2026-10-15T05:33:25.708605+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4354,6 +4354,21 @@
       "sourceUrl": "https://www.facebook.com/photo/?fbid=1150166164244082&set=a.196477086279666",
       "sourceName": "Jenny Nicole’s Old School House Bakery",
       "cost": "Admission price not published; check the organizer."
+    },
+    {
+      "id": "hometown-homeless-feed-merced-2026-10-17",
+      "title": "Hometown Homeless Feed — Community Meal & Essentials",
+      "date": "2026-10-17",
+      "startTime": "12:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Gilbert Macias Park, 229 E. Childs Avenue, Merced, CA",
+      "category": "Community services",
+      "description": "Community meal and essentials giveaway organized by La Viola for unhoused neighbors; the public flyer welcomes everyone. Hot chili, hot dogs, fruit, chips and water, plus hygiene supplies, clothing and blankets. Blankets are available while supplies last. Donations of food, hygiene items and clothing are welcomed by the organizer.",
+      "cost": "Free community meal and essentials giveaway; donations welcome",
+      "sourceName": "La Viola — public organizer flyer",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=10104028758487801&set=p.10104028758487801&type=3",
+      "timeNote": "Starts at noon Pacific. No end time is published. The organizer corrected the flyer to Saturday, October 17, 2026. Park address confirmed by the City of Merced."
     }
   ]
 }
