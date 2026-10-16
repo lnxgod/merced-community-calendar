@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:26:35.217957+00:00",
+  "updatedAt": "2026-10-16T06:33:54.660431+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4510,6 +4510,76 @@
       "sourceUrl": "https://www.facebook.com/bgcmercedcounty",
       "sourceName": "Boys & Girls Club of Merced County",
       "cost": "Admission and registration requirements not published; check the organizer."
+    },
+    {
+      "id": "fruitland-christian-fall-festival-2026-10-23",
+      "title": "Fruitland Christian Preschool Fall Festival",
+      "date": "2026-10-23",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "city": "Atwater",
+      "location": "Fruitland Christian Preschool, 2100 Fruitland Avenue, behind The Hope Church, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public annual fall festival with games, drinks, food and a silent auction. Every game wins a treat or toy prize. The organizer changed the date to October 23 to avoid a conflict with the Atwater–Buhach football game. Entry is free; game wristbands and food/drinks are separate purchases.",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=28871584322532423&set=a.242304962553741",
+      "sourceName": "Fruitland Christian Preschool",
+      "cost": "Free entry; game wristbands $10; food and drinks available for purchase."
+    },
+    {
+      "id": "johnson-trick-or-treat-extravaganza-2026-10-31",
+      "title": "Johnson Trick-or-Treat Extravaganza",
+      "date": "2026-10-31",
+      "startTime": "17:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "385 Noble Drive, Merced, CA 95348",
+      "category": "Festivals & community",
+      "description": "Public family Halloween evening sponsored by Bibbidi Bobbidi Bark Dog Spa, with full-size candy, games, photo opportunities with Medusa the boa constrictor and pet rats, and pet treats. The hosts publish this address as the public event venue. Check the organizer for current details.",
+      "sourceUrl": "https://www.facebook.com/events/1084665264299055/",
+      "sourceName": "Johnson Trick-or-Treat Extravaganza organizers",
+      "cost": "Admission price not published."
+    },
+    {
+      "id": "love-inc-coats-for-hope-giveaway-2026-11-14",
+      "title": "Coats for Hope — Free Coat Giveaway",
+      "date": "2026-11-14",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Hoffmeister Center, 1920 Canal Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Love INC of Greater Merced gives away new coats for children ages 5–18. The child must be present. No sign-up is needed; coats are distributed first come, first served. Public organizer contact: 209-383-7034 ext. 4.",
+      "sourceUrl": "https://loveincmerced.com/event/coats-for-hope-giveaway-2026/",
+      "sourceName": "Love INC of Greater Merced",
+      "cost": "Free; ages 5–18; child must be present; first come, first served."
+    },
+    {
+      "id": "merced-county-fair-christmas-bazaar-2026-11-28",
+      "title": "Merced County Fair Christmas Bazaar",
+      "date": "2026-11-28",
+      "startTime": "10:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "Merced County Fairgrounds, 900 Martin Luther King Jr. Way, Merced, CA 95341",
+      "category": "Markets",
+      "description": "Holiday bazaar at the Merced County Fairgrounds with shopping and food. The current organizer page confirms November 28, 2026, from 10 a.m. to 3 p.m. Admission and parking are free; vendor purchases are separate. Vendor applications and fees are handled by the fair.",
+      "sourceUrl": "https://www.mercedcountyfair.com/holidaybazaar",
+      "sourceName": "Merced County Fair",
+      "cost": "Free admission and parking; shopping and food purchases separate."
+    },
+    {
+      "id": "christian-life-center-harvest-carnival-2026-10-31",
+      "title": "Harvest Carnival — Christian Life Center",
+      "date": "2026-10-31",
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Christian Life Center, 650 E. Olive Avenue, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Free community harvest carnival with candy, games, a raffle and family fun. Open to everyone. The organizer’s public flyer and event header confirm a 5:30 p.m. start; the flyer gives an 8 p.m. end. Public organizer: Christian Life Center of Merced.",
+      "sourceUrl": "https://www.facebook.com/events/1611407803725419/",
+      "sourceName": "Christian Life Center of Merced",
+      "cost": "Free; open to all."
     }
   ]
 }
