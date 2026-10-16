@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:33:54.660431+00:00",
+  "updatedAt": "2026-10-16T15:11:42.751421+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4580,6 +4580,96 @@
       "sourceUrl": "https://www.facebook.com/events/1611407803725419/",
       "sourceName": "Christian Life Center of Merced",
       "cost": "Free; open to all."
+    },
+    {
+      "id": "merced-lao-family-food-drive-2026-10-22",
+      "title": "Free Food Drive — Merced Lao Family",
+      "date": "2026-10-22",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B, Merced, CA 95348",
+      "category": "Community services",
+      "description": "Free drive-through groceries from Merced Lao Family and the local food bank. Queue in the parking lot behind the building. First come, first served while supplies last; available items vary.",
+      "cost": "Free; while supplies last",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
+      "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
+    },
+    {
+      "id": "merced-lao-family-food-drive-2026-11-05",
+      "title": "Free Food Drive — Merced Lao Family",
+      "date": "2026-11-05",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B, Merced, CA 95348",
+      "category": "Community services",
+      "description": "Free drive-through groceries from Merced Lao Family and the local food bank. Queue in the parking lot behind the building. First come, first served while supplies last; available items vary.",
+      "cost": "Free; while supplies last",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
+      "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
+    },
+    {
+      "id": "merced-lao-family-food-drive-2026-11-19",
+      "title": "Free Food Drive — Merced Lao Family",
+      "date": "2026-11-19",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B, Merced, CA 95348",
+      "category": "Community services",
+      "description": "Free drive-through groceries from Merced Lao Family and the local food bank. Queue in the parking lot behind the building. First come, first served while supplies last; available items vary.",
+      "cost": "Free; while supplies last",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
+      "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
+    },
+    {
+      "id": "merced-lao-family-food-drive-2026-12-03",
+      "title": "Free Food Drive — Merced Lao Family",
+      "date": "2026-12-03",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B, Merced, CA 95348",
+      "category": "Community services",
+      "description": "Free drive-through groceries from Merced Lao Family and the local food bank. Queue in the parking lot behind the building. First come, first served while supplies last; available items vary.",
+      "cost": "Free; while supplies last",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
+      "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
+    },
+    {
+      "id": "merced-lao-family-food-drive-2026-12-17",
+      "title": "Free Food Drive — Merced Lao Family",
+      "date": "2026-12-17",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B, Merced, CA 95348",
+      "category": "Community services",
+      "description": "Free drive-through groceries from Merced Lao Family and the local food bank. Queue in the parking lot behind the building. First come, first served while supplies last; available items vary.",
+      "cost": "Free; while supplies last",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
+      "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
+    },
+    {
+      "id": "merced-lao-family-food-drive-2026-12-31",
+      "title": "Free Food Drive — Merced Lao Family",
+      "date": "2026-12-31",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B, Merced, CA 95348",
+      "category": "Community services",
+      "description": "Free drive-through groceries from Merced Lao Family and the local food bank. Queue in the parking lot behind the building. First come, first served while supplies last; available items vary.",
+      "cost": "Free; while supplies last",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
+      "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
     }
   ]
 }
