@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:11:42.751421+00:00",
+  "updatedAt": "2026-10-17T15:26:42.919932+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1759,7 +1759,7 @@
       "category": "Festivals & community",
       "description": "Gold Runner sponsors a free day at Kiddieland, alongside Cultiva Central Valley’s Zombie Bike Ride next to the park.",
       "cost": "Free",
-      "timeNote": "These are the published Kiddieland free-day hours. The neighboring Zombie Bike Ride has a separate schedule that remains unconfirmed.",
+      "timeNote": "These are the published Kiddieland free-day hours. The neighboring Merced Zombie Bike Ride has a separate public schedule of 10 a.m.–4:30 p.m.",
       "sourceName": "Kiwanis Greater Merced Kiddieland",
       "sourceUrl": "https://kiwaniskiddieland.com/event/zombie-bike-ride-invades-kiddieland-free-day-kiddieland-sponsored-by-gold-runner/"
     },
@@ -2144,7 +2144,8 @@
       "description": "Trunk or Treat at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
       "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/23/trunk-or-treat",
       "sourceName": "Blaker Brewing / The Tarmac",
-      "cost": "Admission price not published; check the organizer."
+      "cost": "Admission price not published; check the organizer.",
+      "timeNote": "Time conflict: the venue calendar lists 5–8 p.m.; the VXNANGELZ organizer event and flyer list 6–9 p.m. for the same date and venue. Confirm with the organizer before going. Public organizer listing: https://www.facebook.com/events/987909504338224/"
     },
     {
       "id": "ucm-womens-volleyball-2026-10-23",
@@ -4670,6 +4671,20 @@
       "sourceName": "Merced Lao Family Community, Inc.",
       "sourceUrl": "https://www.mercedlaofamily.org/events/merced-lao-family-food-drive-2026-10-22-08-30-1",
       "timeNote": "Published event window is 8:30–11:30 a.m. Organizer says pickup may begin around 8:30–9 a.m. and finish around 11–11:30 a.m. Only the six explicitly published dates are listed. Service details: https://www.mercedlaofamily.org/food-drive"
+    },
+    {
+      "id": "lucky-babes-market-merced-2026-11-08",
+      "title": "Lucky Babe’s Market",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "Bob Hart Square, Downtown Merced, CA",
+      "category": "Markets",
+      "description": "A public market featuring more than 30 women- and femme-owned vendors, including vintage clothing, jewelry, food and coffee. Hosted by VintageSoul / Lucky Babe’s Market.",
+      "cost": "Free entry; vendor purchases cost extra.",
+      "sourceName": "VintageSoul / Lucky Babe’s Market",
+      "sourceUrl": "https://www.facebook.com/events/1626310799509488/"
     }
   ]
 }
