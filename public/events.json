@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:12:44.588974+00:00",
+  "updatedAt": "2026-10-18T17:27:48.610776+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4713,6 +4713,34 @@
       "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
       "sourceName": "Kids Discovery Station",
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-23-11-30"
+    },
+    {
+      "id": "polaris-one-stop-shop-trunk-or-treat-2026-10-24",
+      "title": "Polaris Tint & One Stop Shop Trunk or Treat Car Show",
+      "date": "2026-10-24",
+      "startTime": "15:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Marketplace at Merced, Parking Lot E behind Boot Barn, 851 W. Olive Avenue, Merced, CA",
+      "category": "Festivals & community",
+      "description": "A public family car show and trunk-or-treat with cars, candy and decorated trunks. The Marketplace at Merced organizer listing identifies Parking Lot E behind Boot Barn. Contact the event organizers for vehicle or vendor participation details.",
+      "cost": "Admission price not published; confirm any vehicle or vendor participation fees with the organizers.",
+      "sourceName": "Marketplace at Merced — public organizer event",
+      "sourceUrl": "https://www.facebook.com/events/1641631314233025/"
+    },
+    {
+      "id": "merced-ar-trunk-or-treat-2026-10-31",
+      "title": "2nd Annual Trunk or Treat at Merced AR",
+      "date": "2026-10-31",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced AR, 1799 Yosemite Parkway, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "A free public trunk-or-treat hosted by Merced AR, with candy, games and decorated trunks. The organizer invites children, friends and the community.",
+      "cost": "Free; everyone is invited.",
+      "sourceName": "Merced AR — public organizer event",
+      "sourceUrl": "https://www.facebook.com/events/2078259349723858/"
     }
   ]
 }
