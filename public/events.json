@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T15:26:42.919932+00:00",
+  "updatedAt": "2026-10-18T15:12:44.588974+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4685,6 +4685,34 @@
       "cost": "Free entry; vendor purchases cost extra.",
       "sourceName": "VintageSoul / Lucky Babe’s Market",
       "sourceUrl": "https://www.facebook.com/events/1626310799509488/"
+    },
+    {
+      "id": "mcswain-4h-trunk-or-treat-2026-10-30",
+      "title": "McSwain 4-H Trunk or Treat",
+      "date": "2026-10-30",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "city": "McSwain",
+      "location": "McSwain School West Campus parking lot, McSwain, CA",
+      "category": "Festivals & community",
+      "description": "A community trunk-or-treat hosted by McSwain 4-H, with a costume contest, balloon animals, a cake walk and candy. The organizer asks visitors to bring cash for the cake walk. Use the West Campus parking lot.",
+      "cost": "Admission price not published. Bring cash for the cake walk; its price is not published.",
+      "sourceName": "McSwain 4-H — public organizer flyer",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1571499538348249&set=a.670377461793799"
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-10-23",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-10-23",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-23-11-30"
     }
   ]
 }
