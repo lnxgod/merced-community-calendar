@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:27:48.610776+00:00",
+  "updatedAt": "2026-10-19T15:28:30.241693+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4741,6 +4741,34 @@
       "cost": "Free; everyone is invited.",
       "sourceName": "Merced AR — public organizer event",
       "sourceUrl": "https://www.facebook.com/events/2078259349723858/"
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-10-25",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-10-25",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-25-13-00"
+    },
+    {
+      "id": "graveyard-bash-merced-2026-10-31",
+      "title": "Graveyard Bash",
+      "date": "2026-10-31",
+      "startTime": "14:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Bob Hart Square, Downtown Merced, CA",
+      "category": "Festivals & community",
+      "description": "Halloween community event hosted by Gottschalk Music Center - Merced, with local music, free family-friendly activities and food vendors. Food and vendor purchases are separate.",
+      "cost": "Free event and family activities; food and vendor purchases separate.",
+      "sourceName": "Gottschalk Music Center - Merced — public organizer event",
+      "sourceUrl": "https://www.facebook.com/events/1138760865494203/"
     }
   ]
 }
