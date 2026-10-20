@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:27:19.012457+00:00",
+  "updatedAt": "2026-10-20T15:31:48.871912+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4826,6 +4826,20 @@
       "timeNote": "The organizer’s latest rescheduling announcement says 4–8 p.m. The Facebook event header separately shows 8 p.m.; confirm the hours with the organizer before traveling.",
       "sourceName": "The Market Atwater — public organizer rescheduling announcement",
       "sourceUrl": "https://www.facebook.com/people/The-Market-Atwater/61591994275730/"
+    },
+    {
+      "id": "inclusive-halloween-costume-party-dance-merced-2026-10-29",
+      "title": "Halloween Costume Party & Dance — Inclusive Family Event",
+      "date": "2026-10-29",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "Merced Senior Community Center, 15th and O Streets, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Halloween costume party and dance for individuals with special needs and their families. All ages welcome. The public organizer announcement lists music and dancing, a photo booth, refreshments, snacks and prizes, with Merced County Parks & Recreation Division and JLW Social Enterprises involved.",
+      "cost": "Free admission, refreshments, snacks and prizes.",
+      "sourceName": "JLW Social Enterprises — public organizer announcement",
+      "sourceUrl": "https://www.facebook.com/groups/1321047555633710/posts/1601848024220327/"
     }
   ]
 }
