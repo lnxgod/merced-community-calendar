@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:28:30.241693+00:00",
+  "updatedAt": "2026-10-20T15:27:19.012457+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4769,6 +4769,63 @@
       "cost": "Free event and family activities; food and vendor purchases separate.",
       "sourceName": "Gottschalk Music Center - Merced — public organizer event",
       "sourceUrl": "https://www.facebook.com/events/1138760865494203/"
+    },
+    {
+      "id": "jorgensen-street-haunted-house-2026-10-25",
+      "title": "Jorgensen Street Haunted House",
+      "date": "2026-10-25",
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "city": "Atwater",
+      "location": "1525 Jorgensen Street, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public Halloween haunted house. The host warns that it may be too scary for young children; contact the host about suitability or a walkthrough without actors.",
+      "cost": "Free admission.",
+      "sourceName": "Jorgensen Street Haunted House — public host announcement",
+      "sourceUrl": "https://www.facebook.com/groups/1080974320277157/posts/1722664849441431/"
+    },
+    {
+      "id": "jorgensen-street-haunted-house-2026-10-31",
+      "title": "Jorgensen Street Haunted House",
+      "date": "2026-10-31",
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "city": "Atwater",
+      "location": "1525 Jorgensen Street, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public Halloween haunted house. The host warns that it may be too scary for young children; contact the host about suitability or a walkthrough without actors.",
+      "cost": "Free admission.",
+      "sourceName": "Jorgensen Street Haunted House — public host announcement",
+      "sourceUrl": "https://www.facebook.com/groups/1080974320277157/posts/1722664849441431/"
+    },
+    {
+      "id": "food-para-todos-diaper-distribution-2026-10-22",
+      "title": "Diaper Distribution — Food. ¡Para todos!",
+      "date": "2026-10-22",
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "city": "Merced",
+      "location": "Food. ¡Para todos!, 936 W 18th Street, Merced, CA",
+      "category": "Community services",
+      "description": "Community diaper distribution with diapers donated by Valley Children’s, first come, first served while supplies last. Enter and line up through the alley; distribution is not available at the front entrance. The flyer offers a free pack of wipes to visitors who show they follow Food Para Todos on Facebook; wipes are also subject to availability.",
+      "cost": "Donated diaper distribution; no fee stated. The free-wipes offer requires showing a Facebook follow.",
+      "sourceName": "Food. ¡Para todos! — public organizer flyer",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1100967796145849&set=a.101114989464473"
+    },
+    {
+      "id": "the-market-atwater-2026-10-29",
+      "title": "The Market Atwater — rescheduled",
+      "date": "2026-10-29",
+      "startTime": "16:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "The Market Atwater, 1251 Grove Avenue, Atwater, CA 95301",
+      "category": "Markets",
+      "description": "Seasonal farmer and crafter market with live music, food, farm products and handcrafted items, presented by Thunderbird Community Partner and sponsored by Bloss Memorial Healthcare District. The organizer moved the October 22 market to October 29 because of forecast rain.",
+      "cost": "Admission price not published; food and vendor purchases separate.",
+      "timeNote": "The organizer’s latest rescheduling announcement says 4–8 p.m. The Facebook event header separately shows 8 p.m.; confirm the hours with the organizer before traveling.",
+      "sourceName": "The Market Atwater — public organizer rescheduling announcement",
+      "sourceUrl": "https://www.facebook.com/people/The-Market-Atwater/61591994275730/"
     }
   ]
 }
