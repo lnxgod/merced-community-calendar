@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:15:42+00:00",
+  "updatedAt": "2026-10-21T05:24:46.822131+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4840,6 +4840,20 @@
       "cost": "Free admission, refreshments, snacks and prizes.",
       "sourceName": "JLW Social Enterprises — public organizer announcement",
       "sourceUrl": "https://www.facebook.com/groups/1321047555633710/posts/1601848024220327/"
+    },
+    {
+      "id": "mercy-city-church-trunk-or-treat-2026-10-25",
+      "title": "Mercy City Church Trunk-or-Treat",
+      "date": "2026-10-25",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Mercy City Church, 560 W 18th Street, corner of M and 18th Streets, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Public family trunk-or-treat hosted by Mercy City Church Merced, with family activities and feats-of-strength entertainment. The organizer invites families to its downtown Merced location at M and 18th Streets.",
+      "sourceUrl": "https://www.facebook.com/mercycitychurchmerced",
+      "sourceName": "Mercy City Church Merced — public organizer announcement",
+      "cost": "Free admission."
     }
   ]
 }
