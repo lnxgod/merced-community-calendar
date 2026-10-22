@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:21:00.200040+00:00",
+  "updatedAt": "2026-10-22T16:15:08.809132+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -5064,6 +5064,36 @@
       "cost": "Free; no registration.",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19349&calType=0&day=15&month=11&year=2026"
+    },
+    {
+      "id": "super-mrkt-downtown-merced-2026-10-24",
+      "title": "Super MRKT — Downtown Merced",
+      "date": "2026-10-24",
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Bob Hart Square and Canal Street, downtown Merced, CA",
+      "category": "Markets",
+      "description": "Outdoor market spanning three downtown blocks with over 100 vendors, including vintage goods, clothing, plants, collectibles, jewelry, art and food. Free entry and all ages welcome; purchases are separate.",
+      "cost": "Free admission; vendor and food purchases separate",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=122191997162880168&set=pcb.122191997414880168",
+      "sourceName": "Super MRKT / Downtown Merced official public flyer",
+      "timeNote": "October 24, 2026 hours confirmed from the public organizer flyer reposted by Downtown Merced. Confirm organizer changes before traveling."
+    },
+    {
+      "id": "merced-art-flop-2026-10-31",
+      "title": "Merced Art Flop",
+      "date": "2026-10-31",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "Participating downtown Merced businesses on Main Street and 18th Street, from MLK Jr. Way to N Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Multi-location downtown art evening featuring local art, music, photography, film, dance and raffles across participating businesses. Check the organizer for the final route map and venue-specific details; admission and age restrictions were not published in the event notice.",
+      "cost": "Admission not published; check participating venues",
+      "sourceUrl": "https://tockify.com/downtown.merced/detail/449/1793494800000",
+      "sourceName": "Downtown Merced official event calendar",
+      "timeNote": "Published October 31 hours are 6–9 PM. The calendar map anchor is 514 W. Main Street; activities span multiple participating locations."
     }
   ]
 }
