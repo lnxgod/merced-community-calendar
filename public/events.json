@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:18:17.012619+00:00",
+  "updatedAt": "2026-10-22T15:21:00.200040+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -5008,6 +5008,62 @@
       "description": "Three-day camp, November 23–25, for children in grades TK–5. Hands-on STEAM experiments, creative projects, games and activities. Daily drop-off 8:30 a.m.; pickup 3:30 p.m. Water and lunch provided; children may bring nut-free snacks. Registration required. The organizer publishes a separate registration link for the free MCSD-student option. Contact the organizer about availability and registration requirements.",
       "cost": "Free for MCSD students through the organizer’s designated registration. For other students, $125 per museum member / $150 per non-member for the three-day camp.",
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/thanksgiving-camp-2026"
+    },
+    {
+      "id": "backyard-ideals-opening-reception-merced-college-2026-11-04",
+      "title": "Backyard Ideals — Opening Reception",
+      "date": "2026-11-04",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced College Fine Arts Gallery, Theater Building, Main Campus Arts Complex, 3600 M Street, Merced, CA 95348",
+      "category": "Arts & performances",
+      "description": "Opening reception for Alexander Quinones's Backyard Ideals exhibition, with an artist talk at 6 p.m. Free and open to the public. A campus parking permit is required. This listing covers the opening reception; regular gallery visiting hours during the November 4–December 10 exhibition are not specified.",
+      "cost": "Free admission; campus parking permit required.",
+      "sourceName": "Merced College",
+      "sourceUrl": "https://www.mccd.edu/event/art-gallery-exhibition-backyard-ideals/"
+    },
+    {
+      "id": "wiggle-read-atwater-library-2026-11-05",
+      "title": "Wiggle & Read — Atwater Library",
+      "date": "2026-11-05",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "For children ages 0–2 and their adult caregivers. Storytime from 10:30–11 a.m., followed by Stay & Play from 11–11:30 a.m. Includes books, music, lap bounces, fingerplays and a craft.",
+      "cost": "Free.",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18414&calType=0&day=15&month=11&year=2026"
+    },
+    {
+      "id": "teens-nintendo-switch-merced-library-2026-11-05",
+      "title": "Teens: Nintendo Switch — Merced Main Library",
+      "date": "2026-11-05",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Teens Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Nintendo Switch gaming program for ages 12–18 in the Teens Department.",
+      "cost": "Free.",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19398&calType=0&day=15&month=11&year=2026"
+    },
+    {
+      "id": "conversation-circles-merced-library-2026-11-06",
+      "title": "Conversation Circles — Merced Main Library",
+      "date": "2026-11-06",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Read and Succeed Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Practice everyday English conversation over free coffee. All skill levels are welcome; no registration is needed.",
+      "cost": "Free; no registration.",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19349&calType=0&day=15&month=11&year=2026"
     }
   ]
 }

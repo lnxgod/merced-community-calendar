@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:24:46.825105+00:00",
+  "updatedAt": "2026-10-22T15:21:00.200040+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -1095,6 +1095,26 @@
       "name": "Kids Discovery Station",
       "url": "https://www.kidsdiscoverystation.org/event-details/thanksgiving-camp-2026",
       "lastChecked": "2026-10-21"
+    },
+    {
+      "name": "Merced College",
+      "url": "https://www.mccd.edu/event/art-gallery-exhibition-backyard-ideals/",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "name": "Merced County Library",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=18414&calType=0&day=15&month=11&year=2026",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "name": "Merced County Library",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=19398&calType=0&day=15&month=11&year=2026",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "name": "Merced County Library",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=19349&calType=0&day=15&month=11&year=2026",
+      "lastChecked": "2026-10-22"
     }
   ]
 }
