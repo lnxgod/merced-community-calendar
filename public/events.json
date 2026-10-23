@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:15:08.809132+00:00",
+  "updatedAt": "2026-10-23T15:26:55.827391+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -5094,6 +5094,110 @@
       "sourceUrl": "https://tockify.com/downtown.merced/detail/449/1793494800000",
       "sourceName": "Downtown Merced official event calendar",
       "timeNote": "Published October 31 hours are 6–9 PM. The calendar map anchor is 514 W. Main Street; activities span multiple participating locations."
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-10-30",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-10-30",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-23-11-30",
+      "timeNote": "This date is explicitly listed under Other dates on the organizer’s event page. Check the organizer for changes."
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-11-06",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-11-06",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-23-11-30",
+      "timeNote": "This date is explicitly listed under Other dates on the organizer’s event page. Check the organizer for changes."
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-11-13",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-11-13",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-23-11-30",
+      "timeNote": "This date is explicitly listed under Other dates on the organizer’s event page. Check the organizer for changes."
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-11-01",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-11-01",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-25-13-00",
+      "timeNote": "This date is explicitly listed under Other dates on the organizer’s event page. Check the organizer for changes."
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-11-08",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-11-08",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-25-13-00",
+      "timeNote": "This date is explicitly listed under Other dates on the organizer’s event page. Check the organizer for changes."
+    },
+    {
+      "id": "kids-discovery-story-puppet-theatre-2026-11-15",
+      "title": "Story Time and Puppet Theatre — Kids Discovery Station",
+      "date": "2026-11-15",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Story time with puppet theatre and dancing in Little Explorers Planet, designed for children ages 2–5 and their caregivers. The organizer says visitors can order the book of the day for free at the end of the program. Sponsored by Rotary Club of Merced.",
+      "cost": "Included with general admission: $7 per adult and child over 12 months; free for museum members. Children under 12 months receive free admission.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-10-25-13-00",
+      "timeNote": "This date is explicitly listed under Other dates on the organizer’s event page. Check the organizer for changes."
+    },
+    {
+      "id": "st-patricks-candy-crawl-trunk-or-treat-2026-10-30",
+      "title": "St. Patrick’s Trunk or Treat — The Candy Crawl",
+      "date": "2026-10-30",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "St. Patrick’s Catholic Church, Yosemite Avenue side of parking lot, Yosemite Avenue at Mansionette Drive, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Second annual family trunk-or-treat hosted by St. Patrick’s Parish. All are welcome to stop by. Volunteers and decorated vehicles must coordinate with the organizer; participating vehicles should be parked by 2:30 p.m. Contact rosemarie@olmstpatrick.org for volunteer arrangements.",
+      "cost": "Admission price not published; confirm with the organizer.",
+      "sourceName": "St. Patrick’s Parish and Our Lady of Mercy",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1416311574022523&set=a.477354017918288"
     }
   ]
 }
