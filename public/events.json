@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:28:07.368794+00:00",
+  "updatedAt": "2026-10-24T23:33:24.194088+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -5508,6 +5508,62 @@
       "cost": "Free museum admission for veterans and active-duty service members; other visitors should check regular admission prices.",
       "sourceName": "Castle Air Museum",
       "sourceUrl": "https://www.facebook.com/photo/?fbid=1555622556609663&set=a.637555055083089"
+    },
+    {
+      "id": "mariposa-museum-haunted-house-2026-10-28",
+      "title": "Mariposa Museum Haunted House Fundraiser",
+      "date": "2026-10-28",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Mariposa",
+      "location": "Mariposa Museum & History Center, 5119 Jessie Street, Mariposa, CA 95338",
+      "category": "Festivals & community",
+      "description": "The museum's 3rd Annual Haunted House fundraiser offers family-friendly haunts with all ages welcome. Admission includes museum entry and raffle tickets for a nightly prize. Tickets are available online, in advance at the museum, or during the event. Food vendors are scheduled for Halloween night, October 31.",
+      "cost": "Adults $5; ages 7–13 $3; children under 6 free. Age 6 pricing is not specified. Online service fees shown are $0.13 on the $5 ticket and $0.08 on the $3 youth ticket.",
+      "sourceName": "Mariposa Museum & History Center",
+      "sourceUrl": "https://www.mariposamuseum.com/event-details/3rd-annual-haunted-house-2026-10-28-17-00"
+    },
+    {
+      "id": "mariposa-museum-haunted-house-2026-10-29",
+      "title": "Mariposa Museum Haunted House Fundraiser",
+      "date": "2026-10-29",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Mariposa",
+      "location": "Mariposa Museum & History Center, 5119 Jessie Street, Mariposa, CA 95338",
+      "category": "Festivals & community",
+      "description": "The museum's 3rd Annual Haunted House fundraiser offers family-friendly haunts with all ages welcome. Admission includes museum entry and raffle tickets for a nightly prize. Tickets are available online, in advance at the museum, or during the event. Food vendors are scheduled for Halloween night, October 31.",
+      "cost": "Adults $5; ages 7–13 $3; children under 6 free. Age 6 pricing is not specified. Online service fees shown are $0.13 on the $5 ticket and $0.08 on the $3 youth ticket. Thursday only: ages 60 and older receive $2 off the ticket price.",
+      "sourceName": "Mariposa Museum & History Center",
+      "sourceUrl": "https://www.mariposamuseum.com/event-details/3rd-annual-haunted-house-2026-10-29-17-00"
+    },
+    {
+      "id": "mariposa-museum-haunted-house-2026-10-30",
+      "title": "Mariposa Museum Haunted House Fundraiser",
+      "date": "2026-10-30",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Mariposa",
+      "location": "Mariposa Museum & History Center, 5119 Jessie Street, Mariposa, CA 95338",
+      "category": "Festivals & community",
+      "description": "The museum's 3rd Annual Haunted House fundraiser offers family-friendly haunts with all ages welcome. Admission includes museum entry and raffle tickets for a nightly prize. Tickets are available online, in advance at the museum, or during the event. Food vendors are scheduled for Halloween night, October 31.",
+      "cost": "Adults $5; ages 7–13 $3; children under 6 free. Age 6 pricing is not specified. Online service fees shown are $0.13 on the $5 ticket and $0.08 on the $3 youth ticket.",
+      "sourceName": "Mariposa Museum & History Center",
+      "sourceUrl": "https://www.mariposamuseum.com/event-details/3rd-annual-haunted-house-2026-10-30-17-00"
+    },
+    {
+      "id": "mariposa-museum-haunted-house-2026-10-31",
+      "title": "Mariposa Museum Haunted House Fundraiser",
+      "date": "2026-10-31",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Mariposa",
+      "location": "Mariposa Museum & History Center, 5119 Jessie Street, Mariposa, CA 95338",
+      "category": "Festivals & community",
+      "description": "The museum's 3rd Annual Haunted House fundraiser offers family-friendly haunts with all ages welcome. Admission includes museum entry and raffle tickets for a nightly prize. Tickets are available online, in advance at the museum, or during the event. Food vendors are scheduled for Halloween night, October 31.",
+      "cost": "Adults $5; ages 7–13 $3; children under 6 free. Age 6 pricing is not specified. Online service fees shown are $0.13 on the $5 ticket and $0.08 on the $3 youth ticket.",
+      "sourceName": "Mariposa Museum & History Center",
+      "sourceUrl": "https://www.mariposamuseum.com/event-details/3rd-annual-haunted-house-2026-10-31-17-00"
     }
   ]
 }

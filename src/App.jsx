@@ -16,7 +16,7 @@ async function readJson(url, signal) {
   return response.json();
 }
 function validEvent(event) {
-  return event && typeof event.id === 'string' && typeof event.title === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(event.date) && ['Merced', 'Atwater', 'McSwain'].includes(event.city) && typeof event.category === 'string';
+  return event && typeof event.id === 'string' && typeof event.title === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(event.date) && ['Merced', 'Atwater', 'McSwain', 'Mariposa'].includes(event.city) && typeof event.category === 'string';
 }
 export default function App() {
   const [data, setData] = useState({ events: [], updatedAt: null });
