@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:33:24.194088+00:00",
+  "updatedAt": "2026-10-25T15:31:59.109471+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -1225,6 +1225,46 @@
       "name": "Mariposa Museum & History Center — 2026 Haunted House schedule and public flyers",
       "url": "https://www.mariposamuseum.com/2025-haunted-house",
       "lastChecked": "2026-10-24"
+    },
+    {
+      "name": "The Home Depot Merced — local Kids Workshop",
+      "url": "https://www.homedepot.com/l/Merced/CA/Merced/95341/6618",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "The Home Depot — Kids Workshop schedule and participation details",
+      "url": "https://www.homedepot.com/c/kids-workshop",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Lego Time — Merced Main Library — 2026-11-02",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20392&month=11&year=2026&day=25&calType=0",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Make a Clay Turtle — Merced Main Library — 2026-11-03",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20396&month=11&year=2026&day=25&calType=0",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Make a Fall Leaf Bookmark — Merced Main Library — 2026-11-07",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20399&month=11&year=2026&day=25&calType=0",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Makerspace — Merced Main Library — 2026-11-04",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20420&month=11&year=2026&day=25&calType=0",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Tiny Tales — Atwater Library — 2026-11-04",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=18385&month=11&year=2026&day=25&calType=0",
+      "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Inthrive Film Festival",
+      "url": "https://inthrivefilmfestival.org/merced",
+      "lastChecked": "2026-10-25"
     }
   ]
 }
