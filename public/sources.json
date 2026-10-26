@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:31:59.109471+00:00",
+  "updatedAt": "2026-10-26T15:56:27.642088+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -1265,6 +1265,16 @@
       "name": "Inthrive Film Festival",
       "url": "https://inthrivefilmfestival.org/merced",
       "lastChecked": "2026-10-25"
+    },
+    {
+      "name": "Merced County Library",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20419&month=11&year=2026&day=25&calType=0",
+      "lastChecked": "2026-10-26"
+    },
+    {
+      "name": "Mercy Medical Center Merced Foundation",
+      "url": "https://www.supportmercymerced.org/news--events/festival-of-trees-sneak-peek",
+      "lastChecked": "2026-10-26"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:31:59.109471+00:00",
+  "updatedAt": "2026-10-26T15:56:27.642088+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2924,6 +2924,20 @@
       "cost": "Free"
     },
     {
+      "id": "teens-sewing-tutorial-merced-library-2026-11-03",
+      "title": "Teens: Sewing Tutorial — Merced Library",
+      "date": "2026-11-03",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "city": "Merced",
+      "location": "Merced Main Library - Teens Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Sewing tutorial for teens ages 12–18 in the library's Teens Department.",
+      "cost": "Free.",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20419&month=11&year=2026&day=25&calType=0"
+    },
+    {
       "id": "no-no-boy-uc-merced-arts-2026-11-04",
       "title": "No-No Boy — UC Merced Arts",
       "date": "2026-11-04",
@@ -3288,6 +3302,20 @@
       "sourceName": "Marketplace at Merced",
       "cost": "Free",
       "id": "merced-chess-club-free-play-friday-2026-11-20"
+    },
+    {
+      "id": "festival-of-trees-sneak-peek-2026-11-20",
+      "title": "Festival of Trees Sneak Peek",
+      "date": "2026-11-20",
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "UC Merced, Lakireddy Ballroom, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Preview the decorated trees at Mercy Medical Center Merced Foundation's Festival of Trees kickoff. The organizer offers no-charge individual registration. RSVP by November 6 through the organizer's registration page.",
+      "cost": "No charge; RSVP by November 6.",
+      "sourceName": "Mercy Medical Center Merced Foundation",
+      "sourceUrl": "https://www.supportmercymerced.org/news--events/festival-of-trees-sneak-peek"
     },
     {
       "title": "Merced Flea & Farmers Market",
