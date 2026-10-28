@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:37:41.071244+00:00",
+  "updatedAt": "2026-10-28T15:40:18.532210+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4786,17 +4786,17 @@
     },
     {
       "id": "graveyard-bash-merced-2026-10-31",
-      "title": "Graveyard Bash",
+      "title": "POSTPONED — Graveyard Bash (new date pending)",
       "date": "2026-10-31",
       "startTime": "14:00",
       "endTime": "20:00",
       "city": "Merced",
       "location": "Bob Hart Square, Downtown Merced, CA",
       "category": "Festivals & community",
-      "description": "Halloween community event hosted by Gottschalk Music Center - Merced, with local music, free family-friendly activities and food vendors. Food and vendor purchases are separate.",
-      "cost": "Free event and family activities; food and vendor purchases separate.",
-      "sourceName": "Gottschalk Music Center - Merced — public organizer event",
-      "sourceUrl": "https://www.facebook.com/events/1138760865494203/"
+      "description": "Gottschalk Music Center - Merced has officially postponed the October 31 Graveyard Bash. The organizer has not announced a replacement date. Do not attend on the original schedule; check the organizer for the rescheduled event.",
+      "sourceName": "Gottschalk Music Center - Merced — official postponement notice",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1539845838166714&set=a.659759289508711",
+      "timeNote": "The original October 31, 2–8 p.m. calendar slot is retained to communicate the postponement, not as an active event time."
     },
     {
       "id": "jorgensen-street-haunted-house-2026-10-25",
@@ -5914,6 +5914,111 @@
       "cost": "$45 season pass for all five shows; single-show price and ticketing fees are not published.",
       "sourceName": "Merced County Arts Council / Multicultural Arts Center",
       "sourceUrl": "https://www.artsmerced.org/events-list/drama-island-16-fcjjd-533dz-tws6c"
+    },
+    {
+      "id": "hunter-farms-pumpkin-patch-2026-10-28",
+      "title": "Hunter Farms Pumpkin Patch",
+      "date": "2026-10-28",
+      "startTime": "16:00",
+      "endTime": "19:30",
+      "city": "Atwater",
+      "location": "Hunter Farms Pumpkin Patch, 2989 N. Southern Pacific Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public pumpkin-patch attractions during the organizer’s explicitly announced final dates of the 2026 season.",
+      "cost": "Paid admission; single-day prices and age discounts are not confirmed. Check the organizer before visiting.",
+      "timeNote": "These are attraction hours. Separate pumpkin-sales-only hours do not include access to the grounds or attractions.",
+      "sourceUrl": "https://www.facebook.com/hunterfarmspumpkin/",
+      "sourceName": "Hunter Farms Pumpkin Patch - Atwater — final 2026 dates"
+    },
+    {
+      "id": "hunter-farms-pumpkin-patch-2026-10-29",
+      "title": "Hunter Farms Pumpkin Patch",
+      "date": "2026-10-29",
+      "startTime": "16:00",
+      "endTime": "19:30",
+      "city": "Atwater",
+      "location": "Hunter Farms Pumpkin Patch, 2989 N. Southern Pacific Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public pumpkin-patch attractions during the organizer’s explicitly announced final dates of the 2026 season.",
+      "cost": "Paid admission; single-day prices and age discounts are not confirmed. Check the organizer before visiting.",
+      "timeNote": "These are attraction hours. Separate pumpkin-sales-only hours do not include access to the grounds or attractions.",
+      "sourceUrl": "https://www.facebook.com/hunterfarmspumpkin/",
+      "sourceName": "Hunter Farms Pumpkin Patch - Atwater — final 2026 dates"
+    },
+    {
+      "id": "hunter-farms-pumpkin-patch-2026-10-30",
+      "title": "Hunter Farms Pumpkin Patch",
+      "date": "2026-10-30",
+      "startTime": "16:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Hunter Farms Pumpkin Patch, 2989 N. Southern Pacific Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public pumpkin-patch attractions during the organizer’s explicitly announced final dates of the 2026 season.",
+      "cost": "Paid admission; single-day prices and age discounts are not confirmed. Check the organizer before visiting.",
+      "timeNote": "These are attraction hours. Separate pumpkin-sales-only hours do not include access to the grounds or attractions.",
+      "sourceUrl": "https://www.facebook.com/hunterfarmspumpkin/",
+      "sourceName": "Hunter Farms Pumpkin Patch - Atwater — final 2026 dates"
+    },
+    {
+      "id": "hunter-farms-pumpkin-patch-2026-10-31",
+      "title": "Hunter Farms Pumpkin Patch — Halloween",
+      "date": "2026-10-31",
+      "startTime": "10:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Hunter Farms Pumpkin Patch, 2989 N. Southern Pacific Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public pumpkin-patch attractions during the organizer’s explicitly announced final dates of the 2026 season. Trick-or-treating begins at 5 p.m.",
+      "cost": "Paid admission; single-day prices and age discounts are not confirmed. Check the organizer before visiting.",
+      "timeNote": "These are attraction hours. Separate pumpkin-sales-only hours do not include access to the grounds or attractions.",
+      "sourceUrl": "https://www.facebook.com/hunterfarmspumpkin/",
+      "sourceName": "Hunter Farms Pumpkin Patch - Atwater — final 2026 dates"
+    },
+    {
+      "id": "hunter-farms-pumpkin-patch-2026-11-01",
+      "title": "Hunter Farms Pumpkin Patch — Final Day",
+      "date": "2026-11-01",
+      "startTime": "10:00",
+      "endTime": "17:00",
+      "city": "Atwater",
+      "location": "Hunter Farms Pumpkin Patch, 2989 N. Southern Pacific Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public pumpkin-patch attractions during the organizer’s explicitly announced final dates of the 2026 season.",
+      "cost": "Paid admission; single-day prices and age discounts are not confirmed. Check the organizer before visiting.",
+      "timeNote": "These are attraction hours. Separate pumpkin-sales-only hours do not include access to the grounds or attractions.",
+      "sourceUrl": "https://www.facebook.com/hunterfarmspumpkin/",
+      "sourceName": "Hunter Farms Pumpkin Patch - Atwater — final 2026 dates"
+    },
+    {
+      "id": "stand-sunday-community-film-merced-2026-11-07",
+      "title": "Stand Sunday — Free Community Film & Discussion",
+      "date": "2026-11-07",
+      "startTime": "10:30",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "The Mainzer, 655 West Main Street, Merced, CA 95340",
+      "category": "Arts & culture",
+      "description": "ESTEEM Youth & Family Resources hosts a public screening of Sound of Hope: The Story of Possum Trot, with a community panel and discussion about supporting children and families affected by foster care. Anyone under 18 must attend with a parent or legal guardian. Reserve a ticket through the organizer; capacity is limited.",
+      "cost": "Free; advance ticket reservation requested.",
+      "timeNote": "Doors open at 10 a.m. Panel 10:30–11 a.m.; film 11 a.m.–1:15 p.m.; closing discussion 1:15–1:30 p.m.",
+      "sourceName": "ESTEEM Youth & Family Resources — linked organizer registration page",
+      "sourceUrl": "https://www.eventbrite.com/e/free-stand-sunday-movie-screening-merced-ca-on-november-7th-tickets-2002835525973"
+    },
+    {
+      "id": "breakfast-santa-atwater-2026-12-13-1000",
+      "title": "Breakfast with Santa — Atwater (10 a.m. session)",
+      "date": "2026-12-13",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, 760 East Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "City of Atwater breakfast, crafts, holiday music and a visit with Santa. The 10 a.m. session has separate registration options for children age 5 and under and ages 6 and older. Children must be accompanied by a paid adult. Registration opens November 1, 2026 at midnight; a recreation account is required and space is limited.",
+      "cost": "$15 per participant in both published age bands; children must attend with a paid adult.",
+      "timeNote": "This listing covers the verified 10–11 a.m. session only.",
+      "sourceName": "City of Atwater Recreation — 2026 session details",
+      "sourceUrl": "https://secure.rec1.com/CA/atwater-ca/catalog"
     }
   ]
 }
