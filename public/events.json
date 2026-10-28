@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T15:40:18.532210+00:00",
+  "updatedAt": "2026-10-28T15:48:22.447952+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -6019,6 +6019,20 @@
       "timeNote": "This listing covers the verified 10–11 a.m. session only.",
       "sourceName": "City of Atwater Recreation — 2026 session details",
       "sourceUrl": "https://secure.rec1.com/CA/atwater-ca/catalog"
+    },
+    {
+      "id": "death-over-crafts-luna-luna-merced-2026-11-01",
+      "title": "Death Over Crafts — Día de los Muertos Photo Decorating",
+      "date": "2026-11-01",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Luna Luna 209, upstairs loft, 1731 Canal Street, Merced, CA 95340",
+      "category": "Arts & culture",
+      "description": "A photo-decorating and collage workshop honoring loved ones for Día de los Muertos, hosted by Luna Luna 209 and Deathwise Doula. Craft materials are provided. Bring a photo, or arrange printing with the organizer in advance. Tickets are available through the organizer.",
+      "cost": "$5 advertised ticket price; final total is calculated at checkout.",
+      "sourceName": "Luna Luna 209 — organizer ticket page",
+      "sourceUrl": "https://square.link/u/RHxDstC3?src=sheet"
     }
   ]
 }
