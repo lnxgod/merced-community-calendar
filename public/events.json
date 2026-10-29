@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T15:48:22.447952+00:00",
+  "updatedAt": "2026-10-29T15:48:16.822070+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -6033,6 +6033,76 @@
       "cost": "$5 advertised ticket price; final total is calculated at checkout.",
       "sourceName": "Luna Luna 209 — organizer ticket page",
       "sourceUrl": "https://square.link/u/RHxDstC3?src=sheet"
+    },
+    {
+      "id": "castle-tree-lighting-christmas-festival-2026-11-21",
+      "title": "Castle Air Museum Tree Lighting & Christmas Festival",
+      "date": "2026-11-21",
+      "startTime": "16:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "Castle Air Museum, 5050 Santa Fe Drive, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public family holiday celebration with a Christmas tree lighting, Santa visits, live music and local craft vendors. Copper Wings Cafe provides free hot cocoa for children. The Young Professionals Network is organizing a toy drive with toys distributed to children attending. Treats are available for purchase. Contact the museum for vendor participation details.",
+      "cost": "Admission price not published; check with the museum before attending. Hot cocoa for children is free; treats and vendor purchases cost extra.",
+      "sourceName": "Castle Air Museum — official event page and public announcement",
+      "sourceUrl": "https://castleairmuseum.org/event/annual-tree-lighting-ceremony/"
+    },
+    {
+      "id": "holy-cross-country-pantry-atwater-2026-11-07",
+      "title": "Country Pantry — Holiday Crafts & Baked Goods",
+      "date": "2026-11-07",
+      "startTime": "09:00",
+      "endTime": "13:00",
+      "city": "Atwater",
+      "location": "Holy Cross Lutheran Church, 1495 Underwood Avenue, Atwater, CA 95301",
+      "category": "Markets",
+      "description": "The Lutheran Women’s Missionary League Country Pantry is open to the public, with fresh baked goods, handcrafted holiday gifts and raffles from local vendors. Homemade soup and bread lunch is served from 11:30 a.m. to 1 p.m. Proceeds support charities. This is a fundraising sale, not a food-assistance distribution.",
+      "cost": "Admission and lunch prices not published; baked goods and crafts are sold as a fundraiser.",
+      "sourceName": "Country Pantry — public organizer event",
+      "sourceUrl": "https://www.facebook.com/events/1642000550845834/"
+    },
+    {
+      "id": "resm-thanksgiving-community-meal-atwater-2026-11-26",
+      "title": "Community Thanksgiving Meal — Tequila Cafe & RESM",
+      "date": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "city": "Atwater",
+      "location": "CVO, 1390 Broadway Avenue, Atwater, CA",
+      "category": "Community services",
+      "description": "Tequila Cafe and Rising Empowerment Sports Ministries host a community meal on Thanksgiving Day. The organizer welcomes everyone, including families, students, people in need and anyone who would otherwise spend the holiday alone. Check the organizer’s current announcement for updates.",
+      "cost": "The 2026 announcement does not state a meal charge or registration requirement; check with the organizer for details.",
+      "sourceName": "Rising Empowerment Sports Ministries — public 2026 Thanksgiving announcement",
+      "sourceUrl": "https://www.facebook.com/Risingempowermentsportsministries/posts/pfbid0GgbhvS1vdVJFZ5f8DYYiL1St29EKHnAN12t7B1DE2ccsgWFj7emUyGtUmFzWVNz4l"
+    },
+    {
+      "id": "fall-wreath-merced-library-2026-11-14",
+      "title": "Fall Wreath — Merced Main Library",
+      "date": "2026-11-14",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Children’s Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Free fall-wreath craft activity for children ages 6–11 in the Children’s Department at Merced Main Library.",
+      "cost": "Free; for ages 6–11.",
+      "sourceName": "Merced County Library — official event calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20400&month=10&year=2026&day=29&calType=0"
+    },
+    {
+      "id": "turkey-windsock-merced-library-2026-11-21",
+      "title": "Make a Turkey Windsock — Merced Main Library",
+      "date": "2026-11-21",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Free turkey-windsock craft activity for children ages 6–11 in the Gracey Room at Merced Main Library.",
+      "cost": "Free; for ages 6–11.",
+      "sourceName": "Merced County Library — official event calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20402&month=10&year=2026&day=29&calType=0"
     }
   ]
 }
