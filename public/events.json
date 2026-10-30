@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:48:16.822070+00:00",
+  "updatedAt": "2026-10-30T16:18:15.159313+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2719,7 +2719,8 @@
       "description": "Halloween party at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
       "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/30/halloween-party",
       "sourceName": "Blaker Brewing / The Tarmac",
-      "cost": "Admission price not published; check the organizer."
+      "cost": "Admission price not published; check the organizer.",
+      "timeNote": "The dated Blaker Brewing listing gives 7–11:59 PM. The venue’s 2026 season page also advertises a Halloween Bash on October 30 from 6 PM–1 AM. Confirm with the venue which schedule applies before attending; the times here follow the dated Blaker listing. Venue listing: https://tarmaceventvenue.com/2026-event-season"
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -5117,8 +5118,8 @@
       "city": "Merced",
       "location": "Participating downtown Merced businesses on Main Street and 18th Street, from MLK Jr. Way to N Street, Merced, CA",
       "category": "Arts & performances",
-      "description": "Multi-location downtown art evening featuring local art, music, photography, film, dance and raffles across participating businesses. Check the organizer for the final route map and venue-specific details; admission and age restrictions were not published in the event notice.",
-      "cost": "Admission not published; check participating venues",
+      "description": "Multi-location downtown art evening featuring local art, music, photography, film, dance and raffles across participating businesses. The current public announcement shared by the Merced County Hispanic Chamber of Commerce confirms free attendance. Check the organizer for the final route map and venue-specific age restrictions; food, drinks and purchases are separate.",
+      "cost": "Free to attend; food, drinks and purchases are separate. Check participating venues for age restrictions.",
       "sourceUrl": "https://tockify.com/downtown.merced/detail/449/1793494800000",
       "sourceName": "Downtown Merced official event calendar",
       "timeNote": "Published October 31 hours are 6–9 PM. The calendar map anchor is 514 W. Main Street; activities span multiple participating locations."
@@ -5605,7 +5606,7 @@
       "description": "Free community film program featuring the voices and work of incarceration survivors. This session screens A Theory of Change: Clemency and Tarik Shah — Don’t Play Like Them. Check the organizer for campus access and parking arrangements.",
       "cost": "Free event admission; parking arrangements are not specified.",
       "sourceName": "Inthrive Film Festival",
-      "sourceUrl": "https://inthrivefilmfestival.org/merced"
+      "sourceUrl": "https://inthrivefilmfestival.org/merced-1"
     },
     {
       "id": "inthrive-autonomy-justice-2026-11-05",
@@ -5619,7 +5620,7 @@
       "description": "Free community film program featuring the voices and work of incarceration survivors. This session screens Run It Back, So, Boom and Whispers Beyond Bars. Check the organizer for campus access and parking arrangements.",
       "cost": "Free event admission; parking arrangements are not specified.",
       "sourceName": "Inthrive Film Festival",
-      "sourceUrl": "https://inthrivefilmfestival.org/merced"
+      "sourceUrl": "https://inthrivefilmfestival.org/merced-1"
     },
     {
       "id": "inthrive-life-after-incarceration-2026-11-05",
@@ -5633,7 +5634,7 @@
       "description": "Free community film program featuring the voices and work of incarceration survivors. This session screens The Next Act is Freedom and Breaking Barriers. Check the organizer for campus access and parking arrangements.",
       "cost": "Free event admission; parking arrangements are not specified.",
       "sourceName": "Inthrive Film Festival",
-      "sourceUrl": "https://inthrivefilmfestival.org/merced"
+      "sourceUrl": "https://inthrivefilmfestival.org/merced-1"
     },
     {
       "id": "inthrive-arts-incarceration-2026-11-06",
@@ -5647,7 +5648,7 @@
       "description": "Free community film program and conversation with local justice arts groups about art made by incarceration survivors. The organizer’s linked directions identify the Merced Multicultural Arts Center.",
       "cost": "Free event admission.",
       "sourceName": "Inthrive Film Festival",
-      "sourceUrl": "https://inthrivefilmfestival.org/merced"
+      "sourceUrl": "https://inthrivefilmfestival.org/merced-1"
     },
     {
       "id": "home-depot-dump-truck-workshop-merced-2026-11-07",
@@ -6103,6 +6104,92 @@
       "cost": "Free; for ages 6–11.",
       "sourceName": "Merced County Library — official event calendar",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20402&month=10&year=2026&day=29&calType=0"
+    },
+    {
+      "city": "Merced",
+      "category": "Library & learning",
+      "sourceName": "Kids Discovery Station",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "cost": "General museum admission is $7 per adult and child over 12 months; children under 12 months and museum members enter free. A separate program fee is not stated; check with the museum.",
+      "timeNote": "This occurrence has an explicit date and time on the organizer’s event page. Museum admission and visitor policies: https://www.kidsdiscoverystation.org/plan-a-visit",
+      "id": "kids-discovery-rhythm-play-2026-11-03",
+      "title": "Rhythm and Play — Toddler Tuesday",
+      "date": "2026-11-03",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "description": "A 30-minute movement and music program for babies and toddlers with their caregivers in Little Explorers Planet. Activities include dancing, singing, scarves and instruments. Children must be supervised by an adult caregiver.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-03-13-00"
+    },
+    {
+      "city": "Merced",
+      "category": "Library & learning",
+      "sourceName": "Kids Discovery Station",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "cost": "General museum admission is $7 per adult and child over 12 months; children under 12 months and museum members enter free. A separate program fee is not stated; check with the museum.",
+      "timeNote": "This occurrence has an explicit date and time on the organizer’s event page. Museum admission and visitor policies: https://www.kidsdiscoverystation.org/plan-a-visit",
+      "id": "kids-discovery-little-lab-2026-11-04",
+      "title": "Little Lab Explorers — Kids Discovery Station",
+      "date": "2026-11-04",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "description": "A 30-minute STEAM program for young children, with hands-on experiments led by a Discovery Guide. Children must be supervised by an adult caregiver.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-04-11-30"
+    },
+    {
+      "id": "diwali-celebration-merced-library-2026-11-06",
+      "title": "Diwali Celebration — Merced Main Library",
+      "date": "2026-11-06",
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Celebrate the Festival of Lights with a henna station, oil-lamp painting and decorating, paper lantern making, and a photo backdrop. The library explicitly welcomes all ages, family and friends; festive attire is encouraged.",
+      "cost": "Free",
+      "sourceName": "Merced County Library — official calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20436&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "needleful-things-merced-library-2026-11-07",
+      "title": "Needleful Things — Merced Main Library",
+      "date": "2026-11-07",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Free Needleful Things program on the library’s main floor. For adults ages 18 and older.",
+      "cost": "Free",
+      "sourceName": "Merced County Library — official calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20437&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "pomegranates-persimmons-merced-library-2026-11-17",
+      "title": "Pomegranates & Persimmons — UC Master Gardeners",
+      "date": "2026-11-17",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "UC Master Gardeners of Merced County presentation with Tom Dinwoodie on the history, varieties, growing and preserving of pomegranates and persimmons.",
+      "cost": "Free",
+      "sourceName": "Merced County Library — official calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20444&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "wooden-leaf-wall-hanging-merced-library-2026-11-18",
+      "title": "Wooden Leaf Wall Hanging — Merced Main Library",
+      "date": "2026-11-18",
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Free seasonal craft program on the library’s main floor. For adults ages 18 and older.",
+      "cost": "Free",
+      "sourceName": "Merced County Library — official calendar",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20445&month=10&year=2026&day=30&calType=0"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:48:16.822070+00:00",
+  "updatedAt": "2026-10-30T16:18:15.159313+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -199,7 +199,7 @@
     {
       "name": "The Tarmac Event Venue",
       "url": "https://tarmaceventvenue.com/2026-event-season",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-30"
     },
     {
       "name": "The Tarmac Venue & Blaker Brewing / Eventbrite",
@@ -1189,7 +1189,7 @@
     {
       "name": "Merced County Hispanic Chamber of Commerce — public organizer updates",
       "url": "https://www.facebook.com/mchcc209",
-      "lastChecked": "2026-10-24"
+      "lastChecked": "2026-10-30"
     },
     {
       "name": "Castle Air Museum — public event updates",
@@ -1263,8 +1263,8 @@
     },
     {
       "name": "Inthrive Film Festival",
-      "url": "https://inthrivefilmfestival.org/merced",
-      "lastChecked": "2026-10-25"
+      "url": "https://inthrivefilmfestival.org/merced-1",
+      "lastChecked": "2026-10-30"
     },
     {
       "name": "Merced County Library",
@@ -1400,6 +1400,46 @@
       "name": "Merced County Library — official event calendar — Make a Turkey Windsock — Merced Main Library",
       "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20402&month=10&year=2026&day=29&calType=0",
       "lastChecked": "2026-10-29"
+    },
+    {
+      "name": "Kids Discovery Station",
+      "url": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-03-13-00",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Kids Discovery Station",
+      "url": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-04-11-30",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Merced County Library — official calendar",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20436&month=10&year=2026&day=30&calType=0",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Merced County Library — official calendar",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20437&month=10&year=2026&day=30&calType=0",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Merced County Library — official calendar",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20444&month=10&year=2026&day=30&calType=0",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Merced County Library — official calendar",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=20445&month=10&year=2026&day=30&calType=0",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Kids Discovery Station — admission and visitor policies",
+      "url": "https://www.kidsdiscoverystation.org/plan-a-visit",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Kids Discovery Station — toddler programs",
+      "url": "https://www.kidsdiscoverystation.org/about-5-4",
+      "lastChecked": "2026-10-30"
     }
   ]
 }
