@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:18:15.159313+00:00",
+  "updatedAt": "2026-10-30T21:54:25.848187+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -6190,6 +6190,21 @@
       "cost": "Free",
       "sourceName": "Merced County Library — official calendar",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20445&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "moes-sidekicks-spooktacular-walk-thru-2026-10-30",
+      "title": "Moe's Sidekicks Spooktacular Walk-Thru",
+      "date": "2026-10-30",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "Moe's Sidekicks HQ, 1279 Broadway Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "One-night Halloween walk-through with spooky scenes, games and a candy bag at the final destination. The organizer confirms the walk-through is October 30 only.",
+      "cost": "Donations appreciated.",
+      "timeNote": "Updated organizer schedule: October 30 only, 6–9 PM Pacific. The October 29 walk-through is cancelled; this listing follows the current website and official calendar.",
+      "sourceName": "Moe's Sidekicks Taekwondo",
+      "sourceUrl": "https://moessidekickstkd.com/#spooktacular-walkthrough"
     }
   ]
 }

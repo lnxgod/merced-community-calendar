@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:18:15.159313+00:00",
+  "updatedAt": "2026-10-30T21:54:25.848187+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -1439,6 +1439,16 @@
     {
       "name": "Kids Discovery Station — toddler programs",
       "url": "https://www.kidsdiscoverystation.org/about-5-4",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Moe's Sidekicks Taekwondo — current Spooktacular Walk-Thru announcement",
+      "url": "https://moessidekickstkd.com/#spooktacular-walkthrough",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "name": "Moe's Sidekicks Taekwondo — official calendar feed",
+      "url": "https://moessidekickstkd.com/calendar/moes-sidekicks.ics",
       "lastChecked": "2026-10-30"
     }
   ]
