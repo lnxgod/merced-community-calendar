@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:39:25.841302+00:00",
+  "updatedAt": "2026-10-31T15:51:01.041936+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -4606,10 +4606,11 @@
       "city": "Merced",
       "location": "Christian Life Center, 650 E. Olive Avenue, Merced, CA 95340",
       "category": "Festivals & community",
-      "description": "Free community harvest carnival with candy, games, a raffle and family fun. Open to everyone. The organizer’s public flyer and event header confirm a 5:30 p.m. start; the flyer gives an 8 p.m. end. Public organizer: Christian Life Center of Merced.",
+      "description": "Free community harvest carnival with candy, games, a raffle and family fun. Open to everyone. The organizer’s public flyer and event header confirm a 5:30 p.m. start; the flyer gives an 8 p.m. end. Public organizer: Christian Life Center of Merced. The organizer’s current public announcement confirms the October 31 carnival will run rain or shine.",
       "sourceUrl": "https://www.facebook.com/events/1611407803725419/",
       "sourceName": "Christian Life Center of Merced",
-      "cost": "Free; open to all."
+      "cost": "Free; open to all.",
+      "timeNote": "Rain-or-shine announcement: https://www.facebook.com/reel/3276000425929999/"
     },
     {
       "id": "merced-lao-family-food-drive-2026-10-22",
