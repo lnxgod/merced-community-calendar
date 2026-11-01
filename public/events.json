@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:51:01.041936+00:00",
+  "updatedAt": "2026-11-01T21:53:29.347867+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -6487,6 +6487,21 @@
       "cost": "Admission price not published; check with the venue.",
       "sourceName": "Blaker Brewing — The Tarmac",
       "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/11/6/valley-fire"
+    },
+    {
+      "id": "moes-sidekicks-family-fun-day-2026-11-21",
+      "title": "Moe's Sidekicks Family Fun Day",
+      "date": "2026-11-21",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "city": "Atwater",
+      "location": "Moe's Sidekicks, 1279 Broadway Avenue, Atwater, CA",
+      "category": "Festivals & community",
+      "description": "Bring the family for an obstacle course and games, arts and crafts, and kicking fun. Enter a raffle for a chance to win prizes from local businesses. Adults can reserve a free 15-minute chair or table massage. For massage reservations, email Moessidekicks@gmail.com or message Moe's Sidekicks Martial Arts on Facebook.",
+      "cost": "Free community event.",
+      "timeNote": "Reservations are required for adult massages only. Choose a massage arrival window of 11 AM–noon, noon–1 PM, 1–2 PM or 2–3 PM.",
+      "sourceName": "Moe's Sidekicks Taekwondo",
+      "sourceUrl": "https://moessidekickstkd.com/#upcoming-events"
     }
   ]
 }
