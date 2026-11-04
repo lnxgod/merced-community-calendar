@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:28:58.238861+00:00",
+  "updatedAt": "2026-11-04T16:41:59.743003+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -5602,7 +5602,7 @@
       "startTime": "12:00",
       "endTime": "13:15",
       "city": "Merced",
-      "location": "UC Merced, Classroom and Office Building 2 (COB2), Room 290, 5200 North Lake Road, Merced, CA 95343",
+      "location": "UC Merced Multicultural Center, Kolligian Library 169, 5200 North Lake Road, Merced, CA 95343",
       "category": "Arts & performances",
       "description": "Free community film program featuring the voices and work of incarceration survivors. This session screens A Theory of Change: Clemency and Tarik Shah — Don’t Play Like Them. Check the organizer for campus access and parking arrangements.",
       "cost": "Free event admission; parking arrangements are not specified.",
@@ -5616,7 +5616,7 @@
       "startTime": "13:30",
       "endTime": "14:45",
       "city": "Merced",
-      "location": "UC Merced, Classroom and Office Building 2 (COB2), Room 290, 5200 North Lake Road, Merced, CA 95343",
+      "location": "UC Merced Multicultural Center, Kolligian Library 169, 5200 North Lake Road, Merced, CA 95343",
       "category": "Arts & performances",
       "description": "Free community film program featuring the voices and work of incarceration survivors. This session screens Run It Back, So, Boom and Whispers Beyond Bars. Check the organizer for campus access and parking arrangements.",
       "cost": "Free event admission; parking arrangements are not specified.",
@@ -5630,7 +5630,7 @@
       "startTime": "15:00",
       "endTime": "16:15",
       "city": "Merced",
-      "location": "UC Merced, Classroom and Office Building 2 (COB2), Room 290, 5200 North Lake Road, Merced, CA 95343",
+      "location": "UC Merced Multicultural Center, Kolligian Library 169, 5200 North Lake Road, Merced, CA 95343",
       "category": "Arts & performances",
       "description": "Free community film program featuring the voices and work of incarceration survivors. This session screens The Next Act is Freedom and Breaking Barriers. Check the organizer for campus access and parking arrangements.",
       "cost": "Free event admission; parking arrangements are not specified.",
@@ -6934,6 +6934,35 @@
       "timeNote": "Starts at 6 p.m. Pacific. The organizer has not published an end time.",
       "sourceName": "St. Patrick’s Parish and Our Lady of Mercy",
       "sourceUrl": "https://www.facebook.com/events/1150342634018526/"
+    },
+    {
+      "id": "rwc-wots-community-fundraiser-merced-2026-11-07",
+      "title": "RWC / Word on the Street Community Fundraiser",
+      "date": "2026-11-07",
+      "startTime": "09:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "River Worship Center, 1407 Merced Avenue, Merced, CA 95340",
+      "category": "Markets",
+      "description": "Community fundraiser with new and used goods, handmade crafts, food vendors and a raffle. Everyone is welcome. Proceeds support River Worship Center and Word on the Street outreach.",
+      "cost": "Free admission; food, merchandise and raffle purchases are separate.",
+      "sourceName": "River Worship Center / Word on the Street — public event",
+      "sourceUrl": "https://www.facebook.com/events/893063590441585/"
+    },
+    {
+      "id": "wbfmi-turkey-giveaway-merced-2026-11-21",
+      "title": "Drive-Through Turkey Giveaway — Walking by Faith Ministries",
+      "date": "2026-11-21",
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Merced County Fairgrounds, 900 Martin Luther King Jr. Way, Merced, CA — enter from G Street at Gate 6",
+      "category": "Community services",
+      "description": "Walking by Faith Ministries International hosts its fifth annual drive-through turkey giveaway. No registration is required. Bring ID; limit one turkey per household, while supplies last. Enter the fairgrounds from G Street at Gate 6.",
+      "cost": "No registration required; one turkey per household, while supplies last.",
+      "timeNote": "Noon–1:30 p.m., or until all turkeys are gone.",
+      "sourceName": "Walking by Faith Ministries International — public organizer flyer",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=28955382584071184&set=a.1190276971008452"
     }
   ]
 }
