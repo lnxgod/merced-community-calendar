@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:41:59.743003+00:00",
+  "updatedAt": "2026-11-05T16:51:11.494709+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -6963,6 +6963,119 @@
       "timeNote": "Noon–1:30 p.m., or until all turkeys are gone.",
       "sourceName": "Walking by Faith Ministries International — public organizer flyer",
       "sourceUrl": "https://www.facebook.com/photo/?fbid=28955382584071184&set=a.1190276971008452"
+    },
+    {
+      "id": "tiny-tales-merced-library-2026-11-06",
+      "title": "Tiny Tales — Merced Library",
+      "date": "2026-11-06",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Picture books, music and fingerplays for children ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m., followed by a craft from 11–11:30 a.m.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18314&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "coloring-corner-atwater-library-2026-11-07",
+      "title": "Coloring Corner — Atwater Library",
+      "date": "2026-11-07",
+      "startTime": "10:00",
+      "endTime": "17:00",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Coloring activity for children ages 6–11.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18501&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "spanish-bilingual-story-time-merced-library-2026-11-12",
+      "title": "Spanish Bilingual Story Time — Merced Library",
+      "date": "2026-11-12",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Stories in English and Spanish, music and fingerplays for children ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m., followed by a craft from 11–11:30 a.m.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18286&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "tiny-tales-merced-library-2026-11-13",
+      "title": "Tiny Tales — Merced Library",
+      "date": "2026-11-13",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Picture books, music and fingerplays for children ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m., followed by a craft from 11–11:30 a.m.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18315&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "lego-time-atwater-library-2026-11-13",
+      "title": "LEGO Time — Atwater Library",
+      "date": "2026-11-13",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "LEGO activity for children of all ages.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18473&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "coloring-corner-atwater-library-2026-11-14",
+      "title": "Coloring Corner — Atwater Library",
+      "date": "2026-11-14",
+      "startTime": "10:00",
+      "endTime": "17:00",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Coloring activity for children ages 6–11.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18502&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "drop-in-digital-help-merced-library-2026-11-14",
+      "title": "Drop-In Digital Help — Merced Library",
+      "date": "2026-11-14",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Drop-in help with technology questions, including e-books and email. Laptops are provided.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19292&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "merced-speedway-scct-makeup-2026-11-06",
+      "title": "Sprint Car Challenge Tour Makeup Race — Merced Speedway",
+      "date": "2026-11-06",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Speedway, 900 Martin Luther King Jr Way, Merced, CA 95341",
+      "category": "Sports",
+      "description": "Public dirt-track racing with Sprint Car Challenge Tour sprint cars, Hobby Stocks, SportMods and Mini Stocks. Grandstands open at 5 p.m.; racing starts at 7 p.m. The organizer identifies this as the makeup race following a weather delay.",
+      "cost": "Adults ages 16 and up: $25; juniors ages 11–15: $10; children 10 and under: free.",
+      "timeNote": "Racing starts at 7 p.m. Pacific. The organizer has not published an end time; check for weather or schedule updates before traveling.",
+      "sourceName": "Merced Speedway",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1805108794719367&set=a.710018697561721"
     }
   ]
 }
