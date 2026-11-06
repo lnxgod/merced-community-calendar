@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T16:51:11.494709+00:00",
+  "updatedAt": "2026-11-06T16:46:36.166242+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -3120,7 +3120,7 @@
       "city": "Merced",
       "location": "Merced College, 3600 M Street, Merced, CA 95348",
       "category": "Sports",
-      "description": "Community tribute hosted by Merced Sunrise Rotary Club remembering local fallen service members. Kids’ 400m starts at 8:20 a.m.; 5K run/walk and 10K start at 9 a.m. Online registration closes November 5 at 6 p.m. Race-day registration and bib pickup run 7–8:30 a.m. Confirm ceremony timing with the organizer.",
+      "description": "Community tribute hosted by Merced Sunrise Rotary Club remembering local fallen service members. Kids’ 400m starts at 8:20 a.m.; 5K run/walk and 10K start at 9 a.m. Online registration closes November 8 at 8 a.m. Race-day registration and bib pickup run 7–8:30 a.m. Confirm ceremony timing with the organizer.",
       "sourceUrl": "https://runsignup.com/Race/CA/Merced/RunfortheFallen5K10kMerced",
       "sourceName": "Merced Sunrise Rotary Club / RunSignup",
       "cost": "5K/10K registration free without a shirt; optional shirts $25 while supplies last",
@@ -6001,8 +6001,8 @@
       "city": "Merced",
       "location": "The Mainzer, 655 West Main Street, Merced, CA 95340",
       "category": "Arts & culture",
-      "description": "ESTEEM Youth & Family Resources hosts a public screening of Sound of Hope: The Story of Possum Trot, with a community panel and discussion about supporting children and families affected by foster care. Anyone under 18 must attend with a parent or legal guardian. Reserve a ticket through the organizer; capacity is limited.",
-      "cost": "Free; advance ticket reservation requested.",
+      "description": "ESTEEM Youth & Family Resources hosts a public screening of Sound of Hope: The Story of Possum Trot, with a community panel and discussion about supporting children and families affected by foster care. Anyone under 18 must attend with a parent or legal guardian. The organizer’s ticket page marks online sales ended as of November 6. Check with the organizer about any remaining availability; capacity is limited.",
+      "cost": "Free; online reservations marked ended as of November 6. Check with the organizer about availability.",
       "timeNote": "Doors open at 10 a.m. Panel 10:30–11 a.m.; film 11 a.m.–1:15 p.m.; closing discussion 1:15–1:30 p.m.",
       "sourceName": "ESTEEM Youth & Family Resources — linked organizer registration page",
       "sourceUrl": "https://www.eventbrite.com/e/free-stand-sunday-movie-screening-merced-ca-on-november-7th-tickets-2002835525973"
@@ -7076,6 +7076,105 @@
       "timeNote": "Racing starts at 7 p.m. Pacific. The organizer has not published an end time; check for weather or schedule updates before traveling.",
       "sourceName": "Merced Speedway",
       "sourceUrl": "https://www.facebook.com/photo/?fbid=1805108794719367&set=a.710018697561721"
+    },
+    {
+      "id": "teens-movie-merced-library-2026-11-09",
+      "title": "Teens: Movie — Merced Main Library",
+      "date": "2026-11-09",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Teens Department, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Movie program for teens ages 12–18.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19428&month=11&year=2026&day=6&calType=0"
+    },
+    {
+      "id": "adult-coloring-atwater-library-2026-11-10",
+      "title": "Adult Coloring — Atwater Library",
+      "date": "2026-11-10",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Coloring activity for adults ages 18 and up.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18562&month=11&year=2026&day=6&calType=0"
+    },
+    {
+      "id": "adult-coloring-atwater-library-2026-11-12",
+      "title": "Adult Coloring — Atwater Library",
+      "date": "2026-11-12",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "city": "Atwater",
+      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
+      "category": "Library & learning",
+      "description": "Adult coloring activity at the library.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18444&month=11&year=2026&day=6&calType=0"
+    },
+    {
+      "id": "bookmobile-stephen-leonard-park-2026-11-12",
+      "title": "Bookmobile — Stephen Leonard Park",
+      "date": "2026-11-12",
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "city": "Merced",
+      "location": "Stephen Leonard Park, W. 6th Street & T Street, Merced, CA 95341",
+      "category": "Library & learning",
+      "description": "The county library bookmobile brings books, internet-accessible computers, Wi-Fi and programming to South Merced. Materials are available in Spanish and English.",
+      "cost": "Free",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18656&month=11&year=2026&day=6&calType=0"
+    },
+    {
+      "id": "conversation-circles-merced-library-2026-11-13",
+      "title": "Conversation Circles — Merced Main Library",
+      "date": "2026-11-13",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Merced Main Library, Read and Succeed Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "Practice everyday English conversation over free coffee. All skill levels are welcome; no registration is needed.",
+      "cost": "Free; no registration.",
+      "sourceName": "Merced County Library",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19350&month=11&year=2026&day=6&calType=0"
+    },
+    {
+      "id": "atwater-fire-police-toy-distribution-2026-12-16",
+      "title": "Fire & Police Toy Distribution — Atwater",
+      "date": "2026-12-16",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, Jessie Frago Room, 760 E. Bellevue Road, Atwater, CA 95301",
+      "category": "Community services",
+      "description": "Toy distribution for eligible children ages 1–12. Advance registration runs November 1–December 1, 2026, while spaces remain. Proof of residency and each child’s age are required; submit the required documentation by December 1. Online registration requires a recreation account. Check the city’s program details for eligibility and registration instructions.",
+      "cost": "Free; advance registration and required documentation. Capacity is limited.",
+      "sourceName": "City of Atwater Recreation & Community Events",
+      "sourceUrl": "https://secure.rec1.com/CA/atwater-ca/catalog"
+    },
+    {
+      "id": "merced-county-veterans-day-ceremony-parade-2026-11-11",
+      "title": "Merced County Veterans Day Ceremony & Parade",
+      "date": "2026-11-11",
+      "startTime": "13:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bob Hart Square, 510 W. Main Street, Merced, CA; parade through downtown Merced",
+      "category": "Festivals & community",
+      "description": "The county Veterans Services Office invites the community to honor veterans at the 22nd annual ceremony and parade. The opening ceremony is at Bob Hart Square at 1 p.m.; the downtown parade begins at 2 p.m. Check the organizer’s route map and current announcements before traveling.",
+      "cost": "Admission price not published; check with the organizer.",
+      "timeNote": "Times are Pacific. The organizer has not published an end time.",
+      "sourceName": "Merced County Veterans Services Office",
+      "sourceUrl": "https://www.countyofmerced.com/1585/Veterans-Day-Parade"
     }
   ]
 }
