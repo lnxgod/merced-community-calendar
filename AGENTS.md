@@ -3,7 +3,7 @@
 Read [docs/maintenance.md](docs/maintenance.md) before changing event data, synchronization, publishing, or the daily maintenance process. Read [README.md](README.md) for local development and schema behavior.
 
 - This is the public GameChangers AI calendar for Merced, Atwater and the McSwain neighborhood. Publish only verified public event facts.
-- Preserve event IDs, ICS UIDs, Google event IDs and past history. Never bulk reimport the subscription feed into Google as an update.
+- Preserve event IDs, ICS UIDs, Google event IDs and private recovery history. Prune expired public records daily under the owner’s November 6, 2026 instruction. Never bulk reimport the subscription feed into Google as an update.
 - The only Google destination is the calendar in `public/calendar-config.json`. Do not modify personal, family, school, Sidekicks or older Community calendars.
 - The website, ICS and Google Calendar require separate verification. A Git push does not synchronize Google.
 - Before a maintenance run, read the private operating guide, current checkpoint, latest dated run, Google mapping and Facebook reply ledger in the maintainer's working directory. On the existing host this is `../output/public-community-calendar/`. Do not copy these records into this public repository.

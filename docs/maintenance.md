@@ -8,7 +8,7 @@ This guide records the process, not a frozen snapshot of what is currently publi
 
 | Item | Purpose |
 | --- | --- |
-| `public/events.json` | Reviewed public catalog, including past history |
+| `public/events.json` | Reviewed active public catalog |
 | `public/sources.json` | Organizer URLs and research scope |
 | `public/calendar-config.json` | Exact authorized Google calendar, subscription and embed links |
 | `public/community.ics` | Generated subscription feed with stable UIDs |
@@ -31,7 +31,7 @@ The existing daily maintenance task performs research and Google reconciliation.
 
 ## Research and editorial rules
 
-- Maintain a rolling 90-day selection, prioritizing the next two weekends. Keep past records; the frontend filters the default view without deleting history.
+- Maintain a rolling 90-day selection, prioritizing the next two weekends. Remove expired public records daily using Pacific time: known ends expire at the published end; unknown ends remain through their date; all-day spans remain through their inclusive endDate. Save removed records privately; keep ongoing and future IDs unchanged.
 - Start with existing sources and broaden thoughtfully: public organizer pages, city/county calendars, libraries, theatres, arts groups, neighborhood organizations, Castle events, markets and festivals.
 - Read the private `DAILY-DISCOVERY-SOURCES.json` on every daily run. It records required discovery hubs, public organizer pages and per-source check methods alongside this public source index. Save source access failures separately from successful checks. Event aggregators, volunteer calendars and public school calendars supply leads; verify organizer facts and public attendance before publishing. Exclude internal or school-only activities.
 - When adding a useful source, save its verified public URL in `public/sources.json` and its check method in the private daily list. Source-list-only updates do not require Google writes or changes to event timestamps; preserve the existing event catalog and feed, validate and verify the source deployment, and record its success separately from event synchronization.

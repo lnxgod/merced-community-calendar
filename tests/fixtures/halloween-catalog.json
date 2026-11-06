@@ -1,0 +1,91 @@
+{
+  "updatedAt": "2026-11-06T18:13:19.035287+00:00",
+  "events": [
+    {
+      "id": "merced-lao-family-trunk-or-treat-2026-10-16",
+      "title": "Merced Lao Family's 3rd Annual Trunk-or-Treat",
+      "date": "2026-10-16",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Lao Family Community, Inc., 1748 Miles Court, Suite B parking lot, Merced, CA 95348",
+      "category": "Festivals & community",
+      "description": "Public trunk-or-treat hosted by Merced Lao Family Community, Inc. Costumes welcome. The organizer lists candy, games and activities, raffle prizes and music.",
+      "sourceUrl": "https://www.facebook.com/events/4521431838072041/",
+      "sourceName": "Merced Lao Family Community, Inc.",
+      "cost": "Free candy, games and activities, raffle prizes and music, according to the organizer."
+    },
+    {
+      "id": "trunk-or-treat-tarmac-2026-10-23",
+      "title": "Trunk or Treat \u2014 The Tarmac",
+      "date": "2026-10-23",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Trunk or Treat at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/23/trunk-or-treat",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "cost": "Admission price not published; check the organizer.",
+      "timeNote": "Time conflict: the venue calendar lists 5\u20138 p.m.; the VXNANGELZ organizer event and flyer list 6\u20139 p.m. for the same date and venue. Confirm with the organizer before going. Public organizer listing: https://www.facebook.com/events/987909504338224/"
+    },
+    {
+      "title": "6th Annual Cops for Critters Car Show & Trunk-or-Treat",
+      "date": "2026-10-24",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "city": "Merced",
+      "location": "611 West 22nd Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Public car show and trunk-or-treat with a costume contest, food vendors, candy and music, benefiting the local zoo. All ages are welcome.",
+      "sourceUrl": "https://www.eventbrite.com/e/6th-annual-cops-for-critters-car-show-registration-1997481028527",
+      "sourceName": "Merced Police Department",
+      "cost": "Free to attend; vehicle or vendor registration is $30 and nonrefundable.",
+      "id": "6th-annual-cops-for-critters-car-show-2026-10-24"
+    },
+    {
+      "id": "city-of-atwater-trunk-or-treat-2026-10-24",
+      "title": "City of Atwater Trunk or Treat \u2014 Community Center",
+      "date": "2026-10-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, 760 E Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Public City of Atwater trunk-or-treat at the Community Center, with games and prizes. Check the organizer for event details and admission information.",
+      "sourceUrl": "https://www.facebook.com/events/1355086950023321/",
+      "sourceName": "The City of Atwater",
+      "cost": "Admission price not published; check the organizer."
+    },
+    {
+      "id": "halloween-party-tarmac-2026-10-30",
+      "title": "Halloween Party \u2014 The Tarmac",
+      "date": "2026-10-30",
+      "startTime": "19:00",
+      "endTime": "23:59",
+      "city": "Atwater",
+      "location": "The Tarmac, 1930 Airdrome Entry, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Halloween party at The Tarmac in Atwater. Venue rules require supervised children and a valid photo ID for alcohol (21+). Check the organizer for event-specific restrictions. Venue policies: https://www.blakerbrewing.com/faq",
+      "sourceUrl": "https://www.blakerbrewing.com/event-calendar/2026/10/30/halloween-party",
+      "sourceName": "Blaker Brewing / The Tarmac",
+      "cost": "Admission price not published; check the organizer.",
+      "timeNote": "The dated Blaker Brewing listing gives 7\u201311:59 PM. The venue\u2019s 2026 season page also advertises a Halloween Bash on October 30 from 6 PM\u20131 AM. Confirm with the venue which schedule applies before attending; the times here follow the dated Blaker listing. Venue listing: https://tarmaceventvenue.com/2026-event-season"
+    },
+    {
+      "id": "yosemite-church-fall-family-fun-night-2026-10-31",
+      "title": "Yosemite Church Fall Family Fun Night & Trunk-or-Treat",
+      "date": "2026-10-31",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Yosemite Church, 2230 E Yosemite Avenue, Merced, CA",
+      "category": "Festivals & community",
+      "description": "A community event for families, children and neighbors of all ages, with a 30-car trunk-or-treat loop, dinner and treats, inflatables, and a fall photo booth. The dedicated toddler play area is for ages 0\u20133.",
+      "sourceUrl": "https://yosemitechurch.com/calendar/2026/10/31/fall-family-fun-night",
+      "sourceName": "Yosemite Church",
+      "cost": "Free admission, food and activities, according to the organizer."
+    }
+  ]
+}

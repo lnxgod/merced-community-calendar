@@ -153,8 +153,8 @@ test('ghost filter requires explicit trick/trunk-or-treat or Halloween candy con
   }
 });
 
-const catalog = JSON.parse(readFileSync(new URL('../public/events.json', import.meta.url), 'utf8'));
-test('the real catalog preserves all five verified trunk-or-treats and excludes unrelated Halloween parties', () => {
+const catalog = JSON.parse(readFileSync(new URL('./fixtures/halloween-catalog.json', import.meta.url), 'utf8'));
+test('the historical fixture identifies all five verified trunk-or-treats and excludes unrelated Halloween parties', () => {
   const matches = new Set(ids(selectVisibleEvents(filterEvents(catalog.events, { halloweenOnly: true }), { now: at('2026-10-05T18:00:00Z') })));
   for (const id of [
     'merced-lao-family-trunk-or-treat-2026-10-16', 'trunk-or-treat-tarmac-2026-10-23',
