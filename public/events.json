@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:46:36.166242+00:00",
+  "updatedAt": "2026-11-06T18:13:19.035287+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -7175,6 +7175,111 @@
       "timeNote": "Times are Pacific. The organizer has not published an end time.",
       "sourceName": "Merced County Veterans Services Office",
       "sourceUrl": "https://www.countyofmerced.com/1585/Veterans-Day-Parade"
+    },
+    {
+      "id": "harvesting-health-fair-merced-2026-11-07",
+      "title": "Harvesting Health Fair",
+      "date": "2026-11-07",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "city": "Merced",
+      "location": "Bob Hart Square, 514 W. Main Street, Merced, CA",
+      "category": "Community services",
+      "description": "Public community health fair with free food and health resources, raffle prizes, activities and games. Central California Alliance for Health lists the event among the community events its outreach team will attend.",
+      "cost": "Free food and health resources; admission price and raffle terms not published.",
+      "timeNote": "Times are Pacific. Check the public source for changes.",
+      "sourceName": "Central California Alliance for Health",
+      "sourceUrl": "https://thealliance.health/community_events/harvesting-health-fair/"
+    },
+    {
+      "id": "mchs-kitten-adoption-merced-2026-11-07",
+      "title": "Kittens, Kittens, and More Kittens! — Adoption Event",
+      "date": "2026-11-07",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "PetSmart Merced #1701, 1196 W. Olive Avenue, Merced, CA",
+      "category": "Community services",
+      "description": "Meet adoptable kittens and adult cats during Merced County Humane Society’s public adoption event with extended Saturday adoption hours. Ask the rescue about adoption requirements, fees and current availability.",
+      "cost": "Admission and adoption fees not published; check with the rescue.",
+      "timeNote": "Times are Pacific.",
+      "sourceName": "Merced County Humane Society",
+      "sourceUrl": "https://www.facebook.com/events/1463466045811085/"
+    },
+    {
+      "id": "addams-family-young-at-part-playhouse-merced-2026-11-06",
+      "title": "The Addams Family Young@Part — Playhouse Merced",
+      "date": "2026-11-06",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Playhouse Merced, 452 W. Main Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Playhouse Merced’s Young Artist Conservatory presents the Young@Part edition of The Addams Family musical. The organizer rates the production PG. Tickets are required; check the box office for current availability.",
+      "cost": "$18 advertised ticket price; confirm any ticketing fees.",
+      "timeNote": "Times are Pacific. The organizer has not published an end time.",
+      "sourceName": "Playhouse Merced / Ludus",
+      "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
+    },
+    {
+      "id": "addams-family-young-at-part-playhouse-merced-2026-11-07",
+      "title": "The Addams Family Young@Part — Playhouse Merced",
+      "date": "2026-11-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Playhouse Merced, 452 W. Main Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Playhouse Merced’s Young Artist Conservatory presents the Young@Part edition of The Addams Family musical. The organizer rates the production PG. Tickets are required; check the box office for current availability.",
+      "cost": "$18 advertised ticket price; confirm any ticketing fees.",
+      "timeNote": "Times are Pacific. The organizer has not published an end time.",
+      "sourceName": "Playhouse Merced / Ludus",
+      "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
+    },
+    {
+      "id": "addams-family-young-at-part-playhouse-merced-2026-11-08",
+      "title": "The Addams Family Young@Part — Playhouse Merced",
+      "date": "2026-11-08",
+      "startTime": "14:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Playhouse Merced, 452 W. Main Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Playhouse Merced’s Young Artist Conservatory presents the Young@Part edition of The Addams Family musical. The organizer rates the production PG. Tickets are required; check the box office for current availability.",
+      "cost": "$18 advertised ticket price; confirm any ticketing fees.",
+      "timeNote": "Times are Pacific. The organizer has not published an end time.",
+      "sourceName": "Playhouse Merced / Ludus",
+      "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
+    },
+    {
+      "id": "general-vang-pao-park-ribbon-cutting-merced-2026-11-07",
+      "title": "General Vang Pao Park Phase 1 Ribbon Cutting",
+      "date": "2026-11-07",
+      "startTime": "13:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "General Vang Pao Park, 4325 Freemark Avenue, Merced, CA",
+      "category": "Community gatherings",
+      "description": "The City of Merced invites the community to celebrate the opening of Phase 1 of General Vang Pao Park, including the Aletha June Playground and General Vang Pao Memorial.",
+      "cost": "Admission price not published.",
+      "timeNote": "Times are Pacific. The organizer has not published an end time.",
+      "sourceName": "City of Merced",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1559012492929635&set=a.216633650500866"
+    },
+    {
+      "id": "bls-cpr-class-merced-2026-11-08",
+      "title": "American Heart Association BLS CPR Class",
+      "date": "2026-11-08",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Safety Training Seminars, 755 E. Yosemite Avenue, Suite M3, Merced, CA 95340",
+      "category": "Classes & education",
+      "description": "Public registration for BLS certification or renewal, intended for healthcare professionals and students. The provider uses online coursework followed by in-person skills testing. Register with the organizer and confirm preparation requirements and availability before attending.",
+      "cost": "BLS course advertised at $120; confirm the final registration price.",
+      "timeNote": "Times are Pacific. Facebook advertises a 5–6 p.m. event window. The provider separately lists 1–2 hours of online coursework and 30 minutes of skills testing; confirm your appointment and complete required preparation.",
+      "sourceName": "Safety Training Seminars Merced",
+      "sourceUrl": "https://www.facebook.com/events/1439797105879378/"
     }
   ]
 }
