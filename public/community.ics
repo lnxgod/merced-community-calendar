@@ -7,8 +7,8 @@ X-WR-CALNAME:Merced · Atwater · McSwain Community Calendar
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:field-of-honor-merced-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Field of Honor
 DESCRIPTION:Merced Sunrise Rotary Club presents a community display of Amer
  ican flags honoring military service and first responders. Everyone is wel
@@ -28,332 +28,9 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261115
 END:VEVENT
 BEGIN:VEVENT
-UID:merced-flea-farmers-market-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Merced Flea & Farmers Market
-DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
-  free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
-  parking\n\nBased on the organizer’s published weekly schedule. Check fo
- r holiday or weather changes.\n\nSource: Merced/Atwater Flea & Farmers Mar
- ket\nhttps://mercedatwaterflea.com/merced-market
-LOCATION:900 G Street\, Merced\, CA 95348
-CATEGORIES:Markets
-URL:https://mercedatwaterflea.com/merced-market
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T160000Z
-DTEND:20261107T230000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:holy-cross-country-pantry-atwater-2026-11-07@community.gamechangersai.o
- rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Country Pantry — Holiday Crafts & Baked Goods
-DESCRIPTION:The Lutheran Women’s Missionary League Country Pantry is open
-  to the public\, with fresh baked goods\, handcrafted holiday gifts and ra
- ffles from local vendors. Homemade soup and bread lunch is served from 11:
- 30 a.m. to 1 p.m. Proceeds support charities. This is a fundraising sale\,
-  not a food-assistance distribution.\n\nCost: Admission and lunch prices n
- ot published\; baked goods and crafts are sold as a fundraiser.\n\nSource:
-  Country Pantry — public organizer event\nhttps://www.facebook.com/event
- s/1642000550845834/
-LOCATION:Holy Cross Lutheran Church\, 1495 Underwood Avenue\, Atwater\, CA 
- 95301
-CATEGORIES:Markets
-URL:https://www.facebook.com/events/1642000550845834/
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T170000Z
-DTEND:20261107T210000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:home-depot-dump-truck-workshop-merced-2026-11-07@community.gamechangers
- ai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Kids Workshop: Dump Truck — Home Depot Merced
-DESCRIPTION:Build and paint a toy dump truck. Designed for children ages 5
- –12\, accompanied by a parent or guardian. Tools and materials are provi
- ded. The organizer recommends registration and arriving early\; kits are a
- vailable only while supplies last. Workshop information and registration: 
- https://www.homedepot.com/c/kids-workshop\n\nCost: Free\, while supplies l
- ast.\n\nSource: The Home Depot — Merced store\nhttps://www.homedepot.com
- /l/Merced/CA/Merced/95341/6618
-LOCATION:The Home Depot Merced\, 1735 Highway 140\, Merced\, CA 95341
-CATEGORIES:Library & learning
-URL:https://www.homedepot.com/l/Merced/CA/Merced/95341/6618
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T170000Z
-DTEND:20261107T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:rwc-wots-community-fundraiser-merced-2026-11-07@community.gamechangersa
- i.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:RWC / Word on the Street Community Fundraiser
-DESCRIPTION:Community fundraiser with new and used goods\, handmade crafts\
- , food vendors and a raffle. Everyone is welcome. Proceeds support River W
- orship Center and Word on the Street outreach.\n\nCost: Free admission\; f
- ood\, merchandise and raffle purchases are separate.\n\nSource: River Wors
- hip Center / Word on the Street — public event\nhttps://www.facebook.com
- /events/893063590441585/
-LOCATION:River Worship Center\, 1407 Merced Avenue\, Merced\, CA 95340
-CATEGORIES:Markets
-URL:https://www.facebook.com/events/893063590441585/
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T170000Z
-DTEND:20261107T230000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:adult-makerspace-pony-beads-atwater-library-2026-11-07@community.gamech
- angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Adult Makerspace — Pony Beads — Atwater Library
-DESCRIPTION:Pony-bead makerspace activity for adults ages 18 and older.\n\n
- Cost: Free\n\nSource: Merced County Library — official calendar\nhttps:/
- /www.countyofmerced.com/Calendar.aspx?EID=20493&month=10&year=2026&day=31&
- calType=0
-LOCATION:Atwater Library\, 1600 3rd Street\, Atwater\, CA 95301
-CATEGORIES:Library & learning
-URL:https://www.countyofmerced.com/Calendar.aspx?EID=20493&month=10&year=20
- 26&day=31&calType=0
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T180000Z
-DTEND:20261107T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:coloring-corner-atwater-library-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Coloring Corner — Atwater Library
-DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
- urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
- EID=18501&month=11&year=2026&day=5&calType=0
-LOCATION:Atwater Library\, 1600 3rd Street\, Atwater\, CA 95301
-CATEGORIES:Library & learning
-URL:https://www.countyofmerced.com/Calendar.aspx?EID=18501&month=11&year=20
- 26&day=5&calType=0
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T180000Z
-DTEND:20261108T010000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:harvesting-health-fair-merced-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Harvesting Health Fair
-DESCRIPTION:Public community health fair with free food and health resource
- s\, raffle prizes\, activities and games. Central California Alliance for 
- Health lists the event among the community events its outreach team will a
- ttend.\n\nCost: Free food and health resources\; admission price and raffl
- e terms not published.\n\nTimes are Pacific. Check the public source for c
- hanges.\n\nSource: Central California Alliance for Health\nhttps://thealli
- ance.health/community_events/harvesting-health-fair/
-LOCATION:Bob Hart Square\, 514 W. Main Street\, Merced\, CA
-CATEGORIES:Community services
-URL:https://thealliance.health/community_events/harvesting-health-fair/
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T180000Z
-DTEND:20261107T210000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:mchs-kitten-adoption-merced-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Kittens\, Kittens\, and More Kittens! — Adoption Event
-DESCRIPTION:Meet adoptable kittens and adult cats during Merced County Huma
- ne Society’s public adoption event with extended Saturday adoption hours
- . Ask the rescue about adoption requirements\, fees and current availabili
- ty.\n\nCost: Admission and adoption fees not published\; check with the re
- scue.\n\nTimes are Pacific.\n\nSource: Merced County Humane Society\nhttps
- ://www.facebook.com/events/1463466045811085/
-LOCATION:PetSmart Merced #1701\, 1196 W. Olive Avenue\, Merced\, CA
-CATEGORIES:Community services
-URL:https://www.facebook.com/events/1463466045811085/
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T180000Z
-DTEND:20261107T220000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:stand-sunday-community-film-merced-2026-11-07@community.gamechangersai.
- org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Stand Sunday — Free Community Film & Discussion
-DESCRIPTION:ESTEEM Youth & Family Resources hosts a public screening of Sou
- nd of Hope: The Story of Possum Trot\, with a community panel and discussi
- on about supporting children and families affected by foster care. Anyone 
- under 18 must attend with a parent or legal guardian. The organizer’s ti
- cket page marks online sales ended as of November 6. Check with the organi
- zer about any remaining availability\; capacity is limited.\n\nCost: Free\
- ; online reservations marked ended as of November 6. Check with the organi
- zer about availability.\n\nDoors open at 10 a.m. Panel 10:30–11 a.m.\; f
- ilm 11 a.m.–1:15 p.m.\; closing discussion 1:15–1:30 p.m.\n\nSource: E
- STEEM Youth & Family Resources — linked organizer registration page\nhtt
- ps://www.eventbrite.com/e/free-stand-sunday-movie-screening-merced-ca-on-n
- ovember-7th-tickets-2002835525973
-LOCATION:The Mainzer\, 655 West Main Street\, Merced\, CA 95340
-CATEGORIES:Arts & culture
-URL:https://www.eventbrite.com/e/free-stand-sunday-movie-screening-merced-c
- a-on-november-7th-tickets-2002835525973
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T183000Z
-DTEND:20261107T213000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:general-vang-pao-park-ribbon-cutting-merced-2026-11-07@community.gamech
- angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:General Vang Pao Park Phase 1 Ribbon Cutting
-DESCRIPTION:The City of Merced invites the community to celebrate the openi
- ng of Phase 1 of General Vang Pao Park\, including the Aletha June Playgro
- und and General Vang Pao Memorial.\n\nCost: Admission price not published.
- \n\nTimes are Pacific. The organizer has not published an end time.\n\nEnd
-  time not published\; confirm with the organizer.\n\nSource: City of Merce
- d\nhttps://www.facebook.com/photo/?fbid=1559012492929635&set=a.21663365050
- 0866
-LOCATION:General Vang Pao Park\, 4325 Freemark Avenue\, Merced\, CA
-CATEGORIES:Community gatherings
-URL:https://www.facebook.com/photo/?fbid=1559012492929635&set=a.21663365050
- 0866
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T210000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ucm-womens-volleyball-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:UC Merced Women’s Volleyball vs. Cal State LA
-DESCRIPTION:UC Merced home women’s volleyball match against Cal State LA.
-  Check the university ticket page for admission and schedule updates. Athl
- etics parking is in the Bellevue Lot\; weekday parking permits are require
- d.\n\nOfficial start time. Match end time is not published.\n\nEnd time no
- t published\; confirm with the organizer.\n\nSource: UC Merced Athletics\n
- https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-state-l
- a-gr5a7u
-LOCATION:Joseph Edward Gallo Recreation Center\, UC Merced\, 5200 North Lak
- e Road\, Merced\, CA 95343
-CATEGORIES:Sports
-URL:https://tickets.ucmercedbobcats.com/event/womens-volleyball-vs-cal-stat
- e-la-gr5a7u
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T210000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:teen-d-and-d-merced-library-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Teens: D&D — Merced Main Library
-DESCRIPTION:Free D&D activity in the library’s Teens Department for ages 
- 12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhttps://www.coun
- tyofmerced.com/Calendar.aspx?EID=20426
-LOCATION:Merced Main Library\, Teens Department\, 2100 O Street\, Merced\, 
- CA 95340
-CATEGORIES:Library & learning
-URL:https://www.countyofmerced.com/Calendar.aspx?EID=20426
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T213000Z
-DTEND:20261108T000000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:fall-leaf-bookmark-merced-library-2026-11-07@community.gamechangersai.o
- rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Make a Fall Leaf Bookmark — Merced Main Library
-DESCRIPTION:Free fall-leaf bookmark craft activity for children ages 6–11
- .\n\nCost: Free.\n\nSource: Merced County Library\nhttps://www.countyofmer
- ced.com/Calendar.aspx?EID=20399&month=11&year=2026&day=25&calType=0
-LOCATION:Merced Main Library\, Gracey Room\, 2100 O Street\, Merced\, CA 95
- 340
-CATEGORIES:Library & learning
-URL:https://www.countyofmerced.com/Calendar.aspx?EID=20399&month=11&year=20
- 26&day=25&calType=0
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T220000Z
-DTEND:20261108T000000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:needleful-things-merced-library-2026-11-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Needleful Things — Merced Main Library
-DESCRIPTION:Free Needleful Things program on the library’s main floor. Fo
- r adults ages 18 and older.\n\nCost: Free\n\nSource: Merced County Library
-  — official calendar\nhttps://www.countyofmerced.com/Calendar.aspx?EID=2
- 0437&month=10&year=2026&day=30&calType=0
-LOCATION:Merced Main Library\, Main Floor\, 2100 O Street\, Merced\, CA 953
- 40
-CATEGORIES:Library & learning
-URL:https://www.countyofmerced.com/Calendar.aspx?EID=20437&month=10&year=20
- 26&day=30&calType=0
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261107T230000Z
-DTEND:20261108T003000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:pizzas-pints-man-up-opportunity-foundation-2026-11-07@community.gamecha
- ngersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:Pizzas & Pints — The Man Up Opportunity Foundation
-DESCRIPTION:Pizza and beer gathering hosted by The Man Up Opportunity Found
- ation. The public event flyer advertises all-you-can-eat-and-drink admissi
- on\, live music\, and proceeds supporting local high school aquatic progra
- ms. Ages 21 and older\; tickets required.\n\nCost: $45 entry advertised on
-  the flyer\; ticket page currently lists $49.87. Check final ticket price 
- and availability.\n\nSource: The Man Up Opportunity Foundation / Eventbrit
- e\nhttps://www.eventbrite.com/e/pizzas-pints-2026-tickets-2000999591644
-LOCATION:Bob Hart Square\, Merced\, CA 95340
-CATEGORIES:Festivals & community
-URL:https://www.eventbrite.com/e/pizzas-pints-2026-tickets-2000999591644
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261108T020000Z
-DTEND:20261108T043000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:addams-family-young-at-part-playhouse-merced-2026-11-07@community.gamec
- hangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
-SUMMARY:The Addams Family Young@Part — Playhouse Merced
-DESCRIPTION:Playhouse Merced’s Young Artist Conservatory presents the You
- ng@Part edition of The Addams Family musical. The organizer rates the prod
- uction PG. Tickets are required\; check the box office for current availab
- ility.\n\nCost: $18 advertised ticket price\; confirm any ticketing fees.\
- n\nTimes are Pacific. The organizer has not published an end time.\n\nEnd 
- time not published\; confirm with the organizer.\n\nSource: Playhouse Merc
- ed / Ludus\nhttps://playhousemerced.ludus.com/show_page.php?show_id=200535
- 774
-LOCATION:Playhouse Merced\, 452 W. Main Street\, Merced\, CA
-CATEGORIES:Arts & performances
-URL:https://playhousemerced.ludus.com/show_page.php?show_id=200535774
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-DTSTART:20261108T030000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-08@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -370,18 +47,19 @@ DTEND:20261108T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:run-for-the-fallen-merced-2026-11-08@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Run for the Fallen — Merced College
 DESCRIPTION:Community tribute hosted by Merced Sunrise Rotary Club remember
- ing local fallen service members. Kids’ 400m starts at 8:20 a.m.\; 5K ru
- n/walk and 10K start at 9 a.m. Online registration closes November 8 at 8 
- a.m. Race-day registration and bib pickup run 7–8:30 a.m. Confirm ceremo
- ny timing with the organizer.\n\nCost: 5K/10K registration free without a 
- shirt\; optional shirts $25 while supplies last\n\nListed start is the kid
- s’ race. Published 5K/10K time block is 9–11 a.m.\n\nSource: Merced Su
- nrise Rotary Club / RunSignup\nhttps://runsignup.com/Race/CA/Merced/Runfor
- theFallen5K10kMerced
+ ing local fallen service members. The kids’ 400m for ages 10 and under s
+ tarts at 8:20 a.m.\; 5K run/walk and 10K start at 9 a.m. Online registrati
+ on is closed. Race-day 5K/10K registration and bib pickup run 7–8:30 a.m
+ .\; kids’ registration runs 7–8 a.m. Confirm ceremony timing with the 
+ organizer.\n\nCost: 5K/10K registration free without a shirt\; optional sh
+ irts $25 while supplies last\n\nListed start is the kids’ race. Publishe
+ d 5K/10K time block is 9–11 a.m.\n\nSource: Merced Sunrise Rotary Club /
+  RunSignup\nhttps://runsignup.com/Race/CA/Merced/RunfortheFallen5K10kMerce
+ d
 LOCATION:Merced College\, 3600 M Street\, Merced\, CA 95348
 CATEGORIES:Sports
 URL:https://runsignup.com/Race/CA/Merced/RunfortheFallen5K10kMerced
@@ -392,8 +70,8 @@ DTEND:20261108T190000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lucky-babes-market-merced-2026-11-08@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Lucky Babe’s Market
 DESCRIPTION:A public market featuring more than 30 women- and femme-owned v
  endors\, including vintage clothing\, jewelry\, food and coffee. Hosted by
@@ -411,8 +89,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-08@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -436,8 +114,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:addams-family-young-at-part-playhouse-merced-2026-11-08@community.gamec
  hangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:The Addams Family Young@Part — Playhouse Merced
 DESCRIPTION:Playhouse Merced’s Young Artist Conservatory presents the You
  ng@Part edition of The Addams Family musical. The organizer rates the prod
@@ -456,8 +134,8 @@ DTSTART:20261108T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bls-cpr-class-merced-2026-11-08@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:American Heart Association BLS CPR Class
 DESCRIPTION:Public registration for BLS certification or renewal\, intended
   for healthcare professionals and students. The provider uses online cours
@@ -480,8 +158,8 @@ DTEND:20261109T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:drama-island-16-mac-2026-11-08@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drama Island 16: No Safe Harbor
 DESCRIPTION:One of five live Drama Island performances featuring 14 contest
  ants taking part in challenges while supporting their chosen charitable ca
@@ -502,8 +180,8 @@ DTEND:20261109T043000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-11-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -523,8 +201,8 @@ DTEND:20261109T174500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:big-blue-blocks-merced-library-2026-11-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Big Blue Blocks Building Fun — Merced Main Library
 DESCRIPTION:Free Big Blue Blocks Building Fun activity for ages 6–11 in t
  he library’s Children’s Department.\n\nCost: Free.\n\nSource: Merced C
@@ -540,8 +218,8 @@ DTEND:20261109T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a-magical-day-lgbtq-merced-2026-11-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:A Magical F!?!ing Day
 DESCRIPTION:A casual LGBTQ Merced meetup for people interested in spiritual
  ity\, tarot\, divination\, crystals and the moon. Open to LGBTQ+ people an
@@ -560,8 +238,8 @@ DTEND:20261109T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teens-movie-merced-library-2026-11-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Movie — Merced Main Library
 DESCRIPTION:Movie program for teens ages 12–18.\n\nCost: Free\n\nSource: 
  Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19
@@ -578,8 +256,8 @@ DTEND:20261110T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-11-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults ages 18 and up.\n\nCost: Free\n\nS
  ource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx
@@ -596,8 +274,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-11-10@community.gamechangersai.o
  rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Library sensory playgroup for children ages 0–2.\n\nCost: Fre
  e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
@@ -613,8 +291,8 @@ DTEND:20261110T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teen-fuse-beads-merced-library-2026-11-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Fuse Beads — Merced Main Library
 DESCRIPTION:Free Fuse Beads activity in the library’s Teens Department fo
  r ages 12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhttps://w
@@ -631,8 +309,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:coding-from-scratch-merced-library-2026-11-10@community.gamechangersai.
  org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coding from Scratch — Merced Main Library
 DESCRIPTION:Free Coding from Scratch activity for ages 8–11 in the librar
  y’s Gracey Room.\n\nCost: Free.\n\nSource: Merced County Library\nhttps:
@@ -649,8 +327,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-young-artists-academy-november-2026-11-10@community.game
  changersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Young Artists Academy: Pottery — Kids Discovery Station
 DESCRIPTION:Four-session November drop-off art program exploring pottery\, 
  clay molding\, shaping\, sculpting\, texture\, patterns and color. Registr
@@ -671,8 +349,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:good-bad-movie-club-merced-library-2026-11-10@community.gamechangersai.
  org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Good Bad Movie Club — Merced Main Library
 DESCRIPTION:Movie club for adults ages 18 and older. Call the library at 20
  9-385-7484 for the movie title.\n\nCost: Free\n\nSource: Merced County Lib
@@ -690,8 +368,8 @@ DTEND:20261111T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tabletop-rpgs-merced-library-2026-11-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tabletop RPGs — Merced Main Library
 DESCRIPTION:Tabletop role-playing games for adults ages 18 and older.\n\nCo
  st: Free\n\nSource: Merced County Library — official calendar\nhttps://w
@@ -708,9 +386,28 @@ DTSTART:20261111T010000Z
 DTEND:20261111T033000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:atwater-veterans-day-ceremony-2026-11-11@community.gamechangersai.org
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
+SUMMARY:Veterans Day Ceremony — Atwater
+DESCRIPTION:Public ceremony honoring veterans\, with the unveiling of newly
+  added memorial bricks. The City of Atwater invites the community to atten
+ d.\n\nCost: Admission price not published\; check with the organizer.\n\nS
+ ource: The City of Atwater\nhttps://www.facebook.com/events/16443920904029
+ 62/
+LOCATION:Veterans Memorial Park\, corner of Bellevue Road and Buhach Road\,
+  Atwater\, CA
+CATEGORIES:Festivals & community
+URL:https://www.facebook.com/events/1644392090402962/
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+DTSTART:20261111T170000Z
+DTEND:20261111T183000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:castle-air-museum-veterans-day-2026-11-11@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Veterans Day Free Admission — Castle Air Museum
 DESCRIPTION:Castle Air Museum offers free museum admission to veterans and 
  active-duty service members on Veterans Day. The offer does not state free
@@ -730,8 +427,8 @@ DTEND:20261112T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:crafting-conversations-2026-11-11@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Crafting Conversations — Parent & Child Crafts
 DESCRIPTION:Boys & Girls Club of Merced County offers parent-and-child craf
  ts and conversation. Moms\, dads and caregivers are welcome. Activities in
@@ -751,8 +448,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-county-veterans-day-ceremony-parade-2026-11-11@community.gamecha
  ngersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced County Veterans Day Ceremony & Parade
 DESCRIPTION:The county Veterans Services Office invites the community to ho
  nor veterans at the 22nd annual ceremony and parade. The opening ceremony 
@@ -774,8 +471,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-science-and-engineering-academy-november-2026-11-11@comm
  unity.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Science & Engineering Academy: Stop-Motion Filmmaking — Kids Disc
  overy Station
 DESCRIPTION:Four-session November drop-off program exploring stop-motion fi
@@ -797,8 +494,8 @@ DTEND:20261112T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -816,8 +513,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spanish-bilingual-story-time-merced-library-2026-11-12@community.gamech
  angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Spanish Bilingual Story Time — Merced Library
 DESCRIPTION:Stories in English and Spanish\, music and fingerplays for chil
  dren ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m.\, f
@@ -836,8 +533,8 @@ DTEND:20261112T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-atwater-library-2026-11-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Atwater Library
 DESCRIPTION:For children ages 0–2 and their adult caregivers. Storytime f
  rom 10:30–11 a.m.\, followed by Stay & Play from 11–11:30 a.m. Include
@@ -855,8 +552,8 @@ DTEND:20261112T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-11-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Adult coloring activity at the library.\n\nCost: Free\n\nSource
  : Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=
@@ -872,8 +569,8 @@ DTEND:20261112T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-11-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -893,8 +590,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-nintendo-switch-merced-library-2026-11-12@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Nintendo Switch — Merced Main Library
 DESCRIPTION:Nintendo Switch gaming for teens ages 12–18.\n\nCost: Free.\n
  \nSource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.a
@@ -912,8 +609,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:coco-movie-night-st-patrick-merced-2026-11-12@community.gamechangersai.
  org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Movie Night: Coco — St. Patrick Hall
 DESCRIPTION:Public movie night hosted by Catholic Women & Friends and annou
  nced by St. Patrick’s Parish and Our Lady of Mercy. Coco will be shown i
@@ -932,8 +629,8 @@ DTSTART:20261113T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-one-acts-mac-2026-11-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Holiday One Acts
 DESCRIPTION:The Perennial Players present four short holiday plays: Santa-M
  ental Christmas\, Scrooge with a Twist\, Rosie the Retired Rockette and Ho
@@ -955,8 +652,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversation-circles-merced-library-2026-11-13@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Conversation Circles — Merced Main Library
 DESCRIPTION:Practice everyday English conversation over free coffee. All sk
  ill levels are welcome\; no registration is needed.\n\nCost: Free\; no reg
@@ -974,8 +671,8 @@ DTEND:20261113T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-merced-library-2026-11-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Merced Library
 DESCRIPTION:Picture books\, music and fingerplays for children ages 3–6 w
  ith an adult caregiver. Story time is 10:30–11 a.m.\, followed by a craf
@@ -995,8 +692,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-13@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -1019,8 +716,8 @@ DTEND:20261113T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:crochet-club-merced-library-2026-11-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Crochet Club — Holiday Bows — Merced Main Library
 DESCRIPTION:Crochet holiday bows. For adults ages 18 and older\; materials 
  provided while supplies last.\n\nCost: Free\n\nSource: Merced County Libra
@@ -1038,8 +735,8 @@ DTEND:20261114T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-atwater-library-2026-11-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:LEGO Time — Atwater Library
 DESCRIPTION:LEGO activity for children of all ages.\n\nCost: Free\n\nSource
  : Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=
@@ -1056,8 +753,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:addams-family-young-at-part-playhouse-merced-2026-11-13@community.gamec
  hangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:The Addams Family Young@Part — Playhouse Merced
 DESCRIPTION:Playhouse Merced’s Young Artist Conservatory presents the You
  ng@Part edition of The Addams Family musical. The organizer rates the prod
@@ -1076,8 +773,8 @@ DTSTART:20261114T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-one-acts-mac-2026-11-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Holiday One Acts
 DESCRIPTION:The Perennial Players present four short holiday plays: Santa-M
  ental Christmas\, Scrooge with a Twist\, Rosie the Retired Rockette and Ho
@@ -1098,8 +795,8 @@ DTEND:20261114T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-half-marathon-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Half Marathon
 DESCRIPTION:Half marathon hosted by Planada Run Club and Alterego Run Club\
  , with a four-hour course cutoff. Registration required\; the current entr
@@ -1118,8 +815,8 @@ DTSTART:20261114T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -1136,8 +833,8 @@ DTEND:20261114T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cvo-black-oak-casino-trip-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:CVO Black Oak Casino Bus Trip
 DESCRIPTION:Castle Veterans Organization sponsors a bus trip to Black Oak C
  asino. The public flyer advertises a $40 ticket with $10 gaming credit\, $
@@ -1163,8 +860,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adult-makerspace-mancala-atwater-library-2026-11-14@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Makerspace — DIY Mancala Board — Atwater Library
 DESCRIPTION:Make a DIY mancala board. For adults ages 18 and older.\n\nCost
  : Free\n\nSource: Merced County Library — official calendar\nhttps://www
@@ -1181,8 +878,8 @@ DTEND:20261114T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:coloring-corner-atwater-library-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coloring Corner — Atwater Library
 DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
  urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
@@ -1199,8 +896,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:love-inc-coats-for-hope-giveaway-2026-11-14@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coats for Hope — Free Coat Giveaway
 DESCRIPTION:Love INC of Greater Merced gives away new coats for children ag
  es 5–18. The child must be present. No sign-up is needed\; coats are dis
@@ -1218,8 +915,8 @@ DTEND:20261114T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-wreath-merced-library-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Fall Wreath — Merced Main Library
 DESCRIPTION:Free fall-wreath craft activity for children ages 6–11 in the
   Children’s Department at Merced Main Library.\n\nCost: Free\; for ages 
@@ -1238,8 +935,8 @@ DTEND:20261115T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-one-acts-mac-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Holiday One Acts
 DESCRIPTION:The Perennial Players present four short holiday plays: Santa-M
  ental Christmas\, Scrooge with a Twist\, Rosie the Retired Rockette and Ho
@@ -1260,8 +957,8 @@ DTEND:20261114T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:poke-paint-merced-library-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Poke-Paint — Merced Main Library
 DESCRIPTION:Poke-Paint program for adults ages 18 and older.\n\nCost: Free\
  n\nSource: Merced County Library — official calendar\nhttps://www.county
@@ -1279,8 +976,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-beads-and-banter-merced-library-2026-11-14@community.gamechangersa
  i.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Beads & Banter — Merced Main Library
 DESCRIPTION:Free Beads & Banter activity in the library’s Teens Departmen
  t for ages 12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhttps
@@ -1296,8 +993,8 @@ DTEND:20261115T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:improv-club-merced-library-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Improv Club — Merced Main Library
 DESCRIPTION:Improv Club for adults ages 18 and older.\n\nCost: Free\n\nSour
  ce: Merced County Library — official calendar\nhttps://www.countyofmerce
@@ -1314,8 +1011,8 @@ DTEND:20261115T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cfjc-earthseed-screening-merced-2026-11-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Earthseed Film Screening & Community Gathering — CFJC
 DESCRIPTION:California Farmer Justice Collaborative hosts a community gathe
  ring with local food\, a screening of the People's Kitchen Collective's Ea
@@ -1340,8 +1037,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-digital-help-merced-library-2026-11-14@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drop-In Digital Help — Merced Library
 DESCRIPTION:Drop-in help with technology questions\, including e-books and 
  email. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
@@ -1360,8 +1057,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:addams-family-young-at-part-playhouse-merced-2026-11-14@community.gamec
  hangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:The Addams Family Young@Part — Playhouse Merced
 DESCRIPTION:Playhouse Merced’s Young Artist Conservatory presents the You
  ng@Part edition of The Addams Family musical. The organizer rates the prod
@@ -1380,8 +1077,8 @@ DTSTART:20261115T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-15@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -1399,8 +1096,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-15@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -1424,8 +1121,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:addams-family-young-at-part-playhouse-merced-2026-11-15@community.gamec
  hangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:The Addams Family Young@Part — Playhouse Merced
 DESCRIPTION:Playhouse Merced’s Young Artist Conservatory presents the You
  ng@Part edition of The Addams Family musical. The organizer rates the prod
@@ -1444,8 +1141,8 @@ DTSTART:20261115T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:drama-island-16-mac-2026-11-15@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drama Island 16: No Safe Harbor
 DESCRIPTION:One of five live Drama Island performances featuring 14 contest
  ants taking part in challenges while supporting their chosen charitable ca
@@ -1466,8 +1163,8 @@ DTEND:20261116T043000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-11-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -1487,8 +1184,8 @@ DTEND:20261116T174500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-merced-library-2026-11-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:LEGO Time — Merced Main Library
 DESCRIPTION:Free LEGO Time activity for ages 6–11 in the library’s Chil
  dren’s Department.\n\nCost: Free.\n\nSource: Merced County Library\nhttp
@@ -1504,8 +1201,8 @@ DTEND:20261117T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teens-movie-merced-library-2026-11-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Movie — Merced Main Library
 DESCRIPTION:Movie program for teens ages 12–18.\n\nCost: Free\n\nSource: 
  Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19
@@ -1522,8 +1219,8 @@ DTEND:20261117T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-11-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults ages 18 and up.\n\nCost: Free\n\nS
  ource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx
@@ -1540,8 +1237,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-11-17@community.gamechangersai.o
  rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Library sensory playgroup for children ages 0–2.\n\nCost: Fre
  e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
@@ -1558,8 +1255,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-makerspace-pony-beads-atwater-library-2026-11-17@community.gamecha
  ngersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teen Makerspace — Pony Beads — Atwater Library
 DESCRIPTION:Pony-bead makerspace activity for teens ages 12–18.\n\nCost: 
  Free\n\nSource: Merced County Library — official calendar\nhttps://www.c
@@ -1576,8 +1273,8 @@ DTEND:20261118T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:chompsaw-leaf-merced-library-2026-11-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:ChompSaw Leaf — Merced Main Library
 DESCRIPTION:Free ChompSaw Leaf activity for ages 6–11 in the library’s 
  Children’s Department.\n\nCost: Free.\n\nSource: Merced County Library\n
@@ -1594,8 +1291,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-young-artists-academy-november-2026-11-17@community.game
  changersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Young Artists Academy: Pottery — Kids Discovery Station
 DESCRIPTION:Four-session November drop-off art program exploring pottery\, 
  clay molding\, shaping\, sculpting\, texture\, patterns and color. Registr
@@ -1616,8 +1313,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-owl-tree-round-merced-library-2026-11-17@community.gamechangersai.
  org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Owl Tree Round — Merced Main Library
 DESCRIPTION:Free Owl Tree Round activity in the library’s Teens Departmen
  t for ages 12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhttps
@@ -1634,8 +1331,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pomegranates-persimmons-merced-library-2026-11-17@community.gamechanger
  sai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Pomegranates & Persimmons — UC Master Gardeners
 DESCRIPTION:UC Master Gardeners of Merced County presentation with Tom Dinw
  oodie on the history\, varieties\, growing and preserving of pomegranates 
@@ -1654,8 +1351,8 @@ DTEND:20261118T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:crafting-conversations-2026-11-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Crafting Conversations — Parent & Child Crafts
 DESCRIPTION:Boys & Girls Club of Merced County offers parent-and-child craf
  ts and conversation. Moms\, dads and caregivers are welcome. Activities in
@@ -1674,8 +1371,8 @@ DTEND:20261118T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-atwater-library-2026-11-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Atwater Library
 DESCRIPTION:Picture books\, fingerplays and music for children ages 3–6 w
  ith an adult caregiver. Story time runs 10:30–11 a.m.\, followed by Stay
@@ -1693,8 +1390,8 @@ DTEND:20261118T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-merced-library-2026-11-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Merced Main Library
 DESCRIPTION:Storybooks\, music\, lap bounces and fingerplays for children a
  ges 0–2 with an adult caregiver. Story time runs 10:30–11 a.m.\, follo
@@ -1713,8 +1410,8 @@ DTEND:20261118T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:makerspace-merced-library-2026-11-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Makerspace — Merced Main Library
 DESCRIPTION:Makerspace program for teens ages 12–18.\n\nCost: Free\n\nSou
  rce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?E
@@ -1731,8 +1428,8 @@ DTEND:20261119T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-game-night-merced-library-2026-11-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adults: Game Night — Merced Main Library
 DESCRIPTION:Adult tabletop game night with the Central Valley Tabletop Comm
  unity\, including games such as D&D\, Magic: The Gathering and Settlers.\n
@@ -1751,8 +1448,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-science-and-engineering-academy-november-2026-11-18@comm
  unity.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Science & Engineering Academy: Stop-Motion Filmmaking — Kids Disc
  overy Station
 DESCRIPTION:Four-session November drop-off program exploring stop-motion fi
@@ -1775,8 +1472,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wooden-leaf-wall-hanging-merced-library-2026-11-18@community.gamechange
  rsai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wooden Leaf Wall Hanging — Merced Main Library
 DESCRIPTION:Free seasonal craft program on the library’s main floor. For 
  adults ages 18 and older.\n\nCost: Free\n\nSource: Merced County Library 
@@ -1794,8 +1491,8 @@ DTEND:20261119T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -1812,8 +1509,8 @@ DTEND:20261119T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-lao-family-food-drive-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Drive — Merced Lao Family
 DESCRIPTION:Free drive-through groceries from Merced Lao Family and the loc
  al food bank. Queue in the parking lot behind the building. First come\, f
@@ -1836,8 +1533,8 @@ DTEND:20261119T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:free-food-umc-merced-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Distribution — United Methodist Church of Merced
 DESCRIPTION:Collect free food provided by Merced Food Bank at the United Me
  thodist Church of Merced. The public listing welcomes everyone.\n\nCost: F
@@ -1857,8 +1554,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spanish-bilingual-story-time-merced-library-2026-11-19@community.gamech
  angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Spanish Bilingual Story Time — Merced Library
 DESCRIPTION:Stories in English and Spanish\, music and fingerplays for chil
  dren ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m.\, f
@@ -1877,8 +1574,8 @@ DTEND:20261119T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-atwater-library-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Atwater Library
 DESCRIPTION:For children ages 0–2 and their adult caregivers. Storytime f
  rom 10:30–11 a.m.\, followed by Stay & Play from 11–11:30 a.m. Include
@@ -1896,8 +1593,8 @@ DTEND:20261119T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults.\n\nCost: Free\n\nSource: Merced C
  ounty Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=18445&mont
@@ -1913,8 +1610,8 @@ DTEND:20261119T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -1934,8 +1631,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:craft-with-scraps-merced-library-2026-11-19@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Craft with Scraps — Merced Main Library
 DESCRIPTION:Craft with Scraps program for adults ages 18 and older.\n\nCost
  : Free\n\nSource: Merced County Library — official calendar\nhttps://www
@@ -1954,8 +1651,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-nintendo-switch-merced-library-2026-11-19@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Nintendo Switch — Merced Main Library
 DESCRIPTION:Nintendo Switch gaming for teens ages 12–18.\n\nCost: Free.\n
  \nSource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.a
@@ -1972,8 +1669,8 @@ DTEND:20261120T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:art-spirits-paint-along-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Art & Spirits — Paint Along
 DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
  e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
@@ -1988,8 +1685,8 @@ DTEND:20261120T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-one-acts-mac-2026-11-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Holiday One Acts
 DESCRIPTION:The Perennial Players present four short holiday plays: Santa-M
  ental Christmas\, Scrooge with a Twist\, Rosie the Retired Rockette and Ho
@@ -2011,8 +1708,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversation-circles-merced-library-2026-11-20@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Conversation Circles — Merced Main Library
 DESCRIPTION:Practice everyday English conversation over free coffee. All sk
  ill levels are welcome\; no registration is needed.\n\nCost: Free\; no reg
@@ -2030,8 +1727,8 @@ DTEND:20261120T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-merced-library-2026-11-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Merced Library
 DESCRIPTION:Picture books\, music and fingerplays for children ages 3–6 w
  ith an adult caregiver. Story time is 10:30–11 a.m.\, followed by a craf
@@ -2051,8 +1748,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-20@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -2075,8 +1772,8 @@ DTEND:20261120T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-art-club-merced-library-2026-11-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bad Art Club — Merced Main Library
 DESCRIPTION:Bad Art Club for adults ages 18 and older.\n\nCost: Free\n\nSou
  rce: Merced County Library — official calendar\nhttps://www.countyofmerc
@@ -2093,8 +1790,8 @@ DTEND:20261121T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-atwater-library-2026-11-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:LEGO Time — Atwater Library
 DESCRIPTION:LEGO activity for children of all ages.\n\nCost: Free\n\nSource
  : Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=
@@ -2110,8 +1807,8 @@ DTEND:20261121T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-trees-sneak-peek-2026-11-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Festival of Trees Sneak Peek
 DESCRIPTION:Preview the decorated trees at Mercy Medical Center Merced Foun
  dation's Festival of Trees kickoff. The organizer offers no-charge individ
@@ -2131,8 +1828,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-chess-club-free-play-friday-2026-11-20@community.gamechangersai.
  org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Chess Club — Free-Play Friday
 DESCRIPTION:Chess gathering welcoming all ages and abilities.\n\nCost: Free
  \n\nSource: Marketplace at Merced\nhttps://www.marketplaceatmerced.com/eve
@@ -2148,8 +1845,8 @@ DTEND:20261121T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-one-acts-mac-2026-11-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Holiday One Acts
 DESCRIPTION:The Perennial Players present four short holiday plays: Santa-M
  ental Christmas\, Scrooge with a Twist\, Rosie the Retired Rockette and Ho
@@ -2170,8 +1867,8 @@ DTEND:20261121T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -2188,8 +1885,8 @@ DTEND:20261121T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-running-club-turkey-trot-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Turkey Trot
 DESCRIPTION:Check-in opens at 9 a.m.\; kids’ 1K starts at 10:15 a.m. and 
  2-mile/5-mile races at 10:30 a.m. Benefits Merced County Toys for Tots. Co
@@ -2207,8 +1904,8 @@ DTSTART:20261121T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:coloring-corner-atwater-library-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coloring Corner — Atwater Library
 DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
  urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
@@ -2225,8 +1922,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tabletop-super-saturday-merced-library-2026-11-21@community.gamechanger
  sai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tabletop Super Saturday — Merced Main Library
 DESCRIPTION:Tabletop games at the library. The event description explicitly
   welcomes all ages.\n\nCost: Free\n\nSource: Merced County Library — off
@@ -2245,8 +1942,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adult-book-club-behind-closed-doors-atwater-library-2026-11-21@communit
  y.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Book Club — Behind Closed Doors — Atwater Library
 DESCRIPTION:Book club discussion of Behind Closed Doors. For adults ages 18
   and older.\n\nCost: Free\n\nSource: Merced County Library — official ca
@@ -2263,8 +1960,8 @@ DTEND:20261121T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:moes-sidekicks-family-fun-day-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Moe's Sidekicks Family Fun Day
 DESCRIPTION:Bring the family for an obstacle course and games\, arts and cr
  afts\, and kicking fun. Enter a raffle for a chance to win prizes from loc
@@ -2284,8 +1981,8 @@ DTEND:20261121T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wbfmi-turkey-giveaway-merced-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drive-Through Turkey Giveaway — Walking by Faith Ministries
 DESCRIPTION:Walking by Faith Ministries International hosts its fifth annua
  l drive-through turkey giveaway. No registration is required. Bring ID\; l
@@ -2307,8 +2004,8 @@ DTEND:20261121T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teen-d-and-d-merced-library-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: D&D — Merced Main Library
 DESCRIPTION:Free D&D activity in the library’s Teens Department for ages 
  12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhttps://www.coun
@@ -2324,8 +2021,8 @@ DTEND:20261122T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-one-acts-mac-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Holiday One Acts
 DESCRIPTION:The Perennial Players present four short holiday plays: Santa-M
  ental Christmas\, Scrooge with a Twist\, Rosie the Retired Rockette and Ho
@@ -2346,8 +2043,8 @@ DTEND:20261121T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-windsock-merced-library-2026-11-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Make a Turkey Windsock — Merced Main Library
 DESCRIPTION:Free turkey-windsock craft activity for children ages 6–11 in
   the Gracey Room at Merced Main Library.\n\nCost: Free\; for ages 6–11.\
@@ -2367,8 +2064,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-digital-help-merced-library-2026-11-21@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drop-In Digital Help — Merced Library
 DESCRIPTION:Drop-in help with technology questions\, including e-books and 
  email. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
@@ -2387,8 +2084,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:castle-tree-lighting-christmas-festival-2026-11-21@community.gamechange
  rsai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Castle Air Museum Tree Lighting & Christmas Festival
 DESCRIPTION:Public family holiday celebration with a Christmas tree lightin
  g\, Santa visits\, live music and local craft vendors. Copper Wings Cafe p
@@ -2410,8 +2107,8 @@ DTEND:20261122T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-22@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -2429,8 +2126,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-22@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -2453,8 +2150,8 @@ DTEND:20261122T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:drama-island-16-mac-2026-11-22@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drama Island 16: No Safe Harbor
 DESCRIPTION:One of five live Drama Island performances featuring 14 contest
  ants taking part in challenges while supporting their chosen charitable ca
@@ -2476,8 +2173,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-thanksgiving-camp-2026-11-23@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Thanksgiving STEAM Camp — Kids Discovery Station
 DESCRIPTION:Three-day camp\, November 23–25\, for children in grades TK
  –5. Hands-on STEAM experiments\, creative projects\, games and activitie
@@ -2500,8 +2197,8 @@ DTEND:20261123T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-11-23@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -2521,8 +2218,8 @@ DTEND:20261123T174500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:big-blue-blocks-merced-library-2026-11-23@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Big Blue Blocks Building Fun — Merced Main Library
 DESCRIPTION:Free Big Blue Blocks Building Fun activity for ages 6–11 in t
  he library’s Children’s Department.\n\nCost: Free.\n\nSource: Merced C
@@ -2538,8 +2235,8 @@ DTEND:20261123T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teens-movie-merced-library-2026-11-23@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Movie — Merced Main Library
 DESCRIPTION:Movie program for teens ages 12–18.\n\nCost: Free\n\nSource: 
  Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19
@@ -2557,8 +2254,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-thanksgiving-camp-2026-11-24@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Thanksgiving STEAM Camp — Kids Discovery Station
 DESCRIPTION:Three-day camp\, November 23–25\, for children in grades TK
  –5. Hands-on STEAM experiments\, creative projects\, games and activitie
@@ -2581,8 +2278,8 @@ DTEND:20261124T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-11-24@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults ages 18 and up.\n\nCost: Free\n\nS
  ource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx
@@ -2599,8 +2296,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-11-24@community.gamechangersai.o
  rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Library sensory playgroup for children ages 0–2.\n\nCost: Fre
  e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
@@ -2617,8 +2314,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-craft-forest-critter-atwater-library-2026-11-24@community.gamechan
  gersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teen Craft Time — Forest Critter Tree Round Decor — Atwater Lib
  rary
 DESCRIPTION:Make forest-critter tree-round decor. For teens ages 12–18.\n
@@ -2637,8 +2334,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-young-artists-academy-november-2026-11-24@community.game
  changersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Young Artists Academy: Pottery — Kids Discovery Station
 DESCRIPTION:Four-session November drop-off art program exploring pottery\, 
  clay molding\, shaping\, sculpting\, texture\, patterns and color. Registr
@@ -2659,8 +2356,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-cooking-tutorial-merced-library-2026-11-24@community.gamechangersa
  i.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Cooking Tutorial — Merced Main Library
 DESCRIPTION:Free Cooking Tutorial activity in the library’s Teens Departm
  ent for ages 12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhtt
@@ -2676,8 +2373,8 @@ DTEND:20261125T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tabletop-rpgs-merced-library-2026-11-24@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tabletop RPGs — Merced Main Library
 DESCRIPTION:Tabletop role-playing games for adults ages 18 and older.\n\nCo
  st: Free\n\nSource: Merced County Library — official calendar\nhttps://w
@@ -2696,8 +2393,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-thanksgiving-camp-2026-11-25@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Thanksgiving STEAM Camp — Kids Discovery Station
 DESCRIPTION:Three-day camp\, November 23–25\, for children in grades TK
  –5. Hands-on STEAM experiments\, creative projects\, games and activitie
@@ -2720,8 +2417,8 @@ DTEND:20261125T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-atwater-library-2026-11-25@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Atwater Library
 DESCRIPTION:Picture books\, fingerplays and music for children ages 3–6 w
  ith an adult caregiver. Story time runs 10:30–11 a.m.\, followed by Stay
@@ -2739,8 +2436,8 @@ DTEND:20261125T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-merced-library-2026-11-25@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Merced Main Library
 DESCRIPTION:Storybooks\, music\, lap bounces and fingerplays for children a
  ges 0–2 with an adult caregiver. Story time runs 10:30–11 a.m.\, follo
@@ -2760,8 +2457,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:family-journaling-merced-library-2026-11-25@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Family Journaling — Merced Main Library
 DESCRIPTION:Family journaling at the library. Available for all ages.\n\nCo
  st: Free\n\nSource: Merced County Library — official calendar\nhttps://w
@@ -2779,8 +2476,8 @@ DTEND:20261126T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:beads-banter-merced-library-2026-11-25@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Beads & Banter — Merced Main Library
 DESCRIPTION:Beads & Banter program for adults ages 18 and older.\n\nCost: F
  ree\n\nSource: Merced County Library — official calendar\nhttps://www.co
@@ -2798,8 +2495,8 @@ DTEND:20261126T031500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:chess-club-merced-library-2026-11-25@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Chess Club — Merced Main Library
 DESCRIPTION:Casual chess play and an opportunity to meet other chess enthus
  iasts.\n\nCost: Free\n\nSource: Merced County Library\nhttps://www.countyo
@@ -2817,8 +2514,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-science-and-engineering-academy-november-2026-11-25@comm
  unity.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Science & Engineering Academy: Stop-Motion Filmmaking — Kids Disc
  overy Station
 DESCRIPTION:Four-session November drop-off program exploring stop-motion fi
@@ -2841,8 +2538,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-crochet-club-merced-library-2026-11-25@community.gamechangersai.or
  g
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Crochet Club — Merced Main Library
 DESCRIPTION:Free Crochet Club activity in the library’s Teens Department 
  for ages 12–18.\n\nCost: Free.\n\nSource: Merced County Library\nhttps:/
@@ -2858,8 +2555,8 @@ DTEND:20261126T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-26@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -2876,8 +2573,8 @@ DTEND:20261126T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-thanksgiving-fun-run-2026-11-26@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Thanksgiving Day Fun Run
 DESCRIPTION:Merced Running Club outing on Bear Creek paths. Choose a 5-mile
  \, 10-mile or personal-distance route. Walkers welcome\; no registration r
@@ -2894,8 +2591,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resm-thanksgiving-community-meal-atwater-2026-11-26@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Community Thanksgiving Meal — Tequila Cafe & RESM
 DESCRIPTION:Tequila Cafe and Rising Empowerment Sports Ministries host a co
  mmunity meal on Thanksgiving Day. The organizer welcomes everyone\, includ
@@ -2918,8 +2615,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-27@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -2942,8 +2639,8 @@ DTEND:20261127T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-11-28@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -2960,8 +2657,8 @@ DTEND:20261128T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:coloring-corner-atwater-library-2026-11-28@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coloring Corner — Atwater Library
 DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
  urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
@@ -2978,8 +2675,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-county-fair-christmas-bazaar-2026-11-28@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced County Fair Christmas Bazaar
 DESCRIPTION:Holiday bazaar at the Merced County Fairgrounds with shopping a
  nd food. The current organizer page confirms November 28\, 2026\, from 10 
@@ -2999,8 +2696,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bear-creek-ukulele-society-group-jam-2026-11-28@community.gamechangersa
  i.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bear Creek Ukulele Society — Group Jam
 DESCRIPTION:Ukulele group jam.\n\nSchedule unconfirmed: this session is no 
  longer on the organizer’s current event calendar\, and its detail page w
@@ -3018,8 +2715,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-digital-help-merced-library-2026-11-28@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drop-In Digital Help — Merced Library
 DESCRIPTION:Drop-in help with technology questions\, including e-books and 
  email. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
@@ -3038,8 +2735,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:last-saturday-silent-book-club-merced-library-2026-11-28@community.game
  changersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Last Saturday Silent Book Club — Merced Main Library
 DESCRIPTION:Silent Book Club for adults ages 18 and older.\n\nCost: Free\n\
  nSource: Merced County Library — official calendar\nhttps://www.countyof
@@ -3056,8 +2753,8 @@ DTEND:20261129T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-11-29@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -3074,8 +2771,8 @@ DTEND:20261129T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:queer-craft-meetup-merced-2026-11-29@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Queer Craft Meetup — Coffee Bandits
 DESCRIPTION:LGBTQ Merced hosts an open arts-and-crafts social\; everyone is
   welcome. Bring your own project and materials. Some materials are also pr
@@ -3094,8 +2791,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-11-29@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -3118,8 +2815,8 @@ DTEND:20261129T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:drama-island-16-mac-2026-11-29@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drama Island 16: No Safe Harbor
 DESCRIPTION:One of five live Drama Island performances featuring 14 contest
  ants taking part in challenges while supporting their chosen charitable ca
@@ -3141,8 +2838,8 @@ DTEND:20261130T043000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-11-30@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -3162,8 +2859,8 @@ DTEND:20261130T174500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teens-movie-merced-library-2026-11-30@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Movie — Merced Main Library
 DESCRIPTION:Movie program for teens ages 12–18.\n\nCost: Free\n\nSource: 
  Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19
@@ -3180,8 +2877,8 @@ DTEND:20261201T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-12-01@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults ages 18 and up.\n\nCost: Free\n\nS
  ource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx
@@ -3198,8 +2895,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-12-01@community.gamechangersai.o
  rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Library sensory playgroup for children ages 0–2.\n\nCost: Fre
  e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
@@ -3215,8 +2912,8 @@ DTEND:20261201T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-atwater-library-2026-12-02@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Atwater Library
 DESCRIPTION:Picture books\, fingerplays and music for children ages 3–6 w
  ith an adult caregiver. Story time runs 10:30–11 a.m.\, followed by Stay
@@ -3234,8 +2931,8 @@ DTEND:20261202T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-merced-library-2026-12-02@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Merced Main Library
 DESCRIPTION:Storybooks\, music\, lap bounces and fingerplays for children a
  ges 0–2 with an adult caregiver. Story time runs 10:30–11 a.m.\, follo
@@ -3254,8 +2951,8 @@ DTEND:20261202T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-game-night-merced-library-2026-12-02@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adults: Game Night — Merced Main Library
 DESCRIPTION:Adult tabletop game night with the Central Valley Tabletop Comm
  unity\, including games such as D&D\, Magic: The Gathering and Settlers.\n
@@ -3273,8 +2970,8 @@ DTEND:20261203T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -3291,8 +2988,8 @@ DTEND:20261203T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-lao-family-food-drive-2026-12-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Drive — Merced Lao Family
 DESCRIPTION:Free drive-through groceries from Merced Lao Family and the loc
  al food bank. Queue in the parking lot behind the building. First come\, f
@@ -3315,8 +3012,8 @@ DTEND:20261203T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:free-food-umc-merced-2026-12-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Distribution — United Methodist Church of Merced
 DESCRIPTION:Collect free food provided by Merced Food Bank at the United Me
  thodist Church of Merced. The public listing welcomes everyone.\n\nCost: F
@@ -3336,8 +3033,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spanish-bilingual-story-time-merced-library-2026-12-03@community.gamech
  angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Spanish Bilingual Story Time — Merced Library
 DESCRIPTION:Stories in English and Spanish\, music and fingerplays for chil
  dren ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m.\, f
@@ -3356,8 +3053,8 @@ DTEND:20261203T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-atwater-library-2026-12-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Atwater Library
 DESCRIPTION:For children ages 0–2 and their adult caregivers. Storytime f
  rom 10:30–11 a.m.\, followed by Stay & Play from 11–11:30 a.m. Include
@@ -3375,8 +3072,8 @@ DTEND:20261203T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-12-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults.\n\nCost: Free\n\nSource: Merced C
  ounty Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=18447&mont
@@ -3392,8 +3089,8 @@ DTEND:20261203T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-12-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -3413,8 +3110,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-nintendo-switch-merced-library-2026-12-03@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Nintendo Switch — Merced Main Library
 DESCRIPTION:Nintendo Switch gaming for teens ages 12–18.\n\nCost: Free.\n
  \nSource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.a
@@ -3432,8 +3129,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversation-circles-merced-library-2026-12-04@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Conversation Circles — Merced Main Library
 DESCRIPTION:Practice everyday English conversation over free coffee. All sk
  ill levels are welcome\; no registration is needed.\n\nCost: Free\; no reg
@@ -3452,8 +3149,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-04@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -3476,8 +3173,8 @@ DTEND:20261204T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-atwater-library-2026-12-04@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:LEGO Time — Atwater Library
 DESCRIPTION:LEGO activity for children of all ages.\n\nCost: Free\n\nSource
  : Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=
@@ -3493,8 +3190,8 @@ DTEND:20261205T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:leyendas-del-mariachi-2026-12-04@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Leyendas del Mariachi
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -3509,8 +3206,8 @@ DTSTART:20261205T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-04@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -3526,8 +3223,8 @@ DTSTART:20261205T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-05@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -3544,8 +3241,8 @@ DTEND:20261205T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:coloring-corner-atwater-library-2026-12-05@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coloring Corner — Atwater Library
 DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
  urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
@@ -3562,8 +3259,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-digital-help-merced-library-2026-12-05@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drop-In Digital Help — Merced Library
 DESCRIPTION:Drop-in help with technology questions\, including e-books and 
  email. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
@@ -3581,8 +3278,8 @@ DTEND:20261206T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-05@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -3598,8 +3295,8 @@ DTSTART:20261206T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-06@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -3617,8 +3314,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-06@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -3641,8 +3338,8 @@ DTEND:20261206T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-06@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -3658,8 +3355,8 @@ DTSTART:20261206T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:silent-book-club-merced-2026-12-06@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Silent Book Club — Coffee Bandits
 DESCRIPTION:LGBTQ Merced hosts a reading and social meetup. Bring a book of
   your choice\; participants read their own books and can chat with other r
@@ -3677,8 +3374,8 @@ DTEND:20261207T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:drama-island-16-mac-2026-12-06@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drama Island 16: No Safe Harbor
 DESCRIPTION:One of five live Drama Island performances featuring 14 contest
  ants taking part in challenges while supporting their chosen charitable ca
@@ -3700,8 +3397,8 @@ DTEND:20261207T043000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-12-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -3721,8 +3418,8 @@ DTEND:20261207T174500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teens-movie-merced-library-2026-12-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Movie — Merced Main Library
 DESCRIPTION:Movie program for teens ages 12–18.\n\nCost: Free\n\nSource: 
  Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19
@@ -3739,8 +3436,8 @@ DTEND:20261208T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-12-08@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults ages 18 and up.\n\nCost: Free\n\nS
  ource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx
@@ -3757,8 +3454,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-12-08@community.gamechangersai.o
  rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Library sensory playgroup for children ages 0–2.\n\nCost: Fre
  e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
@@ -3774,8 +3471,8 @@ DTEND:20261208T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-atwater-library-2026-12-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Atwater Library
 DESCRIPTION:Picture books\, fingerplays and music for children ages 3–6 w
  ith an adult caregiver. Story time runs 10:30–11 a.m.\, followed by Stay
@@ -3793,8 +3490,8 @@ DTEND:20261209T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-merced-library-2026-12-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Merced Main Library
 DESCRIPTION:Storybooks\, music\, lap bounces and fingerplays for children a
  ges 0–2 with an adult caregiver. Story time runs 10:30–11 a.m.\, follo
@@ -3813,8 +3510,8 @@ DTEND:20261209T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:chess-club-merced-library-2026-12-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Chess Club — Merced Main Library
 DESCRIPTION:Casual chess play and an opportunity to meet other chess enthus
  iasts.\n\nCost: Free\n\nSource: Merced County Library\nhttps://www.countyo
@@ -3831,8 +3528,8 @@ DTEND:20261210T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -3850,8 +3547,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spanish-bilingual-story-time-merced-library-2026-12-10@community.gamech
  angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Spanish Bilingual Story Time — Merced Library
 DESCRIPTION:Stories in English and Spanish\, music and fingerplays for chil
  dren ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m.\, f
@@ -3870,8 +3567,8 @@ DTEND:20261210T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-atwater-library-2026-12-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Atwater Library
 DESCRIPTION:For children ages 0–2 and their adult caregivers. Storytime f
  rom 10:30–11 a.m.\, followed by Stay & Play from 11–11:30 a.m. Include
@@ -3889,8 +3586,8 @@ DTEND:20261210T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-12-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults.\n\nCost: Free\n\nSource: Merced C
  ounty Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=18448&mont
@@ -3906,8 +3603,8 @@ DTEND:20261210T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-12-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -3927,8 +3624,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-nintendo-switch-merced-library-2026-12-10@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Nintendo Switch — Merced Main Library
 DESCRIPTION:Nintendo Switch gaming for teens ages 12–18.\n\nCost: Free.\n
  \nSource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.a
@@ -3946,8 +3643,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:conversation-circles-merced-library-2026-12-11@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Conversation Circles — Merced Main Library
 DESCRIPTION:Practice everyday English conversation over free coffee. All sk
  ill levels are welcome\; no registration is needed.\n\nCost: Free\; no reg
@@ -3966,8 +3663,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-11@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -3990,8 +3687,8 @@ DTEND:20261211T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-atwater-library-2026-12-11@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:LEGO Time — Atwater Library
 DESCRIPTION:LEGO activity for children of all ages.\n\nCost: Free\n\nSource
  : Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=
@@ -4007,8 +3704,8 @@ DTEND:20261212T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:its-a-wonderful-life-merced-2026-12-11@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:It’s a Wonderful Life — Movie
 DESCRIPTION:Movie screening at Merced Theatre. See the organizer for admiss
  ion details.\n\nEnd time has not been published. Confirm ticket availabili
@@ -4024,8 +3721,8 @@ DTSTART:20261212T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-11@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -4042,8 +3739,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:merced-college-jazz-ensemble-fall-concert-2026-12-11@community.gamechan
  gersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced College Jazz Ensemble Fall Concert
 DESCRIPTION:Live jazz performed by Merced College students and community mu
  sicians\, directed by Ken Taylor. Tickets go on sale in November.\n\nCost:
@@ -4061,8 +3758,8 @@ DTEND:20261212T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -4079,8 +3776,8 @@ DTEND:20261212T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:coloring-corner-atwater-library-2026-12-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coloring Corner — Atwater Library
 DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
  urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
@@ -4097,8 +3794,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-digital-help-merced-library-2026-12-12@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drop-In Digital Help — Merced Library
 DESCRIPTION:Drop-in help with technology questions\, including e-books and 
  email. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
@@ -4116,8 +3813,8 @@ DTEND:20261213T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-12@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -4133,8 +3830,8 @@ DTSTART:20261213T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -4151,8 +3848,8 @@ DTEND:20261213T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:breakfast-santa-atwater-2026-12-13-0900@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Breakfast with Santa — Atwater (9 a.m. session)
 DESCRIPTION:Holiday breakfast\, crafts\, music and a visit with Santa. Chil
  dren must be accompanied by a paid adult. Advance registration and a recre
@@ -4173,8 +3870,8 @@ DTEND:20261213T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:breakfast-santa-atwater-2026-12-13-1000@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Breakfast with Santa — Atwater (10 a.m. session)
 DESCRIPTION:Holiday breakfast\, crafts\, music and a visit with Santa. Chil
  dren must be accompanied by a paid adult. Advance registration and a recre
@@ -4196,8 +3893,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-13@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -4220,8 +3917,8 @@ DTEND:20261213T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -4237,8 +3934,8 @@ DTSTART:20261213T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:polar-express-merced-2026-12-13@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:The Polar Express — Movie with Santa
 DESCRIPTION:Movie screening with special guest Santa\, as listed by the the
  atre. See the organizer for admission details.\n\nEnd time has not been pu
@@ -4254,8 +3951,8 @@ DTSTART:20261213T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-12-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -4275,8 +3972,8 @@ DTEND:20261214T174500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:teens-movie-merced-library-2026-12-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Movie — Merced Main Library
 DESCRIPTION:Movie program for teens ages 12–18.\n\nCost: Free\n\nSource: 
  Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=19
@@ -4293,8 +3990,8 @@ DTEND:20261215T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-12-15@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults ages 18 and up.\n\nCost: Free\n\nS
  ource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx
@@ -4311,8 +4008,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensory-playgroup-atwater-library-2026-12-15@community.gamechangersai.o
  rg
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Sensory Playgroup — Atwater Library
 DESCRIPTION:Library sensory playgroup for children ages 0–2.\n\nCost: Fre
  e\n\nSource: Merced County Library\nhttps://www.countyofmerced.com/Calenda
@@ -4328,8 +4025,8 @@ DTEND:20261215T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:tiny-tales-atwater-library-2026-12-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Tiny Tales — Atwater Library
 DESCRIPTION:Picture books\, fingerplays and music for children ages 3–6 w
  ith an adult caregiver. Story time runs 10:30–11 a.m.\, followed by Stay
@@ -4347,8 +4044,8 @@ DTEND:20261216T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-merced-library-2026-12-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Merced Main Library
 DESCRIPTION:Storybooks\, music\, lap bounces and fingerplays for children a
  ges 0–2 with an adult caregiver. Story time runs 10:30–11 a.m.\, follo
@@ -4368,8 +4065,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:atwater-fire-police-toy-distribution-2026-12-16@community.gamechangersa
  i.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Fire & Police Toy Distribution — Atwater
 DESCRIPTION:Toy distribution for eligible children ages 1–12. Advance reg
  istration runs November 1–December 1\, 2026\, while spaces remain. Proof
@@ -4390,8 +4087,8 @@ DTEND:20261217T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-game-night-merced-library-2026-12-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adults: Game Night — Merced Main Library
 DESCRIPTION:Adult tabletop game night with the Central Valley Tabletop Comm
  unity\, including games such as D&D\, Magic: The Gathering and Settlers.\n
@@ -4409,8 +4106,8 @@ DTEND:20261217T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -4427,8 +4124,8 @@ DTEND:20261217T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-lao-family-food-drive-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Drive — Merced Lao Family
 DESCRIPTION:Free drive-through groceries from Merced Lao Family and the loc
  al food bank. Queue in the parking lot behind the building. First come\, f
@@ -4451,8 +4148,8 @@ DTEND:20261217T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:free-food-umc-merced-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Distribution — United Methodist Church of Merced
 DESCRIPTION:Collect free food provided by Merced Food Bank at the United Me
  thodist Church of Merced. The public listing welcomes everyone.\n\nCost: F
@@ -4472,8 +4169,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spanish-bilingual-story-time-merced-library-2026-12-17@community.gamech
  angersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Spanish Bilingual Story Time — Merced Library
 DESCRIPTION:Stories in English and Spanish\, music and fingerplays for chil
  dren ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m.\, f
@@ -4492,8 +4189,8 @@ DTEND:20261217T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:wiggle-read-atwater-library-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Wiggle & Read — Atwater Library
 DESCRIPTION:For children ages 0–2 and their adult caregivers. Storytime f
  rom 10:30–11 a.m.\, followed by Stay & Play from 11–11:30 a.m. Include
@@ -4511,8 +4208,8 @@ DTEND:20261217T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-coloring-atwater-library-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adult Coloring — Atwater Library
 DESCRIPTION:Coloring activity for adults.\n\nCost: Free\n\nSource: Merced C
  ounty Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=18449&mont
@@ -4528,8 +4225,8 @@ DTEND:20261217T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -4549,8 +4246,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teen-nintendo-switch-merced-library-2026-12-17@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Teens: Nintendo Switch — Merced Main Library
 DESCRIPTION:Nintendo Switch gaming for teens ages 12–18.\n\nCost: Free.\n
  \nSource: Merced County Library\nhttps://www.countyofmerced.com/Calendar.a
@@ -4567,8 +4264,8 @@ DTEND:20261218T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:art-spirits-paint-along-2026-12-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Art & Spirits — Paint Along
 DESCRIPTION:Painting session for all ages. $35\; materials included. Reserv
  e in advance.\n\nCost: $35 per person\; reservation required\n\nSource: Me
@@ -4584,8 +4281,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:world-ballet-company-the-nutcracker-2026-12-17@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:World Ballet Company — The Nutcracker
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nEnd time has not been published.\n\nEnd time not published\; confir
@@ -4601,8 +4298,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-18@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -4625,8 +4322,8 @@ DTEND:20261218T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-time-atwater-library-2026-12-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:LEGO Time — Atwater Library
 DESCRIPTION:LEGO activity for children of all ages.\n\nCost: Free\n\nSource
  : Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?EID=
@@ -4642,8 +4339,8 @@ DTEND:20261219T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-18@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -4659,8 +4356,8 @@ DTSTART:20261219T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -4677,8 +4374,8 @@ DTEND:20261219T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:coloring-corner-atwater-library-2026-12-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Coloring Corner — Atwater Library
 DESCRIPTION:Coloring activity for children ages 6–11.\n\nCost: Free\n\nSo
  urce: Merced County Library\nhttps://www.countyofmerced.com/Calendar.aspx?
@@ -4695,8 +4392,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bear-creek-ukulele-society-group-jam-2026-12-19@community.gamechangersa
  i.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bear Creek Ukulele Society — Group Jam
 DESCRIPTION:Ukulele group jam.\n\nSchedule unconfirmed: this session is no 
  longer on the organizer’s current event calendar\, and its detail page w
@@ -4714,8 +4411,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-digital-help-merced-library-2026-12-19@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Drop-In Digital Help — Merced Library
 DESCRIPTION:Drop-in help with technology questions\, including e-books and 
  email. Laptops are provided.\n\nCost: Free\n\nSource: Merced County Librar
@@ -4733,8 +4430,8 @@ DTEND:20261220T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-19@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -4750,8 +4447,8 @@ DTSTART:20261220T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -4769,8 +4466,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-20@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -4793,8 +4490,8 @@ DTEND:20261220T213000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mary-poppins-playhouse-merced-2026-12-20@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mary Poppins — Playhouse Merced
 DESCRIPTION:Community musical production\; rated G by the venue. Tickets re
  quired.\n\nCost: $22–$25\; check ticket availability\n\nEnd time has not
@@ -4811,8 +4508,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-steam-camp-kids-discovery-station-2026-12-21@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Winter STEAM Camp — Kids Discovery Station (Session A)
 DESCRIPTION:Registration required for children in grades TK–5. Session A 
  runs December 21–23\, 2026\, with drop-off at 8:30 a.m. and pickup at 3:
@@ -4835,8 +4532,8 @@ DTEND:20261221T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mommy-me-tap-ballet-mac-2026-12-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Mommy & Me — Merced Tap and Ballet
 DESCRIPTION:Tap and ballet movement class for parents with infants and todd
  lers. Advance registration through Merced Tap and Ballet is required.\n\nC
@@ -4857,8 +4554,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-steam-camp-kids-discovery-station-2026-12-22@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Winter STEAM Camp — Kids Discovery Station (Session A)
 DESCRIPTION:Registration required for children in grades TK–5. Session A 
  runs December 21–23\, 2026\, with drop-off at 8:30 a.m. and pickup at 3:
@@ -4882,8 +4579,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-steam-camp-kids-discovery-station-2026-12-23@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Winter STEAM Camp — Kids Discovery Station (Session A)
 DESCRIPTION:Registration required for children in grades TK–5. Session A 
  runs December 21–23\, 2026\, with drop-off at 8:30 a.m. and pickup at 3:
@@ -4906,8 +4603,8 @@ DTEND:20261223T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:chess-club-merced-library-2026-12-23@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Chess Club — Merced Main Library
 DESCRIPTION:Casual chess play and an opportunity to meet other chess enthus
  iasts.\n\nCost: Free\n\nSource: Merced County Library\nhttps://www.countyo
@@ -4924,8 +4621,8 @@ DTEND:20261224T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-24@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -4942,8 +4639,8 @@ DTEND:20261224T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-christmas-eve-fun-run-2026-12-24@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Christmas Eve Fun Run
 DESCRIPTION:Approximately 5.3 miles along Bear Creek. No registration requi
  red. An optional gift exchange follows\; a gift is not required to join th
@@ -4959,8 +4656,8 @@ DTSTART:20261224T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-12-24@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -4979,8 +4676,8 @@ DTEND:20261225T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2026-12-26@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -4997,8 +4694,8 @@ DTEND:20261226T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-27@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -5016,8 +4713,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kids-discovery-story-puppet-theatre-2026-12-27@community.gamechangersai
  .org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Story Time and Puppet Theatre — Kids Discovery Station
 DESCRIPTION:Story time with puppet theatre and dancing in Little Explorers 
  Planet\, designed for children ages 2–5 and their caregivers. The organi
@@ -5041,8 +4738,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-steam-camp-kids-discovery-station-2026-12-28@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Winter STEAM Camp — Kids Discovery Station (Session B)
 DESCRIPTION:Registration required for children in grades TK–5. Session B 
  runs December 28–30\, 2026\, with drop-off at 8:30 a.m. and pickup at 3:
@@ -5066,8 +4763,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-steam-camp-kids-discovery-station-2026-12-29@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Winter STEAM Camp — Kids Discovery Station (Session B)
 DESCRIPTION:Registration required for children in grades TK–5. Session B 
  runs December 28–30\, 2026\, with drop-off at 8:30 a.m. and pickup at 3:
@@ -5091,8 +4788,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:winter-steam-camp-kids-discovery-station-2026-12-30@community.gamechang
  ersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Winter STEAM Camp — Kids Discovery Station (Session B)
 DESCRIPTION:Registration required for children in grades TK–5. Session B 
  runs December 28–30\, 2026\, with drop-off at 8:30 a.m. and pickup at 3:
@@ -5115,8 +4812,8 @@ DTEND:20261230T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adult-game-night-merced-library-2026-12-30@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Adults: Game Night — Merced Main Library
 DESCRIPTION:Adult tabletop game night with the Central Valley Tabletop Comm
  unity\, including games such as D&D\, Magic: The Gathering and Settlers.\n
@@ -5134,8 +4831,8 @@ DTEND:20261231T033000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2026-12-31@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -5152,8 +4849,8 @@ DTEND:20261231T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-lao-family-food-drive-2026-12-31@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Free Food Drive — Merced Lao Family
 DESCRIPTION:Free drive-through groceries from Merced Lao Family and the loc
  al food bank. Queue in the parking lot behind the building. First come\, f
@@ -5176,8 +4873,8 @@ DTEND:20261231T193000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bookmobile-stephen-leonard-park-2026-12-31@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Bookmobile — Stephen Leonard Park
 DESCRIPTION:The county library bookmobile brings books\, internet-accessibl
  e computers\, Wi-Fi and programming to South Merced. Materials are availab
@@ -5196,8 +4893,8 @@ DTEND:20270101T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2027-01-02@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -5214,8 +4911,8 @@ DTEND:20270102T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2027-01-03@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -5232,8 +4929,8 @@ DTEND:20270103T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2027-01-07@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -5250,8 +4947,8 @@ DTEND:20270107T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2027-01-09@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -5268,8 +4965,8 @@ DTEND:20270109T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2027-01-10@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -5286,8 +4983,8 @@ DTEND:20270110T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2027-01-14@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -5304,8 +5001,8 @@ DTEND:20270114T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:merced-flea-farmers-market-2027-01-16@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Merced Flea & Farmers Market
 DESCRIPTION:Weekly market\, rain or shine. Entry $1\; children 10 and under
   free. Free parking.\n\nCost: $1 admission\; ages 10 and under free\; free
@@ -5322,8 +5019,8 @@ DTEND:20270116T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2027-01-17@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission\; parking 
@@ -5340,8 +5037,8 @@ DTEND:20270117T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:atwater-flea-farmers-market-2027-01-21@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Atwater Flea & Farmers Market
 DESCRIPTION:Weekly outdoor market\, rain or shine. Free entry\; Thursday pa
  rking free\, Sunday parking $2 per car.\n\nCost: Free admission and parkin
@@ -5358,8 +5055,8 @@ DTEND:20270121T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nineteen-minutes-later-2026-10-30@community.gamechangersai.org
-DTSTAMP:20261107T165226Z
-LAST-MODIFIED:20261107T165226Z
+DTSTAMP:20261108T163810Z
+LAST-MODIFIED:20261108T163810Z
 SUMMARY:Nineteen Minutes Later
 DESCRIPTION:Ticketed performance. End time not published in the venue listi
  ng.\n\nDate updated from October 30\, 2026 to February 19\, 2027 to match 
