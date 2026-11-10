@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:43:03.787929+00:00",
+  "updatedAt": "2026-11-10T20:20:19.271728+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -19,64 +19,6 @@
       "timeNote": "Display runs November 7–14, 2026, inclusive. Daily visitor hours are not published; a date-only calendar block does not mean 24-hour public access."
     },
     {
-      "id": "mommy-me-tap-ballet-mac-2026-11-09",
-      "title": "Mommy & Me — Merced Tap and Ballet",
-      "date": "2026-11-09",
-      "startTime": "09:00",
-      "endTime": "09:45",
-      "city": "Merced",
-      "location": "The MAC, 645 W. Main Street, Merced, CA 95340",
-      "category": "Arts & performances",
-      "description": "Tap and ballet movement class for parents with infants and toddlers. Advance registration through Merced Tap and Ballet is required.",
-      "sourceUrl": "https://www.artsmerced.org/events-list/merced-dance-tap-ballet-mommy-me-class",
-      "sourceName": "Merced County Arts Council / The MAC",
-      "cost": "Varies; confirm class fee when registering.",
-      "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
-    },
-    {
-      "id": "big-blue-blocks-merced-library-2026-11-09",
-      "title": "Big Blue Blocks Building Fun — Merced Main Library",
-      "date": "2026-11-09",
-      "startTime": "11:00",
-      "endTime": "13:00",
-      "city": "Merced",
-      "location": "Merced Main Library, Children’s Department, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Free Big Blue Blocks Building Fun activity for ages 6–11 in the library’s Children’s Department.",
-      "cost": "Free.",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20394"
-    },
-    {
-      "id": "a-magical-day-lgbtq-merced-2026-11-09",
-      "title": "A Magical F!?!ing Day",
-      "date": "2026-11-09",
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "city": "Merced",
-      "location": "Merced County Public Library, upstairs small conference room, 2100 O Street, Merced, CA",
-      "category": "Festivals & community",
-      "description": "A casual LGBTQ Merced meetup for people interested in spirituality, tarot, divination, crystals and the moon. Open to LGBTQ+ people and their friends and family.",
-      "cost": "Admission charge not published; check with the organizer.",
-      "timeNote": "This entry covers the organizer's published November 9 meeting only.",
-      "sourceName": "LGBTQ Merced",
-      "sourceUrl": "https://www.lgbtqmerced.org/events/a-magical-f-day/"
-    },
-    {
-      "id": "teens-movie-merced-library-2026-11-09",
-      "title": "Teens: Movie — Merced Main Library",
-      "date": "2026-11-09",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "city": "Merced",
-      "location": "Merced Main Library, Teens Department, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Movie program for teens ages 12–18.",
-      "cost": "Free",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19428&month=11&year=2026&day=6&calType=0"
-    },
-    {
       "id": "adult-coloring-atwater-library-2026-11-10",
       "title": "Adult Coloring — Atwater Library",
       "date": "2026-11-10",
@@ -89,20 +31,6 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18562&month=11&year=2026&day=6&calType=0"
-    },
-    {
-      "id": "sensory-playgroup-atwater-library-2026-11-10",
-      "title": "Sensory Playgroup — Atwater Library",
-      "date": "2026-11-10",
-      "startTime": "11:00",
-      "endTime": "12:00",
-      "city": "Atwater",
-      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
-      "category": "Library & learning",
-      "description": "Library sensory playgroup for children ages 0–2.",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18534&calType=0&day=15&month=11&year=2026",
-      "sourceName": "Merced County Library",
-      "cost": "Free"
     },
     {
       "id": "teen-fuse-beads-merced-library-2026-11-10",
@@ -331,6 +259,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19399&calType=0&day=15&month=11&year=2026"
     },
     {
+      "id": "merced-county-hsa-adoption-awareness-2026-11-12",
+      "title": "Merced County HSA National Adoption Awareness Event",
+      "date": "2026-11-12",
+      "startTime": "17:30",
+      "endTime": "20:30",
+      "city": "Merced",
+      "location": "2115 Wardrobe Avenue, Merced, CA 95341",
+      "category": "Festivals & community",
+      "description": "Merced County HSA Adoption Team hosts a celebration of families built through adoption, with food, games and raffles.",
+      "sourceUrl": "https://www.eventbrite.com/e/merced-county-hsa-national-adoption-awareness-event-tickets-2003689287597",
+      "sourceName": "Merced County HSA Adoption Team",
+      "cost": "Free. Advance registration is offered through the organizer’s Eventbrite listing. Age and eligibility requirements are not stated; confirm attendance requirements with the organizer.",
+      "timeNote": "Thursday, November 12, 2026, 5:30–8:30 p.m. Pacific. Check the registration page for current availability."
+    },
+    {
       "id": "coco-movie-night-st-patrick-merced-2026-11-12",
       "title": "Movie Night: Coco — St. Patrick Hall",
       "date": "2026-11-12",
@@ -444,6 +387,21 @@
       "timeNote": "Times are Pacific. The organizer has not published an end time.",
       "sourceName": "Playhouse Merced / Ludus",
       "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
+    },
+    {
+      "id": "malicious-monster-truck-tour-merced-2026-11-13",
+      "title": "Malicious Monster Truck Insanity Tour — Merced Speedway",
+      "date": "2026-11-13",
+      "startTime": "19:15",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Speedway, 900 Martin Luther King Jr Way, Merced, CA 95341",
+      "category": "Sports",
+      "description": "Public monster-truck show with a pit party and family entertainment at Merced Speedway.",
+      "sourceUrl": "https://www.facebook.com/mercedspeedway",
+      "sourceName": "Merced Speedway",
+      "cost": "Presale: ages 11+ $20; ages 3–10 $10. At the gate: ages 11+ $25; ages 3–10 $12. Ages 2 and under free. Additional online fees, if any, are not stated.",
+      "timeNote": "Organizer correction confirms Friday, November 13 and Saturday, November 14, 2026. Gates open at 5:30 p.m.; pit party 6–7 p.m. Show end time is not published. Confirm ticket availability and current details with the organizer."
     },
     {
       "id": "holiday-one-acts-mac-2026-11-13",
@@ -575,6 +533,21 @@
       "sourceUrl": "https://www.artsmerced.org/events-list/https/holiday-one-acts-perennial-players-5znmh-hpg8k"
     },
     {
+      "id": "field-of-honor-closing-ceremony-merced-2026-11-14",
+      "title": "Merced Field of Honor — Closing Ceremony",
+      "date": "2026-11-14",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "Merced College front lawn, 3600 M Street, Merced, CA 95348",
+      "category": "Festivals & community",
+      "description": "Closing ceremony for the Field of Honor, with musical performances by Merced College faculty, staff and community musicians. The college invites the community to participate.",
+      "sourceUrl": "https://www.mccd.edu/news/merced-college-to-host-veterans-day-events-field-of-honor/",
+      "sourceName": "Merced College",
+      "cost": "Admission charge, age restrictions and registration requirements are not published in the college announcement; check with the organizer.",
+      "timeNote": "The closing ceremony is 2–3 p.m. on Saturday, November 14. The separate flag display runs November 7–14; this listing covers the ceremony only."
+    },
+    {
       "id": "poke-paint-merced-library-2026-11-14",
       "title": "Poke-Paint — Merced Main Library",
       "date": "2026-11-14",
@@ -644,6 +617,36 @@
       "sourceName": "California Farmer Justice Collaborative / Eventbrite",
       "cost": "Free; reserve a spot through Eventbrite.",
       "timeNote": "Gathering: 3–7:30 p.m. Pacific. The film itself is scheduled for 4:15–6:15 p.m., followed by food and discussion."
+    },
+    {
+      "id": "merced-college-veterans-art-walk-2026-11-14",
+      "title": "Veterans Benefit Art Walk and Silent Auction — Merced College",
+      "date": "2026-11-14",
+      "startTime": "15:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced College Theater plaza, 3600 M Street, Merced, CA 95348",
+      "category": "Arts & performances",
+      "description": "Community art walk, silent auction benefiting veterans, food trucks and children’s games at the Merced College Theater plaza.",
+      "sourceUrl": "https://www.mccd.edu/news/merced-college-to-host-veterans-day-events-field-of-honor/",
+      "sourceName": "Merced College",
+      "cost": "Admission charge, age restrictions and registration requirements are not published in the college announcement. Food purchases and auction bids are separate; check with the organizer.",
+      "timeNote": "Saturday, November 14, 3–7 p.m. The later Concert Band performance is a separate ticketed event."
+    },
+    {
+      "id": "malicious-monster-truck-tour-merced-2026-11-14",
+      "title": "Malicious Monster Truck Insanity Tour — Merced Speedway",
+      "date": "2026-11-14",
+      "startTime": "18:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Speedway, 900 Martin Luther King Jr Way, Merced, CA 95341",
+      "category": "Sports",
+      "description": "Public monster-truck show with a pit party and family entertainment at Merced Speedway.",
+      "sourceUrl": "https://www.facebook.com/mercedspeedway",
+      "sourceName": "Merced Speedway",
+      "cost": "Presale: ages 11+ $20; ages 3–10 $10. At the gate: ages 11+ $25; ages 3–10 $12. Ages 2 and under free. Additional online fees, if any, are not stated.",
+      "timeNote": "Organizer correction confirms Friday, November 13 and Saturday, November 14, 2026. Gates open at 4 p.m.; pit party 4:45–5:45 p.m. Show end time is not published. Confirm ticket availability and current details with the organizer."
     },
     {
       "id": "addams-family-young-at-part-playhouse-merced-2026-11-14",
