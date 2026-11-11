@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:20:19.271728+00:00",
+  "updatedAt": "2026-11-11T16:57:08.022978+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -17,90 +17,6 @@
       "sourceName": "Merced Sunrise Rotary Club / Colonial Flag Foundation",
       "cost": "Free to visit; optional flag sponsorship is separate",
       "timeNote": "Display runs November 7–14, 2026, inclusive. Daily visitor hours are not published; a date-only calendar block does not mean 24-hour public access."
-    },
-    {
-      "id": "adult-coloring-atwater-library-2026-11-10",
-      "title": "Adult Coloring — Atwater Library",
-      "date": "2026-11-10",
-      "startTime": "11:00",
-      "endTime": "13:00",
-      "city": "Atwater",
-      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
-      "category": "Library & learning",
-      "description": "Coloring activity for adults ages 18 and up.",
-      "cost": "Free",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18562&month=11&year=2026&day=6&calType=0"
-    },
-    {
-      "id": "teen-fuse-beads-merced-library-2026-11-10",
-      "title": "Teens: Fuse Beads — Merced Main Library",
-      "date": "2026-11-10",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "city": "Merced",
-      "location": "Merced Main Library, Teens Department, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Free Fuse Beads activity in the library’s Teens Department for ages 12–18.",
-      "cost": "Free.",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20423"
-    },
-    {
-      "id": "coding-from-scratch-merced-library-2026-11-10",
-      "title": "Coding from Scratch — Merced Main Library",
-      "date": "2026-11-10",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "city": "Merced",
-      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Free Coding from Scratch activity for ages 8–11 in the library’s Gracey Room.",
-      "cost": "Free.",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20398"
-    },
-    {
-      "city": "Merced",
-      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
-      "category": "Library & learning",
-      "sourceName": "Kids Discovery Station",
-      "id": "kids-discovery-young-artists-academy-november-2026-11-10",
-      "title": "Young Artists Academy: Pottery — Kids Discovery Station",
-      "date": "2026-11-10",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "description": "Four-session November drop-off art program exploring pottery, clay molding, shaping, sculpting, texture, patterns and color. Registration required; the monthly ticket covers November 3, 10, 17 and 24. Contact the organizer for age suitability and availability.",
-      "cost": "$55 for museum members / $60 for non-members for the full four-session November program; registration required.",
-      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/young-artists-academy-november"
-    },
-    {
-      "id": "good-bad-movie-club-merced-library-2026-11-10",
-      "title": "Good Bad Movie Club — Merced Main Library",
-      "date": "2026-11-10",
-      "startTime": "17:00",
-      "endTime": "19:30",
-      "city": "Merced",
-      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Movie club for adults ages 18 and older. Call the library at 209-385-7484 for the movie title.",
-      "cost": "Free",
-      "sourceName": "Merced County Library — official calendar",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20438&month=10&year=2026&day=30&calType=0"
-    },
-    {
-      "id": "tabletop-rpgs-merced-library-2026-11-10",
-      "title": "Tabletop RPGs — Merced Main Library",
-      "date": "2026-11-10",
-      "startTime": "17:00",
-      "endTime": "19:30",
-      "city": "Merced",
-      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Tabletop role-playing games for adults ages 18 and older.",
-      "cost": "Free",
-      "sourceName": "Merced County Library — official calendar",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20439&month=10&year=2026&day=30&calType=0"
     },
     {
       "id": "atwater-veterans-day-ceremony-2026-11-11",
@@ -187,6 +103,20 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "Free admission and parking",
       "id": "atwater-flea-farmers-market-2026-11-12"
+    },
+    {
+      "id": "merced-college-winter-watercolors-2026-11-12",
+      "title": "Winter Watercolors — Merced College Community Education",
+      "date": "2026-11-12",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Create a winter landscape in watercolor. Materials are included and beginners are welcome.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$40 per participant. Register through Merced College Community Education. See the class registration page for current availability."
     },
     {
       "id": "spanish-bilingual-story-time-merced-library-2026-11-12",
@@ -416,6 +346,21 @@
       "cost": "$20 advertised admission; ticketing fees, if any, are not published.",
       "sourceName": "Merced County Arts Council / Multicultural Arts Center",
       "sourceUrl": "https://www.artsmerced.org/events-list/https/holiday-one-acts-perennial-players-t6apw"
+    },
+    {
+      "id": "macbeth-merced-shakes-2026-11-13",
+      "title": "Macbeth — Merced Shakespearefest",
+      "date": "2026-11-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, downtown Merced, CA",
+      "category": "Arts & performances",
+      "description": "Merced Shakespearefest closes its 25th anniversary season with Shakespeare’s tragedy. The company describes the production as dark and violent.",
+      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=444",
+      "sourceName": "Merced Shakespearefest and Merced Theatre",
+      "cost": "Reserved seats are $18, $28 or $38 by tier. Check the box office for any additional charges and age guidance.",
+      "timeNote": "The theatre publishes a start time for each performance. An end time is unannounced."
     },
     {
       "id": "merced-half-marathon-2026-11-14",
@@ -679,6 +624,21 @@
       "timeNote": "Saturday, November 14 is confirmed by the official ticket listing; the college page retains a conflicting Thursday weekday. Tickets: https://www.tix.com/ticket-sales/mccd/4916/event/1491533"
     },
     {
+      "id": "macbeth-merced-shakes-2026-11-14",
+      "title": "Macbeth — Merced Shakespearefest",
+      "date": "2026-11-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, downtown Merced, CA",
+      "category": "Arts & performances",
+      "description": "Merced Shakespearefest closes its 25th anniversary season with Shakespeare’s tragedy. The company describes the production as dark and violent.",
+      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=444",
+      "sourceName": "Merced Shakespearefest and Merced Theatre",
+      "cost": "Reserved seats are $18, $28 or $38 by tier. Check the box office for any additional charges and age guidance.",
+      "timeNote": "The theatre publishes a start time for each performance. An end time is unannounced."
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -722,6 +682,21 @@
       "timeNote": "Times are Pacific. The organizer has not published an end time.",
       "sourceName": "Playhouse Merced / Ludus",
       "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
+    },
+    {
+      "id": "macbeth-merced-shakes-2026-11-15",
+      "title": "Macbeth — Merced Shakespearefest",
+      "date": "2026-11-15",
+      "startTime": "14:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced Theatre, downtown Merced, CA",
+      "category": "Arts & performances",
+      "description": "Merced Shakespearefest closes its 25th anniversary season with Shakespeare’s tragedy. The company describes the production as dark and violent.",
+      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=444",
+      "sourceName": "Merced Shakespearefest and Merced Theatre",
+      "cost": "Reserved seats are $18, $28 or $38 by tier. Check the box office for any additional charges and age guidance.",
+      "timeNote": "The theatre publishes a start time for each performance. An end time is unannounced."
     },
     {
       "id": "drama-island-16-mac-2026-11-15",
@@ -779,6 +754,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19429&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "merced-college-from-scratch-one-pot-pasta-2026-11-16",
+      "title": "From Scratch — One Pot Pasta — Merced College Community Education",
+      "date": "2026-11-16",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Library & learning",
+      "description": "Watch a one-pot pasta demonstration and share the prepared dinner. Participants receive a recipe card.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$45 per participant. Register through Merced College Community Education. See the class registration page for current availability."
     },
     {
       "id": "adult-coloring-atwater-library-2026-11-17",
@@ -879,6 +868,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20444&month=10&year=2026&day=30&calType=0"
     },
     {
+      "id": "merced-college-whimsy-wings-2026-11-17",
+      "title": "Whimsy Wings — Bird Ornament Workshop — Merced College Community Education",
+      "date": "2026-11-17",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Create a bird ornament from paper scraps using collage and decoupage. Materials are included.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$35 per participant. Register through Merced College Community Education. Ages 7 and older. Minors must come with an adult. Tickets are sold separately.",
+      "timeNote": "Doors open at 5 p.m."
+    },
+    {
       "id": "crafting-conversations-2026-11-18",
       "title": "Crafting Conversations — Parent & Child Crafts",
       "date": "2026-11-18",
@@ -975,6 +979,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library — official calendar",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20445&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "merced-college-slow-down-and-nourish-2026-11-18",
+      "title": "Slow Down & Nourish — Merced College Community Education",
+      "date": "2026-11-18",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Library & learning",
+      "description": "A community workshop with guided meditation, breathing practice and a simple recipe. No experience is required.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$45 per participant. Register through Merced College Community Education. See the class registration page for current availability."
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1134,6 +1152,20 @@
       "sourceUrl": "https://www.artsmerced.org/events-list/https/holiday-one-acts-perennial-players-5znmh"
     },
     {
+      "id": "life-balance-free-wash-weekend-2026-11-20",
+      "title": "Free Wash Weekend — Life Balance Laundry",
+      "date": "2026-11-20",
+      "startTime": "06:00",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Life Balance Laundry, 1818 R Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Grand-opening laundry offer. Register a laundry card at the kiosk or bring an existing registered card to a manager for activation.",
+      "sourceUrl": "https://www.facebook.com/events/2313741406056383/2313741409389716/",
+      "sourceName": "Life Balance Laundry",
+      "cost": "Up to 15 wash loads per person or phone number while promotional funds last. Dryers cost the regular price."
+    },
+    {
       "id": "conversation-circles-merced-library-2026-11-20",
       "title": "Conversation Circles — Merced Main Library",
       "date": "2026-11-20",
@@ -1247,6 +1279,20 @@
       "sourceUrl": "https://www.artsmerced.org/events-list/https/holiday-one-acts-perennial-players-t6apw-wggmx"
     },
     {
+      "id": "life-balance-free-wash-weekend-2026-11-21",
+      "title": "Free Wash Weekend — Life Balance Laundry",
+      "date": "2026-11-21",
+      "startTime": "06:00",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Life Balance Laundry, 1818 R Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Grand-opening laundry offer. Register a laundry card at the kiosk or bring an existing registered card to a manager for activation.",
+      "sourceUrl": "https://www.facebook.com/events/2313741406056383/2313741412723049/",
+      "sourceName": "Life Balance Laundry",
+      "cost": "Up to 15 wash loads per person or phone number while promotional funds last. Dryers cost the regular price."
+    },
+    {
       "title": "Merced Flea & Farmers Market",
       "city": "Merced",
       "location": "900 G Street, Merced, CA 95348",
@@ -1260,6 +1306,20 @@
       "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
       "cost": "$1 admission; ages 10 and under free; free parking",
       "id": "merced-flea-farmers-market-2026-11-21"
+    },
+    {
+      "id": "first-baptist-blanket-food-giveaway-2026-11-21",
+      "title": "Blanket and Food Pack Giveaway — First Baptist Church",
+      "date": "2026-11-21",
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "city": "Atwater",
+      "location": "First Baptist Church of Atwater, 1683 Fifth Street, Atwater, CA 95301",
+      "category": "Community services",
+      "description": "The church is giving away blankets and food packs to people experiencing homelessness. Supplies are limited.",
+      "sourceUrl": "https://www.facebook.com/events/3434091666897516/",
+      "sourceName": "First Baptist Church of Atwater",
+      "cost": "Giveaway for people experiencing homelessness, while supplies last. The church lists no registration or document instructions."
     },
     {
       "id": "merced-running-club-turkey-trot-2026-11-21",
@@ -1416,6 +1476,34 @@
       "cost": "Admission price not published; check with the museum before attending. Hot cocoa for children is free; treats and vendor purchases cost extra.",
       "sourceName": "Castle Air Museum — official event page and public announcement",
       "sourceUrl": "https://castleairmuseum.org/event/annual-tree-lighting-ceremony/"
+    },
+    {
+      "id": "resm-annual-fundraiser-dinner-2026-11-21",
+      "title": "Rising Empowerment Sports Ministries Fundraiser Dinner",
+      "date": "2026-11-21",
+      "startTime": "17:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "Veterans Memorial Hall, 1390 Broadway Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Community fundraiser supporting local youth athletics, mentoring and outreach. Doors open at 5 p.m. and dinner begins at 6:30 p.m.",
+      "sourceUrl": "https://www.zeffy.com/en-US/ticketing/resm-first-annual-fundraiser-dinner",
+      "sourceName": "Rising Empowerment Sports Ministries",
+      "cost": "Individual admission is $100. A table for eight is $800. Reserve through the organizer’s ticket page."
+    },
+    {
+      "id": "life-balance-free-wash-weekend-2026-11-22",
+      "title": "Free Wash Weekend — Life Balance Laundry",
+      "date": "2026-11-22",
+      "startTime": "06:00",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Life Balance Laundry, 1818 R Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Grand-opening laundry offer. Register a laundry card at the kiosk or bring an existing registered card to a manager for activation.",
+      "sourceUrl": "https://www.facebook.com/events/2313741406056383/2313741419389715",
+      "sourceName": "Life Balance Laundry",
+      "cost": "Up to 15 wash loads per person or phone number while promotional funds last. Dryers cost the regular price."
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1988,6 +2076,21 @@
       "cost": "Free"
     },
     {
+      "id": "merced-college-candy-cane-craftworks-2026-12-01",
+      "title": "Candy Cane Craftworks — Merced College Community Education",
+      "date": "2026-12-01",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Make a peppermint-scented candy cane ornament with upcycled fabric and a no-sew wrapping technique.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$35 per participant. Register through Merced College Community Education. Ages 7 and older. Minors must come with an adult. Tickets are sold separately.",
+      "timeNote": "Doors open at 5 p.m."
+    },
+    {
       "title": "Tiny Tales — Atwater Library",
       "city": "Atwater",
       "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
@@ -2014,6 +2117,20 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18347&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "merced-college-birth-with-confidence-2026-12-02",
+      "title": "Birth with Confidence — Merced College Community Education",
+      "date": "2026-12-02",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Library & learning",
+      "description": "A community education class for expectant families and birth partners, with demonstrations and guided practice.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$10 per participant. Register through Merced College Community Education. See the class registration page for current availability."
     },
     {
       "title": "Adults: Game Night — Merced Main Library",
@@ -2145,6 +2262,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19402&month=11&year=2026&day=7&calType=0"
     },
     {
+      "id": "merced-college-upcycled-enchantment-2026-12-03",
+      "title": "Upcycled Enchantment — Fairy Cottage Workshop — Merced College Community Education",
+      "date": "2026-12-03",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Build a miniature light-up fairy cottage from recycled materials in a guided craft class.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$35 per participant. Register through Merced College Community Education. Ages 7 and older. Minors must come with an adult. Tickets are sold separately.",
+      "timeNote": "Doors open at 5 p.m."
+    },
+    {
       "id": "conversation-circles-merced-library-2026-12-04",
       "title": "Conversation Circles — Merced Main Library",
       "date": "2026-12-04",
@@ -2202,6 +2334,21 @@
       "id": "leyendas-del-mariachi-2026-12-04"
     },
     {
+      "id": "merced-civic-ballet-nutcracker-friday-evening-2026-12-04",
+      "title": "The Nutcracker — Merced Civic Ballet",
+      "date": "2026-12-04",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "Buhach Colony High School Theatre, 1800 N Buhach Road, Atwater, CA",
+      "category": "Arts & performances",
+      "description": "Merced Civic Ballet and Merced Academy of Dance present their 30th annual Nutcracker. This is a full-length public performance.",
+      "sourceUrl": "https://www.mercedacademyofdance.com/nutcracker",
+      "sourceName": "Merced Civic Ballet and Merced Academy of Dance",
+      "cost": "All ages welcome. Assigned seats are $20, $25 or $30 including fees and taxes. Ages 2 and older need a ticket. Children under 2 attend free on a lap.",
+      "timeNote": "The box office opens one hour before the performance. The organizers have not published an end time for this public show."
+    },
+    {
       "title": "Mary Poppins — Playhouse Merced",
       "date": "2026-12-04",
       "startTime": "19:30",
@@ -2215,6 +2362,21 @@
       "cost": "$22–$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "mary-poppins-playhouse-merced-2026-12-04"
+    },
+    {
+      "id": "breakfast-with-the-grinch-atwater-2026-12-05",
+      "title": "Breakfast with the Grinch — Leo’s Legacy",
+      "date": "2026-12-05",
+      "startTime": "07:00",
+      "endTime": "10:00",
+      "city": "Atwater",
+      "location": "Veterans Memorial Hall, 1390 Broadway Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Family pancake breakfast and photos with the Grinch. Proceeds support accessible devices and an inclusive playground.",
+      "sourceUrl": "https://www.zeffy.com/en-US/ticketing/breakfast-with-the-grinch-6",
+      "sourceName": "Leo’s Legacy",
+      "cost": "Tickets are $15 per person and nonrefundable. Reserve a 7, 8 or 9 a.m. seating. Seating is shared unless a full table is reserved.",
+      "timeNote": "Arrive at the beginning of your seating. Late arrivals receive breakfast to go, and photos end at 10 a.m."
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -2260,6 +2422,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18505&month=11&year=2026&day=7&calType=0"
     },
     {
+      "id": "merced-civic-ballet-nutcracker-saturday-matinee-2026-12-05",
+      "title": "The Nutcracker — Merced Civic Ballet",
+      "date": "2026-12-05",
+      "startTime": "14:00",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "Buhach Colony High School Theatre, 1800 N Buhach Road, Atwater, CA",
+      "category": "Arts & performances",
+      "description": "Merced Civic Ballet and Merced Academy of Dance present their 30th annual Nutcracker. This is a full-length public performance.",
+      "sourceUrl": "https://www.mercedacademyofdance.com/nutcracker",
+      "sourceName": "Merced Civic Ballet and Merced Academy of Dance",
+      "cost": "All ages welcome. Assigned seats are $20, $25 or $30 including fees and taxes. Ages 2 and older need a ticket. Children under 2 attend free on a lap.",
+      "timeNote": "The box office opens one hour before the performance. The organizers have not published an end time for this public show."
+    },
+    {
       "id": "drop-in-digital-help-merced-library-2026-12-05",
       "title": "Drop-In Digital Help — Merced Library",
       "date": "2026-12-05",
@@ -2272,6 +2449,35 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19295&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "ebony-socialites-black-white-ball-2026-12-05",
+      "title": "Annual Black & White Ball — Ebony Socialites of Atwater",
+      "date": "2026-12-05",
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "city": "Atwater",
+      "location": "Atwater Community Center, 760 E Bellevue Road, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "An evening of food and dancing celebrating 55 years of community service by the Ebony Socialites of Atwater.",
+      "sourceUrl": "https://www.zeffy.com/en-US/ticketing/annual-black-and-white-ball",
+      "sourceName": "Ebony Socialites of Atwater",
+      "cost": "General admission is $80 through the organizer’s ticket page. Check with the organizer for age requirements."
+    },
+    {
+      "id": "merced-civic-ballet-nutcracker-saturday-evening-2026-12-05",
+      "title": "The Nutcracker — Merced Civic Ballet",
+      "date": "2026-12-05",
+      "startTime": "19:00",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "Buhach Colony High School Theatre, 1800 N Buhach Road, Atwater, CA",
+      "category": "Arts & performances",
+      "description": "Merced Civic Ballet and Merced Academy of Dance present their 30th annual Nutcracker. This is a full-length public performance.",
+      "sourceUrl": "https://www.mercedacademyofdance.com/nutcracker",
+      "sourceName": "Merced Civic Ballet and Merced Academy of Dance",
+      "cost": "All ages welcome. Assigned seats are $20, $25 or $30 including fees and taxes. Ages 2 and older need a ticket. Children under 2 attend free on a lap.",
+      "timeNote": "The box office opens one hour before the performance. The organizers have not published an end time for this public show."
     },
     {
       "title": "Mary Poppins — Playhouse Merced",
@@ -2545,6 +2751,20 @@
       "cost": "Free.",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19403&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "merced-college-toast-to-tonics-2026-12-10",
+      "title": "Toast to Tonics — Merced College Community Education",
+      "date": "2026-12-10",
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-121, 630 W 19th Street, Merced, CA",
+      "category": "Library & learning",
+      "description": "Make alcohol-free drinks and learn techniques for combining flavors and presenting mocktails.",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
+      "sourceName": "Merced College Community Education",
+      "cost": "$55 per participant. Register through Merced College Community Education. See the class registration page for current availability."
     },
     {
       "id": "conversation-circles-merced-library-2026-12-11",
