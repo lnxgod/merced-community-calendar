@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:30:11.370671+00:00",
+  "updatedAt": "2026-11-12T16:28:34.523244+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -17,21 +17,6 @@
       "sourceName": "Merced Sunrise Rotary Club / Colonial Flag Foundation",
       "cost": "Free to visit; optional flag sponsorship is separate",
       "timeNote": "Display runs November 7–14, 2026, inclusive. Daily visitor hours are not published; a date-only calendar block does not mean 24-hour public access."
-    },
-    {
-      "id": "merced-county-veterans-day-ceremony-parade-2026-11-11",
-      "title": "Merced County Veterans Day Ceremony & Parade",
-      "date": "2026-11-11",
-      "startTime": "13:00",
-      "endTime": null,
-      "city": "Merced",
-      "location": "Bob Hart Square, 510 W. Main Street, Merced, CA; parade through downtown Merced",
-      "category": "Festivals & community",
-      "description": "The county Veterans Services Office invites the community to honor veterans at the 22nd annual ceremony and parade. The opening ceremony is at Bob Hart Square at 1 p.m.; the downtown parade begins at 2 p.m. Check the organizer’s route map and current announcements before traveling.",
-      "cost": "Admission price not published; check with the organizer.",
-      "timeNote": "Times are Pacific. The organizer has not published an end time.",
-      "sourceName": "Merced County Veterans Services Office",
-      "sourceUrl": "https://www.countyofmerced.com/1585/Veterans-Day-Parade"
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -310,15 +295,15 @@
       "title": "Macbeth — Merced Shakespearefest",
       "date": "2026-11-13",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "22:30",
       "city": "Merced",
       "location": "Merced Theatre, downtown Merced, CA",
       "category": "Arts & performances",
       "description": "Merced Shakespearefest closes its 25th anniversary season with Shakespeare’s tragedy. The company describes the production as dark and violent.",
-      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=444",
+      "sourceUrl": "https://tickets.mercedtheatre.org/ordertickets.asp?p=642",
       "sourceName": "Merced Shakespearefest and Merced Theatre",
       "cost": "Reserved seats are $18, $28 or $38 by tier. Check the box office for any additional charges and age guidance.",
-      "timeNote": "The theatre publishes a start time for each performance. An end time is unannounced."
+      "timeNote": "Performance hours are listed by the Merced Theatre box office."
     },
     {
       "id": "merced-half-marathon-2026-11-14",
@@ -614,15 +599,15 @@
       "title": "Macbeth — Merced Shakespearefest",
       "date": "2026-11-14",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "22:30",
       "city": "Merced",
       "location": "Merced Theatre, downtown Merced, CA",
       "category": "Arts & performances",
       "description": "Merced Shakespearefest closes its 25th anniversary season with Shakespeare’s tragedy. The company describes the production as dark and violent.",
-      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=444",
+      "sourceUrl": "https://tickets.mercedtheatre.org/ordertickets.asp?p=643",
       "sourceName": "Merced Shakespearefest and Merced Theatre",
       "cost": "Reserved seats are $18, $28 or $38 by tier. Check the box office for any additional charges and age guidance.",
-      "timeNote": "The theatre publishes a start time for each performance. An end time is unannounced."
+      "timeNote": "Performance hours are listed by the Merced Theatre box office."
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -674,15 +659,15 @@
       "title": "Macbeth — Merced Shakespearefest",
       "date": "2026-11-15",
       "startTime": "14:00",
-      "endTime": null,
+      "endTime": "17:00",
       "city": "Merced",
       "location": "Merced Theatre, downtown Merced, CA",
       "category": "Arts & performances",
       "description": "Merced Shakespearefest closes its 25th anniversary season with Shakespeare’s tragedy. The company describes the production as dark and violent.",
-      "sourceUrl": "https://tickets.mercedtheatre.org/eventperformances.asp?evt=444",
+      "sourceUrl": "https://tickets.mercedtheatre.org/ordertickets.asp?p=644",
       "sourceName": "Merced Shakespearefest and Merced Theatre",
       "cost": "Reserved seats are $18, $28 or $38 by tier. Check the box office for any additional charges and age guidance.",
-      "timeNote": "The theatre publishes a start time for each performance. An end time is unannounced."
+      "timeNote": "Performance hours are listed by the Merced Theatre box office."
     },
     {
       "id": "drama-island-16-mac-2026-11-15",
@@ -712,6 +697,21 @@
       "sourceName": "Merced County Arts Council / The MAC",
       "cost": "Varies; confirm class fee when registering.",
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
+    },
+    {
+      "id": "hostetler-turkey-giveaway-merced-2026-11-16",
+      "title": "Hostetler Turkey Giveaway",
+      "date": "2026-11-16",
+      "startTime": "09:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced County Fairgrounds, Merced, CA",
+      "category": "Community services",
+      "description": "Hostetler Ranch and Joseph Farms will distribute 500 turkeys, along with almonds and cheese. Bring photo ID and proof of address. Limit one turkey per family, first come, first served.",
+      "sourceUrl": "https://losbanosenterprise.com/wp-content/uploads/2026/11/image-17.png",
+      "sourceName": "Hostetler Ranch and Joseph Farms event flyer",
+      "cost": "Free.",
+      "timeNote": "Distribution starts at 9:30 a.m. and continues while supplies last."
     },
     {
       "id": "lego-time-merced-library-2026-11-16",
@@ -782,6 +782,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18535&month=11&year=2026&day=7&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "kids-discovery-rhythm-play-2026-11-17",
+      "title": "Rhythm and Play — Kids Discovery Station",
+      "date": "2026-11-17",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Babies and toddlers explore music, movement and singing with a caregiver in the Little Explorers Planet play area.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
     },
     {
       "id": "teen-makerspace-pony-beads-atwater-library-2026-11-17",
@@ -909,6 +923,20 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18345&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "kids-discovery-little-lab-2026-11-18",
+      "title": "Little Lab Explorers — Kids Discovery Station",
+      "date": "2026-11-18",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Young children try hands-on science experiments with a museum guide. An adult caregiver must supervise children.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-18-11-30",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
     },
     {
       "title": "Makerspace — Merced Main Library",
@@ -1663,6 +1691,20 @@
       "cost": "Free"
     },
     {
+      "id": "kids-discovery-rhythm-play-2026-11-24",
+      "title": "Rhythm and Play — Kids Discovery Station",
+      "date": "2026-11-24",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Babies and toddlers explore music, movement and singing with a caregiver in the Little Explorers Planet play area.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
       "id": "teen-craft-forest-critter-atwater-library-2026-11-24",
       "title": "Teen Craft Time — Forest Critter Tree Round Decor — Atwater Library",
       "date": "2026-11-24",
@@ -1759,6 +1801,20 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18346&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "kids-discovery-little-lab-2026-11-25",
+      "title": "Little Lab Explorers — Kids Discovery Station",
+      "date": "2026-11-25",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Young children try hands-on science experiments with a museum guide. An adult caregiver must supervise children.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-25-11-30",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
     },
     {
       "id": "family-journaling-merced-library-2026-11-25",
@@ -2133,6 +2189,20 @@
       "cost": "Free"
     },
     {
+      "id": "kids-discovery-rhythm-play-2026-12-01",
+      "title": "Rhythm and Play — Kids Discovery Station",
+      "date": "2026-12-01",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Babies and toddlers explore music, movement and singing with a caregiver in the Little Explorers Planet play area.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
       "id": "merced-college-candy-cane-craftworks-2026-12-01",
       "title": "Candy Cane Craftworks — Merced College Community Education",
       "date": "2026-12-01",
@@ -2174,6 +2244,20 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18347&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "kids-discovery-little-lab-2026-12-02",
+      "title": "Little Lab Explorers — Kids Discovery Station",
+      "date": "2026-12-02",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Young children try hands-on science experiments with a museum guide. An adult caregiver must supervise children.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-12-02-11-30",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
     },
     {
       "id": "merced-college-birth-with-confidence-2026-12-02",
@@ -2697,6 +2781,20 @@
       "cost": "Free"
     },
     {
+      "id": "kids-discovery-rhythm-play-2026-12-08",
+      "title": "Rhythm and Play — Kids Discovery Station",
+      "date": "2026-12-08",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Babies and toddlers explore music, movement and singing with a caregiver in the Little Explorers Planet play area.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
       "title": "Tiny Tales — Atwater Library",
       "city": "Atwater",
       "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
@@ -2723,6 +2821,20 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18348&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "kids-discovery-little-lab-2026-12-09",
+      "title": "Little Lab Explorers — Kids Discovery Station",
+      "date": "2026-12-09",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Young children try hands-on science experiments with a museum guide. An adult caregiver must supervise children.",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-12-09-11-30",
+      "sourceName": "Kids Discovery Station",
+      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
     },
     {
       "title": "Chess Club — Merced Main Library",

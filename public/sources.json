@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:30:11.370671+00:00",
+  "updatedAt": "2026-11-12T16:28:34.523244+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -2470,6 +2470,51 @@
       "name": "Merced Theatre box office — Merced Symphony Holiday Pops",
       "url": "https://tickets.mercedtheatre.org/ordertickets.asp?p=645",
       "lastChecked": "2026-11-11"
+    },
+    {
+      "name": "Merced Theatre box office — Macbeth, November 13",
+      "url": "https://tickets.mercedtheatre.org/ordertickets.asp?p=642",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced Theatre box office — Macbeth, November 14",
+      "url": "https://tickets.mercedtheatre.org/ordertickets.asp?p=643",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced Theatre box office — Macbeth, November 15",
+      "url": "https://tickets.mercedtheatre.org/ordertickets.asp?p=644",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Hostetler Ranch and Joseph Farms event flyer — Merced turkey giveaway",
+      "url": "https://losbanosenterprise.com/wp-content/uploads/2026/11/image-17.png",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Kids Discovery Station — Little Lab Explorers, November 18",
+      "url": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-18-11-30",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Kids Discovery Station — Little Lab Explorers, November 25",
+      "url": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-25-11-30",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Kids Discovery Station — Little Lab Explorers, December 02",
+      "url": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-12-02-11-30",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Kids Discovery Station — Little Lab Explorers, December 09",
+      "url": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-12-09-11-30",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Kids Discovery Station — Rhythm and Play, November 17",
+      "url": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
+      "lastChecked": "2026-11-12"
     }
   ]
 }
