@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:57:08.022978+00:00",
+  "updatedAt": "2026-11-12T07:02:59.480765+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -19,48 +19,6 @@
       "timeNote": "Display runs November 7–14, 2026, inclusive. Daily visitor hours are not published; a date-only calendar block does not mean 24-hour public access."
     },
     {
-      "id": "atwater-veterans-day-ceremony-2026-11-11",
-      "title": "Veterans Day Ceremony — Atwater",
-      "date": "2026-11-11",
-      "startTime": "09:00",
-      "endTime": "10:30",
-      "city": "Atwater",
-      "location": "Veterans Memorial Park, corner of Bellevue Road and Buhach Road, Atwater, CA",
-      "category": "Festivals & community",
-      "description": "Public ceremony honoring veterans, with the unveiling of newly added memorial bricks. The City of Atwater invites the community to attend.",
-      "sourceUrl": "https://www.facebook.com/events/1644392090402962/",
-      "sourceName": "The City of Atwater",
-      "cost": "Admission price not published; check with the organizer."
-    },
-    {
-      "id": "castle-air-museum-veterans-day-2026-11-11",
-      "title": "Veterans Day Free Admission — Castle Air Museum",
-      "date": "2026-11-11",
-      "startTime": "09:00",
-      "endTime": "16:00",
-      "city": "Atwater",
-      "location": "Castle Air Museum, 5050 Santa Fe Drive, Atwater, CA 95301",
-      "category": "Festivals & community",
-      "description": "Castle Air Museum offers free museum admission to veterans and active-duty service members on Veterans Day. The offer does not state free admission for other visitors; check the museum for their ticket prices and any proof-of-service requirements.",
-      "cost": "Free museum admission for veterans and active-duty service members; other visitors should check regular admission prices.",
-      "sourceName": "Castle Air Museum",
-      "sourceUrl": "https://www.facebook.com/photo/?fbid=1555622556609663&set=a.637555055083089"
-    },
-    {
-      "id": "crafting-conversations-2026-11-11",
-      "title": "Crafting Conversations — Parent & Child Crafts",
-      "date": "2026-11-11",
-      "startTime": "10:00",
-      "endTime": "11:30",
-      "city": "Merced",
-      "location": "1520 W Main Street, Merced, CA",
-      "category": "Library & learning",
-      "description": "Boys & Girls Club of Merced County offers parent-and-child crafts and conversation. Moms, dads and caregivers are welcome. Activities include paper crafts, DIY jewelry, painting and recycled art. This date is within the organizer’s explicitly published Wednesday series, October 14–November 18.",
-      "sourceUrl": "https://www.facebook.com/bgcmercedcounty",
-      "sourceName": "Boys & Girls Club of Merced County",
-      "cost": "Admission and registration requirements not published; check the organizer."
-    },
-    {
       "id": "merced-county-veterans-day-ceremony-parade-2026-11-11",
       "title": "Merced County Veterans Day Ceremony & Parade",
       "date": "2026-11-11",
@@ -74,20 +32,6 @@
       "timeNote": "Times are Pacific. The organizer has not published an end time.",
       "sourceName": "Merced County Veterans Services Office",
       "sourceUrl": "https://www.countyofmerced.com/1585/Veterans-Day-Parade"
-    },
-    {
-      "city": "Merced",
-      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
-      "category": "Library & learning",
-      "sourceName": "Kids Discovery Station",
-      "id": "kids-discovery-science-and-engineering-academy-november-2026-11-11",
-      "title": "Science & Engineering Academy: Stop-Motion Filmmaking — Kids Discovery Station",
-      "date": "2026-11-11",
-      "startTime": "17:30",
-      "endTime": "19:00",
-      "description": "Four-session November drop-off program exploring stop-motion filmmaking through scene design, character creation and animation. Registration required; the monthly ticket covers November 4, 11, 18 and 25. Contact the organizer for age suitability and availability.",
-      "cost": "$55 for museum members / $60 for non-members for the full four-session November program; registration required.",
-      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/science-and-engineering-academy-november"
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -319,6 +263,20 @@
       "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
     },
     {
+      "id": "mainzer-member-pair-a-dice-2026-11-13",
+      "title": "MEMBER with Pair-A-Dice",
+      "date": "2026-11-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Live rock show at The Mainzer. Doors open at 6 p.m. The venue lists all ages with a parent or guardian age 21 or older.",
+      "cost": "$10–$80 across ticket options. Reserved-table pricing is per table.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/466730"
+    },
+    {
       "id": "malicious-monster-truck-tour-merced-2026-11-13",
       "title": "Malicious Monster Truck Insanity Tour — Merced Speedway",
       "date": "2026-11-13",
@@ -448,6 +406,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18502&month=11&year=2026&day=5&calType=0"
+    },
+    {
+      "id": "uc-master-gardeners-lose-the-lawn-2026-11-14",
+      "title": "Lose the Lawn — UC Master Gardeners Workshop",
+      "date": "2026-11-14",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "UCCE Merced Classroom, 2145 Wardrobe Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "A public workshop on replacing all or part of a lawn with drought-tolerant plants, California natives and wildflowers.",
+      "cost": "Free. Donations accepted. The organizer welcomes walk-ins and links a registration form.",
+      "sourceName": "UC Master Gardeners of Merced County",
+      "sourceUrl": "https://www.ucanr.edu/site/uc-master-gardeners-merced-county/event/lose-lawn-public-workshop-tim-sullivan"
     },
     {
       "id": "fall-wreath-merced-library-2026-11-14",
@@ -607,6 +579,20 @@
       "timeNote": "Times are Pacific. The organizer has not published an end time.",
       "sourceName": "Playhouse Merced / Ludus",
       "sourceUrl": "https://playhousemerced.ludus.com/show_page.php?show_id=200535774"
+    },
+    {
+      "id": "mainzer-damage-inc-2026-11-14",
+      "title": "Damage Inc — A Tribute to Metallica",
+      "date": "2026-11-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "An all-ages tribute to Metallica’s early years. Doors open at 6 p.m.",
+      "cost": "The box office lists $20–$120 across ticket options.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/468258"
     },
     {
       "id": "merced-college-concert-band-2026-11-14",
@@ -1265,6 +1251,20 @@
       "id": "merced-chess-club-free-play-friday-2026-11-20"
     },
     {
+      "id": "mainzer-laineywood-2026-11-20",
+      "title": "LaineyWood — Country Tribute Concert",
+      "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "An all-ages live tribute to Lainey Wilson and Carrie Underwood. Doors open at 6 p.m.",
+      "cost": "The box office lists $20–$120 across ticket options.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/468220"
+    },
+    {
       "id": "holiday-one-acts-mac-2026-11-20",
       "title": "Holiday One Acts",
       "date": "2026-11-20",
@@ -1391,6 +1391,20 @@
       "timeNote": "Reservations are required for adult massages only. Choose a massage arrival window of 11 AM–noon, noon–1 PM, 1–2 PM or 2–3 PM.",
       "sourceName": "Moe's Sidekicks Taekwondo",
       "sourceUrl": "https://moessidekickstkd.com/#upcoming-events"
+    },
+    {
+      "id": "mainzer-friendsgiving-brunch-2026-11-21",
+      "title": "Friendsgiving Brunch with DJ Faabe",
+      "date": "2026-11-21",
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "An all-ages brunch with music by DJ Faabe. Table reservations are available through the venue.",
+      "cost": "Free admission. Food and drinks are available to order.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/468260"
     },
     {
       "id": "wbfmi-turkey-giveaway-merced-2026-11-21",
@@ -1817,6 +1831,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20422"
     },
     {
+      "id": "mainzer-friendsgiving-drag-show-2026-11-25",
+      "title": "Friendsgiving Drag Show",
+      "date": "2026-11-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "A Friendsgiving-themed drag performance. The venue lists all ages and opens the doors at 6 p.m. A dinner menu is available.",
+      "cost": "The box office lists $10–$80 across ticket options.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/468255"
+    },
+    {
       "title": "Atwater Flea & Farmers Market",
       "city": "Atwater",
       "location": "2877 Atwater Boulevard, Atwater, CA",
@@ -1958,6 +1986,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library — official calendar",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20450&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "mainzer-local-merced-comedy-2026-11-28",
+      "title": "Local Merced Comedy Night",
+      "date": "2026-11-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Stand-up comedy from Merced-area performers. Doors open at 6 p.m. Guests under 18 may attend with a parent or guardian.",
+      "cost": "The box office lists $20–$60 across ticket options.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/468484"
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2420,6 +2462,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18505&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "atwater-city-fire-tri-tip-dinner-2026-12-05",
+      "title": "Atwater City Fire Tri-Tip Dinner for Four",
+      "date": "2026-12-05",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "city": "Atwater",
+      "location": "Atwater Fire Station 41, 699 Broadway Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "Drive through Fire Station 41 to pick up a tri-tip dinner for four. Proceeds support the Atwater Fire and Police toy drive. The city lists tickets on sale.",
+      "cost": "$60 per dinner ticket, which serves four people.",
+      "sourceName": "City of Atwater",
+      "sourceUrl": "https://www.atwater.org/event/atwater-city-fire-fundraiser/"
     },
     {
       "id": "merced-civic-ballet-nutcracker-saturday-matinee-2026-12-05",
@@ -3355,6 +3411,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19297&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "mainzer-comedy-open-mic-2026-12-19",
+      "title": "Merced Comedy Open Mic",
+      "date": "2026-12-19",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "Local stand-up comedy for mature audiences. Doors open at 6 p.m. Guests under 18 may attend with a parent or guardian.",
+      "cost": "The box office lists $20–$60 across ticket options.",
+      "sourceName": "The Mainzer box office",
+      "sourceUrl": "https://holdmyticket.com/event/467867"
     },
     {
       "title": "Mary Poppins — Playhouse Merced",
