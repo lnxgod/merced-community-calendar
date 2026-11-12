@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:02:59.480765+00:00",
+  "updatedAt": "2026-11-12T07:30:11.370671+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -2464,6 +2464,11 @@
     {
       "name": "City of Atwater — Atwater City Fire Tri-Tip Dinner for Four",
       "url": "https://www.atwater.org/event/atwater-city-fire-fundraiser/",
+      "lastChecked": "2026-11-11"
+    },
+    {
+      "name": "Merced Theatre box office — Merced Symphony Holiday Pops",
+      "url": "https://tickets.mercedtheatre.org/ordertickets.asp?p=645",
       "lastChecked": "2026-11-11"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:02:59.480765+00:00",
+  "updatedAt": "2026-11-12T07:30:11.370671+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -2045,6 +2045,21 @@
       "sourceName": "Kids Discovery Station",
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-11-08-13-00",
       "timeNote": "This date and full session time are explicitly listed in the organizer’s Other dates view. Check the organizer for changes."
+    },
+    {
+      "id": "merced-symphony-holiday-pops-2026-11-29",
+      "title": "Merced Symphony’s Holiday Pops",
+      "date": "2026-11-29",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "city": "Merced",
+      "location": "Merced Theatre, 301 W. Main Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "The Merced Symphony performs holiday favorites at its fifth annual Holiday Pops concert.",
+      "sourceUrl": "https://tickets.mercedtheatre.org/ordertickets.asp?p=645",
+      "sourceName": "Merced Theatre box office and Merced Symphony Association",
+      "cost": "The box office lists regular general admission at $28 online.",
+      "timeNote": "The theatre’s public performance listing gives a 4 p.m. start and a 7 p.m. end."
     },
     {
       "id": "drama-island-16-mac-2026-11-29",
