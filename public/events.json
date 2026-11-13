@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:21:44.247683+00:00",
+  "updatedAt": "2026-11-13T16:39:30.247834+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -183,13 +183,13 @@
       "startTime": "07:00",
       "endTime": null,
       "city": "Merced",
-      "location": "Applegate Park, 1045 W 25th Street, Merced, CA 95340",
+      "location": "Fahrens Park Disc Golf Course, 945 Buena Vista Drive, Merced, CA 95348",
       "category": "Sports",
-      "description": "Half marathon hosted by Planada Run Club and Alterego Run Club, with a four-hour course cutoff. Registration required; the current entry deadline is October 2 at 12:01 a.m. Confirm availability with the organizer.",
+      "description": "Planada Run Club and Alterego Run Club host the half marathon on the Sunset Trail and local bike paths. Registered runners start at the disc golf course on Buena Vista Drive. The organizers announced the change of starting location.",
       "sourceUrl": "https://runsignup.com/Race/CA/Merced/MercedHalfMarathon",
       "sourceName": "Planada Run Club & Alterego Run Club / RunSignup",
-      "timeNote": "Race starts at 7 a.m.; four-hour course cutoff. Overall event end not published.",
-      "cost": "$107 including fee, per published current registration listing"
+      "timeNote": "Race starts at 7 a.m. Pacific. The course cutoff is four hours. The overall event end is unpublished.",
+      "cost": "Registration required. The previously listed entry fee was $107 including fees. Current entry availability is unconfirmed."
     },
     {
       "title": "Merced Flea & Farmers Market",
@@ -2738,6 +2738,20 @@
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
       "sourceName": "Kids Discovery Station",
       "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
+      "id": "merced-college-whimsical-winter-vintage-ornaments-2026-12-08",
+      "title": "Whimsical Winter — Vintage Folk Art Ornaments",
+      "date": "2026-12-08",
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
+      "category": "Arts & performances",
+      "description": "Make a vintage-inspired holiday ornament with paint, glazes and mixed-media details. Merced College describes this single-session workshop as kid-friendly and welcomes beginners.",
+      "cost": "$35 per participant. Register through Merced College Community Education.",
+      "sourceName": "Merced College Community Education",
+      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16"
     },
     {
       "title": "Tiny Tales — Atwater Library",
