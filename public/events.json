@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:28:34.523244+00:00",
+  "updatedAt": "2026-11-13T05:48:58.581464+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -19,120 +19,6 @@
       "timeNote": "Display runs November 7–14, 2026, inclusive. Daily visitor hours are not published; a date-only calendar block does not mean 24-hour public access."
     },
     {
-      "title": "Atwater Flea & Farmers Market",
-      "city": "Atwater",
-      "location": "2877 Atwater Boulevard, Atwater, CA",
-      "category": "Markets",
-      "description": "Weekly outdoor market, rain or shine. Free entry; Thursday parking free, Sunday parking $2 per car.",
-      "date": "2026-11-12",
-      "startTime": "07:00",
-      "endTime": "15:00",
-      "sourceUrl": "https://mercedatwaterflea.com/atwater-market",
-      "sourceName": "Merced/Atwater Flea & Farmers Market",
-      "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
-      "cost": "Free admission and parking",
-      "id": "atwater-flea-farmers-market-2026-11-12"
-    },
-    {
-      "id": "merced-college-winter-watercolors-2026-11-12",
-      "title": "Winter Watercolors — Merced College Community Education",
-      "date": "2026-11-12",
-      "startTime": "10:00",
-      "endTime": "13:00",
-      "city": "Merced",
-      "location": "Dr. Benjamin T. Duran Business Resource Center, room BRC-120, 630 W 19th Street, Merced, CA",
-      "category": "Arts & performances",
-      "description": "Create a winter landscape in watercolor. Materials are included and beginners are welcome.",
-      "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16",
-      "sourceName": "Merced College Community Education",
-      "cost": "$40 per participant. Register through Merced College Community Education. See the class registration page for current availability."
-    },
-    {
-      "id": "spanish-bilingual-story-time-merced-library-2026-11-12",
-      "title": "Spanish Bilingual Story Time — Merced Library",
-      "date": "2026-11-12",
-      "startTime": "10:30",
-      "endTime": "11:30",
-      "city": "Merced",
-      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Stories in English and Spanish, music and fingerplays for children ages 3–6 with an adult caregiver. Story time is 10:30–11 a.m., followed by a craft from 11–11:30 a.m.",
-      "cost": "Free",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18286&month=11&year=2026&day=5&calType=0"
-    },
-    {
-      "id": "wiggle-read-atwater-library-2026-11-12",
-      "title": "Wiggle & Read — Atwater Library",
-      "date": "2026-11-12",
-      "startTime": "10:30",
-      "endTime": "11:30",
-      "city": "Atwater",
-      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
-      "category": "Library & learning",
-      "description": "For children ages 0–2 and their adult caregivers. Storytime from 10:30–11 a.m., followed by Stay & Play from 11–11:30 a.m. Includes books, music, lap bounces, fingerplays and a craft.",
-      "cost": "Free.",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18415&calType=0&day=15&month=11&year=2026"
-    },
-    {
-      "id": "adult-coloring-atwater-library-2026-11-12",
-      "title": "Adult Coloring — Atwater Library",
-      "date": "2026-11-12",
-      "startTime": "11:00",
-      "endTime": "13:00",
-      "city": "Atwater",
-      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
-      "category": "Library & learning",
-      "description": "Adult coloring activity at the library.",
-      "cost": "Free",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18444&month=11&year=2026&day=6&calType=0"
-    },
-    {
-      "id": "bookmobile-stephen-leonard-park-2026-11-12",
-      "title": "Bookmobile — Stephen Leonard Park",
-      "date": "2026-11-12",
-      "startTime": "14:00",
-      "endTime": "16:30",
-      "city": "Merced",
-      "location": "Stephen Leonard Park, W. 6th Street & T Street, Merced, CA 95341",
-      "category": "Library & learning",
-      "description": "The county library bookmobile brings books, internet-accessible computers, Wi-Fi and programming to South Merced. Materials are available in Spanish and English.",
-      "cost": "Free",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18656&month=11&year=2026&day=6&calType=0"
-    },
-    {
-      "id": "teen-nintendo-switch-merced-library-2026-11-12",
-      "title": "Teens: Nintendo Switch — Merced Main Library",
-      "date": "2026-11-12",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "city": "Merced",
-      "location": "Merced Main Library, Teens Department, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Nintendo Switch gaming for teens ages 12–18.",
-      "cost": "Free.",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19399&calType=0&day=15&month=11&year=2026"
-    },
-    {
-      "id": "merced-county-hsa-adoption-awareness-2026-11-12",
-      "title": "Merced County HSA National Adoption Awareness Event",
-      "date": "2026-11-12",
-      "startTime": "17:30",
-      "endTime": "20:30",
-      "city": "Merced",
-      "location": "2115 Wardrobe Avenue, Merced, CA 95341",
-      "category": "Festivals & community",
-      "description": "Merced County HSA Adoption Team hosts a celebration of families built through adoption, with food, games and raffles.",
-      "sourceUrl": "https://www.eventbrite.com/e/merced-county-hsa-national-adoption-awareness-event-tickets-2003689287597",
-      "sourceName": "Merced County HSA Adoption Team",
-      "cost": "Free. Advance registration is offered through the organizer’s Eventbrite listing. Age and eligibility requirements are not stated; confirm attendance requirements with the organizer.",
-      "timeNote": "Thursday, November 12, 2026, 5:30–8:30 p.m. Pacific. Check the registration page for current availability."
-    },
-    {
       "id": "coco-movie-night-st-patrick-merced-2026-11-12",
       "title": "Movie Night: Coco — St. Patrick Hall",
       "date": "2026-11-12",
@@ -146,20 +32,6 @@
       "timeNote": "Starts at 6 p.m. Pacific. The organizer has not published an end time.",
       "sourceName": "St. Patrick’s Parish and Our Lady of Mercy",
       "sourceUrl": "https://www.facebook.com/events/1150342634018526/"
-    },
-    {
-      "id": "holiday-one-acts-mac-2026-11-12",
-      "title": "Holiday One Acts",
-      "date": "2026-11-12",
-      "startTime": "19:30",
-      "endTime": "21:00",
-      "city": "Merced",
-      "location": "Merced Multicultural Arts Center, 645 W. Main Street, Merced, CA 95340",
-      "category": "Arts & performances",
-      "description": "The Perennial Players present four short holiday plays: Santa-Mental Christmas, Scrooge with a Twist, Rosie the Retired Rockette and Holiday Party. See the organizer for ticket availability and any ticketing fees.",
-      "cost": "$20 advertised admission; ticketing fees, if any, are not published.",
-      "sourceName": "Merced County Arts Council / Multicultural Arts Center",
-      "sourceUrl": "https://www.artsmerced.org/events-list/https/holiday-one-acts-perennial-players"
     },
     {
       "id": "conversation-circles-merced-library-2026-11-13",
@@ -2490,6 +2362,21 @@
       "timeNote": "The box office opens one hour before the performance. The organizers have not published an end time for this public show."
     },
     {
+      "id": "roger-wood-memorial-atwater-christmas-parade-2026-12-04",
+      "title": "Roger Wood Memorial Atwater Christmas Parade",
+      "date": "2026-12-04",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "city": "Atwater",
+      "location": "Parade finish at Ralston Park on Third Street, Atwater, CA",
+      "category": "Festivals & community",
+      "description": "The Atwater Fourth of July Committee presents an evening parade of lights, bells and candles. The Atwater Historical Society is the grand marshal. The procession finishes at Ralston Park.",
+      "cost": "Spectator admission price not listed.",
+      "sourceName": "City of Atwater and Atwater Fourth of July Committee",
+      "sourceUrl": "https://www.atwater.org/event/atwater-christmas-parade/",
+      "timeNote": "The committee gives a 7 p.m. start. The city lists the event through 10 p.m."
+    },
+    {
       "title": "Mary Poppins — Playhouse Merced",
       "date": "2026-12-04",
       "startTime": "19:30",
@@ -2592,6 +2479,21 @@
       "timeNote": "The box office opens one hour before the performance. The organizers have not published an end time for this public show."
     },
     {
+      "id": "downtown-merced-christmas-parade-2026-12-05",
+      "title": "Downtown Merced Christmas Parade",
+      "date": "2026-12-05",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "West Main Street at H Street to the park at West 20th and N streets, Merced, CA",
+      "category": "Festivals & community",
+      "description": "Holiday floats and marching bands follow the “A Very Merry Movie Christmas” theme. The parade travels west on Main to O Street, then follows West 18th and N streets to the park.",
+      "cost": "Spectator admission price not listed.",
+      "sourceName": "Merced Christmas Collaborative and United Way of Merced County / City of Merced",
+      "sourceUrl": "https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=8303097&GUID=4E10C813-DAF9-48E9-87F4-9B9E7D244C25&FullText=1",
+      "timeNote": "The organizer’s application lists the parade from 2 to 5 p.m. Street closures continue afterward."
+    },
+    {
       "id": "drop-in-digital-help-merced-library-2026-12-05",
       "title": "Drop-In Digital Help — Merced Library",
       "date": "2026-12-05",
@@ -2648,6 +2550,21 @@
       "cost": "$22–$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "mary-poppins-playhouse-merced-2026-12-05"
+    },
+    {
+      "id": "christmas-at-the-courthouse-merced-2026-12-06",
+      "title": "Christmas at the Courthouse Open House",
+      "date": "2026-12-06",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced County Courthouse Museum, 21st and N streets, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "The museum invites the community to see more than 80 decorated Christmas trees and enjoy music, treats and traditional courthouse eggnog.",
+      "cost": "General museum admission is free. The museum has not announced a separate open-house charge.",
+      "sourceName": "Merced County Courthouse Museum",
+      "sourceUrl": "https://mercedmuseum.org/events.shtml",
+      "timeNote": "The museum confirms Sunday, December 6. Open-house hours have not been published."
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -2753,6 +2670,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19432&month=11&year=2026&day=7&calType=0"
     },
     {
+      "id": "merced-county-supervisors-2026-12-08",
+      "title": "Merced County Board of Supervisors Public Meeting",
+      "date": "2026-12-08",
+      "startTime": "10:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Board Room, Merced County Administration Building, 2222 M Street, Merced, CA",
+      "category": "Community services",
+      "description": "The Board of Supervisors holds its regular public meeting. The county publishes the agenda and instructions for residents who wish to comment.",
+      "cost": "No admission fee listed.",
+      "sourceName": "Merced County Board of Supervisors",
+      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=15423&calType=0&day=6&month=12&year=2026",
+      "timeNote": "The public session starts at 10 a.m. The county has not published an end time."
+    },
+    {
       "id": "adult-coloring-atwater-library-2026-12-08",
       "title": "Adult Coloring — Atwater Library",
       "date": "2026-12-08",
@@ -2849,6 +2781,20 @@
       "startTime": "17:30",
       "endTime": "19:30",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=16118&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "merced-planning-commission-2026-12-09",
+      "title": "Merced Planning Commission Meeting",
+      "date": "2026-12-09",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Council Chamber, second floor, Merced Civic Center, 678 West 18th Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "The City of Merced lists this public Planning Commission meeting at the Civic Center. Check the city calendar and meeting agenda for updates before attending.",
+      "cost": "No admission fee listed.",
+      "sourceName": "City of Merced",
+      "sourceUrl": "https://www.cityofmerced.gov/Home/Components/Calendar/Event/2627/3546"
     },
     {
       "title": "Atwater Flea & Farmers Market",

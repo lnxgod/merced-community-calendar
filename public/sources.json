@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:28:34.523244+00:00",
+  "updatedAt": "2026-11-13T05:48:58.581464+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -679,7 +679,7 @@
     {
       "name": "City of Merced Parks & Community Services — special events",
       "url": "https://www.cityofmerced.gov/parks-and-community/special-events",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-11-12"
     },
     {
       "name": "McSwain public calendar — community-event leads only",
@@ -704,7 +704,7 @@
     {
       "name": "Merced County Courthouse Museum — events",
       "url": "https://mercedmuseum.org/events.shtml",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-11-12"
     },
     {
       "name": "The Merced FOCUS — community event leads",
@@ -2334,7 +2334,7 @@
     {
       "name": "City of Atwater community events",
       "url": "https://www.atwater.org/?pagename=events",
-      "lastChecked": "2026-11-11"
+      "lastChecked": "2026-11-12"
     },
     {
       "name": "Atwater Historical Society and Bloss Home",
@@ -2514,6 +2514,86 @@
     {
       "name": "Kids Discovery Station — Rhythm and Play, November 17",
       "url": "https://www.kidsdiscoverystation.org/event-details/rhythm-and-play-toddler-tuesday-2026-11-17-13-00",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Atwater — events calendar",
+      "url": "https://www.atwater.org/events/list/",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Atwater — council agendas and meeting packets",
+      "url": "https://www.atwater.org/city-council-meetings/",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Merced — full city calendar",
+      "url": "https://www.cityofmerced.gov/government/about-merced/calendar/full-city-calendar",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Merced — Parks & Community Services department calendar",
+      "url": "https://www.cityofmerced.gov/parks-and-community/department-calendar",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Merced — council and commission meeting calendar",
+      "url": "https://cityofmerced.legistar.com/Calendar.aspx",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Merced — council legislation and event permits",
+      "url": "https://cityofmerced.legistar.com/Legislation.aspx",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced County — all calendars",
+      "url": "https://www.countyofmerced.com/Calendar.aspx",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced County and library calendar",
+      "url": "https://www.countyofmerced.com/calendar.aspx?view=list&year=2026&month=11&CID=0",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced County — Board of Supervisors public meetings",
+      "url": "https://www.countyofmerced.com/61/Board-of-Supervisors",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced Parks — Breakfast with Santa",
+      "url": "https://www.cityofmerced.gov/parks-community-services/events/breakfast-with-santa",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Atwater — Christmas parade",
+      "url": "https://www.atwater.org/event/atwater-christmas-parade/",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Atwater Fourth of July Committee — 2026 parade information sheet",
+      "url": "https://www.atwater.org/wp-content/uploads/2026/11/2026-Christmas-Parade-Info.pdf",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Merced — Downtown Merced Christmas Parade",
+      "url": "https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=8303097&GUID=4E10C813-DAF9-48E9-87F4-9B9E7D244C25&FullText=1",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced Christmas Collaborative — 2026 parade application",
+      "url": "https://cityofmerced.legistar.com/View.ashx?M=F&ID=16101042&GUID=B1A55B7A-EFBB-45AA-834E-AF2D3AFBA1D9",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced County — December 8 Board of Supervisors public meeting",
+      "url": "https://www.countyofmerced.com/Calendar.aspx?EID=15423&calType=0&day=6&month=12&year=2026",
+      "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "City of Merced — December 9 Planning Commission meeting",
+      "url": "https://www.cityofmerced.gov/Home/Components/Calendar/Event/2627/3546",
       "lastChecked": "2026-11-12"
     }
   ]
