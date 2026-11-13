@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:48:58.581464+00:00",
+  "updatedAt": "2026-11-13T16:21:44.247683+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -2595,6 +2595,26 @@
       "name": "City of Merced — December 9 Planning Commission meeting",
       "url": "https://www.cityofmerced.gov/Home/Components/Calendar/Event/2627/3546",
       "lastChecked": "2026-11-12"
+    },
+    {
+      "name": "Merced County Area Agency on Aging — calendars",
+      "url": "https://www.countyofmerced.com/1479/Calendar-of-Events",
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "name": "Merced County Area Agency on Aging — monthly senior events",
+      "url": "https://www.countyofmerced.com/DocumentCenter/View/34796/Senior-Events-Calendar",
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "name": "Merced County Food Bank — Senior Brown Bag program",
+      "url": "https://mmcfb.org/senior-brown-bag-program/",
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "name": "Merced County Food Bank — Senior Brown Bag distribution sites",
+      "url": "https://mmcfb.org/senior-brown-bag-site-list/",
+      "lastChecked": "2026-11-13"
     }
   ]
 }

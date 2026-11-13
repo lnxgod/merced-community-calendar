@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:48:58.581464+00:00",
+  "updatedAt": "2026-11-13T16:21:44.247683+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -19,19 +19,18 @@
       "timeNote": "Display runs November 7–14, 2026, inclusive. Daily visitor hours are not published; a date-only calendar block does not mean 24-hour public access."
     },
     {
-      "id": "coco-movie-night-st-patrick-merced-2026-11-12",
-      "title": "Movie Night: Coco — St. Patrick Hall",
-      "date": "2026-11-12",
-      "startTime": "18:00",
-      "endTime": null,
+      "id": "senior-brown-bag-living-well-merced-2026-11-13",
+      "title": "Senior Brown Bag Grocery Distribution — Merced",
+      "date": "2026-11-13",
+      "startTime": "09:00",
+      "endTime": "11:00",
       "city": "Merced",
-      "location": "St. Patrick Hall, 671 E Yosemite Avenue, Merced, CA 95340",
-      "category": "Arts & performances",
-      "description": "Public movie night hosted by Catholic Women & Friends and announced by St. Patrick’s Parish and Our Lady of Mercy. Coco will be shown in honor of All Souls Day. Beverages, snacks and treats will be available. Donations are appreciated but are not required.",
-      "cost": "Free; optional donations appreciated.",
-      "timeNote": "Starts at 6 p.m. Pacific. The organizer has not published an end time.",
-      "sourceName": "St. Patrick’s Parish and Our Lady of Mercy",
-      "sourceUrl": "https://www.facebook.com/events/1150342634018526/"
+      "location": "Living Well Café, 851 W. 23rd Street, Merced, CA",
+      "category": "Community services",
+      "description": "The Merced County Food Bank distributes supplemental groceries for income-eligible adults ages 55 and older. Call the Food Bank at (209) 726-3663 for registration information.",
+      "cost": "Free for eligible participants.",
+      "sourceName": "Merced County Area Agency on Aging and Merced County Food Bank",
+      "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/34796/Senior-Events-Calendar"
     },
     {
       "id": "conversation-circles-merced-library-2026-11-13",
@@ -1050,6 +1049,20 @@
       "sourceUrl": "https://www.facebook.com/events/2313741406056383/2313741409389716/",
       "sourceName": "Life Balance Laundry",
       "cost": "Up to 15 wash loads per person or phone number while promotional funds last. Dryers cost the regular price."
+    },
+    {
+      "id": "senior-brown-bag-living-well-merced-2026-11-20",
+      "title": "Senior Brown Bag Grocery Distribution — Merced",
+      "date": "2026-11-20",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "city": "Merced",
+      "location": "Living Well Café, 851 W. 23rd Street, Merced, CA",
+      "category": "Community services",
+      "description": "The Merced County Food Bank distributes supplemental groceries for income-eligible adults ages 55 and older. Call the Food Bank at (209) 726-3663 for registration information.",
+      "cost": "Free for eligible participants.",
+      "sourceName": "Merced County Area Agency on Aging and Merced County Food Bank",
+      "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/34796/Senior-Events-Calendar"
     },
     {
       "id": "conversation-circles-merced-library-2026-11-20",
