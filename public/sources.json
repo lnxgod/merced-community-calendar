@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:39:30.247834+00:00",
+  "updatedAt": "2026-11-14T16:28:13.385294+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -2289,7 +2289,7 @@
     {
       "name": "Merced College Community Education — community classes",
       "url": "https://www.campusce.net/merced/course/course.aspx?catId=16",
-      "lastChecked": "2026-11-13"
+      "lastChecked": "2026-11-14"
     },
     {
       "name": "Leo’s Legacy — Breakfast with the Grinch",
@@ -2615,6 +2615,41 @@
       "name": "Merced County Food Bank — Senior Brown Bag distribution sites",
       "url": "https://mmcfb.org/senior-brown-bag-site-list/",
       "lastChecked": "2026-11-13"
+    },
+    {
+      "name": "Central Valley Cards & Collectibles Show — Merced schedule",
+      "url": "https://cvcshow.com/merced-card-show/",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "Central Valley Cards & Collectibles Show — official tickets",
+      "url": "https://tickets.cvcshow.com/",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "Ohana Comic Con — upcoming conventions",
+      "url": "https://ohanacomiccon.com/upcoming-cons/",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "Western Motors Merced — community turkey giveaway",
+      "url": "https://www.facebook.com/events/1644911327361634/",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "Merced College — Community Education public registration",
+      "url": "https://www.mccd.edu/schools-programs/community-education/",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "Central Valley Cards & Collectibles Show — Merced Cards & Collectibles Show",
+      "url": "https://tickets.cvcshow.com/event/cvc-show---merced---november-14th",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "Ohana Comic Con — Merced Toy-Anime-Comic Con",
+      "url": "https://ohanacomiccon.com/merced-toy-anime-comic-con/",
+      "lastChecked": "2026-11-14"
     }
   ]
 }
