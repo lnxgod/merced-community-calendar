@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:28:13.385294+00:00",
+  "updatedAt": "2026-11-14T16:35:50.935238+00:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -2649,6 +2649,16 @@
     {
       "name": "Ohana Comic Con — Merced Toy-Anime-Comic Con",
       "url": "https://ohanacomiccon.com/merced-toy-anime-comic-con/",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "First 5 Merced County Commission — agendas and meeting notices",
+      "url": "https://www.countyofmerced.com/AgendaCenter/First-5-Commission-1",
+      "lastChecked": "2026-11-14"
+    },
+    {
+      "name": "First 5 Merced County Commission — 2026 meeting calendar",
+      "url": "https://www.countyofmerced.com/DocumentCenter/View/34697/First-5-Merced-County-Commission-Meeting-Calendar-2026",
       "lastChecked": "2026-11-14"
     }
   ]

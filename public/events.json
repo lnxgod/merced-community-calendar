@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:28:13.385294+00:00",
+  "updatedAt": "2026-11-14T16:35:50.935238+00:00",
   "events": [
     {
       "id": "field-of-honor-merced-2026-11-07",
@@ -3053,6 +3053,21 @@
       "sourceName": "Merced County Arts Council / The MAC",
       "cost": "Varies; confirm class fee when registering.",
       "timeNote": "Organizer publishes Mondays from October 5 through December 21, 2026. Confirm availability and any schedule changes before attending."
+    },
+    {
+      "id": "first-5-merced-county-commission-2026-12-14",
+      "title": "First 5 Merced County Commission Meeting",
+      "date": "2026-12-14",
+      "startTime": "15:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Merced County Department of Public Health, 260 E. 15th Street, Merced, CA",
+      "category": "Community services",
+      "description": "The county commission meets to discuss programs for young children and families. Members of the public may attend. Check the county agenda for meeting materials.",
+      "cost": "Public meeting. The county lists no admission fee.",
+      "sourceName": "First 5 Merced County Commission",
+      "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/34697/First-5-Merced-County-Commission-Meeting-Calendar-2026",
+      "timeNote": "The county lists a 3 p.m. start. An end time has not been published."
     },
     {
       "id": "teens-movie-merced-library-2026-12-14",
