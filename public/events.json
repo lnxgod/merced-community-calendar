@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:09:02.001226+00:00",
+  "updatedAt": "2026-11-18T16:24:08.338015+00:00",
   "events": [
     {
       "id": "crafting-conversations-2026-11-18",
@@ -56,6 +56,20 @@
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-18-11-30",
       "sourceName": "Kids Discovery Station",
       "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
+      "id": "mcag-technical-review-board-2026-11-18",
+      "title": "MCAG Technical Review Board Meeting",
+      "date": "2026-11-18",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "Merced County Association of Governments Office, 369 W 18th Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Public meeting of the Merced County Association of Governments Technical Review Board. Consult the organizer’s current agenda for participation instructions and any schedule changes.",
+      "cost": "No admission charge or registration requirement is listed on the public meeting calendar.",
+      "sourceName": "Merced County Association of Governments",
+      "sourceUrl": "https://www.mcagov.org/m/calendar/event/detail/947"
     },
     {
       "title": "Makerspace — Merced Main Library",
