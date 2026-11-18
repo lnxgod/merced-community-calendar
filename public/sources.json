@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:30:03.217958+00:00",
+  "updatedAt": "2026-11-18T00:02:13.961749-08:00",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -669,7 +669,7 @@
     {
       "name": "City of Atwater Recreation & Community Events",
       "url": "https://secure.rec1.com/CA/atwater-ca/catalog",
-      "lastChecked": "2026-11-07"
+      "lastChecked": "2026-11-18"
     },
     {
       "name": "The City of Atwater — public Facebook page",
@@ -2199,7 +2199,7 @@
     {
       "name": "Catholic Charities — 2026 Merced Thanksgiving distribution flyer",
       "url": "https://ccdof.org/wp-content/uploads/2026/10/MER-Thanksgiving-Distribution-2026.pdf",
-      "lastChecked": "2026-11-08"
+      "lastChecked": "2026-11-18"
     },
     {
       "name": "Artistry in Motion — public painting workshops",
@@ -2319,7 +2319,7 @@
     {
       "name": "Catholic Charities — Merced holiday distribution",
       "url": "https://ccdof.org/special-events/turkey-drive/",
-      "lastChecked": "2026-11-11"
+      "lastChecked": "2026-11-18"
     },
     {
       "name": "Mercy Medical Center Merced — Mobile Care Clinic",
@@ -2709,12 +2709,62 @@
     {
       "name": "Blaker Brewing — Atwater Tarmac visitor information",
       "url": "https://www.blakerbrewing.com/contact",
-      "lastChecked": "2026-11-16"
+      "lastChecked": "2026-11-18"
     },
     {
       "name": "City of Merced — Regional Airport Authority meetings",
       "url": "https://cityofmerced.legistar.com/DepartmentDetail.aspx?GUID=186FC09D-496A-4ADE-8A6C-2F97876DF4A7&ID=30044",
       "lastChecked": "2026-11-16"
+    },
+    {
+      "name": "Marketplace at Merced / Salvation Army",
+      "url": "https://www.marketplaceatmerced.com/events/salvation-army-angel-tree-program/",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced Chevrolet",
+      "url": "https://www.chevroletofmerced.com/offerdetails-New-Merced-California-Christmas-Star-Annual-Toy-Drive-1984356",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced Police and Fire flyer, published by Los Banos Enterprise",
+      "url": "https://losbanosenterprise.com/community/2026/merced-police-toy-collection/",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced County Sheriff's Office",
+      "url": "https://www.countyofmerced.com/3795/Merced-County-Operation-Christmas-Star",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Blaker Brewing — The Tarmac",
+      "url": "https://www.blakerbrewing.com/event-calendar/2026/11/20/c10-junkeez-coat-sock-drive",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Marketplace at Merced — hours and directions",
+      "url": "https://www.marketplaceatmerced.com/hours-directions/",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced Chevrolet — hours and directions",
+      "url": "https://www.chevroletofmerced.com/hours.aspx",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced County Operation Christmas Star — 2026 application",
+      "url": "https://www.countyofmerced.com/DocumentCenter/View/48458/Operation-Christmas-Star-Application",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced Running Club — Turkey Trot",
+      "url": "https://mercedrunningclub.com/home/running-events/tt/",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Merced Turkey Trot — 2026 registration",
+      "url": "https://mercedturkeytrot.itsyourrace.com/event.aspx?id=15367",
+      "lastChecked": "2026-11-18"
     }
   ]
 }
