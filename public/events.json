@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:05:52.696250+00:00",
+  "updatedAt": "2026-11-18T16:09:02.001226+00:00",
   "events": [
     {
       "id": "crafting-conversations-2026-11-18",
@@ -243,6 +243,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20446&month=10&year=2026&day=30&calType=0"
     },
     {
+      "id": "mcag-governing-board-2026-11-19",
+      "title": "MCAG Governing Board Meeting",
+      "date": "2026-11-19",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced County Administration Building, Board of Supervisors chambers, 2222 M Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Public meeting of the Merced County Association of Governments Governing Board. Consult the organizer’s current agenda for participation instructions and any schedule changes.",
+      "cost": "No admission charge or registration requirement is listed on the public meeting calendar.",
+      "sourceName": "Merced County Association of Governments",
+      "sourceUrl": "https://www.mcagov.org/m/calendar/event/detail/935"
+    },
+    {
       "id": "teen-nintendo-switch-merced-library-2026-11-19",
       "title": "Teens: Nintendo Switch — Merced Main Library",
       "date": "2026-11-19",
@@ -435,7 +449,7 @@
       "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
       "category": "Arts & performances",
       "description": "An all-ages live tribute to Lainey Wilson and Carrie Underwood. Doors open at 6 p.m.",
-      "cost": "The box office lists $20–$120 across ticket options.",
+      "cost": "The box office lists $20–$80 across options. Table prices are per table, not per person; check the selected option and final total.",
       "sourceName": "The Mainzer box office",
       "sourceUrl": "https://holdmyticket.com/event/468220"
     },
@@ -840,6 +854,20 @@
       "sourceUrl": "https://www.facebook.com/events/1644911327361634/"
     },
     {
+      "id": "real-good-not-real-duanes-film-night-2-2026-11-23",
+      "title": "Real Good Not Real: The Story of Duane’s Restaurant — Night 2",
+      "date": "2026-11-23",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "The Partisan, 432 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "A documentary screening about Duane’s Restaurant, presented by Mark Taylor. Ages 21 and older. Advance tickets required; the organizer’s booking page showed tickets available when checked November 18. The separate November 22 screening was sold out.",
+      "cost": "The organizer’s booking page lists $12.51 per ticket; confirm current availability before visiting.",
+      "sourceName": "Mark Taylor — official event registration",
+      "sourceUrl": "https://www.eventbrite.com/e/real-good-not-real-the-story-of-duanes-restaurant-movie-premiere-night-2-registration-2004408550933"
+    },
+    {
       "city": "Merced",
       "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
       "category": "Library & learning",
@@ -919,8 +947,8 @@
       "date": "2026-11-24",
       "startTime": "16:00",
       "endTime": "17:30",
-      "description": "Four-session November drop-off art program exploring pottery, clay molding, shaping, sculpting, texture, patterns and color. Registration required; the monthly ticket covers November 3, 10, 17 and 24. Contact the organizer for age suitability and availability.",
-      "cost": "$55 for museum members / $60 for non-members for the full four-session November program; registration required.",
+      "description": "Final session of the four-session November pottery program, exploring clay molding, shaping, sculpting, texture, patterns and color. Registration is required. The organizer marked both the full-series and remaining-half ticket options sold out when checked November 18; this session remains for already registered participants. Contact the organizer for any availability changes.",
+      "cost": "Sold out as checked November 18. Listed prices: $55 members / $60 non-members for the full series; $30 for the November 17 and 24 half-series option. No new places were shown available.",
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/young-artists-academy-november"
     },
     {
@@ -2134,6 +2162,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18348&month=11&year=2026&day=7&calType=0"
     },
     {
+      "id": "central-valley-pace-lunch-learn-2026-12-09",
+      "title": "Central Valley PACE Lunch & Learn",
+      "date": "2026-12-09",
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "city": "Merced",
+      "location": "Central Valley PACE Merced, 727 W Childs Avenue, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Golden Valley Health Centers offers an informational lunch and guided center tour about PACE services for older adults. The invitation is aimed at people who support older adults. Reserve through the organizer’s public event page. This is a program information session; attendance does not establish eligibility for PACE services.",
+      "cost": "Free registration; lunch and a guided tour are included.",
+      "sourceName": "Golden Valley Health Centers — official event registration",
+      "sourceUrl": "https://www.eventbrite.com/e/central-valley-pace-lunch-learn-tickets-2003836129806"
+    },
+    {
       "id": "kids-discovery-little-lab-2026-12-09",
       "title": "Little Lab Explorers — Kids Discovery Station",
       "date": "2026-12-09",
@@ -2780,6 +2822,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18661&month=11&year=2026&day=7&calType=0"
     },
     {
+      "id": "mcag-governing-board-2026-12-17",
+      "title": "MCAG Governing Board Meeting",
+      "date": "2026-12-17",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Merced County Administration Building, Board of Supervisors chambers, 2222 M Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "Public meeting of the Merced County Association of Governments Governing Board. Consult the organizer’s current agenda for participation instructions and any schedule changes.",
+      "cost": "No admission charge or registration requirement is listed on the public meeting calendar.",
+      "sourceName": "Merced County Association of Governments",
+      "sourceUrl": "https://www.mcagov.org/m/calendar/event/detail/936"
+    },
+    {
       "id": "teen-nintendo-switch-merced-library-2026-12-17",
       "title": "Teens: Nintendo Switch — Merced Main Library",
       "date": "2026-12-17",
@@ -2806,6 +2862,20 @@
       "sourceName": "Merced County Arts Council / The MAC",
       "cost": "$35 per person; reservation required",
       "id": "art-spirits-paint-along-2026-12-17"
+    },
+    {
+      "id": "speed-dating-tioga-merced-2026-12-17",
+      "title": "Speed Dating — Tioga Sequoia Merced",
+      "date": "2026-12-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "city": "Merced",
+      "location": "Tioga Sequoia Merced Taproom, 1707 N Street, Merced, CA 95340",
+      "category": "Festivals & community",
+      "description": "Love on Tap hosts structured speed-dating rounds, with check-in from 6:45 p.m. Recommended ages are 30–40; confirm the organizer’s participation requirements before booking. Tickets include one drink ticket, valid for an eligible beer or nonalcoholic beverage. Seating is limited. The organizer may cancel and refund this event if the attendee ratio is unsuitable, with notice 24 hours beforehand.",
+      "cost": "Listed ticket options are $28.45–$39.11; confirm the current option and total with the organizer.",
+      "sourceName": "Love on Tap — official event registration",
+      "sourceUrl": "https://www.eventbrite.com/e/speed-dating-tioga-merced-tickets-2004851141734"
     },
     {
       "title": "World Ballet Company — The Nutcracker",
@@ -2849,6 +2919,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18478&month=11&year=2026&day=7&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "come-home-come-dance-merced-2026-12-18",
+      "title": "Come Home, Come Dance — Performance & Community Offerings",
+      "date": "2026-12-18",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "city": "Merced",
+      "location": "Merced Multicultural Arts Center, 645 W Main Street, Merced, CA 95340",
+      "category": "Arts & performances",
+      "description": "A community dance performance by tsim+nuj vang and local collaborators, presented in partnership with the Merced County Arts Council and the MAC. The work explores migration, grief, healing, change and belonging, with community activities around the performance. Reserve a free ticket through the organizer’s public booking page.",
+      "cost": "Free; advance ticket reservation requested.",
+      "sourceName": "tsim+nuj vang — official event registration",
+      "sourceUrl": "https://www.eventbrite.com/e/come-home-come-dance-performance-community-offerings-tickets-2003120853395"
     },
     {
       "title": "Mary Poppins — Playhouse Merced",
