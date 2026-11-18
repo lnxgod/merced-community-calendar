@@ -32,11 +32,110 @@ def catalog(*rows):
     return {"updatedAt": "2026-09-27T02:00:00Z", "events": list(rows or [event()])}
 
 
+def drop_off(**overrides):
+    row = {
+        "id": "fixture-holiday-show-drop-off",
+        "title": "Game Changers AI Holiday Show Toy Drop-Off Location",
+        "location": "Coming Soon",
+        "status": "coming-soon",
+    }
+    row.update(overrides)
+    return row
+
+
 def unfold(content):
     return content.decode("utf-8").replace("\r\n ", "")
 
 
 class CalendarTests(unittest.TestCase):
+    def test_drop_off_directory_accepts_undated_coming_soon_placeholder(self):
+        data = dict(catalog(), dropOffLocations=[drop_off(city=None)])
+        original = copy.deepcopy(data)
+        self.assertIs(calendar.validate_catalog(data), data)
+        self.assertEqual(data, original)
+        self.assertNotIn("date", data["dropOffLocations"][0])
+        self.assertNotIn("startTime", data["dropOffLocations"][0])
+
+    def test_drop_off_directory_preserves_events_uids_and_exact_ics_bytes(self):
+        baseline = catalog(event(id="stable-event"), event(id="later-event", date="2026-11-07"))
+        expected = calendar.build_ics(baseline)
+        for locations in (
+            [], [drop_off()],
+            [drop_off(status="accepting", location="Test-only venue, Merced, CA",
+                      startDate="2026-11-01", endDate="2026-12-05",
+                      timeNote="Weekdays only; confirm host hours.",
+                      sourceName="Public organizer", sourceUrl="https://example.org/toy-drive")],
+            [drop_off(status="closed", description="Collections have ended.")],
+        ):
+            with self.subTest(locations=locations):
+                data = dict(copy.deepcopy(baseline), dropOffLocations=locations)
+                original = copy.deepcopy(data)
+                self.assertEqual(calendar.build_ics(data), expected)
+                self.assertEqual(data, original)
+                self.assertEqual(data["events"], baseline["events"])
+                self.assertNotIn("fixture-holiday-show-drop-off", unfold(expected))
+
+    def test_drop_off_directory_rejects_nonarrays_missing_fields_and_duplicate_ids(self):
+        invalid_directories = [None, {}, "locations", [None], ["location"], [drop_off(), drop_off()]]
+        for field in ("id", "title", "location", "status"):
+            incomplete = drop_off()
+            del incomplete[field]
+            invalid_directories.append([incomplete])
+        for locations in invalid_directories:
+            with self.subTest(locations=locations), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=locations))
+
+    def test_drop_off_directory_rejects_private_or_unexpected_fields(self):
+        for field, value in {
+            "familyNotes": "private", "attendees": [{"email": "private@example.com"}],
+            "credentials": "private", "googleEventId": "private", "date": "2026-11-17",
+            "startTime": "09:00", "endTime": "17:00", "allDay": True,
+        }.items():
+            with self.subTest(field=field), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[drop_off(**{field: value})]))
+        for field in ("title", "location", "description", "timeNote", "sourceName", "city"):
+            with self.subTest(field=field), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[
+                    drop_off(**{field: "MUSTANG NIGHTS OUTREACH OPTION: bring flyer."})]))
+
+    def test_drop_off_directory_validates_public_text_and_status(self):
+        for field, value in (
+            ("id", "bad@id"), ("id", "x" * 121), ("title", ""), ("location", None),
+            ("status", "open"), ("status", None), ("status", True), ("status", []),
+            ("city", 1), ("city", ""), ("sourceName", None), ("description", None),
+            ("timeNote", []), ("title", "Line\nBreak"), ("location", "Venue\rprivate"),
+            ("description", "x" * 8001), ("timeNote", "x" * 2001),
+        ):
+            with self.subTest(field=field, value=value), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[drop_off(**{field: value})]))
+
+    def test_drop_off_directory_optional_dates_do_not_require_an_event_occurrence(self):
+        for dates in ({}, {"startDate": "2026-11-01"}, {"endDate": "2026-12-05"},
+                      {"startDate": "2026-11-01", "endDate": "2026-12-05"},
+                      {"startDate": "2026-11-01", "endDate": "2026-11-01"}):
+            with self.subTest(dates=dates):
+                data = dict(catalog(), dropOffLocations=[drop_off(**dates)])
+                self.assertIs(calendar.validate_catalog(data), data)
+        for dates in ({"startDate": None}, {"endDate": None}, {"startDate": "2026-02-30"},
+                      {"endDate": "2026-13-01"}, {"startDate": "11/01/2026"},
+                      {"startDate": 20261101}, {"endDate": {}},
+                      {"startDate": "2026-12-05", "endDate": "2026-11-01"}):
+            with self.subTest(dates=dates), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[drop_off(**dates)]))
+
+    def test_drop_off_directory_sources_require_safe_public_https(self):
+        for url in (None, "", "http://example.org/", "javascript:alert(1)",
+                    "https://user:password@example.org/", "https://127.0.0.1/",
+                    "https://192.168.1.1/", "https://localserver/", "https://host.internal/",
+                    "https://home.gamechangersai.org/", "https://example.org:8443/",
+                    "https://www.parentsquare.com/feeds/123", "https://calendar.google.com/event?eid=private",
+                    "https://example.org/event\nPRIVATE:content"):
+            with self.subTest(url=url), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[drop_off(sourceUrl=url)]))
+        for url in ("https://example.org/toy-drive", "https://example.org:443/toy-drive"):
+            data = dict(catalog(), dropOffLocations=[drop_off(sourceUrl=url)])
+            self.assertIs(calendar.validate_catalog(data), data)
+
     def test_public_field_allowlist_rejects_private_payloads(self):
         for field, value in {
             "attendees": [{"email": "private@example.com"}],
@@ -133,6 +232,39 @@ class CalendarTests(unittest.TestCase):
             self.assertEqual(calendar.build_ics(catalog(row)),
                              calendar.build_ics(catalog(dict(row, allDay=False))))
             self.assertEqual(row, original)
+
+    def test_toy_drive_type_is_optional_and_preserves_catalog_and_ics_bytes(self):
+        for kind in ("drop-off", "event"):
+            for row in (
+                event(),
+                event(date="2026-11-01", endDate="2026-12-05", allDay=True,
+                      startTime=None, endTime=None),
+            ):
+                with self.subTest(kind=kind, date=row["date"]):
+                    typed = catalog(dict(row, toyDriveType=kind))
+                    original = copy.deepcopy(typed)
+                    self.assertIs(calendar.validate_catalog(typed), typed)
+                    self.assertEqual(calendar.build_ics(typed), calendar.build_ics(catalog(row)))
+                    self.assertEqual(typed, original)
+
+    def test_toy_drive_type_rejects_unknown_and_nontext_values(self):
+        for kind in (None, "", "location", "all", "drop-offs", 1, True, [], {}):
+            with self.subTest(kind=kind), self.assertRaises(calendar.ValidationError):
+                calendar.build_ics(catalog(event(toyDriveType=kind)))
+
+    def test_toy_collection_span_retains_uid_exclusive_end_and_host_hours(self):
+        row = event(id="fixture-toy-collection", title="Test-only toy collection site",
+                    date="2026-11-01", endDate="2026-12-05", allDay=True,
+                    startTime=None, endTime=None, toyDriveType="drop-off",
+                    timeNote="Weekdays only; confirm collection hours with the host.")
+        original = copy.deepcopy(row)
+        result = unfold(calendar.build_ics(catalog(row)))
+        self.assertIn("UID:fixture-toy-collection@community.gamechangersai.org", result)
+        self.assertIn("DTSTART;VALUE=DATE:20261101", result)
+        self.assertIn("DTEND;VALUE=DATE:20261206", result)
+        self.assertIn("Weekdays only\\; confirm collection hours with the host.", result)
+        self.assertNotIn("TIME TBD", result)
+        self.assertEqual(row, original)
 
     def test_source_urls_cannot_inject_credentials_private_hosts_or_properties(self):
         for url in ("http://example.com/event", "https://user:password@example.com/event",

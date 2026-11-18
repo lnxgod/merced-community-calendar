@@ -3,6 +3,8 @@ import { Header, Hero, Footer, SubscribeBand } from './components/Layout.jsx';
 import Filters from './components/Filters.jsx';
 import Icon from './components/Icon.jsx';
 import EventList from './components/EventList.jsx';
+import DropOffLocations from './components/DropOffLocations.jsx';
+import { selectDropOffLocations, validDropOffLocation } from './drop-offs.js';
 import MiniCalendar from './components/MiniCalendar.jsx';
 import { AboutDialog, EventDialog, SubscribeDialog } from './components/Dialogs.jsx';
 import { localToday, stepMonth } from './dates.js';
@@ -19,7 +21,7 @@ function validEvent(event) {
   return event && typeof event.id === 'string' && typeof event.title === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(event.date) && ['Merced', 'Atwater', 'McSwain', 'Mariposa'].includes(event.city) && typeof event.category === 'string';
 }
 export default function App() {
-  const [data, setData] = useState({ events: [], updatedAt: null });
+  const [data, setData] = useState({ events: [], dropOffLocations: [], updatedAt: null });
   const [imageManifest, setImageManifest] = useState(null);
   const [config, setConfig] = useState(DEFAULT_CONFIG);
   const [status, setStatus] = useState('loading');
@@ -29,6 +31,7 @@ export default function App() {
   const [city, setCity] = useState('all');
   const [category, setCategory] = useState('all');
   const [halloweenOnly, setHalloweenOnly] = useState(false);
+  const [toyDrive, setToyDrive] = useState('all');
   const [now, setNow] = useState(() => new Date());
   const [browsingMonth, setBrowsingMonth] = useState(null);
   const [selectedDate, setSelectedDate] = useState(null);
@@ -66,7 +69,7 @@ export default function App() {
       if (eventsResult.status === 'fulfilled' && Array.isArray(eventsResult.value.events)) {
         const payload = eventsResult.value;
         const events = payload.events.filter(validEvent);
-        setData({ events, updatedAt: payload.updatedAt });
+        setData({ events, dropOffLocations: Array.isArray(payload.dropOffLocations) ? payload.dropOffLocations.filter(validDropOffLocation) : [], updatedAt: payload.updatedAt });
         setStatus('ready');
       } else setStatus('error');
       if (configResult.status === 'fulfilled' && typeof configResult.value === 'object' && configResult.value !== null) {
@@ -83,7 +86,7 @@ export default function App() {
     return [...values].sort();
   }, [data.events, month, today]);
   const illustratedEvents = useMemo(() => withEventImages(data.events, imageManifest), [data.events, imageManifest]);
-  const matchingEvents = useMemo(() => filterEvents(illustratedEvents, { city, category, query, halloweenOnly }), [illustratedEvents, city, category, query, halloweenOnly]);
+  const matchingEvents = useMemo(() => filterEvents(illustratedEvents, { city, category, query, halloweenOnly, toyDrive }), [illustratedEvents, city, category, query, halloweenOnly, toyDrive]);
   const visibleEvents = useMemo(() => selectVisibleEvents(matchingEvents, { now, month: browsingMonth, selectedDate, sort }), [matchingEvents, now, browsingMonth, selectedDate, sort]);
   function showUpcoming() { setBrowsingMonth(null); setSelectedDate(null); setSort('asc'); }
   function setMonth(value) {
@@ -91,9 +94,12 @@ export default function App() {
     else { setBrowsingMonth(value); setSelectedDate(null); }
   }
   function selectDate(value) { setBrowsingMonth(month); setSelectedDate(value); }
-  function resetFilters() { setQuery(''); setCity('all'); setCategory('all'); setHalloweenOnly(false); showUpcoming(); }
+  function resetFilters() { setQuery(''); setCity('all'); setCategory('all'); setHalloweenOnly(false); setToyDrive('all'); showUpcoming(); }
+  function toggleToyDrive(value) { setToyDrive(old => old === value ? 'all' : value); setHalloweenOnly(false); }
+  function toggleHalloween() { setHalloweenOnly(old => !old); setToyDrive('all'); }
+  const dropOffLocations = useMemo(() => selectDropOffLocations(data.dropOffLocations, { query, city, now }), [data.dropOffLocations, query, city, now]);
   const onAbout = () => setDialog({ type: 'about' });
   const onSubscribe = () => setDialog({ type: 'subscribe' });
   const onClose = () => setDialog(null);
-  return <><a href="#events" className="skip-link">Skip to events</a><div className="site-shell"><Header onAbout={onAbout} onSubscribe={onSubscribe} /><main><Hero /><div className="calendar-content" id="events"><Filters query={query} setQuery={setQuery} city={city} setCity={setCity} category={category} setCategory={setCategory} month={upcoming ? 'upcoming' : month} setMonth={setMonth} months={months} categories={categories} halloweenOnly={halloweenOnly} setHalloweenOnly={setHalloweenOnly} /><div className="calendar-layout"><details className="mobile-date-picker"><summary><Icon name="calendar" size={18} />Choose a date<Icon name="down" size={16} /></summary><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /></details><EventList events={visibleEvents} month={month} upcoming={upcoming} showUpcoming={showUpcoming} selectedDate={selectedDate} clearDate={() => setSelectedDate(null)} sort={sort} setSort={setSort} onSelect={event => setDialog({ type: 'event', event })} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /><aside className="calendar-rail"><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /><SubscribeBand onSubscribe={onSubscribe} /></aside></div></div></main><Footer onAbout={onAbout} onSubscribe={onSubscribe} /></div>{dialog?.type === 'event' ? <EventDialog event={withEventImages([dialog.event], imageManifest)[0]} onClose={onClose} /> : dialog?.type === 'about' ? <AboutDialog onClose={onClose} updatedAt={data.updatedAt} count={data.events.length} /> : dialog?.type === 'subscribe' ? <SubscribeDialog onClose={onClose} config={config} configStatus={configStatus} /> : null}</>;
+  return <><a href="#events" className="skip-link">Skip to events</a><div className="site-shell"><Header onAbout={onAbout} onSubscribe={onSubscribe} /><main><Hero /><div className="calendar-content" id="events"><Filters query={query} setQuery={setQuery} city={city} setCity={setCity} category={category} setCategory={setCategory} month={upcoming ? 'upcoming' : month} setMonth={setMonth} months={months} categories={categories} halloweenOnly={halloweenOnly} setHalloweenOnly={setHalloweenOnly} toggleHalloween={toggleHalloween} toyDrive={toyDrive} toggleToyDrive={toggleToyDrive} onReset={resetFilters} /><div className="calendar-layout">{toyDrive === 'drop-offs' ? <DropOffLocations locations={dropOffLocations} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /> : <><details className="mobile-date-picker"><summary><Icon name="calendar" size={18} />Choose a date<Icon name="down" size={16} /></summary><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /></details><EventList toyDrive={toyDrive} events={visibleEvents} month={month} upcoming={upcoming} showUpcoming={showUpcoming} selectedDate={selectedDate} clearDate={() => setSelectedDate(null)} sort={sort} setSort={setSort} onSelect={event => setDialog({ type: 'event', event })} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /><aside className="calendar-rail"><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /><SubscribeBand onSubscribe={onSubscribe} /></aside></>}</div></div></main><Footer onAbout={onAbout} onSubscribe={onSubscribe} /></div>{dialog?.type === 'event' ? <EventDialog event={withEventImages([dialog.event], imageManifest)[0]} onClose={onClose} /> : dialog?.type === 'about' ? <AboutDialog onClose={onClose} updatedAt={data.updatedAt} count={data.events.length} /> : dialog?.type === 'subscribe' ? <SubscribeDialog onClose={onClose} config={config} configStatus={configStatus} /> : null}</>;
 }

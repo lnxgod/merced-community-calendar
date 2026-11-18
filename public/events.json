@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:30:03.217958+00:00",
+  "updatedAt": "2026-11-18T05:23:04.020490+00:00",
   "events": [
     {
       "id": "mommy-me-tap-ballet-mac-2026-11-16",
@@ -3586,6 +3586,18 @@
       "sourceName": "Merced Theatre",
       "timeNote": "Date updated from October 30, 2026 to February 19, 2027 to match the venue’s current ticket listing. Starts at 8 p.m. Pacific; end time is not published.",
       "id": "nineteen-minutes-later-2026-10-30"
+    }
+  ],
+  "dropOffLocations": [
+    {
+      "id": "game-changers-ai-holiday-show-toy-drop-off",
+      "title": "Game Changers AI Holiday Show Toy Drop-Off Location",
+      "location": "Coming Soon",
+      "status": "coming-soon",
+      "city": null,
+      "description": "Toy drop-off details coming soon.",
+      "sourceName": "Game Changers AI",
+      "sourceUrl": "https://gamechangersai.org/"
     }
   ]
 }

@@ -9,6 +9,7 @@ This guide records the process, not a frozen snapshot of what is currently publi
 | Item | Purpose |
 | --- | --- |
 | `public/events.json` | Reviewed active public catalog |
+| `public/events.json` → `dropOffLocations` | Separate toy donation directory; visible only under Toy drop-offs, never daily events |
 | `public/sources.json` | Organizer URLs and research scope |
 | `public/calendar-config.json` | Exact authorized Google calendar, subscription and embed links |
 | `public/community.ics` | Generated subscription feed with stable UIDs |
@@ -42,6 +43,7 @@ The existing daily maintenance task performs research and Google reconciliation.
 - Do not extend recurring events beyond published dates, infer holiday exceptions, invent end times or assume free admission. Unknown starts are clearly labeled date placeholders with a useful `timeNote`.
 - The schema supports date-only events with `allDay: true`, null `startTime`/`endTime`, and optional inclusive `endDate` (the last included date). Use only verified spans; date-only calendar blocks do not imply 24-hour access, so state published or unknown visitor hours in `timeNote`. Preserve existing null-start time-TBD placeholders unless the organizer confirms a date-only event. The website covers every included date; ICS and Google must use a date-valued exclusive end one day after `endDate` (or `date` for one-day events). Timed overnight spans and recurrence rules remain unsupported; hold events that cannot be represented accurately. Read the current code before changing these assumptions.
 - Preserve branding, dark default/light option, source links and public subscription/download access during maintenance.
+- Preserve the catalog's optional `dropOffLocations` directory when updating or pruning `events`. Follow [toy-drive guidance](toy-drives.md): locations have their own stable IDs and optional collection-window metadata, but are not calendar occurrences. Do not create recurring/daily events, ICS entries or Google events for them. Keep the owner's Holiday Show placeholder address `Coming Soon` until explicitly supplied; do not infer an address. Scheduled shows/fundraisers/distributions remain ordinary `events`.
 
 ## Reconcile Google and the public catalog
 

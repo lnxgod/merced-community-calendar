@@ -1,3 +1,5 @@
+import { toyDriveType } from './toy-drives.js';
+
 export const TIME_ZONE = 'America/Los_Angeles';
 const pacificFormatter = new Intl.DateTimeFormat('en-US', {
   timeZone: TIME_ZONE, year: 'numeric', month: '2-digit', day: '2-digit',
@@ -30,7 +32,7 @@ export function timeLabel(value) {
   return `${hours % 12 || 12}${minutes ? `:${String(minutes).padStart(2, '0')}` : ''} ${hours < 12 ? 'AM' : 'PM'}`;
 }
 export function eventTime(event) {
-  if (event.allDay) return 'All day';
+  if (event.allDay) return toyDriveType(event) === 'drop-off' ? 'Collection dates · check host hours' : 'All day';
   if (!event.startTime) return 'Time to be confirmed';
   return `${timeLabel(event.startTime)}${event.endTime ? `–${timeLabel(event.endTime)}` : ''}`;
 }

@@ -6,6 +6,7 @@ export default function Icon({ name, size = 20, ...props }) {
     left: <path d="m15 5-7 7 7 7" />,
     close: <path d="m6 6 12 12M18 6 6 18" />,
     ghost: <><path d="M5 21V10a7 7 0 0 1 14 0v11l-3.5-3-3.5 3-3.5-3L5 21Z" /><circle cx="9" cy="10" r="1" /><circle cx="15" cy="10" r="1" /></>,
+    gift: <><rect x="3" y="8" width="18" height="4" rx="1" /><path d="M5 12v9h14v-9M12 8v13" /><path d="M12 8H8a3 3 0 1 1 3-3l1 3Zm0 0h4a3 3 0 1 0-3-3l-1 3Z" /></>,
     calendar: <><rect x="3" y="5" width="18" height="16" rx="1.5" /><path d="M7 3v5m10-5v5M3 10h18" /></>,
     external: <><path d="M14 3h7v7m0-7L10 14" /><path d="M10 4H4v16h16v-6" /></>,
     check: <path d="m4 12 5 5L20 6" />,

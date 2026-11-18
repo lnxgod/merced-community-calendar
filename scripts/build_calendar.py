@@ -25,9 +25,14 @@ UTC = timezone.utc
 FIELDS = frozenset({
     "id", "title", "date", "startTime", "endTime", "city", "location",
     "category", "description", "sourceUrl", "sourceName", "cost", "timeNote",
-    "allDay", "endDate",
+    "allDay", "endDate", "toyDriveType",
 })
-REQUIRED_FIELDS = FIELDS - {"cost", "timeNote", "allDay", "endDate"}
+REQUIRED_FIELDS = FIELDS - {"cost", "timeNote", "allDay", "endDate", "toyDriveType"}
+DROP_OFF_FIELDS = frozenset({
+    "id", "title", "location", "status", "city", "description", "timeNote",
+    "sourceName", "sourceUrl", "startDate", "endDate",
+})
+REQUIRED_DROP_OFF_FIELDS = frozenset({"id", "title", "location", "status"})
 ID_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9_-]{0,119}\Z")
 IMAGE_PATH_PATTERN = re.compile(r"assets/events/[a-z0-9][a-z0-9_-]*\.(?:jpg|jpeg|png|webp)\Z")
 IMAGE_FIELDS = {"src", "alt", "width", "height", "thumbnailSrc"}
@@ -127,10 +132,49 @@ def _instant(day: date, clock: str, label: str) -> datetime:
     return candidates.pop()
 
 
+def validate_drop_off_locations(locations: object) -> None:
+    """Validate the public directory without turning sites into calendar events."""
+    if not isinstance(locations, list):
+        raise ValidationError("dropOffLocations must be a list")
+    seen_ids = set()
+    for number, location in enumerate(locations, start=1):
+        label = f"Drop-off location {number}"
+        if not isinstance(location, dict):
+            raise ValidationError(f"{label} must be an object")
+        extra = set(location) - DROP_OFF_FIELDS
+        missing = REQUIRED_DROP_OFF_FIELDS - set(location)
+        if extra or missing:
+            raise ValidationError(f"{label} fields: unexpected={sorted(extra)}, missing={sorted(missing)}")
+        identifier = _text(location["id"], f"{label} id", limit=120)
+        if not ID_PATTERN.fullmatch(identifier) or identifier in seen_ids:
+            raise ValidationError(f"{label} id must be unique and use letters, digits, _ or -")
+        seen_ids.add(identifier)
+        if location["status"] not in ("coming-soon", "accepting", "closed"):
+            raise ValidationError(f"{label} status must be coming-soon, accepting or closed")
+        for field in ("title", "location"):
+            _text(location[field], f"{label} {field}", limit=1000)
+        if location.get("city") is not None:
+            _text(location["city"], f"{label} city", limit=1000)
+        if "description" in location:
+            _text(location["description"], f"{label} description", multiline=True, allow_empty=True)
+        if "timeNote" in location:
+            _text(location["timeNote"], f"{label} timeNote", multiline=True, limit=2000)
+        if "sourceName" in location:
+            _text(location["sourceName"], f"{label} sourceName", limit=1000)
+        if "sourceUrl" in location:
+            _source(location["sourceUrl"], f"{label} sourceUrl")
+        days = {field: _day(location[field], f"{label} {field}")
+                for field in ("startDate", "endDate") if field in location}
+        if "startDate" in days and "endDate" in days and days["endDate"] < days["startDate"]:
+            raise ValidationError(f"{label} endDate must be on or after startDate")
+
+
 def validate_catalog(data: object) -> dict:
-    if not isinstance(data, dict) or set(data) != {"updatedAt", "events"}:
-        raise ValidationError("Catalog must contain only updatedAt and events")
+    if (not isinstance(data, dict) or not {"updatedAt", "events"} <= set(data)
+            or set(data) - {"updatedAt", "events", "dropOffLocations"}):
+        raise ValidationError("Catalog requires updatedAt and events; only dropOffLocations is optional")
     _updated_at(data["updatedAt"])
+    validate_drop_off_locations(data.get("dropOffLocations", []))
     if not isinstance(data["events"], list):
         raise ValidationError("events must be a list")
     seen_ids = set()
@@ -151,6 +195,8 @@ def validate_catalog(data: object) -> dict:
             raise ValidationError(f"{label} date is outside the supported range")
         if "allDay" in event and not isinstance(event["allDay"], bool):
             raise ValidationError(f"{label} allDay must be true or false")
+        if "toyDriveType" in event and event["toyDriveType"] not in ("drop-off", "event"):
+            raise ValidationError(f"{label} toyDriveType must be drop-off or event")
         if "endDate" in event:
             if not event.get("allDay", False):
                 raise ValidationError(f"{label} endDate requires allDay true")
@@ -255,6 +301,8 @@ def build_ics(data: dict) -> bytes:
         "X-WR-CALNAME:Merced · Atwater · McSwain Community Calendar",
         "X-WR-TIMEZONE:America/Los_Angeles",
     ]
+    # dropOffLocations is a directory, never a series of daily calendar blocks.
+    # Only explicit event occurrences get VEVENTs and stable calendar UIDs.
     for event in sorted(data["events"], key=lambda e: (e["date"], e["startTime"] or "", e["id"])):
         day = date.fromisoformat(event["date"])
         title = event["title"]

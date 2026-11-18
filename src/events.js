@@ -1,4 +1,5 @@
 import { eventEndDate, pacificDateTime, stepMonth } from './dates.js';
+import { toyDriveType } from './toy-drives.js';
 
 export function eventOccursOnDate(event, date) {
   return event.date <= date && eventEndDate(event) >= date;
@@ -24,11 +25,13 @@ export function isHalloweenCandyEvent(event) {
     || (/\b(?:halloween|boo bash)\b/.test(text) && /\b(?:candy|candies)\b/.test(text));
 }
 
-export function filterEvents(events, { query = '', city = 'all', category = 'all', halloweenOnly = false } = {}) {
+export function filterEvents(events, { query = '', city = 'all', category = 'all', halloweenOnly = false, toyDrive = 'all' } = {}) {
   const search = query.trim().toLowerCase();
-  return events.filter(event => (city === 'all' || event.city === city)
+  return events.filter(event => toyDriveType(event) !== 'drop-off'
+    && (city === 'all' || event.city === city)
     && (category === 'all' || event.category === category)
-    && (!halloweenOnly || isHalloweenCandyEvent(event))
+    && (!halloweenOnly || toyDrive !== 'all' || isHalloweenCandyEvent(event))
+    && (toyDrive === 'all' || toyDriveType(event) === (toyDrive === 'drop-offs' ? 'drop-off' : 'event'))
     && (!search || [event.title, event.description, event.location, event.city, event.category]
       .filter(Boolean).join(' ').toLowerCase().includes(search)));
 }
