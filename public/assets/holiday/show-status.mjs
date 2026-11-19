@@ -1,12 +1,19 @@
 const status = document.getElementById('live-show-status');
+const nextSong = document.getElementById('next-song');
 const unavailable = status.textContent;
 const endpoint = new URL('/api/roadtree/status', document.querySelector('meta[name="roadtree-api-origin"]').content);
 const freshnessMs = 90_000;
 let activeRequest;
 let expiryTimer;
 
-function display(message) {
+function display(currentTitle, nextTitle) {
+  const message = currentTitle ? `Now playing · ${currentTitle}` : unavailable;
   if (status.textContent !== message) status.textContent = message;
+  status.toggleAttribute('data-playing', Boolean(currentTitle));
+  if (!nextSong) return;
+  const next = nextTitle ? `Up next · ${nextTitle}` : '';
+  if (nextSong.textContent !== next) nextSong.textContent = next;
+  nextSong.hidden = !next;
 }
 
 function showReport(report) {
@@ -14,12 +21,11 @@ function showReport(report) {
   const age = Date.now() - Date.parse(report?.observedAt);
   if (report?.state !== 'playing' || !Number.isFinite(age) || age < -5000 || age >= freshnessMs ||
       typeof report.currentTitle !== 'string' || !report.currentTitle.trim()) {
-    display(unavailable);
+    display(null, null);
     return;
   }
-  const next = report.nextTitle ? ` Up next is “${report.nextTitle}”.` : '';
-  display(`Now playing “${report.currentTitle}”.${next}`);
-  expiryTimer = setTimeout(() => display(unavailable), freshnessMs - age);
+  display(report.currentTitle, report.nextTitle);
+  expiryTimer = setTimeout(() => display(null, null), freshnessMs - age);
 }
 
 async function refresh() {
