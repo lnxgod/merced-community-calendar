@@ -26,7 +26,7 @@ Each directory record supports:
 | `sourceName`, `sourceUrl` | Optional public organizer attribution and HTTPS link. No private source documents or credentials. |
 | `startDate`, `endDate` | Optional confirmed collection-window dates, `YYYY-MM-DD`. Omit unknown dates; no `null`. If both exist, end must not precede start. An expired end date hides the location, without creating calendar entries. |
 
-The directory uses community and search filters only. Event categories, month/day controls and the calendar grid are hidden while it is selected. Directions are available only for an accepting location with an actual published address. Known addresses can be corrected in the feed; the app does not bundle a second maintained address list.
+The directory uses community and search filters only. Event categories, month/day controls and the calendar grid are hidden while it is selected. Share the [Toy drop-offs view](https://community.gamechangersai.org/?view=toy-drop-offs#events) to open the directory directly. Tap the published address of an accepting location to open Google Maps directions. Known addresses can be corrected in the feed; the app does not bundle a second maintained address list.
 
 ## Scheduled events
 

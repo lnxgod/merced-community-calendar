@@ -42,6 +42,9 @@
 .drop-off-location h3{font-size:25px;line-height:1.25;margin:0 0 20px;max-width:740px}
 .drop-off-location dl{margin:0 0 16px}.drop-off-location dl>div{display:grid;grid-template-columns:150px minmax(0,1fr);gap:14px;margin-bottom:12px}
 .drop-off-location dt{font-size:14px;color:var(--muted)}.drop-off-location dd{font-size:17px;margin:0;white-space:pre-line;overflow-wrap:anywhere}
+.drop-off-map-link{display:inline-flex;max-width:100%;min-height:44px;flex-direction:column;align-items:flex-start;justify-content:center;gap:4px;color:var(--accent);text-decoration:underline;text-underline-offset:3px}
+.drop-off-map-link:hover{text-decoration-thickness:2px}
+.drop-off-map-label{display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600}
 .drop-off-location>p:not(.drop-off-status){font-size:15px;color:var(--muted);line-height:1.6;white-space:pre-line}
 .drop-off-actions{display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin-top:18px}.drop-off-actions a{display:inline-flex;align-items:center;gap:8px}
 @media(max-width:600px){.directory-heading{align-items:flex-start}.directory-heading h2{font-size:22px}.drop-off-location h3{font-size:23px}.drop-off-location dl>div{grid-template-columns:105px minmax(0,1fr);gap:12px}}

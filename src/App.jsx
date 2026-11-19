@@ -31,7 +31,9 @@ export default function App() {
   const [city, setCity] = useState('all');
   const [category, setCategory] = useState('all');
   const [halloweenOnly, setHalloweenOnly] = useState(false);
-  const [toyDrive, setToyDrive] = useState('all');
+  const [toyDrive, setToyDrive] = useState(() =>
+    new URLSearchParams(window.location.search).get('view') === 'toy-drop-offs' ? 'drop-offs' : 'all'
+  );
   const [now, setNow] = useState(() => new Date());
   const [browsingMonth, setBrowsingMonth] = useState(null);
   const [selectedDate, setSelectedDate] = useState(null);
