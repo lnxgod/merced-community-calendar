@@ -2,6 +2,9 @@ import Icon from './Icon.jsx';
 import { formatDate, safeUrl } from '../dates.js';
 import { hasDropOffAddress } from '../drop-offs.js';
 
+const holidayShowDropOffId = 'game-changers-ai-holiday-show-toy-drop-off';
+const songRequestUrl = /^https:\/\/community\.gamechangersai\.org\/roadtree\/#[A-Za-z0-9_-]{43}$/;
+
 export default function DropOffLocations({ locations, status, onRetry, onReset }) {
   return <section className="drop-off-directory" aria-labelledby="drop-off-heading">
     <div className="directory-heading"><h2 id="drop-off-heading">Toy drop-off locations</h2><p role="status">{locations.length} {locations.length === 1 ? 'location' : 'locations'}</p></div>
@@ -11,6 +14,7 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
       : !locations.length ? <div className="empty-state"><h3>No drop-off locations in this view yet.</h3><p>Confirmed locations will appear here as they’re added. Try another community or search.</p><button className="button button-outline" onClick={onReset}>Clear filters</button></div>
       : <ul className="drop-off-list">{locations.map(location => {
         const source = safeUrl(location.sourceUrl);
+        const isSongRequest = location.id === holidayShowDropOffId && songRequestUrl.test(source);
         const mapUrl = hasDropOffAddress(location)
           ? `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(location.location)}`
           : null;
@@ -30,7 +34,7 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
           </dl>
           {location.description && <p>{location.description}</p>}
           {source && <div className="drop-off-actions">
-            <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>Organizer details<Icon name="external" size={17} /></a>
+            <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isSongRequest ? 'Request a song' : 'Organizer details'}<Icon name="external" size={17} /></a>
           </div>}
         </li>;
       })}</ul>}
