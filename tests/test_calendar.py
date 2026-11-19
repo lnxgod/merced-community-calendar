@@ -136,7 +136,22 @@ class CalendarTests(unittest.TestCase):
             data = dict(catalog(), dropOffLocations=[drop_off(sourceUrl=url)])
             self.assertIs(calendar.validate_catalog(data), data)
 
-    def test_song_request_link_is_separate_from_the_holiday_show_source(self):
+    def test_holiday_show_app_opens_the_combined_page_with_a_request_fragment(self):
+        base = "https://community.gamechangersai.org/toydrive/"
+        invite = "A" * 43
+        url = f"{base}#request={invite}"
+        location = drop_off(id=calendar.HOLIDAY_SHOW_DROP_OFF_ID, sourceUrl=url)
+        data = dict(catalog(), dropOffLocations=[location])
+        self.assertIs(calendar.validate_catalog(data), data)
+        self.assertEqual(calendar.build_ics(data), calendar.build_ics(catalog()))
+        for changes in ({"id": "another-drop-off"}, {"sourceUrl": url[:-1]},
+                        {"sourceUrl": url + "!"}, {"sourceUrl": url.replace("#", "?")},
+                        {"sourceUrl": url.replace("toydrive/", "ChristmasShow/")},
+                        {"sourceUrl": url.replace("community.gamechangersai.org", "example.org")}):
+            with self.subTest(changes=changes), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[dict(location, **changes)]))
+
+    def test_legacy_holiday_show_links_remain_valid_for_old_catalog_snapshots(self):
         invite = "A" * 43
         url = f"https://community.gamechangersai.org/roadtree/#{invite}"
         location = drop_off(id=calendar.HOLIDAY_SHOW_DROP_OFF_ID,

@@ -5,7 +5,7 @@ import { hasDropOffAddress } from '../drop-offs.js';
 
 const holidayShowDropOffId = 'game-changers-ai-holiday-show-toy-drop-off';
 const holidayShowAnchor = 'holiday-show-toy-dropoff';
-const songRequestUrl = /^https:\/\/community\.gamechangersai\.org\/roadtree\/#[A-Za-z0-9_-]{43}$/;
+const publicHolidayShowUrl = 'https://community.gamechangersai.org/toydrive/';
 
 export default function DropOffLocations({ locations, status, onRetry, onReset }) {
   const hasHolidayShow = locations.some(location => location.id === holidayShowDropOffId);
@@ -22,12 +22,8 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
       : status === 'error' ? <div className="empty-state" role="alert"><h3>We couldn’t load the locations.</h3><button className="button" onClick={onRetry}>Try again</button></div>
       : !locations.length ? <div className="empty-state"><h3>No drop-off locations in this view yet.</h3><p>Confirmed locations will appear here as they’re added. Try another community or search.</p><button className="button button-outline" onClick={onReset}>Clear filters</button></div>
       : <ul className="drop-off-list">{locations.map(location => {
-        const organizerUrl = safeUrl(location.sourceUrl);
         const isHolidayShow = location.id === holidayShowDropOffId;
-        const requestUrl = isHolidayShow
-          ? [location.songRequestUrl, organizerUrl].find(url => typeof url === 'string' && songRequestUrl.test(url))
-          : null;
-        const source = organizerUrl === requestUrl ? null : organizerUrl;
+        const source = isHolidayShow ? publicHolidayShowUrl : safeUrl(location.sourceUrl);
         const sourcePath = source ? new URL(source).pathname : '';
         const isFlyer = sourcePath.startsWith('/assets/flyers/');
         const mapUrl = hasDropOffAddress(location)
@@ -48,9 +44,8 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
             {location.timeNote && <div><dt>Collection hours</dt><dd>{location.timeNote}</dd></div>}
           </dl>
           {location.description && <p>{location.description}</p>}
-          {(requestUrl || source) && <div className="drop-off-actions">
-            {requestUrl && <a className="button" href={requestUrl} referrerPolicy="no-referrer">Request a song</a>}
-            {source && <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isHolidayShow ? 'Toy drive and light show details' : isFlyer ? 'View flyer' : 'Organizer details'}<Icon name="external" size={17} /></a>}
+          {source && <div className="drop-off-actions">
+            <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isHolidayShow ? 'Toy drive and light show details' : isFlyer ? 'View flyer' : 'Organizer details'}<Icon name="external" size={17} /></a>
           </div>}
         </li>;
       })}</ul>}

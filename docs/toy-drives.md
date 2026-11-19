@@ -17,10 +17,12 @@ Each directory record supports:
 | `city` | Optional community string or `null` when unconfirmed. Do not infer a city from the organization's name. |
 | `description`, `timeNote` | Optional public donation rules, published collection hours or uncertainty. |
 | `sourceName`, `sourceUrl` | Optional public organizer attribution and HTTPS link. No private source documents or credentials. |
-| `songRequestUrl` | Optional shareable visitor link for the GameChangers AI holiday show record. The website uses it for **Request a song**. Keep the combined toy drive and holiday lights page in `sourceUrl` for organizer details, including in the mobile app. |
+| `songRequestUrl` | Supported in older holiday show catalog snapshots. New records use `sourceUrl`. |
 | `startDate`, `endDate` | Optional confirmed collection-window dates, `YYYY-MM-DD`. Omit unknown dates; no `null`. If both exist, end must not precede start. An expired end date hides the location, without creating calendar entries. |
 
 The directory uses community and search filters only. Event categories, month/day controls and the calendar grid are hidden while it is selected. Share the [Toy drop-offs view](https://community.gamechangersai.org/?view=toy-drop-offs#events) to open the directory directly. Tap the published address of an accepting location to open Google Maps directions. Known addresses can be corrected in the feed; the app does not bundle a second maintained address list.
+
+The holiday show's **Organizer details** action in the app opens the record's `sourceUrl`. Use the combined page at `https://community.gamechangersai.org/toydrive/` and append `#request=<visitor invitation>` for that record. The public web directory links directly to the same page without the fragment, so visitors see the show and donation information. Anyone with the app link can share it, and the catalog is public. Use only the show’s shareable visitor invitation here.
 
 The 2026 Cops & Fire for Kids locations use the title prefix “Cops, Fire, and Kids” and share the organizer's public flyer through `sourceUrl`. The website labels the link **View flyer** and the app exposes it under **Organizer details**. Those locations stay visible through November 30 in Pacific time and then expire from the directory.
 
