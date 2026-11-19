@@ -15,11 +15,11 @@
   <title>GameChangers AI Toy Drive &amp; Holiday Lights Show</title>
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
-  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=4">
+  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=5">
   <link rel="stylesheet" href="/roadtree/picker.css?v=4">
   <script type="module" src="/assets/holiday/dropoff.mjs?v=4"></script>
-  <script type="module" src="/assets/holiday/show-status.mjs?v=3"></script>
-  <script type="module" src="/roadtree/picker.mjs?v=4"></script>
+  <script type="module" src="/assets/holiday/show-status.mjs?v=4"></script>
+  <script type="module" src="/roadtree/picker.mjs?v=5"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -34,7 +34,18 @@
         <span id="live-show-status" role="status">Song updates unavailable</span>
       </summary>
       <div class="show-status-details">
-        <p id="next-song" hidden></p>
+        <div class="show-lineups">
+          <div class="song-lineup" id="next-song" hidden>
+            <strong id="lineup-heading">Up next</strong>
+            <ol id="upcoming-songs" aria-labelledby="lineup-heading"></ol>
+          </div>
+          <div class="song-lineup" hidden>
+            <strong id="requests-heading">Requests in line</strong>
+            <ol id="queued-songs" aria-labelledby="requests-heading"></ol>
+            <p>The player fits requests between songs, so the lineup can change.</p>
+          </div>
+        </div>
+        <p id="lineup-note" hidden>Upcoming songs aren’t available yet.</p>
         <p>Listen from your car on <strong>90.7 FM</strong>.</p>
       </div>
     </details>
@@ -69,7 +80,7 @@
             <label for="song">Choose a song</label>
             <select id="song" required><option value="">Select from the show playlist</option></select>
             <button class="button primary" type="submit" disabled>Send request</button>
-            <p>Requests play in order. You can send one every 15 minutes.</p>
+            <p>You can request a song every six minutes and have one song in the queue at a time.</p>
           </form>
           <p id="picker-status" role="status" aria-live="polite"></p>
         </div>

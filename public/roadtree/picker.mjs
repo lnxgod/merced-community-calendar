@@ -3,7 +3,8 @@ const requestAccessHelp = document.getElementById('request-access-help');
 const invitePattern = /^[A-Za-z0-9_-]{43}$/;
 const visitorPattern = /^[a-f0-9]{32}$/;
 const visitorKey = 'around-town-roadtree-visitor';
-const cooldownKey = 'around-town-roadtree-cooldown';
+const cooldownKey = 'around-town-roadtree-cooldown-v2';
+const requestIntervalSeconds = 6 * 60;
 const inviteKey = 'around-town-holiday-app-invite';
 const title = document.getElementById('picker-title');
 const form = document.getElementById('song-form');
@@ -19,6 +20,13 @@ function writeLocal(key, value) {
   try { localStorage.setItem(key, value); } catch {
     // The current page keeps its visitor ID even if the browser blocks storage.
   }
+}
+
+function savedCooldown() {
+  const current = Number(readLocal(cooldownKey)) || 0;
+  // Older pickers saved the deadline for the same request using a 15-minute interval.
+  const oldDeadline = Number(readLocal('around-town-roadtree-cooldown')) || 0;
+  return Math.max(current, oldDeadline - (15 * 60 - requestIntervalSeconds) * 1000);
 }
 
 function readInvite() {
@@ -111,7 +119,7 @@ async function showPicker(invite) {
 
   const id = visitorId();
   let busy = false;
-  let blockedUntil = Number(readLocal(cooldownKey)) || 0;
+  let blockedUntil = savedCooldown();
   let cooldown;
 
   function updateButton() {
@@ -153,7 +161,7 @@ async function showPicker(invite) {
 
       if (response.ok && data.ok === true) {
         song.value = '';
-        waitForCooldown(seconds || 900, 'Song added to the queue.');
+        waitForCooldown(seconds || requestIntervalSeconds, 'Song added to the queue.');
       } else if ([401, 403, 404, 410].includes(response.status)) {
         form.hidden = true;
         if (requestSection) {

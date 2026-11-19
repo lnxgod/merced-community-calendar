@@ -66,6 +66,13 @@ strong { color: var(--ink); }
 #live-show-status[data-playing] { color: var(--accent); }
 .show-status-details { padding: .25rem .25rem .9rem; }
 .show-status-details p + p { margin-top: .25rem; }
+.show-lineups { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); column-gap: 2.5rem; max-width: 52rem; }
+.song-lineup { max-width: 36rem; padding-bottom: .8rem; }
+.song-lineup ol { padding-inline-start: 1.75rem; margin: .25rem 0 0; }
+.song-lineup p { margin-top: .5rem; font-size: .94rem; }
+.song-lineup li { padding: .18rem .2rem; color: var(--ink); }
+.song-lineup li + li { border-top: 1px solid var(--line); }
+.song-lineup li::marker { color: var(--gold); font-weight: 600; }
 
 .hero { display: grid; grid-template-columns: 1.12fr 1fr; align-items: center; gap: clamp(2rem, 5vw, 5rem); padding-block: clamp(3rem, 7vw, 6rem); }
 .hero h1 { font-size: clamp(3.65rem, 8.7vw, 7.3rem); letter-spacing: -.075em; line-height: .94; font-weight: 780; }
