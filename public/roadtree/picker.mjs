@@ -1,4 +1,6 @@
-const pickerLink = document.getElementById('song-picker-link');
+const requestSection = document.getElementById('request');
+const requestShortcut = document.getElementById('request-shortcut');
+const requestNotice = document.getElementById('request-notice');
 const invitePattern = /^[A-Za-z0-9_-]{43}$/;
 const visitorPattern = /^[a-f0-9]{32}$/;
 const visitorKey = 'around-town-roadtree-visitor';
@@ -55,20 +57,21 @@ function retrySeconds(response, data) {
   return Number.isFinite(seconds) && seconds > 0 ? Math.min(3600, Math.ceil(seconds)) : 0;
 }
 
-export async function showPicker(invite) {
-  status.textContent = pickerLink ? 'Loading the playlist…' : 'Checking the event link…';
+async function showPicker(invite) {
+  const notice = requestNotice ?? status;
+  if (!requestSection) status.textContent = 'Checking the event link…';
   let origin;
   let catalog;
   try {
     origin = configuredOrigin();
     catalog = await post(origin, 'catalog', { invite });
   } catch {
-    status.textContent = 'Couldn’t load the playlist. Refresh to try again.';
+    notice.textContent = 'Couldn’t load the playlist. Refresh to try again.';
     return;
   }
 
   if (!catalog.response.ok || !Array.isArray(catalog.data.tracks)) {
-    status.textContent = !pickerLink && [403, 404, 410].includes(catalog.response.status)
+    notice.textContent = [401, 403, 404, 410].includes(catalog.response.status)
       ? ''
       : 'Song requests are unavailable right now.';
     return;
@@ -77,12 +80,13 @@ export async function showPicker(invite) {
   const tracks = catalog.data.tracks.filter((track) => typeof track?.id === 'string' && track.id
     && typeof track.title === 'string' && track.title);
   if (tracks.length === 0) {
-    status.textContent = 'Song requests are unavailable right now.';
+    notice.textContent = 'Song requests are unavailable right now.';
     return;
   }
 
-  if (pickerLink) {
-    pickerLink.hidden = true;
+  if (requestSection) {
+    requestSection.hidden = false;
+    requestShortcut.hidden = false;
   } else {
     title.textContent = 'Request a song';
     document.title = 'Request a song · Around Town';
@@ -135,10 +139,12 @@ export async function showPicker(invite) {
       if (response.ok && data.ok === true) {
         song.value = '';
         waitForCooldown(seconds || 900, 'Song added to the queue.');
-      } else if ([403, 404, 410].includes(response.status)) {
+      } else if ([401, 403, 404, 410].includes(response.status)) {
         form.hidden = true;
-        if (pickerLink) {
-          status.textContent = 'Song requests are unavailable right now.';
+        if (requestSection) {
+          requestSection.hidden = true;
+          requestShortcut.hidden = true;
+          requestNotice.textContent = 'Song requests have closed.';
         } else {
           title.textContent = 'Page unavailable';
           document.title = 'Page unavailable · Around Town';
@@ -161,8 +167,12 @@ export async function showPicker(invite) {
   });
 }
 
-if (!pickerLink && form) {
-  window.addEventListener('hashchange', () => location.reload());
-  const invite = location.hash.slice(1);
+if (form) {
+  const prefix = requestSection ? '#request=' : '#';
+  const invite = location.hash.startsWith(prefix) ? location.hash.slice(prefix.length) : '';
+  window.addEventListener('hashchange', () => {
+    // Internal section links keep working during a visit. A new invitation is checked afresh.
+    if (!requestSection || !location.hash || location.hash.startsWith(prefix)) location.reload();
+  });
   if (invitePattern.test(invite)) await showPicker(invite);
 }

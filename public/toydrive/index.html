@@ -16,8 +16,10 @@
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
   <link rel="stylesheet" href="/assets/holiday/holiday.css?v=2">
-  <link rel="stylesheet" href="/roadtree/picker.css?v=2">
-  <script type="module" src="/assets/holiday/dropoff.mjs?v=3"></script>
+  <link rel="stylesheet" href="/roadtree/picker.css?v=3">
+  <script type="module" src="/assets/holiday/dropoff.mjs?v=4"></script>
+  <script type="module" src="/assets/holiday/show-status.mjs"></script>
+  <script type="module" src="/roadtree/picker.mjs?v=3"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -30,7 +32,11 @@
       <div>
         <h1><span class="hero-name">GameChangers AI</span> Toy Drive &amp; Holiday Lights Show</h1>
         <p class="lede">We’re the Hatzer family. Each Christmas, we set our lights to music and collect new toys for kids in Merced County. If you remember Team Charity Case, that’s us.</p>
-        <div class="actions"><a class="button primary" href="#request">Request a song</a><a class="button quiet" href="https://www.charitycase.net/">Donate to the toy drive</a></div>
+        <div class="actions">
+          <a class="button primary" href="https://www.charitycase.net/">Donate to the toy drive</a>
+          <a class="button quiet" id="request-shortcut" href="#request" hidden>Request a song</a>
+        </div>
+        <p id="request-notice" role="status"></p>
         <nav class="drive-jumps" aria-label="Explore the toy drive and show"><a href="#story">Will’s story</a><a href="#timeline">Photos by year</a><a href="#videos">Past videos</a></nav>
       </div>
       <figure class="hero-image show-photo">
@@ -47,12 +53,12 @@
       </div>
       <div class="two-up">
         <div>
-          <h3>Show times and status</h3>
+          <h3>Live show status</h3>
+          <p id="live-show-status" role="status">Live song information is unavailable right now.</p>
           <p>Four singing faces take turns on the verses while the arches and tree light up in time.</p>
-          <a class="text-link" href="https://gamechangers-holiday-lights.bill-hatzer.chatgpt.site/">Check show status</a>
           <p><a href="/#events">Around Town calendar</a> · <a href="#collection-flyer">Toy-drive flyer</a></p>
         </div>
-        <div id="request">
+        <div id="request" hidden>
           <h3 id="picker-title">Request a song</h3>
           <p>Choose a song for the lights. Requests play in order, and you can send one every 15 minutes.</p>
           <form id="song-form" hidden>
@@ -61,8 +67,6 @@
             <button class="button primary" type="submit" disabled>Send request</button>
           </form>
           <p id="picker-status" role="status" aria-live="polite"></p>
-          <a class="text-link" id="song-picker-link" href="/?view=toy-drop-offs#holiday-show-toy-dropoff" rel="nofollow noreferrer">Song requests in the drop-off directory</a>
-          <noscript><p>Turn on JavaScript to see the playlist and send a request.</p></noscript>
         </div>
       </div>
     </section>

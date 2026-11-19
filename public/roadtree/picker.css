@@ -30,5 +30,7 @@
 #song-form button:disabled { opacity: .55; cursor: default; background: var(--accent); }
 #song-form :is(select, button):focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
 #song-form select:disabled { opacity: .65; }
-#song-picker-link[hidden] { display: none; }
+#request-shortcut[hidden], #request[hidden] { display: none; }
+#request-notice:not(:empty) { margin-top: .65rem; color: var(--muted); }
+.two-up:has(> #request[hidden]) { grid-template-columns: 1fr; }
 #picker-status:not(:empty) { margin-top: 1rem; color: var(--muted); }
