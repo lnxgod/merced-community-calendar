@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:31:21.809Z",
+  "updatedAt": "2026-11-19T06:37:11.698Z",
   "events": [
     {
       "id": "crafting-conversations-2026-11-18",
@@ -3507,12 +3507,12 @@
   "dropOffLocations": [
     {
       "id": "game-changers-ai-holiday-show-toy-drop-off",
-      "title": "Game Changers AI Holiday Show Toy Drop-Off Location",
+      "title": "GameChangers AI Christmas Light Show",
       "location": "Coming Soon",
       "status": "coming-soon",
       "city": null,
-      "description": "Toy drop-off details coming soon. Open the event link to request a song for the holiday show.",
-      "sourceName": "Game Changers AI",
+      "description": "The Hatzer family collects new, unwrapped toys for local kids.",
+      "sourceName": "GameChangers AI",
       "sourceUrl": "https://community.gamechangersai.org/roadtree/#V29NbtfcsYDTTqK-rBvWdyKprAdXiNKuRmWtydoGVGY"
     },
     {
