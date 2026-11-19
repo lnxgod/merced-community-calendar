@@ -20,11 +20,14 @@ if (details) {
       const today = new Intl.DateTimeFormat('sv-SE', { timeZone: 'America/Los_Angeles' }).format();
       if (dropoff.status === 'closed' || (dropoff.endDate && dropoff.endDate < today)) {
         details.textContent = 'Toy collection has ended.';
-      } else if (dropoff.status === 'accepting' && dropoff.location && !/^coming soon$/i.test(dropoff.location.trim())) {
+      } else {
+        const location = dropoff.status === 'accepting' && dropoff.location && !/^coming soon$/i.test(dropoff.location.trim())
+          ? dropoff.location : dropoff.city;
         const start = formatDate(dropoff.startDate);
         const end = formatDate(dropoff.endDate);
         const dates = start ? [start, end === start ? '' : end].filter(Boolean).join('–') : end && `Through ${end}`;
-        details.textContent = [dropoff.location, dates, dropoff.timeNote].filter(Boolean).join(' · ');
+        const publicDetails = [location, dates, dropoff.timeNote].filter(Boolean);
+        if (publicDetails.length) details.textContent = publicDetails.join(' · ');
       }
     }
   } catch {

@@ -15,6 +15,7 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
       : <ul className="drop-off-list">{locations.map(location => {
         const source = safeUrl(location.sourceUrl);
         const isSongRequest = location.id === holidayShowDropOffId && songRequestUrl.test(source);
+        const isFlyer = source && new URL(source).pathname.startsWith('/assets/flyers/');
         const mapUrl = hasDropOffAddress(location)
           ? `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(location.location)}`
           : null;
@@ -22,7 +23,7 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
           <p className="drop-off-status">{location.status === 'coming-soon' ? 'Collection planned' : 'Collecting toys'}</p>
           <h3>{location.title}</h3>
           <dl>
-            <div><dt>Address</dt><dd>{mapUrl ? (
+            <div><dt>{location.status === 'coming-soon' ? 'Location' : 'Address'}</dt><dd>{mapUrl ? (
               <a className="drop-off-map-link" href={mapUrl} target="_blank" rel="noopener noreferrer">
                 <span>{location.location}</span>
                 <span className="drop-off-map-label">Open in Google Maps <Icon name="external" size={15} /></span>
@@ -34,7 +35,7 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
           </dl>
           {location.description && <p>{location.description}</p>}
           {source && <div className="drop-off-actions">
-            <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isSongRequest ? 'Request a song' : 'Organizer details'}<Icon name="external" size={17} /></a>
+            <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isSongRequest ? 'Request a song' : isFlyer ? 'View flyer' : 'Organizer details'}<Icon name="external" size={17} /></a>
           </div>}
         </li>;
       })}</ul>}

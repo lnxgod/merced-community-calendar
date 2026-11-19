@@ -6,20 +6,13 @@ The website and both Around Town mobile apps use the same public `events.json` c
 
 Maintain the optional top-level `dropOffLocations` array in `public/events.json`. It is a directory, not a set of daily occurrences. Locations appear only after choosing **Toy drop-offs**. They are excluded from the ordinary event list, calendar grid, ICS subscription feed and Google event reconciliation. Do not generate daily events, all-day spans or recurrence rules for a collection box.
 
-The owner authorized this first entry with its address withheld:
-
-- **Game Changers AI Holiday Show Toy Drop-Off Location**
-- Address: **Coming Soon**
-- Status: `coming-soon`
-- Stable ID: `game-changers-ai-holiday-show-toy-drop-off`
-
-No address, community, collection dates or opening hours have been invented. The placeholder has no Directions action. Keep the same ID when the owner supplies the address and collection details.
+The GameChangers AI Christmas Light Show drop-off (`game-changers-ai-holiday-show-toy-drop-off`) lists McSwain and November 27 through December 11, 2026. Keep the planned status and neighborhood-level location until the owner authorizes the street address. The planned listing has no Directions action.
 
 Each directory record supports:
 
 | Field | Contract |
 | --- | --- |
-| `id`, `title`, `location` | Required nonempty public strings; `id` is stable and unique within the directory. Use `Coming Soon` for the owner's pending address. |
+| `id`, `title`, `location` | Required nonempty public strings; `id` is stable and unique within the directory. A planned site may list just the confirmed neighborhood. |
 | `status` | Required: `coming-soon`, `accepting`, or `closed`. Closed locations are hidden from the active directory. `accepting` is not a claim of 24-hour access. |
 | `city` | Optional community string or `null` when unconfirmed. Do not infer a city from the organization's name. |
 | `description`, `timeNote` | Optional public donation rules, published collection hours or uncertainty. |
@@ -27,6 +20,8 @@ Each directory record supports:
 | `startDate`, `endDate` | Optional confirmed collection-window dates, `YYYY-MM-DD`. Omit unknown dates; no `null`. If both exist, end must not precede start. An expired end date hides the location, without creating calendar entries. |
 
 The directory uses community and search filters only. Event categories, month/day controls and the calendar grid are hidden while it is selected. Share the [Toy drop-offs view](https://community.gamechangersai.org/?view=toy-drop-offs#events) to open the directory directly. Tap the published address of an accepting location to open Google Maps directions. Known addresses can be corrected in the feed; the app does not bundle a second maintained address list.
+
+The 2026 Cops & Fire for Kids locations use the title prefix “Cops, Fire, and Kids” and share the organizer's public flyer through `sourceUrl`. The website labels the link **View flyer** and the app exposes it under **Organizer details**. Those locations stay visible through November 30 in Pacific time and then expire from the directory.
 
 ## Scheduled events
 
