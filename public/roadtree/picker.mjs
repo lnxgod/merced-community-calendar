@@ -1,4 +1,4 @@
-const invite = location.hash.slice(1);
+const pickerLink = document.getElementById('song-picker-link');
 const invitePattern = /^[A-Za-z0-9_-]{43}$/;
 const visitorPattern = /^[a-f0-9]{32}$/;
 const visitorKey = 'around-town-roadtree-visitor';
@@ -6,7 +6,7 @@ const cooldownKey = 'around-town-roadtree-cooldown';
 const title = document.getElementById('picker-title');
 const form = document.getElementById('song-form');
 const song = document.getElementById('song');
-const submit = form.querySelector('button');
+const submit = form?.querySelector('button');
 const status = document.getElementById('picker-status');
 
 function readLocal(key) {
@@ -40,7 +40,7 @@ async function post(origin, route, payload) {
   const response = await fetch(`${origin}/api/roadtree/${route}`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ invite, ...payload }),
+    body: JSON.stringify(payload),
     credentials: 'omit',
     cache: 'no-store',
     referrerPolicy: 'no-referrer',
@@ -55,20 +55,20 @@ function retrySeconds(response, data) {
   return Number.isFinite(seconds) && seconds > 0 ? Math.min(3600, Math.ceil(seconds)) : 0;
 }
 
-async function showPicker() {
-  status.textContent = 'Checking the event link…';
+export async function showPicker(invite) {
+  status.textContent = pickerLink ? 'Loading the playlist…' : 'Checking the event link…';
   let origin;
   let catalog;
   try {
     origin = configuredOrigin();
-    catalog = await post(origin, 'catalog');
+    catalog = await post(origin, 'catalog', { invite });
   } catch {
-    status.textContent = 'Couldn’t check the link. Refresh to try again.';
+    status.textContent = 'Couldn’t load the playlist. Refresh to try again.';
     return;
   }
 
   if (!catalog.response.ok || !Array.isArray(catalog.data.tracks)) {
-    status.textContent = [403, 404, 410].includes(catalog.response.status)
+    status.textContent = !pickerLink && [403, 404, 410].includes(catalog.response.status)
       ? ''
       : 'Song requests are unavailable right now.';
     return;
@@ -81,8 +81,12 @@ async function showPicker() {
     return;
   }
 
-  title.textContent = 'Request a song';
-  document.title = 'Request a song · Around Town';
+  if (pickerLink) {
+    pickerLink.hidden = true;
+  } else {
+    title.textContent = 'Request a song';
+    document.title = 'Request a song · Around Town';
+  }
   song.append(...tracks.map((track) => new Option(track.title, track.id)));
   form.hidden = false;
 
@@ -125,7 +129,7 @@ async function showPicker() {
     status.textContent = 'Sending your request…';
 
     try {
-      const { response, data } = await post(origin, 'request', { visitorId: id, songId: song.value });
+      const { response, data } = await post(origin, 'request', { invite, visitorId: id, songId: song.value });
       const seconds = retrySeconds(response, data);
 
       if (response.ok && data.ok === true) {
@@ -133,9 +137,13 @@ async function showPicker() {
         waitForCooldown(seconds || 900, 'Song added to the queue.');
       } else if ([403, 404, 410].includes(response.status)) {
         form.hidden = true;
-        title.textContent = 'Page unavailable';
-        document.title = 'Page unavailable · Around Town';
-        status.textContent = '';
+        if (pickerLink) {
+          status.textContent = 'Song requests are unavailable right now.';
+        } else {
+          title.textContent = 'Page unavailable';
+          document.title = 'Page unavailable · Around Town';
+          status.textContent = '';
+        }
       } else if (response.status === 409) {
         waitForCooldown(seconds, 'You already have a song in the queue.');
       } else if (response.status === 429) {
@@ -153,5 +161,8 @@ async function showPicker() {
   });
 }
 
-window.addEventListener('hashchange', () => location.reload());
-if (invitePattern.test(invite)) await showPicker();
+if (!pickerLink && form) {
+  window.addEventListener('hashchange', () => location.reload());
+  const invite = location.hash.slice(1);
+  if (invitePattern.test(invite)) await showPicker(invite);
+}

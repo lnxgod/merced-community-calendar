@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0b1714">
+  <meta name="roadtree-api-origin" content="https://around-town-song-requests-api.bill-hatzer.chatgpt.site">
   <meta name="description" content="Visit the GameChangers AI holiday lights show, tune in to 90.7 FM, and give to the Hatzer family’s toy drive for kids in Merced County.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="GameChangers AI Toy Drive &amp; Holiday Lights Show">
@@ -15,6 +16,7 @@
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
   <link rel="stylesheet" href="/assets/holiday/holiday.css">
+  <link rel="stylesheet" href="/roadtree/picker.css">
   <script type="module" src="/assets/holiday/dropoff.mjs"></script>
 </head>
 <body>
@@ -28,7 +30,7 @@
       <div>
         <h1><span class="hero-name">GameChangers AI</span> Toy Drive &amp; Holiday Lights Show</h1>
         <p class="lede">We’re the Hatzer family. Each Christmas, we set our lights to music and collect new toys for kids in Merced County. If you remember Team Charity Case, that’s us.</p>
-        <div class="actions"><a class="button primary" href="/?view=toy-drop-offs#holiday-show-toy-dropoff">Request a song</a><a class="button quiet" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bill.hatzer%40gmail.com&amp;currency_code=USD&amp;source=url">Donate with PayPal</a></div>
+        <div class="actions"><a class="button primary" href="#request">Request a song</a><a class="button quiet" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bill.hatzer%40gmail.com&amp;currency_code=USD&amp;source=url">Donate with PayPal</a></div>
         <nav class="drive-jumps" aria-label="Explore the toy drive and show"><a href="#story">Will’s story</a><a href="#timeline">Photos by year</a><a href="#videos">Past videos</a></nav>
       </div>
       <figure class="hero-image show-photo">
@@ -49,9 +51,16 @@
           <a class="text-link" href="https://gamechangers-holiday-lights.bill-hatzer.chatgpt.site/">Check show status</a>
         </div>
         <div id="request">
-          <h3>Pick a song</h3>
-          <p>Choose <strong>Request a song</strong> on our holiday show’s drop-off card to see the playlist. You can make one request every 15 minutes.</p>
-          <a class="text-link" href="/?view=toy-drop-offs#holiday-show-toy-dropoff">Open the holiday show listing</a>
+          <h3 id="picker-title">Request a song</h3>
+          <p>Choose a song for the lights. Requests play in order, and you can send one every 15 minutes.</p>
+          <form id="song-form" hidden>
+            <label for="song">Choose a song</label>
+            <select id="song" required><option value="">Select from the show playlist</option></select>
+            <button class="button primary" type="submit" disabled>Send request</button>
+          </form>
+          <p id="picker-status" role="status" aria-live="polite"></p>
+          <a class="text-link" id="song-picker-link" href="/?view=toy-drop-offs#holiday-show-toy-dropoff" rel="nofollow noreferrer">Song requests in the drop-off directory</a>
+          <noscript><p>Turn on JavaScript to see the playlist and send a request.</p></noscript>
         </div>
       </div>
     </section>

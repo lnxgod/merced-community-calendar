@@ -1,4 +1,5 @@
 const details = document.getElementById('dropoff-details');
+const requestLink = document.getElementById('song-picker-link');
 const dropoffId = 'game-changers-ai-holiday-show-toy-drop-off';
 const dateLabel = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
 
@@ -13,10 +14,13 @@ async function findDropoff() {
   return feed.dropOffLocations?.find((location) => location.id === dropoffId);
 }
 
-if (details) {
+if (requestLink) document.getElementById('picker-status').textContent = 'Loading the playlist…';
+
+if (details || requestLink) {
+  let dropoff;
   try {
-    const dropoff = await findDropoff();
-    if (dropoff) {
+    dropoff = await findDropoff();
+    if (dropoff && details) {
       const today = new Intl.DateTimeFormat('sv-SE', { timeZone: 'America/Los_Angeles' }).format();
       if (dropoff.status === 'closed' || (dropoff.endDate && dropoff.endDate < today)) {
         details.textContent = 'Toy collection has ended.';
@@ -32,5 +36,20 @@ if (details) {
     }
   } catch {
     // Keep the page's calendar link and fallback text when the public feed is unavailable.
+  }
+  if (requestLink) {
+    const match = /^https:\/\/community\.gamechangersai\.org\/roadtree\/#([A-Za-z0-9_-]{43})$/.exec(dropoff?.songRequestUrl ?? '');
+    if (match) {
+      requestLink.href = dropoff.songRequestUrl;
+      requestLink.textContent = 'Open the song picker';
+      try {
+        const { showPicker } = await import('/roadtree/picker.mjs');
+        await showPicker(match[1]);
+      } catch {
+        document.getElementById('picker-status').textContent = 'Couldn’t load the playlist. Try opening the song picker.';
+      }
+    } else {
+      document.getElementById('picker-status').textContent = 'Song requests are unavailable right now.';
+    }
   }
 }
