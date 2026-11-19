@@ -136,6 +136,21 @@ class CalendarTests(unittest.TestCase):
             data = dict(catalog(), dropOffLocations=[drop_off(sourceUrl=url)])
             self.assertIs(calendar.validate_catalog(data), data)
 
+    def test_song_request_link_is_separate_from_the_holiday_show_source(self):
+        invite = "A" * 43
+        url = f"https://community.gamechangersai.org/roadtree/#{invite}"
+        location = drop_off(id=calendar.HOLIDAY_SHOW_DROP_OFF_ID,
+                            sourceUrl="https://community.gamechangersai.org/toydrive/",
+                            songRequestUrl=url)
+        data = dict(catalog(), dropOffLocations=[location])
+        self.assertIs(calendar.validate_catalog(data), data)
+        self.assertEqual(calendar.build_ics(data), calendar.build_ics(catalog()))
+        for changes in ({"id": "another-drop-off"}, {"songRequestUrl": url[:-1]},
+                        {"songRequestUrl": url.replace("community.gamechangersai.org", "example.org")},
+                        {"songRequestUrl": "https://community.gamechangersai.org/roadtree/"}):
+            with self.subTest(changes=changes), self.assertRaises(calendar.ValidationError):
+                calendar.validate_catalog(dict(catalog(), dropOffLocations=[dict(location, **changes)]))
+
     def test_public_field_allowlist_rejects_private_payloads(self):
         for field, value in {
             "attendees": [{"email": "private@example.com"}],

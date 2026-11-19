@@ -1,10 +1,20 @@
+import { useEffect } from 'react';
 import Icon from './Icon.jsx';
 import { formatDate, safeUrl } from '../dates.js';
 import { hasDropOffAddress } from '../drop-offs.js';
 
 const holidayShowDropOffId = 'game-changers-ai-holiday-show-toy-drop-off';
+const holidayShowAnchor = 'holiday-show-toy-dropoff';
+const songRequestUrl = /^https:\/\/community\.gamechangersai\.org\/roadtree\/#[A-Za-z0-9_-]{43}$/;
 
 export default function DropOffLocations({ locations, status, onRetry, onReset }) {
+  const hasHolidayShow = locations.some(location => location.id === holidayShowDropOffId);
+  useEffect(() => {
+    if (status === 'ready' && hasHolidayShow && window.location.hash === `#${holidayShowAnchor}`) {
+      document.getElementById(holidayShowAnchor)?.scrollIntoView({ behavior: 'instant' });
+    }
+  }, [status, hasHolidayShow]);
+
   return <section className="drop-off-directory" aria-labelledby="drop-off-heading">
     <div className="directory-heading"><h2 id="drop-off-heading">Toy drop-off locations</h2><p role="status">{locations.length} {locations.length === 1 ? 'location' : 'locations'}</p></div>
     <p className="collection-note">Check the collection hours and which toys each location accepts before you go.</p>
@@ -12,14 +22,18 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
       : status === 'error' ? <div className="empty-state" role="alert"><h3>We couldn’t load the locations.</h3><button className="button" onClick={onRetry}>Try again</button></div>
       : !locations.length ? <div className="empty-state"><h3>No drop-off locations in this view yet.</h3><p>Confirmed locations will appear here as they’re added. Try another community or search.</p><button className="button button-outline" onClick={onReset}>Clear filters</button></div>
       : <ul className="drop-off-list">{locations.map(location => {
-        const source = safeUrl(location.sourceUrl);
+        const organizerUrl = safeUrl(location.sourceUrl);
+        const isHolidayShow = location.id === holidayShowDropOffId;
+        const requestUrl = isHolidayShow
+          ? [location.songRequestUrl, organizerUrl].find(url => typeof url === 'string' && songRequestUrl.test(url))
+          : null;
+        const source = organizerUrl === requestUrl ? null : organizerUrl;
         const sourcePath = source ? new URL(source).pathname : '';
-        const isShowPage = location.id === holidayShowDropOffId && sourcePath === '/ChristmasShow/';
         const isFlyer = sourcePath.startsWith('/assets/flyers/');
         const mapUrl = hasDropOffAddress(location)
           ? `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(location.location)}`
           : null;
-        return <li className="drop-off-location" key={location.id}>
+        return <li className="drop-off-location" key={location.id} id={isHolidayShow ? holidayShowAnchor : undefined}>
           <p className="drop-off-status">{location.status === 'coming-soon' ? 'Collection planned' : 'Collecting toys'}</p>
           <h3>{location.title}</h3>
           <dl>
@@ -34,8 +48,9 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
             {location.timeNote && <div><dt>Collection hours</dt><dd>{location.timeNote}</dd></div>}
           </dl>
           {location.description && <p>{location.description}</p>}
-          {source && <div className="drop-off-actions">
-            <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isShowPage ? 'Visit the Christmas light show' : isFlyer ? 'View flyer' : 'Organizer details'}<Icon name="external" size={17} /></a>
+          {(requestUrl || source) && <div className="drop-off-actions">
+            {requestUrl && <a className="button" href={requestUrl} referrerPolicy="no-referrer">Request a song</a>}
+            {source && <a className="text-button" target="_blank" rel="noopener noreferrer" href={source}>{isHolidayShow ? 'Toy drive and light show details' : isFlyer ? 'View flyer' : 'Organizer details'}<Icon name="external" size={17} /></a>}
           </div>}
         </li>;
       })}</ul>}

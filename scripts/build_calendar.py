@@ -30,10 +30,12 @@ FIELDS = frozenset({
 REQUIRED_FIELDS = FIELDS - {"cost", "timeNote", "allDay", "endDate", "toyDriveType"}
 DROP_OFF_FIELDS = frozenset({
     "id", "title", "location", "status", "city", "description", "timeNote",
-    "sourceName", "sourceUrl", "startDate", "endDate",
+    "sourceName", "sourceUrl", "songRequestUrl", "startDate", "endDate",
 })
 REQUIRED_DROP_OFF_FIELDS = frozenset({"id", "title", "location", "status"})
 ID_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9_-]{0,119}\Z")
+HOLIDAY_SHOW_DROP_OFF_ID = "game-changers-ai-holiday-show-toy-drop-off"
+SONG_REQUEST_URL_PATTERN = re.compile(r"https://community\.gamechangersai\.org/roadtree/#[A-Za-z0-9_-]{43}")
 IMAGE_PATH_PATTERN = re.compile(r"assets/events/[a-z0-9][a-z0-9_-]*\.(?:jpg|jpeg|png|webp)\Z")
 IMAGE_FIELDS = {"src", "alt", "width", "height", "thumbnailSrc"}
 TIME_PATTERN = re.compile(r"(?:[01][0-9]|2[0-3]):[0-5][0-9]\Z")
@@ -163,6 +165,10 @@ def validate_drop_off_locations(locations: object) -> None:
             _text(location["sourceName"], f"{label} sourceName", limit=1000)
         if "sourceUrl" in location:
             _source(location["sourceUrl"], f"{label} sourceUrl")
+        if "songRequestUrl" in location:
+            url = _text(location["songRequestUrl"], f"{label} songRequestUrl", limit=120)
+            if identifier != HOLIDAY_SHOW_DROP_OFF_ID or not SONG_REQUEST_URL_PATTERN.fullmatch(url):
+                raise ValidationError(f"{label} songRequestUrl must be the holiday show request link")
         days = {field: _day(location[field], f"{label} {field}")
                 for field in ("startDate", "endDate") if field in location}
         if "startDate" in days and "endDate" in days and days["endDate"] < days["startDate"]:
