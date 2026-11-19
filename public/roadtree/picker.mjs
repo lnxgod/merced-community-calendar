@@ -3,8 +3,8 @@ const requestAccessHelp = document.getElementById('request-access-help');
 const invitePattern = /^[A-Za-z0-9_-]{43}$/;
 const visitorPattern = /^[a-f0-9]{32}$/;
 const visitorKey = 'around-town-roadtree-visitor';
-const cooldownKey = 'around-town-roadtree-cooldown-v2';
-const requestIntervalSeconds = 6 * 60;
+const cooldownKey = 'around-town-roadtree-cooldown-v3';
+const requestIntervalSeconds = 5 * 60;
 const inviteKey = 'around-town-holiday-app-invite';
 const title = document.getElementById('picker-title');
 const form = document.getElementById('song-form');
@@ -24,9 +24,11 @@ function writeLocal(key, value) {
 
 function savedCooldown() {
   const current = Number(readLocal(cooldownKey)) || 0;
-  // Older pickers saved the deadline for the same request using a 15-minute interval.
-  const oldDeadline = Number(readLocal('around-town-roadtree-cooldown')) || 0;
-  return Math.max(current, oldDeadline - (15 * 60 - requestIntervalSeconds) * 1000);
+  // Older pickers recorded the same request with a six- or fifteen-minute deadline.
+  const sixMinuteDeadline = Number(readLocal('around-town-roadtree-cooldown-v2')) || 0;
+  const fifteenMinuteDeadline = Number(readLocal('around-town-roadtree-cooldown')) || 0;
+  return Math.max(current, sixMinuteDeadline - (6 * 60 - requestIntervalSeconds) * 1000,
+    fifteenMinuteDeadline - (15 * 60 - requestIntervalSeconds) * 1000);
 }
 
 function readInvite() {
@@ -132,10 +134,10 @@ async function showPicker(invite) {
       blockedUntil = Date.now() + seconds * 1000;
       writeLocal(cooldownKey, blockedUntil);
       const minutes = Math.ceil(seconds / 60);
-      status.textContent = `${message} You can request again in about ${minutes} ${minutes === 1 ? 'minute' : 'minutes'}.`.trim();
+      status.textContent = `${message} Wait about ${minutes} ${minutes === 1 ? 'minute' : 'minutes'} before voting again.`.trim();
       cooldown = setTimeout(() => {
         blockedUntil = 0;
-        status.textContent = 'You can request another song now.';
+        status.textContent = 'You can vote again once your previous request has cleared.';
         updateButton();
       }, seconds * 1000);
     } else {
@@ -153,7 +155,7 @@ async function showPicker(invite) {
     busy = true;
     song.disabled = true;
     updateButton();
-    status.textContent = 'Sending your request…';
+    status.textContent = 'Sending your vote…';
 
     try {
       const { response, data } = await post(origin, 'request', { invite, visitorId: id, songId: song.value });
@@ -161,7 +163,7 @@ async function showPicker(invite) {
 
       if (response.ok && data.ok === true) {
         song.value = '';
-        waitForCooldown(seconds || requestIntervalSeconds, 'Song added to the queue.');
+        waitForCooldown(seconds || requestIntervalSeconds, 'Your vote counted.');
       } else if ([401, 403, 404, 410].includes(response.status)) {
         form.hidden = true;
         if (requestSection) {
@@ -174,14 +176,14 @@ async function showPicker(invite) {
           status.textContent = '';
         }
       } else if (response.status === 409) {
-        waitForCooldown(seconds, 'You already have a song in the queue.');
+        waitForCooldown(seconds, 'Your previous vote is still in line.');
       } else if (response.status === 429) {
         waitForCooldown(seconds, seconds ? '' : 'Song requests are busy. Try again in a moment.');
       } else {
-        status.textContent = 'Couldn’t send your request. Try again in a moment.';
+        status.textContent = 'Couldn’t send your vote. Try again in a moment.';
       }
     } catch {
-      status.textContent = 'Couldn’t send your request. Try again in a moment.';
+      status.textContent = 'Couldn’t send your vote. Try again in a moment.';
     } finally {
       busy = false;
       song.disabled = false;

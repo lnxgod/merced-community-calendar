@@ -11,7 +11,7 @@
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
   <link rel="stylesheet" href="/assets/holiday/holiday.css">
   <link rel="stylesheet" href="./picker.css?v=3">
-  <script type="module" src="./picker.mjs?v=5"></script>
+  <script type="module" src="./picker.mjs?v=6"></script>
 </head>
 <body>
   <main class="wrap picker">
@@ -22,12 +22,12 @@
     <section class="give" aria-labelledby="picker-title">
       <h1 id="picker-title">Page unavailable</h1>
       <form id="song-form" hidden>
-        <label for="song">Christmas light show song</label>
+        <label for="song">Choose a song to vote for</label>
         <select id="song" required>
           <option value="">Choose a song</option>
         </select>
-        <button class="button primary" type="submit" disabled>Request song</button>
-        <p>You can request a song every six minutes and have one song in the queue at a time.</p>
+        <button class="button primary" type="submit" disabled>Vote for this song</button>
+        <p>Voting for a song already in line helps it move up. You can vote every five minutes and have one vote waiting at a time.</p>
       </form>
       <p id="picker-status" role="status"></p>
     </section>

@@ -15,11 +15,11 @@
   <title>GameChangers AI Toy Drive &amp; Holiday Lights Show</title>
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
-  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=5">
+  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=6">
   <link rel="stylesheet" href="/roadtree/picker.css?v=4">
   <script type="module" src="/assets/holiday/dropoff.mjs?v=4"></script>
-  <script type="module" src="/assets/holiday/show-status.mjs?v=4"></script>
-  <script type="module" src="/roadtree/picker.mjs?v=5"></script>
+  <script type="module" src="/assets/holiday/show-status.mjs?v=5"></script>
+  <script type="module" src="/roadtree/picker.mjs?v=6"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -42,7 +42,7 @@
           <div class="song-lineup" hidden>
             <strong id="requests-heading">Requests in line</strong>
             <ol id="queued-songs" aria-labelledby="requests-heading"></ol>
-            <p>The player fits requests between songs, so the lineup can change.</p>
+            <p id="ranking-rule" hidden>The next pick goes to the song with the most votes. Ties go to the song requested first.</p>
           </div>
         </div>
         <p id="lineup-note" hidden>Upcoming songs aren’t available yet.</p>
@@ -77,10 +77,10 @@
           <h3 id="picker-title">Request a song</h3>
           <p id="request-access-help">In the Around Town app, open <strong>Toy drop-offs</strong>, select our holiday show, then tap <strong>Organizer details</strong> to open the playlist.</p>
           <form id="song-form" hidden>
-            <label for="song">Choose a song</label>
+            <label for="song">Choose a song to vote for</label>
             <select id="song" required><option value="">Select from the show playlist</option></select>
-            <button class="button primary" type="submit" disabled>Send request</button>
-            <p>You can request a song every six minutes and have one song in the queue at a time.</p>
+            <button class="button primary" type="submit" disabled>Vote for this song</button>
+            <p>Voting for a song already in line helps it move up. You can vote every five minutes and have one vote waiting at a time.</p>
           </form>
           <p id="picker-status" role="status" aria-live="polite"></p>
         </div>
