@@ -72,6 +72,10 @@ h3 { font-size: clamp(1.22rem, 2.4vw, 1.6rem); letter-spacing: -.025em; line-hei
 .text-link { display: inline-block; color: var(--accent); font-weight: 600; }
 .text-link:hover { color: var(--ink); }
 .section .dropoff { font-weight: 600; color: var(--ink); }
+.collection-flyer { display: grid; grid-template-columns: minmax(0, 1fr) minmax(12rem, 17rem); align-items: start; gap: 1rem 2.6rem; margin-top: 1.65rem; padding-top: 1.5rem; border-top: 1px solid var(--line); scroll-margin-top: 1rem; }
+.collection-flyer figure { max-width: 17rem; }
+.collection-flyer img { width: 100%; height: auto; border-radius: .55rem; }
+.collection-flyer .text-link { margin-top: .45rem; }
 
 .drive-jumps { display: flex; flex-wrap: wrap; gap: .35rem 1.25rem; margin-top: 1.2rem; color: var(--muted); }
 .drive-jumps a { padding-block: .25rem; }
@@ -115,7 +119,7 @@ h3 { font-size: clamp(1.22rem, 2.4vw, 1.6rem); letter-spacing: -.025em; line-hei
   .mast { flex-wrap: wrap; gap: .4rem; padding-bottom: .5rem; }
   .mast nav { width: 100%; justify-content: space-between; }
   .mast nav a { font-size: .91rem; }
-  .two-up, .process-grid, .early-drives, .collection-grid { grid-template-columns: minmax(0, 1fr); }
+  .two-up, .process-grid, .early-drives, .collection-grid, .collection-flyer { grid-template-columns: minmax(0, 1fr); }
   .two-up > div + div { border-inline-start: 0; border-top: 1px solid var(--line); padding: 1.25rem 0 0; }
   .early-drives img { max-width: 317px; }
   .collection-grid img { height: 16rem; }

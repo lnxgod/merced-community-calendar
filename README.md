@@ -8,7 +8,7 @@ Daily upkeep and recovery: [maintenance guide](docs/maintenance.md). New maintai
 
 For in-app promotions, see [Featured posts](docs/featured-posts.md).
 
-Toy drives: [shared feed and drop-off directory](docs/toy-drives.md). The **Toy drop-offs** button opens a separate location directory, including the owner's Game Changers AI Holiday Show placeholder with address **Coming Soon**. Locations do not repeat as calendar events; **Toy-drive events** filters scheduled shows, fundraisers and distributions.
+Toy drives: [shared feed and drop-off directory](docs/toy-drives.md). The **Toy drop-offs** button opens a separate location directory, including the McSwain GameChangers AI Holiday Lights Show drop-off. Locations do not repeat as calendar events; **Toy-drive events** filters scheduled shows, fundraisers and distributions.
 
 ## Run locally
 
