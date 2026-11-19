@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:16:34.459386+00:00",
+  "updatedAt": "2026-11-19T21:06:38.884555+00:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -895,6 +895,21 @@
       "cost": "Free",
       "sourceName": "Merced County Library — official calendar",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20440&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "pomegranates-persimmons-merced-library-2026-11-17",
+      "title": "Pomegranates & Persimmons — UC Master Gardeners",
+      "date": "2026-11-24",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "city": "Merced",
+      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
+      "category": "Library & learning",
+      "description": "A free public workshop on pomegranate and persimmon varieties, growing, harvesting and preserving. Walk-ins are welcome. Advance registration is available through the organizer.",
+      "cost": "Free",
+      "timeNote": "Rescheduled from November 17.",
+      "sourceName": "UC Master Gardeners of Merced County and Merced County Library",
+      "sourceUrl": "https://ucanr.edu/site/uc-master-gardeners-merced-county/event/merced-county-library-uc-master-gardeners-merced"
     },
     {
       "city": "Merced",
