@@ -8,7 +8,7 @@ function formatDate(date) {
 }
 
 async function findDropoff() {
-  const response = await fetch('/events.json', { signal: AbortSignal.timeout(6000) });
+  const response = await fetch('/events.json', { cache: 'no-cache', signal: AbortSignal.timeout(6000) });
   if (!response.ok) return;
   const feed = await response.json();
   return feed.dropOffLocations?.find((location) => location.id === dropoffId);
@@ -43,7 +43,7 @@ if (details || requestLink) {
       requestLink.href = dropoff.songRequestUrl;
       requestLink.textContent = 'Open the song picker';
       try {
-        const { showPicker } = await import('/roadtree/picker.mjs');
+        const { showPicker } = await import('/roadtree/picker.mjs?v=2');
         await showPicker(match[1]);
       } catch {
         document.getElementById('picker-status').textContent = 'Couldn’t load the playlist. Try opening the song picker.';
