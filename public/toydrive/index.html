@@ -15,11 +15,11 @@
   <title>GameChangers AI Toy Drive &amp; Holiday Lights Show</title>
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
-  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=2">
-  <link rel="stylesheet" href="/roadtree/picker.css?v=3">
+  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=3">
+  <link rel="stylesheet" href="/roadtree/picker.css?v=4">
   <script type="module" src="/assets/holiday/dropoff.mjs?v=4"></script>
-  <script type="module" src="/assets/holiday/show-status.mjs"></script>
-  <script type="module" src="/roadtree/picker.mjs?v=3"></script>
+  <script type="module" src="/assets/holiday/show-status.mjs?v=2"></script>
+  <script type="module" src="/roadtree/picker.mjs?v=4"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -28,15 +28,24 @@
     <nav aria-label="Main navigation"><a href="#visit">Visit the show</a><a href="#give">Ways to give</a><a href="https://gamechangersai.org/about.html">About us</a></nav>
   </header>
   <main id="main" class="wrap">
+    <details class="show-status">
+      <summary>
+        <strong>Live show status</strong>
+        <span id="live-show-status" role="status">Song updates unavailable</span>
+      </summary>
+      <div class="show-status-details">
+        <p id="next-song" hidden></p>
+        <p>Listen from your car on <strong>90.7 FM</strong>.</p>
+      </div>
+    </details>
     <section class="hero show-hero holiday-hero">
       <div>
         <h1><span class="hero-name">GameChangers AI</span> Toy Drive &amp; Holiday Lights Show</h1>
         <p class="lede">We’re the Hatzer family. Each Christmas, we set our lights to music and collect new toys for kids in Merced County. If you remember Team Charity Case, that’s us.</p>
         <div class="actions">
           <a class="button primary" href="https://www.charitycase.net/">Donate to the toy drive</a>
-          <a class="button quiet" id="request-shortcut" href="#request" hidden>Request a song</a>
+          <a class="button quiet" href="#request">Request a song</a>
         </div>
-        <p id="request-notice" role="status"></p>
         <nav class="drive-jumps" aria-label="Explore the toy drive and show"><a href="#story">Will’s story</a><a href="#timeline">Photos by year</a><a href="#videos">Past videos</a></nav>
       </div>
       <figure class="hero-image show-photo">
@@ -46,25 +55,21 @@
     </section>
 
     <section class="section" id="show" aria-labelledby="visit-title">
-      <div class="section-intro" id="visit">
-        <h2 id="visit-title">Plan your visit</h2>
-        <p>The show officially opens <strong>Black Friday, <time datetime="2026-11-27">November 27, 2026</time></strong>. Tune your car radio to <strong>90.7 FM</strong> to hear the music.</p>
-        <p>Visit us in McSwain at <a id="show-address" href="https://www.google.com/maps/dir/?api=1&amp;destination=4874%20W%20State%20Highway%20140%2C%20Atwater%2C%20CA%2095301">4874 W State Highway 140, Atwater, CA 95301</a>.</p>
-      </div>
-      <div class="two-up">
-        <div>
-          <h3>Live show status</h3>
-          <p id="live-show-status" role="status">Live song information is unavailable right now.</p>
-          <p>Four singing faces take turns on the verses while the arches and tree light up in time.</p>
+      <div class="two-up" id="visit">
+        <div class="section-intro">
+          <h2 id="visit-title">Plan your visit</h2>
+          <p>The show opens <strong>Black Friday, <time datetime="2026-11-27">November 27, 2026</time></strong>.</p>
+          <p>Visit us in McSwain at <a id="show-address" href="https://www.google.com/maps/dir/?api=1&amp;destination=4874%20W%20State%20Highway%20140%2C%20Atwater%2C%20CA%2095301">4874 W State Highway 140, Atwater, CA 95301</a>.</p>
           <p><a href="/#events">Around Town calendar</a> · <a href="#collection-flyer">Toy-drive flyer</a></p>
         </div>
-        <div id="request" hidden>
+        <div id="request">
           <h3 id="picker-title">Request a song</h3>
-          <p>Choose a song for the lights. Requests play in order, and you can send one every 15 minutes.</p>
+          <p id="request-access-help">In the Around Town app, open <strong>Toy drop-offs</strong>, select our holiday show, then tap <strong>Organizer details</strong> to open the playlist.</p>
           <form id="song-form" hidden>
             <label for="song">Choose a song</label>
             <select id="song" required><option value="">Select from the show playlist</option></select>
             <button class="button primary" type="submit" disabled>Send request</button>
+            <p>Requests play in order. You can send one every 15 minutes.</p>
           </form>
           <p id="picker-status" role="status" aria-live="polite"></p>
         </div>
@@ -177,7 +182,7 @@
     </section>
 
     <section class="closing section" aria-labelledby="making-title">
-      <div><h2 id="making-title">Behind the lights</h2><p>Some of our favorite songs were set up for lights we no longer use. ChatGPT helped us bring them back and add animations of our own.</p></div>
+      <div><h2 id="making-title">Behind the lights</h2><p>Our four singing faces trade verses while the arches and tree follow the beat. ChatGPT helped us time the faces to the lyrics and bring back songs we’d programmed for our old lights.</p></div>
       <a class="button quiet" href="/toydrive/how-it-was-made/">How we made the show</a>
     </section>
   </main>

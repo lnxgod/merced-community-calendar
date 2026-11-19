@@ -1,10 +1,10 @@
 const requestSection = document.getElementById('request');
-const requestShortcut = document.getElementById('request-shortcut');
-const requestNotice = document.getElementById('request-notice');
+const requestAccessHelp = document.getElementById('request-access-help');
 const invitePattern = /^[A-Za-z0-9_-]{43}$/;
 const visitorPattern = /^[a-f0-9]{32}$/;
 const visitorKey = 'around-town-roadtree-visitor';
 const cooldownKey = 'around-town-roadtree-cooldown';
+const inviteKey = 'around-town-holiday-app-invite';
 const title = document.getElementById('picker-title');
 const form = document.getElementById('song-form');
 const song = document.getElementById('song');
@@ -18,6 +18,19 @@ function readLocal(key) {
 function writeLocal(key, value) {
   try { localStorage.setItem(key, value); } catch {
     // The current page keeps its visitor ID even if the browser blocks storage.
+  }
+}
+
+function readInvite() {
+  try { return sessionStorage.getItem(inviteKey) ?? ''; } catch { return ''; }
+}
+
+function saveInvite(invite) {
+  try {
+    if (invite) sessionStorage.setItem(inviteKey, invite);
+    else sessionStorage.removeItem(inviteKey);
+  } catch {
+    // The current app link still works when the browser blocks storage.
   }
 }
 
@@ -58,35 +71,37 @@ function retrySeconds(response, data) {
 }
 
 async function showPicker(invite) {
-  const notice = requestNotice ?? status;
-  if (!requestSection) status.textContent = 'Checking the event link…';
+  status.textContent = requestSection ? 'Loading the playlist…' : 'Checking the event link…';
   let origin;
   let catalog;
   try {
     origin = configuredOrigin();
     catalog = await post(origin, 'catalog', { invite });
   } catch {
-    notice.textContent = 'Couldn’t load the playlist. Refresh to try again.';
+    status.textContent = 'Couldn’t load the playlist. Refresh to try again.';
     return;
   }
 
   if (!catalog.response.ok || !Array.isArray(catalog.data.tracks)) {
-    notice.textContent = [401, 403, 404, 410].includes(catalog.response.status)
-      ? ''
-      : 'Song requests are unavailable right now.';
+    if ([401, 403, 404, 410].includes(catalog.response.status)) {
+      if (requestSection) saveInvite(null);
+      status.textContent = requestSection ? 'This request link can’t open the playlist.' : '';
+    } else {
+      status.textContent = 'Song requests are unavailable right now.';
+    }
     return;
   }
 
   const tracks = catalog.data.tracks.filter((track) => typeof track?.id === 'string' && track.id
     && typeof track.title === 'string' && track.title);
   if (tracks.length === 0) {
-    notice.textContent = 'Song requests are unavailable right now.';
+    status.textContent = 'Song requests are unavailable right now.';
     return;
   }
 
   if (requestSection) {
-    requestSection.hidden = false;
-    requestShortcut.hidden = false;
+    saveInvite(invite);
+    requestAccessHelp.hidden = true;
   } else {
     title.textContent = 'Request a song';
     document.title = 'Request a song · Around Town';
@@ -142,9 +157,9 @@ async function showPicker(invite) {
       } else if ([401, 403, 404, 410].includes(response.status)) {
         form.hidden = true;
         if (requestSection) {
-          requestSection.hidden = true;
-          requestShortcut.hidden = true;
-          requestNotice.textContent = 'Song requests have closed.';
+          saveInvite(null);
+          requestAccessHelp.hidden = false;
+          status.textContent = 'This request link can’t open the playlist.';
         } else {
           title.textContent = 'Page unavailable';
           document.title = 'Page unavailable · Around Town';
@@ -169,7 +184,8 @@ async function showPicker(invite) {
 
 if (form) {
   const prefix = requestSection ? '#request=' : '#';
-  const invite = location.hash.startsWith(prefix) ? location.hash.slice(prefix.length) : '';
+  const fromAppLink = location.hash.startsWith(prefix);
+  const invite = fromAppLink ? location.hash.slice(prefix.length) : requestSection ? readInvite() : '';
   window.addEventListener('hashchange', () => {
     // Internal section links keep working during a visit. A new invitation is checked afresh.
     if (!requestSection || !location.hash || location.hash.startsWith(prefix)) location.reload();
