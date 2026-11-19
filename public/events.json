@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:17:12.663080+00:00",
+  "updatedAt": "2026-11-19T02:17:03.809621+00:00",
   "events": [
     {
       "id": "crafting-conversations-2026-11-18",
@@ -3813,6 +3813,237 @@
       "timeNote": "Check the host’s donation hours before visiting.",
       "sourceName": "Merced Police and Fire 2026 toy collection flyer",
       "sourceUrl": "https://losbanosenterprise.com/community/2026/merced-police-toy-collection/",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-radio-merced-2026",
+      "title": "Radio Merced",
+      "location": "514 W. 19th Street, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-village-terrace-2026",
+      "title": "Village Terrace Apartments",
+      "location": "3827 San Jose Avenue, Merced, CA 95348",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-merced-golf-country-club-2026",
+      "title": "Merced Golf & Country Club",
+      "location": "6333 N. Golf Road, Merced, CA 95340",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-jnt-auto-repair-2026",
+      "title": "JNT Auto Repair",
+      "location": "210 W. 15th Street, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-mix-bakery-2026",
+      "title": "Mix Bakery",
+      "location": "1110 W. 16th Street, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-garton-tractor-2026",
+      "title": "Garton Tractor",
+      "location": "700 State Highway 59, Merced, CA 95341",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-anberry-transitional-care-2026",
+      "title": "Anberry Transitional Care",
+      "location": "1000 W. Yosemite Avenue, Merced, CA 95341",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-raleys-2026",
+      "title": "Raley’s",
+      "location": "3550 N. G Street, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-travis-credit-union-2026",
+      "title": "Travis Credit Union",
+      "location": "1194 W. Olive Avenue, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-trevinos-2026",
+      "title": "Trevino’s Mexican Restaurant",
+      "location": "408 W. Main Street, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-village-landing-2026",
+      "title": "Village Landing Apartments",
+      "location": "3601 San Jose Avenue, Merced, CA 95348",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-the-villages-2026",
+      "title": "The Villages Apartments",
+      "location": "3342 M Street, Merced, CA 95348",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-merced-county-4h-2026",
+      "title": "Merced County 4-H Office",
+      "location": "2145 Wardrobe Avenue, Merced, CA 95341",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-state-farm-19th-street-2026",
+      "title": "State Farm — 19th Street",
+      "location": "830 W. 19th Street, Merced, CA 95340",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-elite-uniforms-2026",
+      "title": "Elite Uniforms",
+      "location": "451 W. 18th Street, Merced, CA",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-dollar-general-2026",
+      "title": "Dollar General",
+      "location": "1729 West Highway 140, Merced, CA 95341",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-northwood-village-2026",
+      "title": "Northwood Village Apartments",
+      "location": "255 Snowhaven Court, Merced, CA 95348",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-marketplace-2026",
+      "title": "Marketplace at Merced — Cops and Fire for Kids",
+      "location": "Marketplace at Merced, 851 W. Olive Avenue, Merced, CA 95348",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Ask mall staff where to find the Cops and Fire for Kids collection box and when it is accessible.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-healthy-house-2026",
+      "title": "Healthy House",
+      "location": "301 W. 18th Street, Merced, CA 95340",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-tractor-supply-2026",
+      "title": "Tractor Supply Co.",
+      "location": "882 S. Coffee Street, Merced, CA 95341",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
+      "endDate": "2026-11-30"
+    },
+    {
+      "id": "merced-cops-fire-uc-merced-ssha-2026",
+      "title": "UC Merced — SSHA Dean’s Suite",
+      "location": "UC Merced Classroom and Office Building 1, 5200 Lake Road, Merced, CA 95343",
+      "status": "accepting",
+      "city": "Merced",
+      "description": "Drop donations at the SSHA Dean’s Suite reception in Classroom and Office Building 1, room 259. Bring new, unwrapped toys for children from newborn through age 11 in Merced. Donations support the Cops and Fire for Kids toy drive.",
+      "timeNote": "Check donation hours and drop-off access with the host before visiting.",
+      "sourceName": "Merced Police and Fire 2026 toy collection flyer",
       "endDate": "2026-11-30"
     }
   ]
