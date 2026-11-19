@@ -19,9 +19,8 @@ export function Header({ onAbout, onSubscribe }) {
 export function Hero() {
   return <>
     <section className="hero"><div className="hero-copy"><h1>Good things happening<br className="desktop-break" /> close to home.</h1><p>Your community calendar for Merced, Atwater &amp; McSwain.</p><div className="hero-app"><a className="button app-download" href={googlePlayUrl}>Get it on Google Play<Icon name="external" size={18} /></a><p className="app-note">Free Android app · No ads · No account needed.<span>iPhone version coming soon.</span></p></div></div><img src={`${import.meta.env.BASE_URL}assets/valley.png`} alt="" className="valley-illustration valley-light" /><img src={`${import.meta.env.BASE_URL}assets/valley-dark.png`} alt="" className="valley-illustration valley-dark" /></section>
-    <nav className="holiday-links" aria-label="Hatzer family holiday projects">
-      <a href="/toydrive/">Hatzer Family Toy Drive</a>
-      <a href="/ChristmasShow/">GameChangers AI Christmas Light Show</a>
+    <nav className="holiday-links" aria-label="Hatzer family holidays">
+      <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show</a>
     </nav>
   </>;
 }

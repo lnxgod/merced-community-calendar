@@ -3,59 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#0b1714">
-  <meta name="description" content="Plan a visit to the GameChangers AI Christmas Light Show. Tune to 90.7 FM for the music and find out how to give to the Hatzer family toy drive.">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="GameChangers AI Christmas Light Show">
-  <meta property="og:description" content="Come see the Hatzer family’s lights, listen to the music on 90.7 FM, and help collect toys for local kids.">
-  <meta property="og:url" content="https://community.gamechangersai.org/ChristmasShow/">
-  <meta property="og:image" content="https://community.gamechangersai.org/assets/holiday/christmas-show-2026.webp">
-  <meta property="og:image:alt" content="The Hatzer family house lit in pink and blue above a multicolored fence in November 2026">
-  <title>GameChangers AI Christmas Light Show</title>
-  <link rel="canonical" href="https://community.gamechangersai.org/ChristmasShow/">
-  <link rel="icon" href="/assets/gamechangers-ai-logo.png">
-  <link rel="stylesheet" href="/assets/holiday/holiday.css">
-  <script type="module" src="/assets/holiday/dropoff.mjs"></script>
+  <title>GameChangers AI Toy Drive &amp; Holiday Lights Show</title>
+  <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
+  <script>
+    const sections = new Map([
+      ['#visit', '#visit'],
+      ['#visit-title', '#visit'],
+      ['#dropoff-details', '#give'],
+      ['#past-title', '#past-title'],
+      ['#making-title', '#making-title'],
+    ]);
+    location.replace('/toydrive/' + (sections.get(location.hash) ?? '#show'));
+  </script>
+  <meta http-equiv="refresh" content="0; url=/toydrive/#show">
 </head>
 <body>
-  <a class="skip" href="#main">Skip to content</a>
-  <header class="mast wrap">
-    <a class="brand" href="/"><img src="/assets/gamechangers-ai-logo.png" alt="" width="40" height="40"> <span>Around Town <small>by GameChangers AI</small></span></a>
-    <nav aria-label="Main navigation"><a href="/toydrive/">Toy drive</a><a href="/ChristmasShow/" aria-current="page">Christmas show</a><a href="https://gamechangersai.org/about.html">About us</a></nav>
-  </header>
-  <main id="main" class="wrap">
-    <section class="hero show-hero">
-      <div>
-        <h1><span class="hero-name">GameChangers AI</span> Christmas<br> Light Show</h1>
-        <p class="lede">We’re the Hatzer family. We set our lights to music for our holiday toy drive. This year, four singing faces take turns on the verses while the arches and tree light up in time.</p>
-        <div class="actions"><a class="button primary" href="https://gamechangers-holiday-lights.bill-hatzer.chatgpt.site/">Check show status</a><a class="button quiet" href="#visit">Plan your visit</a></div>
-      </div>
-      <figure class="hero-image show-photo">
-        <img src="/assets/holiday/christmas-show-2026.webp" alt="Pink and blue lights across the Hatzer family rooflines, above a multicolored fence" width="1215" height="745" fetchpriority="high">
-        <figcaption>Our house in November 2026</figcaption>
-      </figure>
-    </section>
-    <section class="give section" id="visit" aria-labelledby="visit-title">
-      <h2 id="visit-title">Plan your visit</h2>
-      <div class="two-up">
-        <div><h3>Listen from your car</h3><p>Tune your radio to <strong>90.7 FM</strong> to hear the song that goes with the lights. We’ll post show dates on Around Town.</p><a class="text-link" href="/#events">Visit the community calendar</a></div>
-        <div><h3>Bring a toy</h3><p>If you’d like to give, we’re collecting new, unwrapped toys for local kids.</p><p id="dropoff-details" class="dropoff" aria-live="polite">Toy drop-off details coming soon.</p><a class="text-link" href="/toydrive/#give">Other ways to give</a></div>
-      </div>
-    </section>
-    <section class="section past-shows" aria-labelledby="past-title">
-      <h2 id="past-title">Watch past shows</h2>
-      <p>These two songs are from our 2025 show. Both videos are on YouTube.</p>
-      <div class="process-grid past-grid">
-        <article><h3><a href="https://www.youtube.com/watch?v=-w8lki8Qyxg">Frosty the Snowman</a></h3></article>
-        <article><h3><a href="https://www.youtube.com/watch?v=VafvQbmLgjU">Mr. Grinch</a></h3></article>
-      </div>
-      <p class="past-link"><a class="text-link" href="https://www.youtube.com/playlist?list=PLrJCp4Kx33NO6ZdJ0N628hUjWaydDPEUb">Watch the 2024 show playlist</a></p>
-    </section>
-    <section class="closing section" aria-labelledby="making-title">
-      <div><h2 id="making-title">Behind the lights</h2><p>Some of our favorite songs were set up for lights we no longer use. ChatGPT helped us bring them back and add animations of our own.</p></div>
-      <a class="button quiet" href="/ChristmasShow/how-it-was-made/">How we made the show</a>
-    </section>
-  </main>
-  <footer class="wrap footer"><span>A community project from <a href="https://gamechangersai.org/">GameChangers AI</a></span><nav aria-label="Footer navigation"><a href="/#events">Community calendar</a><a href="/toydrive/">Toy drive</a></nav></footer>
+  <main><a href="/toydrive/#show">GameChangers AI Toy Drive &amp; Holiday Lights Show</a></main>
 </body>
 </html>
