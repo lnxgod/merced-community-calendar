@@ -1,6 +1,9 @@
 const requestSection = document.getElementById('request');
 const requestAccessHelp = document.getElementById('request-access-help');
 const invitePattern = /^[A-Za-z0-9_-]{43}$/;
+const entryPattern = /^[a-f0-9]{32}$/;
+const appInvitePrefix = '#request=';
+const holidayDropOffId = 'game-changers-ai-holiday-show-toy-drop-off';
 const visitorPattern = /^[a-f0-9]{32}$/;
 const visitorKey = 'around-town-roadtree-visitor';
 const cooldownKey = 'around-town-roadtree-cooldown-v3';
@@ -42,6 +45,20 @@ function saveInvite(invite) {
   } catch {
     // The current app link still works when the browser blocks storage.
   }
+}
+
+async function inviteFromDropOff(entry) {
+  const response = await fetch('/events.json', {
+    cache: 'no-cache', referrerPolicy: 'no-referrer', signal: AbortSignal.timeout?.(6000),
+  });
+  if (!response.ok) throw new Error('Toy drop-off details are unavailable');
+  const feed = await response.json();
+  const source = feed.dropOffLocations?.find(location => location.id === holidayDropOffId)?.sourceUrl;
+  if (!source) return '';
+  const link = new URL(source);
+  if (link.origin !== location.origin || link.pathname !== location.pathname ||
+      link.searchParams.get('vote') !== entry || !link.hash.startsWith(appInvitePrefix)) return '';
+  return link.hash.slice(appInvitePrefix.length);
 }
 
 function visitorId() {
@@ -192,13 +209,35 @@ async function showPicker(invite) {
   });
 }
 
-if (form) {
-  const prefix = requestSection ? '#request=' : '#';
-  const fromAppLink = location.hash.startsWith(prefix);
-  const invite = fromAppLink ? location.hash.slice(prefix.length) : requestSection ? readInvite() : '';
+async function openPicker() {
+  const prefix = requestSection ? appInvitePrefix : '#';
   window.addEventListener('hashchange', () => {
     // Internal section links keep working during a visit. A new invitation is checked afresh.
     if (!requestSection || !location.hash || location.hash.startsWith(prefix)) location.reload();
   });
-  if (invitePattern.test(invite)) await showPicker(invite);
+
+  // A tap on the in-page shortcut can change the hash while this module loads.
+  const initialHash = typeof originalHolidayVoteHash === 'string' ? originalHolidayVoteHash : location.hash;
+  const incomingHash = location.hash.startsWith(prefix) ? location.hash : initialHash;
+  const hasInvite = incomingHash.startsWith(prefix);
+  const entry = requestSection ? new URLSearchParams(location.search).get('vote') : null;
+  const fromApp = requestSection && (hasInvite || entry !== null);
+  let invite = hasInvite ? incomingHash.slice(prefix.length) : '';
+
+  if (fromApp) requestSection.scrollIntoView();
+  if (!invitePattern.test(invite) && entryPattern.test(entry ?? '')) {
+    status.textContent = 'Opening the playlist…';
+    try { invite = await inviteFromDropOff(entry); } catch {
+      status.textContent = 'Couldn’t load the playlist. Refresh to try again.';
+      return;
+    }
+  }
+  if (requestSection && !fromApp) invite = readInvite();
+  if (invitePattern.test(invite)) {
+    await showPicker(invite);
+  } else if (fromApp) {
+    status.textContent = 'This request link can’t open the playlist.';
+  }
 }
+
+if (form) void openPicker();

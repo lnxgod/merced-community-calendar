@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0b1714">
+  <meta name="referrer" content="no-referrer">
   <meta name="roadtree-api-origin" content="https://around-town-song-requests-api.bill-hatzer.chatgpt.site">
   <meta name="description" content="Visit the GameChangers AI holiday lights show, tune in to 90.7 FM, and give to the Hatzer family’s toy drive for kids in Merced County.">
   <meta property="og:type" content="website">
@@ -19,7 +20,8 @@
   <link rel="stylesheet" href="/roadtree/picker.css?v=4">
   <script type="module" src="/assets/holiday/dropoff.mjs?v=4"></script>
   <script type="module" src="/assets/holiday/show-status.mjs?v=5"></script>
-  <script type="module" src="/roadtree/picker.mjs?v=6"></script>
+  <script>const originalHolidayVoteHash = location.hash;</script>
+  <script type="module" src="/roadtree/picker.mjs?v=7"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -55,7 +57,7 @@
         <p class="lede">We’re the Hatzer family. Each Christmas, we set our lights to music and collect new toys for kids in Merced County. If you remember Team Charity Case, that’s us.</p>
         <div class="actions">
           <a class="button primary" href="https://www.charitycase.net/">Donate to the toy drive</a>
-          <a class="button quiet" href="#request">Request a song</a>
+          <a class="button quiet" href="#request">Vote for a song</a>
         </div>
         <nav class="drive-jumps" aria-label="Explore the toy drive and show"><a href="#story">Will’s story</a><a href="#timeline">Photos by year</a><a href="#videos">Past videos</a></nav>
       </div>
@@ -74,8 +76,8 @@
           <p><a href="/#events">Around Town calendar</a> · <a href="#collection-flyer">Toy-drive flyer</a></p>
         </div>
         <div id="request">
-          <h3 id="picker-title">Request a song</h3>
-          <p id="request-access-help">In the Around Town app, open <strong>Toy drop-offs</strong>, select our holiday show, then tap <strong>Organizer details</strong> to open the playlist.</p>
+          <h3 id="picker-title">Vote for a song</h3>
+          <p id="request-access-help">In the Around Town app, open <strong>Toy drop-offs</strong>, select <strong>GameChangers AI Christmas Light Show</strong>, then tap <strong>Organizer details</strong> to open the playlist.</p>
           <form id="song-form" hidden>
             <label for="song">Choose a song to vote for</label>
             <select id="song" required><option value="">Select from the show playlist</option></select>

@@ -37,6 +37,7 @@ ID_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9_-]{0,119}\Z")
 HOLIDAY_SHOW_DROP_OFF_ID = "game-changers-ai-holiday-show-toy-drop-off"
 HOLIDAY_SHOW_URL = "https://community.gamechangersai.org/toydrive/"
 APP_REQUEST_FRAGMENT = re.compile(r"request=[A-Za-z0-9_-]{43}")
+APP_REQUEST_QUERY = re.compile(r"vote=[a-f0-9]{32}")
 SONG_REQUEST_URL_PATTERN = re.compile(r"https://community\.gamechangersai\.org/roadtree/#[A-Za-z0-9_-]{43}")
 IMAGE_PATH_PATTERN = re.compile(r"assets/events/[a-z0-9][a-z0-9_-]*\.(?:jpg|jpeg|png|webp)\Z")
 IMAGE_FIELDS = {"src", "alt", "width", "height", "thumbnailSrc"}
@@ -169,8 +170,11 @@ def validate_drop_off_locations(locations: object) -> None:
             source = _source(location["sourceUrl"], f"{label} sourceUrl")
             if identifier == HOLIDAY_SHOW_DROP_OFF_ID or source.startswith(HOLIDAY_SHOW_URL):
                 parts = urlsplit(source)
-                has_request = parts.fragment.startswith("request=") or parts.query.startswith("request=")
-                if has_request and (identifier != HOLIDAY_SHOW_DROP_OFF_ID or source.partition("#")[0] != HOLIDAY_SHOW_URL
+                has_request = parts.fragment.startswith("request=") or parts.query.startswith(("request=", "vote="))
+                base = source.partition("#")[0]
+                app_url = base == HOLIDAY_SHOW_URL or (base.startswith(f"{HOLIDAY_SHOW_URL}?")
+                                                      and APP_REQUEST_QUERY.fullmatch(parts.query))
+                if has_request and (identifier != HOLIDAY_SHOW_DROP_OFF_ID or not app_url
                                     or not APP_REQUEST_FRAGMENT.fullmatch(parts.fragment)):
                     raise ValidationError(f"{label} sourceUrl must use the holiday show's app request link")
         if "songRequestUrl" in location:

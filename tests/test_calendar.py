@@ -144,10 +144,16 @@ class CalendarTests(unittest.TestCase):
         data = dict(catalog(), dropOffLocations=[location])
         self.assertIs(calendar.validate_catalog(data), data)
         self.assertEqual(calendar.build_ics(data), calendar.build_ics(catalog()))
+        fallback_url = f"{base}?vote={'a' * 32}#request={invite}"
+        fallback_data = dict(catalog(), dropOffLocations=[dict(location, sourceUrl=fallback_url)])
+        self.assertIs(calendar.validate_catalog(fallback_data), fallback_data)
         for changes in ({"id": "another-drop-off"}, {"sourceUrl": url[:-1]},
                         {"sourceUrl": url + "!"}, {"sourceUrl": url.replace("#", "?")},
                         {"sourceUrl": url.replace("toydrive/", "ChristmasShow/")},
-                        {"sourceUrl": url.replace("community.gamechangersai.org", "example.org")}):
+                        {"sourceUrl": url.replace("community.gamechangersai.org", "example.org")},
+                        {"sourceUrl": fallback_url.partition("#")[0]},
+                        {"sourceUrl": fallback_url.replace("vote=", "vote=!")},
+                        {"sourceUrl": fallback_url.replace("#", "&extra=1#")}):
             with self.subTest(changes=changes), self.assertRaises(calendar.ValidationError):
                 calendar.validate_catalog(dict(catalog(), dropOffLocations=[dict(location, **changes)]))
 
