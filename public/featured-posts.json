@@ -1,17 +1,17 @@
 {
   "posts": [
     {
-      "id": "castle-tree-lighting-weekend-2026-11-21",
-      "title": "Castle Air Museum Tree Lighting & Christmas Festival",
-      "summary": "Saturday, November 21, 4–8 p.m. in Atwater. See Santa, browse local vendors, and enjoy a tree lighting and toy giveaway for kids.",
+      "id": "merced-turkey-trot-weekend-2026-11-21",
+      "title": "Merced Turkey Trot",
+      "summary": "Saturday, November 21 at Lake Yosemite. Check-in opens at 9 a.m. Pacific. Bring a new, unwrapped toy to receive a raffle ticket.",
       "actionLabel": "View event details",
       "placements": ["events", "toy-drive-events"],
       "target": {
         "type": "event",
-        "id": "castle-tree-lighting-christmas-festival-2026-11-21"
+        "id": "merced-running-club-turkey-trot-2026-11-21"
       },
       "theme": "toy-drive",
-      "endsAt": "2026-11-21T20:00:00-08:00"
+      "endsAt": "2026-11-22T00:00:00-08:00"
     }
   ]
 }
