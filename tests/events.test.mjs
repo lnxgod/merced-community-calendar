@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import test from 'node:test';
 import { eventDateLabel, eventTime, localToday, pacificDateTime, stepMonth } from '../src/dates.js';
-import { eventMonths, eventOccursOnDate, filterEvents, isHalloweenCandyEvent, selectVisibleEvents } from '../src/events.js';
+import { eventMonths, eventOccursOnDate, filterEvents, isHalloweenCandyEvent, selectFeaturedEvent, selectVisibleEvents } from '../src/events.js';
 
 const event = (id, overrides = {}) => ({
   id, title: id, date: '2026-10-05', startTime: '10:00', endTime: '12:00',
@@ -29,6 +29,30 @@ test('an ongoing event expires exactly at its published end, without rebuilding 
   const records = [event('ongoing')];
   assert.deepEqual(ids(selectVisibleEvents(records, { now: at('2026-10-05T18:59:59Z') })), ['ongoing']);
   assert.deepEqual(selectVisibleEvents(records, { now: at('2026-10-05T19:00:00Z') }), []);
+});
+
+test('the featured slot uses the first active post whose event is available in its placement', () => {
+  const race = event('turkey-trot', { date: '2026-11-21', endTime: null });
+  const post = {
+    title: 'Merced Turkey Trot', placements: ['events', 'toy-drive-events'],
+    target: { type: 'event', id: race.id },
+    startsAt: '2026-11-20T08:00:00-08:00', endsAt: '2026-11-22T00:00:00-08:00',
+  };
+  const feed = { posts: [
+    null,
+    { ...post, endsAt: 'invalid' },
+    { ...post, target: { type: 'event', id: 'removed-event' } },
+    post,
+    { ...post, title: 'Lower priority' },
+  ] };
+  assert.equal(selectFeaturedEvent(feed, [race], { now: at('2026-11-20T15:59:59Z') }), null);
+  const now = at('2026-11-20T16:00:00Z');
+  assert.deepEqual(selectFeaturedEvent(feed, [race], { now }), { post, event: race });
+  assert.deepEqual(selectFeaturedEvent(feed, [race], { now, placement: 'toy-drive-events' }), { post, event: race });
+  assert.equal(selectFeaturedEvent(feed, [race], { now, placement: 'halloween-events' }), null);
+  assert.equal(selectFeaturedEvent(feed, [], { now }), null);
+  assert.equal(selectFeaturedEvent(null, [race], { now }), null);
+  assert.equal(selectFeaturedEvent(feed, [race], { now: at('2026-11-22T08:00:00Z') }), null);
 });
 
 test('unknown ends and untimed date placeholders remain through their Pacific date only', () => {

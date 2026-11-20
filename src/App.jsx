@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Header, Hero, Footer, SubscribeBand } from './components/Layout.jsx';
+import { Header, Hero, HolidayLinks, Footer, SubscribeBand } from './components/Layout.jsx';
 import Filters from './components/Filters.jsx';
 import Icon from './components/Icon.jsx';
 import EventList from './components/EventList.jsx';
@@ -8,7 +8,7 @@ import { selectDropOffLocations, validDropOffLocation } from './drop-offs.js';
 import MiniCalendar from './components/MiniCalendar.jsx';
 import { AboutDialog, EventDialog, SubscribeDialog } from './components/Dialogs.jsx';
 import { localToday, stepMonth } from './dates.js';
-import { eventMonths, filterEvents, selectVisibleEvents } from './events.js';
+import { eventMonths, filterEvents, selectFeaturedEvent, selectVisibleEvents } from './events.js';
 import { withEventImages } from './images.js';
 
 const DEFAULT_CONFIG = { published: false, icsUrl: 'https://community.gamechangersai.org/community.ics' };
@@ -23,6 +23,7 @@ function validEvent(event) {
 export default function App() {
   const [data, setData] = useState({ events: [], dropOffLocations: [], updatedAt: null });
   const [imageManifest, setImageManifest] = useState(null);
+  const [featuredFeed, setFeaturedFeed] = useState(null);
   const [config, setConfig] = useState(DEFAULT_CONFIG);
   const [status, setStatus] = useState('loading');
   const [configStatus, setConfigStatus] = useState('loading');
@@ -63,9 +64,13 @@ export default function App() {
     const abort = new AbortController();
     setStatus('loading');
     setImageManifest(null);
+    setFeaturedFeed(null);
     readJson(`${import.meta.env.BASE_URL}event-images.json`, abort.signal).then(manifest => {
       if (!abort.signal.aborted) setImageManifest(manifest);
     }).catch(() => { /* Optional images must never prevent the catalog from loading. */ });
+    readJson(`${import.meta.env.BASE_URL}featured-posts.json`, abort.signal).then(feed => {
+      if (!abort.signal.aborted) setFeaturedFeed(feed);
+    }).catch(() => { /* The calendar remains usable without a highlight. */ });
     Promise.allSettled([readJson(`${import.meta.env.BASE_URL}events.json`, abort.signal), readJson(`${import.meta.env.BASE_URL}calendar-config.json`, abort.signal)]).then(([eventsResult, configResult]) => {
       if (abort.signal.aborted) return;
       if (eventsResult.status === 'fulfilled' && Array.isArray(eventsResult.value.events)) {
@@ -90,6 +95,10 @@ export default function App() {
   const illustratedEvents = useMemo(() => withEventImages(data.events, imageManifest), [data.events, imageManifest]);
   const matchingEvents = useMemo(() => filterEvents(illustratedEvents, { city, category, query, halloweenOnly, toyDrive }), [illustratedEvents, city, category, query, halloweenOnly, toyDrive]);
   const visibleEvents = useMemo(() => selectVisibleEvents(matchingEvents, { now, month: browsingMonth, selectedDate, sort }), [matchingEvents, now, browsingMonth, selectedDate, sort]);
+  const featuredPlacement = toyDrive === 'events' ? 'toy-drive-events' : halloweenOnly ? 'halloween-events' : 'events';
+  const featured = status === 'ready' && upcoming && toyDrive !== 'drop-offs'
+    ? selectFeaturedEvent(featuredFeed, visibleEvents, { now, placement: featuredPlacement })
+    : null;
   function showUpcoming() { setBrowsingMonth(null); setSelectedDate(null); setSort('asc'); }
   function setMonth(value) {
     if (value === 'upcoming') showUpcoming();
@@ -102,6 +111,20 @@ export default function App() {
   const dropOffLocations = useMemo(() => selectDropOffLocations(data.dropOffLocations, { query, city, now }), [data.dropOffLocations, query, city, now]);
   const onAbout = () => setDialog({ type: 'about' });
   const onSubscribe = () => setDialog({ type: 'subscribe' });
+  const onSelectEvent = event => setDialog({ type: 'event', event });
   const onClose = () => setDialog(null);
-  return <><a href="#events" className="skip-link">Skip to events</a><div className="site-shell"><Header onAbout={onAbout} onSubscribe={onSubscribe} /><main><Hero /><div className="calendar-content" id="events"><Filters query={query} setQuery={setQuery} city={city} setCity={setCity} category={category} setCategory={setCategory} month={upcoming ? 'upcoming' : month} setMonth={setMonth} months={months} categories={categories} halloweenOnly={halloweenOnly} setHalloweenOnly={setHalloweenOnly} toggleHalloween={toggleHalloween} toyDrive={toyDrive} toggleToyDrive={toggleToyDrive} onReset={resetFilters} /><div className="calendar-layout">{toyDrive === 'drop-offs' ? <DropOffLocations locations={dropOffLocations} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /> : <><details className="mobile-date-picker"><summary><Icon name="calendar" size={18} />Choose a date<Icon name="down" size={16} /></summary><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /></details><EventList toyDrive={toyDrive} events={visibleEvents} month={month} upcoming={upcoming} showUpcoming={showUpcoming} selectedDate={selectedDate} clearDate={() => setSelectedDate(null)} sort={sort} setSort={setSort} onSelect={event => setDialog({ type: 'event', event })} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /><aside className="calendar-rail"><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /><SubscribeBand onSubscribe={onSubscribe} /></aside></>}</div></div></main><Footer onAbout={onAbout} onSubscribe={onSubscribe} /></div>{dialog?.type === 'event' ? <EventDialog event={withEventImages([dialog.event], imageManifest)[0]} onClose={onClose} /> : dialog?.type === 'about' ? <AboutDialog onClose={onClose} updatedAt={data.updatedAt} count={data.events.length} /> : dialog?.type === 'subscribe' ? <SubscribeDialog onClose={onClose} config={config} configStatus={configStatus} /> : null}</>;
+  return <><a href="#events" className="skip-link">Skip to events</a><div className="site-shell"><Header onAbout={onAbout} onSubscribe={onSubscribe} /><main><Hero /><div className="calendar-content" id="events">
+    {featured ? <section className="featured-event" aria-labelledby="featured-event-title">
+      <div>
+        <p className="featured-event-label">Featured event</p>
+        <h2 id="featured-event-title">{featured.post.title}</h2>
+        {typeof featured.post.summary === 'string' && featured.post.summary ? <p className="featured-event-summary">{featured.post.summary}</p> : null}
+      </div>
+      <button className="button" onClick={() => onSelectEvent(featured.event)}>
+        {typeof featured.post.actionLabel === 'string' && featured.post.actionLabel.trim() ? featured.post.actionLabel : 'View event details'}
+        <Icon name="right" size={18} />
+      </button>
+    </section> : null}
+    <HolidayLinks />
+    <Filters query={query} setQuery={setQuery} city={city} setCity={setCity} category={category} setCategory={setCategory} month={upcoming ? 'upcoming' : month} setMonth={setMonth} months={months} categories={categories} halloweenOnly={halloweenOnly} setHalloweenOnly={setHalloweenOnly} toggleHalloween={toggleHalloween} toyDrive={toyDrive} toggleToyDrive={toggleToyDrive} onReset={resetFilters} /><div className="calendar-layout">{toyDrive === 'drop-offs' ? <DropOffLocations locations={dropOffLocations} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /> : <><details className="mobile-date-picker"><summary><Icon name="calendar" size={18} />Choose a date<Icon name="down" size={16} /></summary><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /></details><EventList toyDrive={toyDrive} events={visibleEvents} month={month} upcoming={upcoming} showUpcoming={showUpcoming} selectedDate={selectedDate} clearDate={() => setSelectedDate(null)} sort={sort} setSort={setSort} onSelect={onSelectEvent} status={status} onRetry={() => setRetry(value => value + 1)} onReset={resetFilters} /><aside className="calendar-rail"><MiniCalendar month={month} setMonth={setMonth} events={matchingEvents} selectedDate={selectedDate} setSelectedDate={selectDate} today={today} /><SubscribeBand onSubscribe={onSubscribe} /></aside></>}</div></div></main><Footer onAbout={onAbout} onSubscribe={onSubscribe} /></div>{dialog?.type === 'event' ? <EventDialog event={withEventImages([dialog.event], imageManifest)[0]} onClose={onClose} /> : dialog?.type === 'about' ? <AboutDialog onClose={onClose} updatedAt={data.updatedAt} count={data.events.length} /> : dialog?.type === 'subscribe' ? <SubscribeDialog onClose={onClose} config={config} configStatus={configStatus} /> : null}</>;
 }

@@ -6,7 +6,7 @@ Website: https://community.gamechangersai.org
 
 Daily upkeep and recovery: [maintenance guide](docs/maintenance.md). New maintainers and automated tasks should read [AGENTS.md](AGENTS.md) before updating or synchronizing the calendar.
 
-For in-app promotions, see [Featured posts](docs/featured-posts.md).
+For website and app highlights, see [Featured posts](docs/featured-posts.md).
 
 Toy drives: [shared feed and drop-off directory](docs/toy-drives.md). The **Toy drop-offs** button opens a separate location directory, including the McSwain GameChangers AI Holiday Lights Show drop-off. Locations do not repeat as calendar events; **Toy-drive events** filters scheduled shows, fundraisers and distributions.
 

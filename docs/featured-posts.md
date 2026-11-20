@@ -2,6 +2,8 @@
 
 Edit [public/featured-posts.json](../public/featured-posts.json) and publish it through the existing website workflow. Apps with featured-post support check this file when they refresh. An empty `posts` array keeps every slot empty. The first active, valid post in each placement gets the slot.
 
+The website shows the first active event-target post above the calendar filters for the selected upcoming events view. The featured event must match the current filters and still be available in the catalog. The card opens the existing event details.
+
 Use one title, one short sentence and one action. The app formats the card with a choice of three accents and optional artwork. Supply a landscape photo or illustration with a centered subject and descriptive alt text. A roughly 12:5 crop works across phone sizes.
 
 | Field | Value |

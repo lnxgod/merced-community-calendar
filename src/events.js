@@ -56,3 +56,17 @@ export function selectVisibleEvents(events, { now = new Date(), month = null, se
         : chronological * (sort === 'desc' ? -1 : 1);
     });
 }
+
+export function selectFeaturedEvent(feed, upcomingEvents, { now = new Date(), placement = 'events' } = {}) {
+  if (!Array.isArray(feed?.posts)) return null;
+  for (const post of feed.posts) {
+    if (post?.target?.type !== 'event' || typeof post.title !== 'string' || !post.title.trim()
+      || !Array.isArray(post.placements) || !post.placements.includes(placement)) continue;
+    const starts = post.startsAt == null ? -Infinity : Date.parse(post.startsAt);
+    const ends = post.endsAt == null ? Infinity : Date.parse(post.endsAt);
+    if (!(starts <= now && now < ends)) continue;
+    const event = upcomingEvents.find(candidate => candidate.id === post.target.id);
+    if (event) return { post, event };
+  }
+  return null;
+}

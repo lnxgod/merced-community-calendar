@@ -17,12 +17,12 @@ export function Header({ onAbout, onSubscribe }) {
   </header>;
 }
 export function Hero() {
-  return <>
-    <section className="hero"><div className="hero-copy"><h1>Good things happening<br className="desktop-break" /> close to home.</h1><p>Your community calendar for Merced, Atwater &amp; McSwain.</p><div className="hero-app"><a className="button app-download" href={googlePlayUrl}>Get it on Google Play<Icon name="external" size={18} /></a><p className="app-note">Free Android app · No ads · No account needed.<span>iPhone version coming soon.</span></p></div></div><img src={`${import.meta.env.BASE_URL}assets/valley.png`} alt="" className="valley-illustration valley-light" /><img src={`${import.meta.env.BASE_URL}assets/valley-dark.png`} alt="" className="valley-illustration valley-dark" /></section>
-    <nav className="holiday-links" aria-label="Hatzer family holidays">
-      <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show</a>
-    </nav>
-  </>;
+  return <section className="hero"><div className="hero-copy"><h1>Good things happening<br className="desktop-break" /> close to home.</h1><p>Your community calendar for Merced, Atwater &amp; McSwain.</p><div className="hero-app"><a className="button app-download" href={googlePlayUrl}>Get it on Google Play<Icon name="external" size={18} /></a><p className="app-note">Free Android app · No ads · No account needed.<span>iPhone version coming soon.</span></p></div></div><img src={`${import.meta.env.BASE_URL}assets/valley.png`} alt="" className="valley-illustration valley-light" /><img src={`${import.meta.env.BASE_URL}assets/valley-dark.png`} alt="" className="valley-illustration valley-dark" /></section>;
+}
+export function HolidayLinks() {
+  return <nav className="holiday-links" aria-label="Hatzer family holidays">
+    <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show</a>
+  </nav>;
 }
 export function SubscribeBand({ onSubscribe }) {
   return <section className="subscribe-band"><h2>Take your town with you.</h2><p>Subscribe once. See new events<br className="wide-rail-break" /> in your calendar.</p><button className="button button-light" onClick={onSubscribe}><Icon name="calendar" />Subscribe to calendar</button></section>;
