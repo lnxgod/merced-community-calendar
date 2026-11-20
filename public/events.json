@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:14:58.469286+00:00",
+  "updatedAt": "2026-11-20T16:20:33.935288+00:00",
   "events": [
     {
       "id": "life-balance-free-wash-weekend-2026-11-20",
@@ -1009,10 +1009,9 @@
       "description": "Ukulele group jam.",
       "startTime": "11:30",
       "endTime": "12:30",
-      "sourceUrl": "https://www.artsmerced.org/events-list",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https-369df-dsl29-939b2-yt7bz-3dksd-cdfn9",
       "sourceName": "Merced County Arts Council / The MAC",
-      "id": "bear-creek-ukulele-society-group-jam-2026-11-28",
-      "timeNote": "Schedule unconfirmed: this session is no longer on the organizer’s current event calendar, and its detail page was unavailable when checked October 10, 2026. Cancellation has not been confirmed; check the organizer before making plans."
+      "id": "bear-creek-ukulele-society-group-jam-2026-11-28"
     },
     {
       "id": "drop-in-digital-help-merced-library-2026-11-28",
@@ -2812,10 +2811,24 @@
       "description": "Ukulele group jam.",
       "startTime": "11:30",
       "endTime": "13:30",
-      "sourceUrl": "https://www.artsmerced.org/events-list",
+      "sourceUrl": "https://www.artsmerced.org/events-list/https-369df-dsl29-939b2-yt7bz-3dksd-cdfn9-9jkg3",
       "sourceName": "Merced County Arts Council / The MAC",
-      "id": "bear-creek-ukulele-society-group-jam-2026-12-19",
-      "timeNote": "Schedule unconfirmed: this session is no longer on the organizer’s current event calendar, and its detail page was unavailable when checked October 10, 2026. Cancellation has not been confirmed; check the organizer before making plans."
+      "id": "bear-creek-ukulele-society-group-jam-2026-12-19"
+    },
+    {
+      "id": "christmas-artwater-old-town-atwater-2026-12-19",
+      "title": "Christmas ArtWater — Old Town Atwater",
+      "date": "2026-12-19",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "city": "Atwater",
+      "location": "Broadway Avenue and Third Street, Downtown Atwater, CA 95301",
+      "category": "Markets",
+      "description": "A community arts event with local artists, craft vendors, food, live music and activities. The organizer also lists a local toy drive at the event. Santa may visit.",
+      "cost": "The organizer did not publish an admission price. Food and vendor purchases cost extra.",
+      "toyDriveType": "event",
+      "sourceName": "Old Town Atwater — public calendar and event flyer",
+      "sourceUrl": "https://www.instagram.com/oldtownatwater/p/Df8CGCWEqgR/"
     },
     {
       "id": "drop-in-digital-help-merced-library-2026-12-19",
