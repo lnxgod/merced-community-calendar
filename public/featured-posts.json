@@ -1,3 +1,17 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "castle-tree-lighting-weekend-2026-11-21",
+      "title": "Castle Air Museum Tree Lighting & Christmas Festival",
+      "summary": "Saturday, November 21, 4–8 p.m. in Atwater. See Santa, browse local vendors, and enjoy a tree lighting and toy giveaway for kids.",
+      "actionLabel": "View event details",
+      "placements": ["events", "toy-drive-events"],
+      "target": {
+        "type": "event",
+        "id": "castle-tree-lighting-christmas-festival-2026-11-21"
+      },
+      "theme": "toy-drive",
+      "endsAt": "2026-11-21T20:00:00-08:00"
+    }
+  ]
 }
