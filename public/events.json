@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:06:38.884555+00:00",
+  "updatedAt": "2026-11-19T16:08:26-08:00",
   "events": [
     {
       "title": "Atwater Flea & Farmers Market",
@@ -507,11 +507,12 @@
       "city": "Atwater",
       "location": "Moe's Sidekicks, 1279 Broadway Avenue, Atwater, CA",
       "category": "Festivals & community",
-      "description": "Bring the family for an obstacle course and games, arts and crafts, and kicking fun. Enter a raffle for a chance to win prizes from local businesses. Adults can reserve a free 15-minute chair or table massage. For massage reservations, email Moessidekicks@gmail.com or message Moe's Sidekicks Martial Arts on Facebook.",
+      "description": "Bring the family for an obstacle course and games, arts and crafts, and kicking fun. Enter a raffle for a chance to win prizes from local businesses. Adults can reserve a free 15-minute chair or table massage. For massage reservations, email Moessidekicks@gmail.com or message Moe's Sidekicks Martial Arts on Facebook. Game Changers AI will accept toy donations at Saturday’s event.",
       "cost": "Free community event.",
       "timeNote": "Reservations are required for adult massages only. Choose a massage arrival window of 11 AM–noon, noon–1 PM, 1–2 PM or 2–3 PM.",
       "sourceName": "Moe's Sidekicks Taekwondo",
-      "sourceUrl": "https://moessidekickstkd.com/#upcoming-events"
+      "sourceUrl": "https://moessidekickstkd.com/#upcoming-events",
+      "toyDriveType": "event"
     },
     {
       "id": "wbfmi-turkey-giveaway-merced-2026-11-21",
