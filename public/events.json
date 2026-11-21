@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:00:57.225065+00:00",
+  "updatedAt": "2026-11-21T16:10:00.570963+00:00",
   "events": [
     {
       "id": "life-balance-free-wash-weekend-2026-11-21",
@@ -489,6 +489,20 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18536&month=11&year=2026&day=7&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "friendship-baptist-thanksgiving-food-box-giveaway-merced-2026-11-24",
+      "title": "Free Thanksgiving Food Box Giveaway — Friendship Baptist Church",
+      "date": "2026-11-24",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "Friendship Missionary Baptist Church, 668 S Street, Merced, CA",
+      "category": "Community services",
+      "description": "Friendship Missionary Baptist Church is giving away Thanksgiving food boxes at this free community event. The flyer does not specify registration or eligibility requirements.",
+      "cost": "Free.",
+      "sourceName": "Friendship Missionary Baptist Church — public organizer flyer",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=122322442730182618&set=a.122095120796182618"
     },
     {
       "id": "kids-discovery-rhythm-play-2026-11-24",
