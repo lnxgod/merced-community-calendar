@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:20:33.935288+00:00",
+  "updatedAt": "2026-11-20T23:24:55.639550-08:00",
   "events": [
     {
       "id": "life-balance-free-wash-weekend-2026-11-20",
@@ -2110,6 +2110,21 @@
       "cost": "$55 per participant. Register through Merced College Community Education. See the class registration page for current availability."
     },
     {
+      "id": "a-christmas-adventure-bloss-house-2026-12-10",
+      "title": "A Christmas Adventure at the Bloss House",
+      "date": "2026-12-10",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "city": "Atwater",
+      "location": "The Bloss Mansion, 1020 Cedar Avenue, Atwater, CA 95301",
+      "category": "Arts & theatre",
+      "description": "Atwater and Buhach Colony Theatre bring A Christmas Carol to life in a guided theatrical tour of the historic Bloss House. Choose a specific timed ticket on Eventbrite.",
+      "sourceUrl": "https://www.eventbrite.com/e/a-christmas-adventure-tickets-2005164076731",
+      "sourceName": "A/BC Productions (Atwater & Buhach Colony Theatre)",
+      "timeNote": "The start shown is the first ticketed tour of the day. Check Eventbrite for additional departures and availability.",
+      "cost": "$18 per person. Choose a timed ticket on Eventbrite and check the final total."
+    },
+    {
       "id": "conversation-circles-merced-library-2026-12-11",
       "title": "Conversation Circles — Merced Main Library",
       "date": "2026-12-11",
@@ -2151,6 +2166,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18477&month=11&year=2026&day=7&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "a-christmas-adventure-bloss-house-2026-12-11",
+      "title": "A Christmas Adventure at the Bloss House",
+      "date": "2026-12-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "The Bloss Mansion, 1020 Cedar Avenue, Atwater, CA 95301",
+      "category": "Arts & theatre",
+      "description": "Atwater and Buhach Colony Theatre bring A Christmas Carol to life in a guided theatrical tour of the historic Bloss House. Choose a specific timed ticket on Eventbrite.",
+      "sourceUrl": "https://www.eventbrite.com/e/a-christmas-adventure-tickets-2005164076731",
+      "sourceName": "A/BC Productions (Atwater & Buhach Colony Theatre)",
+      "timeNote": "The start shown is the first ticketed tour of the day. Check Eventbrite for additional departures and availability.",
+      "cost": "$18 per person. Choose a timed ticket on Eventbrite and check the final total."
     },
     {
       "id": "its-a-wonderful-life-merced-2026-12-11",
@@ -2253,6 +2283,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19296&month=11&year=2026&day=7&calType=0"
     },
     {
+      "id": "a-christmas-adventure-bloss-house-2026-12-12",
+      "title": "A Christmas Adventure at the Bloss House",
+      "date": "2026-12-12",
+      "startTime": "17:40",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "The Bloss Mansion, 1020 Cedar Avenue, Atwater, CA 95301",
+      "category": "Arts & theatre",
+      "description": "Atwater and Buhach Colony Theatre bring A Christmas Carol to life in a guided theatrical tour of the historic Bloss House. Choose a specific timed ticket on Eventbrite.",
+      "sourceUrl": "https://www.eventbrite.com/e/a-christmas-adventure-tickets-2005164076731",
+      "sourceName": "A/BC Productions (Atwater & Buhach Colony Theatre)",
+      "timeNote": "The start shown is the first ticketed tour of the day. Check Eventbrite for additional departures and availability.",
+      "cost": "$18 per person. Choose a timed ticket on Eventbrite and check the final total."
+    },
+    {
       "title": "Mary Poppins — Playhouse Merced",
       "date": "2026-12-12",
       "startTime": "19:30",
@@ -2326,6 +2371,21 @@
       "sourceName": "Kids Discovery Station",
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/story-time-and-puppet-theatre-2026-11-08-13-00",
       "timeNote": "This date and full session time are explicitly listed in the organizer’s Other dates view. Check the organizer for changes."
+    },
+    {
+      "id": "a-christmas-adventure-bloss-house-2026-12-13",
+      "title": "A Christmas Adventure at the Bloss House",
+      "date": "2026-12-13",
+      "startTime": "13:00",
+      "endTime": null,
+      "city": "Atwater",
+      "location": "The Bloss Mansion, 1020 Cedar Avenue, Atwater, CA 95301",
+      "category": "Arts & theatre",
+      "description": "Atwater and Buhach Colony Theatre bring A Christmas Carol to life in a guided theatrical tour of the historic Bloss House. Choose a specific timed ticket on Eventbrite.",
+      "sourceUrl": "https://www.eventbrite.com/e/a-christmas-adventure-tickets-2005164076731",
+      "sourceName": "A/BC Productions (Atwater & Buhach Colony Theatre)",
+      "timeNote": "The start shown is the first ticketed tour of the day. Check Eventbrite for additional departures and availability.",
+      "cost": "$18 per person. Choose a timed ticket on Eventbrite and check the final total."
     },
     {
       "title": "Mary Poppins — Playhouse Merced",
