@@ -19,7 +19,7 @@ if (details) {
     if (dropoff) {
       const today = new Intl.DateTimeFormat('sv-SE', { timeZone: 'America/Los_Angeles' }).format(new Date());
       if (dropoff.status === 'closed' || (dropoff.endDate && dropoff.endDate < today)) {
-        details.textContent = 'Toy collection has ended.';
+        details.textContent = 'Toy drop-offs at our house have ended. You can still donate online.';
       } else {
         const start = formatDate(dropoff.startDate);
         const end = formatDate(dropoff.endDate);
