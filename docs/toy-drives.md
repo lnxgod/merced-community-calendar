@@ -6,7 +6,7 @@ The website and both Around Town mobile apps use the same public `events.json` c
 
 Maintain the optional top-level `dropOffLocations` array in `public/events.json`. It is a directory, not a set of daily occurrences. Locations appear only after choosing **Toy drop-offs**. They are excluded from the ordinary event list, calendar grid, ICS subscription feed and Google event reconciliation. Do not generate daily events, all-day spans or recurrence rules for a collection box.
 
-The GameChangers AI Christmas Light Show drop-off (`game-changers-ai-holiday-show-toy-drop-off`) lists the owner-approved McSwain street address and November 27 through December 11, 2026. The [combined toy drive and lights page](https://community.gamechangersai.org/toydrive/) gives directions, the show's official opening date, and the 90.7 FM frequency. The collection end date applies to toy drop-offs.
+The GameChangers AI Christmas Light Show drop-off (`game-changers-ai-holiday-show-toy-drop-off`) lists the owner-approved McSwain street address and November 27 through December 11, 2026. The [combined toy drive and lights page](https://community.gamechangersai.org/toydrive/) gives directions, the show's official opening date, and the 103.5 FM frequency. The collection end date applies to toy drop-offs.
 
 Each directory record supports:
 
