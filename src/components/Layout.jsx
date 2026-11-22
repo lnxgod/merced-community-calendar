@@ -21,7 +21,7 @@ export function Hero() {
 }
 export function HolidayLinks() {
   return <nav className="holiday-links" aria-label="Hatzer family holidays">
-    <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show</a>
+    <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show · 103.5&nbsp;FM</a>
   </nav>;
 }
 export function SubscribeBand({ onSubscribe }) {
