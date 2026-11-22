@@ -1,3 +1,5 @@
+import { filmFor, playlist } from './show-films.mjs';
+
 const status = document.getElementById('live-show-status');
 const nextSong = document.getElementById('next-song');
 const lineup = document.getElementById('upcoming-songs');
@@ -10,6 +12,30 @@ const freshnessMs = 90_000;
 let activeRequest;
 let expiryTimer;
 const lastList = new WeakMap();
+const current = document.getElementById('play-current');
+const screen = document.getElementById('film-screen');
+const caption = document.getElementById('film-caption');
+let liveFilm;
+
+function playHere(event, film) {
+  if (!screen || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  const embed = new URL(film ? '/embed/' + film.id : '/embed/videoseries', 'https://www.youtube-nocookie.com');
+  embed.searchParams.set('list', playlist);
+  embed.searchParams.set('autoplay', '1');
+  embed.searchParams.set('playsinline', '1');
+  const frame = document.createElement('iframe');
+  frame.src = embed.href;
+  frame.title = film?.title ?? '2026 Hatzer Holiday Lights playlist';
+  frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+  frame.referrerPolicy = 'strict-origin-when-cross-origin';
+  frame.allowFullscreen = true;
+  screen.replaceChildren(frame);
+  caption.textContent = film ? 'Playing here from the beginning · ' + film.title : 'Playing here · 2026 Hatzer Holiday Lights';
+}
+
+document.getElementById('play-playlist')?.addEventListener('click', event => playHere(event, null));
+current?.addEventListener('click', event => { if (liveFilm) playHere(event, liveFilm); });
 
 function publicTitles(values) {
   return Array.isArray(values) ? values.filter(title => typeof title === 'string' && title.trim()).slice(0, 5) : [];
@@ -51,6 +77,18 @@ function display(report) {
   const message = report ? `${label} · ${report.currentTitle}` : unavailable;
   if (status.textContent !== message) status.textContent = message;
   status.toggleAttribute('data-playing', playing);
+  const id = playing && filmFor(report.currentTitle);
+  liveFilm = id ? { id, title: report.currentTitle } : null;
+  if (current) {
+    current.hidden = !liveFilm;
+    if (liveFilm) {
+      current.href = 'https://www.youtube.com/watch?v=' + id + '&list=' + playlist;
+      current.setAttribute('aria-label', 'Play ' + liveFilm.title + ' here from the beginning');
+    } else {
+      current.removeAttribute('href');
+      current.removeAttribute('aria-label');
+    }
+  }
   const upcoming = publicTitles(report?.upcomingTitles ?? [report?.nextTitle]);
   if (lineup) {
     renderList(lineup, upcoming);
@@ -90,10 +128,11 @@ async function refresh() {
   const timeout = setTimeout(() => request.abort(), 8000);
   try {
     const response = await fetch(endpoint, { cache: 'no-store', credentials: 'omit', signal: request.signal });
-    const report = response.ok ? await response.json() : null;
+    if (!response.ok) return;
+    const report = await response.json();
     if (activeRequest === request) showReport(report);
   } catch {
-    if (activeRequest === request) showReport(null);
+    // The last valid observation already has an expiry timer. One failed poll can arrive mid-song.
   } finally {
     clearTimeout(timeout);
     if (activeRequest === request) activeRequest = null;

@@ -38,35 +38,20 @@ strong { color: var(--ink); }
 .mast nav a { display: inline-flex; align-items: center; min-height: 2.75rem; text-decoration: none; font-weight: 500; }
 .mast nav a:hover, .mast [aria-current='page'], .footer a:hover { color: var(--accent); }
 
-.show-status { border-bottom: 1px solid var(--line); }
-.show-status summary {
-  display: grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
-  align-items: center;
-  gap: .1rem 1rem;
-  min-height: 3rem;
-  padding: .5rem .25rem;
-  list-style: none;
-  cursor: pointer;
-}
-.show-status summary::-webkit-details-marker { display: none; }
-.show-status summary::after {
-  content: '';
-  width: .5rem;
-  height: .5rem;
-  margin-inline: .5rem;
-  border-right: 2px solid var(--muted);
-  border-bottom: 2px solid var(--muted);
-  transform: rotate(45deg);
-}
-.show-status[open] summary::after { transform: rotate(225deg); }
-.show-status summary:is(:hover, :focus-visible) strong { color: var(--accent); }
-.show-status summary:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
-#live-show-status, .show-status-details { color: var(--muted); overflow-wrap: anywhere; }
+.watch-layout { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(15rem, 1fr); gap: clamp(1rem, 3vw, 2.5rem); margin-top: 1rem; align-items: start; }
+.watch-lineup { border-inline-start: 2px solid var(--line); padding-inline-start: 1.2rem; }
+.watch-lineup > * + *, .watch-films > * + * { margin-top: .7rem; }
+.film-screen { position: relative; display: grid; place-items: center; aspect-ratio: 16/9; overflow: hidden; background: #050b08; border-radius: .7rem; }
+.film-screen img, .film-screen iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.film-screen img { object-fit: cover; opacity: .64; }
+.film-screen a { position: relative; }
+.watch-layout [hidden] { display: none; }
+#film-caption, #live-show-status { color: var(--muted); overflow-wrap: anywhere; }
 #live-show-status[data-playing] { color: var(--accent); }
-.show-status-details { padding: .25rem .25rem .9rem; }
-.show-status-details p + p { margin-top: .25rem; }
-.show-lineups { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); column-gap: 2.5rem; max-width: 52rem; }
+@media (max-width: 720px) {
+  .watch-layout { grid-template-columns: minmax(0, 1fr); }
+  .watch-lineup { padding: 1rem 0 0; border-inline-start: 0; border-top: 1px solid var(--line); }
+}
 .song-lineup { max-width: 36rem; padding-bottom: .8rem; }
 .song-lineup ol { padding-inline-start: 1.75rem; margin: .25rem 0 0; }
 .song-lineup p { margin-top: .5rem; font-size: .94rem; }
@@ -155,9 +140,6 @@ h3 { font-size: clamp(1.22rem, 2.4vw, 1.6rem); letter-spacing: -.025em; line-hei
 }
 
 @media (max-width: 490px) {
-  .show-status summary { grid-template-columns: minmax(0, 1fr) auto; }
-  #live-show-status { grid-column: 1; font-size: .92rem; }
-  .show-status summary::after { grid-column: 2; grid-row: 1 / 3; }
   .mast { flex-wrap: wrap; gap: .4rem; padding-bottom: .5rem; }
   .mast nav { width: 100%; justify-content: space-between; }
   .mast nav a { font-size: .91rem; }
