@@ -1,4 +1,4 @@
-import { filmFor, playlist } from './show-films.mjs';
+import { filmFor, films, playlist } from './show-films.mjs?v=2026-17';
 
 const status = document.getElementById('live-show-status');
 const nextSong = document.getElementById('next-song');
@@ -16,6 +16,20 @@ const current = document.getElementById('play-current');
 const screen = document.getElementById('film-screen');
 const caption = document.getElementById('film-caption');
 let liveFilm;
+const choice = document.getElementById('film-choice');
+const playChoice = document.getElementById('play-choice');
+const watchUrl = id => 'https://www.youtube.com/watch?v=' + id + '&list=' + playlist;
+
+if (choice && playChoice && films.length) {
+  for (const [title, id] of films) choice.add(new Option(title, id));
+  const updateChoice = () => { playChoice.href = watchUrl(choice.value); };
+  choice.addEventListener('change', updateChoice);
+  updateChoice();
+  playChoice.addEventListener('click', event => playHere(event, {
+    title: choice.selectedOptions[0].text, id: choice.value
+  }));
+  document.getElementById('film-picker').hidden = false;
+}
 
 function playHere(event, film) {
   if (!screen || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
@@ -82,7 +96,7 @@ function display(report) {
   if (current) {
     current.hidden = !liveFilm;
     if (liveFilm) {
-      current.href = 'https://www.youtube.com/watch?v=' + id + '&list=' + playlist;
+      current.href = watchUrl(id);
       current.setAttribute('aria-label', 'Play ' + liveFilm.title + ' here from the beginning');
     } else {
       current.removeAttribute('href');
