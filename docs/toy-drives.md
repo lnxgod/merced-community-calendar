@@ -6,7 +6,7 @@ The website and both Around Town mobile apps use the same public `events.json` c
 
 Maintain the optional top-level `dropOffLocations` array in `public/events.json`. It is a directory, not a set of daily occurrences. Locations appear only after choosing **Toy drop-offs**. They are excluded from the ordinary event list, calendar grid, ICS subscription feed and Google event reconciliation. Do not generate daily events, all-day spans or recurrence rules for a collection box.
 
-The GameChangers AI Christmas Light Show drop-off (`game-changers-ai-holiday-show-toy-drop-off`) lists the owner-approved McSwain street address and November 27 through December 11, 2026. The [combined toy drive and lights page](https://community.gamechangersai.org/toydrive/) gives directions, the show's official opening date, and the 103.5 FM frequency. The collection end date applies to toy drop-offs.
+The GameChangers AI Christmas Light Show drop-off (`game-changers-ai-holiday-show-toy-drop-off`) lists the owner-approved McSwain street address and November 27 through December 11, 2026. The lights run through January 1, 2027. The [combined toy drive and lights page](https://community.gamechangersai.org/toydrive/) gives directions and the 103.5 FM frequency.
 
 Each directory record supports:
 
@@ -23,6 +23,8 @@ Each directory record supports:
 The directory uses community and search filters only. Event categories, month/day controls and the calendar grid are hidden while it is selected. Share the [Toy drop-offs view](https://community.gamechangersai.org/?view=toy-drop-offs#events) to open the directory directly. Tap the published address of an accepting location to open Google Maps directions. Known addresses can be corrected in the feed; the app does not bundle a second maintained address list.
 
 The holiday show's **Organizer details** action in the app opens the record's `sourceUrl`. Use the combined page at `https://community.gamechangersai.org/toydrive/` with a `vote` query value and the `#request=<visitor invitation>` fragment. The query value lets the page recover the invitation from the matching public record if the browser drops the fragment. The public web directory links to the plain combined page and shows instructions for opening the picker from the app. The catalog and its visitor link are shareable. Use only the show’s visitor invitation here.
+
+The 2026 **Vote for a light show song** featured post opens the same organizer link from **Toy drop-offs** in the app through January 1, including after the collection listing disappears on December 12. Retain the directory record in the catalog through January 1 so the picker can recover a dropped fragment. If the visitor invitation changes during the season, update both the directory link and the featured post together.
 
 The 2026 Cops & Fire for Kids locations use the title prefix “Cops, Fire, and Kids” and share the organizer's public flyer through `sourceUrl`. The website labels the link **View flyer** and the app exposes it under **Organizer details**. Those locations stay visible through November 30 in Pacific time and then expire from the directory.
 

@@ -12,6 +12,24 @@
       },
       "theme": "toy-drive",
       "endsAt": "2026-11-22T00:00:00-08:00"
+    },
+    {
+      "id": "gamechangers-ai-christmas-light-show-2026",
+      "title": "GameChangers AI Christmas Light Show",
+      "summary": "Tune your car radio to 103.5 FM at the Hatzer house and choose the song you’d like to hear next.",
+      "actionLabel": "Vote for a light show song",
+      "placements": [
+        "events",
+        "toy-drop-offs",
+        "toy-drive-events"
+      ],
+      "target": {
+        "type": "url",
+        "href": "https://community.gamechangersai.org/toydrive/?vote=f486c212bb86c1adb98ee9c7cead53b9#request=V29NbtfcsYDTTqK-rBvWdyKprAdXiNKuRmWtydoGVGY"
+      },
+      "theme": "toy-drive",
+      "startsAt": "2026-11-21T00:00:00-08:00",
+      "endsAt": "2027-01-02T00:00:00-08:00"
     }
   ]
 }

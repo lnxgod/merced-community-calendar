@@ -3,6 +3,7 @@ import ThemeToggle from './ThemeToggle.jsx';
 import '../holiday-links.css';
 const organizationLogo = `${import.meta.env.BASE_URL}assets/gamechangers-ai-logo.png`;
 const googlePlayUrl = 'https://play.google.com/store/apps/details?id=org.gamechangersai.aroundtown';
+const appStoreUrl = 'https://apps.apple.com/us/app/around-town-central-valley/id6832053925';
 export function Header({ onAbout, onSubscribe }) {
   return <header className="site-header">
     <div className="brand-lockup">
@@ -17,7 +18,19 @@ export function Header({ onAbout, onSubscribe }) {
   </header>;
 }
 export function Hero() {
-  return <section className="hero"><div className="hero-copy"><h1>Good things happening<br className="desktop-break" /> close to home.</h1><p>Your community calendar for Merced, Atwater &amp; McSwain.</p><div className="hero-app"><a className="button app-download" href={googlePlayUrl}>Get it on Google Play<Icon name="external" size={18} /></a><p className="app-note">Free Android app · No ads · No account needed.<span>iPhone version coming soon.</span></p></div></div><img src={`${import.meta.env.BASE_URL}assets/valley.png`} alt="" className="valley-illustration valley-light" /><img src={`${import.meta.env.BASE_URL}assets/valley-dark.png`} alt="" className="valley-illustration valley-dark" /></section>;
+  return <section className="hero">
+    <div className="hero-copy">
+      <h1>Good things happening<br className="desktop-break" /> close to home.</h1>
+      <p>Your community calendar for Merced, Atwater &amp; McSwain.</p>
+      <div className="hero-app" id="get-around-town">
+        <a className="button app-download" href={appStoreUrl}>Download on the App Store<Icon name="external" size={18} /></a>
+        <a className="button app-download" href={googlePlayUrl}>Get it on Google Play<Icon name="external" size={18} /></a>
+      </div>
+      <p className="app-note">Around Town is free. No ads or account needed.</p>
+    </div>
+    <img src={`${import.meta.env.BASE_URL}assets/valley.png`} alt="" className="valley-illustration valley-light" />
+    <img src={`${import.meta.env.BASE_URL}assets/valley-dark.png`} alt="" className="valley-illustration valley-dark" />
+  </section>;
 }
 export function HolidayLinks() {
   return <nav className="holiday-links" aria-label="Hatzer family holidays">
