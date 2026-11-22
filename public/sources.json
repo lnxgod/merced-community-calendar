@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:10:00.570963+00:00",
+  "updatedAt": "2026-11-21",
   "sources": [
     {
       "name": "Merced/Atwater Flea & Farmers Market",
@@ -2879,6 +2879,11 @@
     {
       "name": "Friendship Missionary Baptist Church",
       "url": "https://www.friendshipbaptistchurchmerced.org/",
+      "lastChecked": "2026-11-21"
+    },
+    {
+      "name": "The Hope — public events calendar",
+      "url": "https://thehope.live/events",
       "lastChecked": "2026-11-21"
     }
   ]
