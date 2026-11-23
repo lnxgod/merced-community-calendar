@@ -179,8 +179,9 @@ async function showPicker(invite) {
       const seconds = retrySeconds(response, data);
 
       if (response.ok && data.ok === true) {
+        const chosenTitle = song.selectedOptions[0].text;
         song.value = '';
-        waitForCooldown(seconds || requestIntervalSeconds, 'Your vote counted toward the next song at the house.');
+        waitForCooldown(seconds || requestIntervalSeconds, 'You voted for “' + chosenTitle + '” at the house.');
       } else if ([401, 403, 404, 410].includes(response.status)) {
         form.hidden = true;
         if (requestSection) {
@@ -224,7 +225,7 @@ async function openPicker() {
   const fromApp = requestSection && (hasInvite || entry !== null);
   let invite = hasInvite ? incomingHash.slice(prefix.length) : '';
 
-  if (fromApp) requestSection.scrollIntoView();
+  if (fromApp) document.getElementById('main').prepend(requestSection);
   if (!invitePattern.test(invite) && entryPattern.test(entry ?? '')) {
     status.textContent = 'Opening song voting…';
     try { invite = await inviteFromDropOff(entry); } catch {

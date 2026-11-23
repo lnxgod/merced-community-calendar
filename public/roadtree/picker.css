@@ -32,3 +32,34 @@
 #song-form select:disabled { opacity: .65; }
 #request { scroll-margin-top: 1rem; }
 #picker-status:not(:empty) { margin-top: 1rem; color: var(--muted); }
+
+.mast .show-shortcuts { gap: .55rem; }
+.mast .show-shortcuts a { font-weight: 700; }
+.mast .show-shortcuts .primary:hover { color: #092419; }
+.song-shortcut { color: #31200a; background: var(--gold); }
+.mast .song-shortcut:hover, .song-banner #song-form button:hover:enabled { background: #ffe8c6; color: #31200a; }
+.song-banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(1rem, 3vw, 2.5rem);
+  align-items: center;
+  margin-block: 1rem 2.5rem;
+  padding: clamp(1.2rem, 4vw, 2.7rem);
+  border: 1px solid #a78e64;
+  border-radius: .95rem;
+  background: linear-gradient(105deg, rgb(11 23 20 / 92%), rgb(20 28 24 / 86%)), url('/assets/holiday/christmas-show-2026.webp') center 40% / cover;
+}
+.song-banner .station { margin-bottom: .4rem; color: var(--gold); font-weight: 650; }
+.song-banner h2 { margin-bottom: .6rem; }
+.song-banner-controls { min-width: 0; background: var(--panel); padding: 1rem; border-radius: .65rem; }
+.song-banner #song-form { margin: 0; }
+.song-banner #song-form label { font-weight: 700; }
+.song-banner #song-form select { color-scheme: light; background: #fffbef; color: #10231b; }
+.song-banner #song-form button { background: var(--gold); color: #31200a; }
+.song-banner #song-form p { color: var(--muted); font-size: .9rem; }
+@media (max-width: 700px) {
+  .song-banner { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 490px) {
+  .mast .show-shortcuts a { flex: 1; padding-inline: .45rem; }
+}
