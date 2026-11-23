@@ -98,21 +98,21 @@ function retrySeconds(response, data) {
 }
 
 async function showPicker(invite) {
-  status.textContent = requestSection ? 'Loading the playlist…' : 'Checking the event link…';
+  status.textContent = requestSection ? 'Loading songs for voting…' : 'Checking the event link…';
   let origin;
   let catalog;
   try {
     origin = configuredOrigin();
     catalog = await post(origin, 'catalog', { invite });
   } catch {
-    status.textContent = 'Couldn’t load the playlist. Refresh to try again.';
+    status.textContent = 'Couldn’t load songs for voting. Refresh to try again.';
     return;
   }
 
   if (!catalog.response.ok || !Array.isArray(catalog.data.tracks)) {
     if ([401, 403, 404, 410].includes(catalog.response.status)) {
       if (requestSection) saveInvite(null);
-      status.textContent = requestSection ? 'This request link can’t open the playlist.' : '';
+      status.textContent = requestSection ? 'This link can’t open song voting.' : '';
     } else {
       status.textContent = 'Song requests are unavailable right now.';
     }
@@ -130,8 +130,8 @@ async function showPicker(invite) {
     saveInvite(invite);
     requestAccessHelp.hidden = true;
   } else {
-    title.textContent = 'Vote for a song';
-    document.title = 'Vote for a song · Around Town';
+    title.textContent = 'Vote for the next song at the house';
+    document.title = 'Vote for the next song at the house · Around Town';
   }
   song.append(...tracks.map((track) => new Option(track.title, track.id)));
   form.hidden = false;
@@ -180,13 +180,13 @@ async function showPicker(invite) {
 
       if (response.ok && data.ok === true) {
         song.value = '';
-        waitForCooldown(seconds || requestIntervalSeconds, 'Your vote counted.');
+        waitForCooldown(seconds || requestIntervalSeconds, 'Your vote counted toward the next song at the house.');
       } else if ([401, 403, 404, 410].includes(response.status)) {
         form.hidden = true;
         if (requestSection) {
           saveInvite(null);
           requestAccessHelp.hidden = false;
-          status.textContent = 'This request link can’t open the playlist.';
+          status.textContent = 'This link can’t open song voting.';
         } else {
           title.textContent = 'Page unavailable';
           document.title = 'Page unavailable · Around Town';
@@ -226,9 +226,9 @@ async function openPicker() {
 
   if (fromApp) requestSection.scrollIntoView();
   if (!invitePattern.test(invite) && entryPattern.test(entry ?? '')) {
-    status.textContent = 'Opening the playlist…';
+    status.textContent = 'Opening song voting…';
     try { invite = await inviteFromDropOff(entry); } catch {
-      status.textContent = 'Couldn’t load the playlist. Refresh to try again.';
+      status.textContent = 'Couldn’t load songs for voting. Refresh to try again.';
       return;
     }
   }
@@ -236,7 +236,7 @@ async function openPicker() {
   if (invitePattern.test(invite)) {
     await showPicker(invite);
   } else if (fromApp) {
-    status.textContent = 'This request link can’t open the playlist.';
+    status.textContent = 'This link can’t open song voting.';
   }
 }
 

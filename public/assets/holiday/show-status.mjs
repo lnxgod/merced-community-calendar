@@ -43,9 +43,8 @@ function playHere(event, film) {
   frame.title = film?.title ?? '2026 Hatzer Holiday Lights playlist';
   frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
   frame.referrerPolicy = 'strict-origin-when-cross-origin';
-  frame.allowFullscreen = true;
   screen.replaceChildren(frame);
-  caption.textContent = film ? 'Playing here from the beginning · ' + film.title : 'Playing here · 2026 Hatzer Holiday Lights';
+  caption.textContent = film ? 'YouTube video · ' + film.title : 'YouTube playlist · 2026 Hatzer Holiday Lights';
 }
 
 document.getElementById('play-playlist')?.addEventListener('click', event => playHere(event, null));
@@ -97,7 +96,7 @@ function display(report) {
     current.hidden = !liveFilm;
     if (liveFilm) {
       current.href = watchUrl(id);
-      current.setAttribute('aria-label', 'Play ' + liveFilm.title + ' here from the beginning');
+      current.setAttribute('aria-label', 'Watch this song’s video from the beginning · ' + liveFilm.title);
     } else {
       current.removeAttribute('href');
       current.removeAttribute('aria-label');

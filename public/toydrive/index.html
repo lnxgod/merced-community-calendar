@@ -6,22 +6,22 @@
   <meta name="theme-color" content="#0b1714">
   <meta name="referrer" content="no-referrer">
   <meta name="roadtree-api-origin" content="https://around-town-song-requests-api.bill-hatzer.chatgpt.site">
-  <meta name="description" content="Donate online or drop off a new, unwrapped toy for kids in Merced County. Visit the Hatzer family’s holiday light show in McSwain and listen on 103.5 FM.">
+  <meta name="description" content="Watch the Hatzer family’s holiday light show on YouTube. At the house in McSwain, tune to 103.5 FM, vote for a song and drop off a toy for a local child.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="GameChangers AI Toy Drive &amp; Holiday Lights Show">
-  <meta property="og:description" content="Help buy toys online or bring a new, unwrapped toy to the Hatzer family’s holiday light show in McSwain. Tune in on 103.5 FM.">
+  <meta property="og:description" content="Watch the show videos on YouTube or visit us in McSwain to hear the music on 103.5 FM and vote for a song. Help us collect toys for kids in Merced County.">
   <meta property="og:url" content="https://community.gamechangersai.org/toydrive/">
   <meta property="og:image" content="https://community.gamechangersai.org/assets/holiday/christmas-show-2026.webp">
   <meta property="og:image:alt" content="The Hatzer family house lit in pink and blue above a multicolored fence in November 2026">
   <title>GameChangers AI Toy Drive &amp; Holiday Lights Show</title>
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
-  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=9">
+  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=10">
   <link rel="stylesheet" href="/roadtree/picker.css?v=4">
   <script type="module" src="/assets/holiday/dropoff.mjs?v=6"></script>
-  <script type="module" src="/assets/holiday/show-status.mjs?v=8"></script>
+  <script type="module" src="/assets/holiday/show-status.mjs?v=9"></script>
   <script>const originalHolidayVoteHash = location.hash;</script>
-  <script type="module" src="/roadtree/picker.mjs?v=8"></script>
+  <script type="module" src="/roadtree/picker.mjs?v=9"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -33,11 +33,11 @@
     <section class="hero show-hero holiday-hero">
       <div>
         <h1><span class="hero-name">GameChangers AI</span> Toy Drive &amp; Holiday Lights Show</h1>
-        <p class="lede">We’re the Hatzer family. Each Christmas, we set our lights to music and collect new toys for kids in Merced County. If you remember Team Charity Case, that’s us.</p>
+        <p class="lede">We’re the Hatzer family (you may know us as Team Charity Case). Each Christmas, we collect toys for kids in Merced County. Watch our show on YouTube from home, or visit us in McSwain to vote for the next song.</p>
         <div class="actions">
           <a class="button primary" href="https://www.charitycase.net/#give-title">Donate to buy toys</a>
-          <a class="button quiet" href="#request">Vote for a song</a>
-          <a class="button quiet" href="#watch">Watch the show</a>
+          <a class="button quiet" href="#watch">Watch the YouTube videos</a>
+          <a class="button quiet" href="#request">Vote at the house</a>
         </div>
         <nav class="drive-jumps" aria-label="Explore the toy drive and show"><a href="#story">Will’s story</a><a href="#timeline">Photos by year</a><a href="#videos">Past videos</a></nav>
       </div>
@@ -57,27 +57,28 @@
               <address id="show-address">4874 W State Highway 140<br>Atwater, CA 95301</address>
               <a class="text-link" href="https://www.google.com/maps/dir/?api=1&amp;destination=4874%20W%20State%20Highway%20140%2C%20Atwater%2C%20CA%2095301">Get directions in Google Maps</a>
               <p>Tune your car radio to <strong>103.5 FM</strong> for the music. The lights run through <time datetime="2027-01-01">New Year’s Day, January 1, 2027</time>.</p>
+              <div id="request">
+                <h3 id="picker-title">Vote for the next song at the house</h3>
+                <p>Here in McSwain? Vote for the song you’d like to hear on 103.5 FM. When it’s time for a request, the song with the most votes plays next.</p>
+                <p id="request-access-help">In the <a href="/#get-around-town">Around Town app</a>, open <strong>Toy drop-offs</strong> and tap <strong>Vote for a light show song</strong>.</p>
+                <form id="song-form" hidden>
+                  <label for="song">Which song would you like to hear?</label>
+                  <select id="song" required><option value="">Choose a song</option></select>
+                  <button class="button primary" type="submit" disabled>Vote for this song</button>
+                  <p>You can vote once every five minutes and have one vote in line at a time.</p>
+                </form>
+                <p id="picker-status" role="status" aria-live="polite"></p>
+              </div>
+            </div>
+            <div>
               <h3 id="give-title">Bring a toy</h3>
               <p id="dropoff-instructions">Leave a new, unwrapped toy in the collection box by the display.</p>
               <p id="dropoff-details" class="dropoff" aria-live="polite">Toy collection runs November 27–December 11. Drop-off hours will be announced.</p>
               <a class="text-link" href="/?view=toy-drop-offs#events">Other local toy drop-offs</a>
-            </div>
-            <div>
               <h3>Help us buy toys</h3>
               <p>We use cash and online donations to shop for local kids. You can give online even after the collection box closes.</p>
               <a class="button primary" href="https://www.charitycase.net/#give-title">Donate to the toy drive</a>
               <p>For other programs, <a href="https://www.paypal.com/ncp/payment/LSV2X2VN8N8NQ">support GameChangers AI on PayPal</a>.</p>
-              <div id="request">
-                <h3 id="picker-title">Vote for a song</h3>
-                <p id="request-access-help">In the <a href="/#get-around-town">Around Town app</a>, open <strong>Toy drop-offs</strong> and tap <strong>Vote for a light show song</strong>.</p>
-                <form id="song-form" hidden>
-                  <label for="song">Choose a song</label>
-                  <select id="song" required><option value="">Select from the playlist</option></select>
-                  <button class="button primary" type="submit" disabled>Vote for this song</button>
-                  <p>Votes move a song up the list. You can vote every five minutes and have one vote in line at a time.</p>
-                </form>
-                <p id="picker-status" role="status" aria-live="polite"></p>
-              </div>
             </div>
           </div>
         </div>
@@ -85,25 +86,25 @@
     </section>
 
     <section class="section" id="watch" aria-labelledby="watch-title">
-      <h2 id="watch-title">Watch the 2026 light show</h2>
+      <h2 id="watch-title">Watch the 2026 show on YouTube</h2>
       <div class="watch-layout">
         <div class="watch-films">
           <div id="film-screen" class="film-screen">
             <img src="/assets/holiday/christmas-show-2026.webp" alt="" width="1215" height="745" loading="lazy">
-            <a class="button primary" id="play-playlist" href="https://www.youtube.com/playlist?list=PLTJJSNcxZlKE">Play the show</a>
+            <a class="button primary" id="play-playlist" href="https://www.youtube.com/playlist?list=PLTJJSNcxZlKE">Play all videos</a>
           </div>
-          <p id="film-caption" aria-live="polite">Watch the whole house from the street. Choose any of the 17 show songs or the PAW Patrol Christmas bonus with Chase and Rubble.</p>
+          <p id="film-caption" aria-live="polite">See the lights from the street in our YouTube recordings. Watch all 17 songs and the PAW Patrol Christmas bonus with Chase and Rubble, or pick a favorite below.</p>
           <div class="film-picker" id="film-picker" hidden>
-            <label for="film-choice">Choose a song to watch</label>
+            <label for="film-choice">Choose a video to watch</label>
             <select id="film-choice"></select>
-            <a class="button quiet" id="play-choice">Play selection</a>
+            <a class="button quiet" id="play-choice">Play this video</a>
           </div>
           <a class="text-link" href="https://www.youtube.com/playlist?list=PLTJJSNcxZlKE">Open the full playlist on YouTube</a>
         </div>
         <aside class="watch-lineup" aria-labelledby="local-show-title">
-          <h3 id="local-show-title">At the house</h3>
-          <p id="live-show-status" role="status">Live song information is unavailable.</p>
-          <a class="button quiet" id="play-current" hidden>Play this song here</a>
+          <h3 id="local-show-title">Live lineup at the house</h3>
+          <p id="live-show-status" role="status">The live lineup is unavailable right now.</p>
+          <a class="button quiet" id="play-current" hidden>Watch this song’s video</a>
           <div class="song-lineup" id="next-song" hidden>
             <strong id="lineup-heading">Up next</strong>
             <ol id="upcoming-songs" aria-labelledby="lineup-heading"></ol>
@@ -114,6 +115,7 @@
             <p id="ranking-rule" hidden>The next pick goes to the song with the most votes. Ties go to the song requested first.</p>
           </div>
           <p id="lineup-note" hidden>Upcoming songs aren’t available yet.</p>
+          <a class="text-link" href="#request">Vote for a song at the house</a>
         </aside>
       </div>
     </section>

@@ -33,8 +33,10 @@ export function Hero() {
   </section>;
 }
 export function HolidayLinks() {
-  return <nav className="holiday-links" aria-label="Hatzer family holidays">
-    <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show · 103.5&nbsp;FM</a>
+  return <nav className="holiday-links" aria-label="Hatzer family toy drive and holiday light show">
+    <a href="/toydrive/">GameChangers AI Toy Drive &amp; Holiday Lights Show</a>
+    <a href="/toydrive/#watch">Watch the YouTube videos</a>
+    <a href="/toydrive/#request">Vote at the house</a>
   </nav>;
 }
 export function SubscribeBand({ onSubscribe }) {
