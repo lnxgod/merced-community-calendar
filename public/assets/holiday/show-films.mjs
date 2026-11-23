@@ -1,23 +1,24 @@
 // Titles follow the public show feed. Keep the YouTube IDs in playback order.
-export const playlist = 'PLd3kOWndCbRo';
+export const playlist = 'PLTJJSNcxZlKE';
 export const films = [
-  ['It’s the Most Wonderful Time of the Year', 'a-kl3qcdaRw'],
-  ['I Want a Hippopotamus for Christmas', '7XOEThfC7ZY'],
-  ['Polar Express Mashup', '4-Kq4tzWB78'],
-  ['Feliz Navidad', 'i-c32cRjHUs'],
-  ['Wizards in Winter', 'f-VLsQHJVPs'],
-  ['You’re a Mean One, Mr. Grinch', 'lDLMFHTpyHg'],
-  ['Frosty the Snowman', 'UPOqyJYtHK4'],
-  ['Crystallize', '4XNxyIQ66Nc'],
-  ['Carol of the Bells', 'meKaEy04wYE'],
-  ['Grandma Got Run Over by a Reindeer', 'G8fQyv83hio'],
-  ['Queen of the Winter Night', 'mfzNaZ3ED7I'],
-  ['Linus and Lucy', '7pqh1AUh56o'],
-  ['Run Rudolph Run', 'yEQ8ozV8l9I'],
-  ['Dance of the Sugar Plum Fairy - Astra Build', '9JsP-3ZF2yE'],
-  ['Twelve Days of Christmas', 'DCocXJHmL9I'],
-  ["The Chipmunk Song (Christmas Don't Be Late)", 'sSjj0BGhyJA'],
-  ['What It Sounds Like - Christmas Honmoon', 'AVzQpbXE-Yo'],
+  ['It’s the Most Wonderful Time of the Year', 'cLFQ1-5O2zQ'],
+  ['I Want a Hippopotamus for Christmas', 'yGWIm1crzp8'],
+  ['Polar Express Mashup', '8M8PNzHmevs'],
+  ['Feliz Navidad', 'BGcNpmQErn0'],
+  ['Wizards in Winter', 'oxaNGmr3TjA'],
+  ['You’re a Mean One, Mr. Grinch', 'qelUCUs7r0M'],
+  ['Frosty the Snowman', 'fmQfwe4f3zM'],
+  ['Crystallize', '8l7GqvFvkhI'],
+  ['Carol of the Bells', 'naQOi4ujxno'],
+  ['Grandma Got Run Over by a Reindeer', 'B_M5gec8Tbc'],
+  ['Queen of the Winter Night', '0RkiGJxtMto'],
+  ['Linus and Lucy', 'NlRTC0m3qWw'],
+  ['Run Rudolph Run', 'V2-bCkU-qxI'],
+  ['Dance of the Sugar Plum Fairy - Astra Build', 'w-xhbnykjMI'],
+  ['Twelve Days of Christmas', 'jsW4f46WWo4'],
+  ["The Chipmunk Song (Christmas Don't Be Late)", 'npapHq_ZDBU'],
+  ['What It Sounds Like - Christmas Honmoon', 'XfY2m6yzZpA'],
+  ['PAW Patrol Christmas - Chase and Rubble', 'Z9Q1DJ-gEBU'],
 ];
 
 const key = value => value.normalize('NFKD').toLowerCase().replace(/[^a-z0-9]/g, '');

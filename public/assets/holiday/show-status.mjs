@@ -1,4 +1,4 @@
-import { filmFor, films, playlist } from './show-films.mjs?v=2026-17';
+import { filmFor, films, playlist } from './show-films.mjs?v=2026-street-18';
 
 const status = document.getElementById('live-show-status');
 const nextSong = document.getElementById('next-song');
