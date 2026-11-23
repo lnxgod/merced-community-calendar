@@ -5,7 +5,7 @@ import { hasDropOffAddress } from '../drop-offs.js';
 
 const holidayShowDropOffId = 'game-changers-ai-holiday-show-toy-drop-off';
 const holidayShowAnchor = 'holiday-show-toy-dropoff';
-const publicHolidayShowUrl = 'https://community.gamechangersai.org/toydrive/';
+const publicHolidayShowUrl = 'https://community.gamechangersai.org/toydrive/#visit';
 
 export default function DropOffLocations({ locations, status, onRetry, onReset }) {
   const hasHolidayShow = locations.some(location => location.id === holidayShowDropOffId);
@@ -33,7 +33,7 @@ export default function DropOffLocations({ locations, status, onRetry, onReset }
           <p className="drop-off-status">{location.status === 'coming-soon' ? 'Collection planned' : 'Collecting toys'}</p>
           <h3>{location.title}</h3>
           <dl>
-            <div><dt>{location.status === 'coming-soon' ? 'Location' : 'Address'}</dt><dd>{mapUrl ? (
+            <div><dt>{mapUrl ? 'Address' : 'Location'}</dt><dd>{mapUrl ? (
               <a className="drop-off-map-link" href={mapUrl} target="_blank" rel="noopener noreferrer">
                 <span>{location.location}</span>
                 <span className="drop-off-map-label">Open in Google Maps <Icon name="external" size={15} /></span>

@@ -15,6 +15,9 @@ test('an undated coming-soon directory listing does not need a calendar occurren
   assert.equal(hasDropOffAddress(placeholder), false);
   assert.equal(hasDropOffAddress({ ...placeholder, status: 'accepting' }), false);
   assert.equal(hasDropOffAddress({ ...placeholder, location: 'Test venue, Merced, CA' }), false);
+  assert.equal(hasDropOffAddress({ ...placeholder, location: '123 Test Street, Atwater, CA' }), true);
+  assert.equal(hasDropOffAddress({ ...placeholder, location: 'Test venue, 123 Test Street, Atwater, CA' }), true);
+  assert.equal(hasDropOffAddress({ ...placeholder, location: 'McSwain, CA 95301' }), false);
   assert.equal(hasDropOffAddress({ ...placeholder, status: 'accepting', location: 'Test venue, Merced, CA' }), true);
 });
 

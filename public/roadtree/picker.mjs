@@ -130,8 +130,8 @@ async function showPicker(invite) {
     saveInvite(invite);
     requestAccessHelp.hidden = true;
   } else {
-    title.textContent = 'Request a song';
-    document.title = 'Request a song · Around Town';
+    title.textContent = 'Vote for a song';
+    document.title = 'Vote for a song · Around Town';
   }
   song.append(...tracks.map((track) => new Option(track.title, track.id)));
   form.hidden = false;

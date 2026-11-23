@@ -16,18 +16,18 @@
   <title>GameChangers AI Toy Drive &amp; Holiday Lights Show</title>
   <link rel="canonical" href="https://community.gamechangersai.org/toydrive/">
   <link rel="icon" href="/assets/gamechangers-ai-logo.png">
-  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=8">
+  <link rel="stylesheet" href="/assets/holiday/holiday.css?v=9">
   <link rel="stylesheet" href="/roadtree/picker.css?v=4">
-  <script type="module" src="/assets/holiday/dropoff.mjs?v=5"></script>
+  <script type="module" src="/assets/holiday/dropoff.mjs?v=6"></script>
   <script type="module" src="/assets/holiday/show-status.mjs?v=7"></script>
   <script>const originalHolidayVoteHash = location.hash;</script>
-  <script type="module" src="/roadtree/picker.mjs?v=7"></script>
+  <script type="module" src="/roadtree/picker.mjs?v=8"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
   <header class="mast wrap">
     <a class="brand" href="/"><img src="/assets/gamechangers-ai-logo.png" alt="" width="40" height="40"> <span>Around Town <small>by GameChangers AI</small></span></a>
-    <nav aria-label="Main navigation"><a href="#visit">Visit the show</a><a href="#give">Ways to give</a><a href="https://gamechangersai.org/about.html">About us</a></nav>
+    <nav aria-label="Main navigation"><a href="#visit">Visit &amp; drop off toys</a><a href="https://gamechangersai.org/about.html">About us</a></nav>
   </header>
   <main id="main" class="wrap">
     <section class="hero show-hero holiday-hero">
@@ -35,7 +35,7 @@
         <h1><span class="hero-name">GameChangers AI</span> Toy Drive &amp; Holiday Lights Show</h1>
         <p class="lede">We’re the Hatzer family. Each Christmas, we set our lights to music and collect new toys for kids in Merced County. If you remember Team Charity Case, that’s us.</p>
         <div class="actions">
-          <a class="button primary" href="https://www.charitycase.net/#give-title">Donate money for toys</a>
+          <a class="button primary" href="https://www.charitycase.net/#give-title">Donate to buy toys</a>
           <a class="button quiet" href="#request">Vote for a song</a>
           <a class="button quiet" href="#watch">Watch the show</a>
         </div>
@@ -47,6 +47,43 @@
       </figure>
     </section>
 
+    <section class="give section" id="show" aria-labelledby="visit-title">
+      <div id="give">
+        <div id="visit">
+          <h2 id="visit-title">Visit the show &amp; toy drop-off</h2>
+          <div class="two-up">
+            <div>
+              <h3>The Hatzer house in McSwain</h3>
+              <address id="show-address">4874 W State Highway 140<br>Atwater, CA 95301</address>
+              <a class="text-link" href="https://www.google.com/maps/dir/?api=1&amp;destination=4874%20W%20State%20Highway%20140%2C%20Atwater%2C%20CA%2095301">Get directions in Google Maps</a>
+              <p>Tune your car radio to <strong>103.5 FM</strong> for the music. The lights run through <time datetime="2027-01-01">New Year’s Day, January 1, 2027</time>.</p>
+              <h3 id="give-title">Bring a toy</h3>
+              <p id="dropoff-instructions">Leave a new, unwrapped toy in the collection box by the display.</p>
+              <p id="dropoff-details" class="dropoff" aria-live="polite">Toy collection runs November 27–December 11. Drop-off hours will be announced.</p>
+              <a class="text-link" href="/?view=toy-drop-offs#events">Other local toy drop-offs</a>
+            </div>
+            <div>
+              <h3>Help us buy toys</h3>
+              <p>We use cash and online donations to shop for local kids. You can give online even after the collection box closes.</p>
+              <a class="button primary" href="https://www.charitycase.net/#give-title">Donate to the toy drive</a>
+              <p>For other programs, <a href="https://www.paypal.com/ncp/payment/LSV2X2VN8N8NQ">support GameChangers AI on PayPal</a>.</p>
+              <div id="request">
+                <h3 id="picker-title">Vote for a song</h3>
+                <p id="request-access-help">In the <a href="/#get-around-town">Around Town app</a>, open <strong>Toy drop-offs</strong> and tap <strong>Vote for a light show song</strong>.</p>
+                <form id="song-form" hidden>
+                  <label for="song">Choose a song</label>
+                  <select id="song" required><option value="">Select from the playlist</option></select>
+                  <button class="button primary" type="submit" disabled>Vote for this song</button>
+                  <p>Votes move a song up the list. You can vote every five minutes and have one vote in line at a time.</p>
+                </form>
+                <p id="picker-status" role="status" aria-live="polite"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="section" id="watch" aria-labelledby="watch-title">
       <h2 id="watch-title">Watch the 2026 light show</h2>
       <div class="watch-layout">
@@ -55,9 +92,9 @@
             <img src="/assets/holiday/christmas-show-2026.webp" alt="" width="1215" height="745" loading="lazy">
             <a class="button primary" id="play-playlist" href="https://www.youtube.com/playlist?list=PLd3kOWndCbRo">Play the show</a>
           </div>
-          <p id="film-caption" aria-live="polite">See each song across the house, with close-ups of the fence matrix and mega tree.</p>
+          <p id="film-caption" aria-live="polite">Watch the lights move across the house, with close-ups of the fence display and mega tree.</p>
           <div class="film-picker" id="film-picker" hidden>
-            <label for="film-choice">Show song list</label>
+            <label for="film-choice">Choose a song to watch</label>
             <select id="film-choice"></select>
             <a class="button quiet" id="play-choice">Play selection</a>
           </div>
@@ -77,61 +114,19 @@
             <p id="ranking-rule" hidden>The next pick goes to the song with the most votes. Ties go to the song requested first.</p>
           </div>
           <p id="lineup-note" hidden>Upcoming songs aren’t available yet.</p>
-          <p>At the display, tune to <strong>103.5 FM</strong>.</p>
         </aside>
       </div>
     </section>
 
-    <section class="section" id="show" aria-labelledby="visit-title">
-      <div class="two-up" id="visit">
-        <div class="section-intro">
-          <h2 id="visit-title">Plan your visit</h2>
-          <p>Come see the lights through <strong>New Year’s Day, <time datetime="2027-01-01">January 1, 2027</time></strong>.</p>
-          <p>Visit us in McSwain at <a id="show-address" href="https://www.google.com/maps/dir/?api=1&amp;destination=4874%20W%20State%20Highway%20140%2C%20Atwater%2C%20CA%2095301">4874 W State Highway 140, Atwater, CA 95301</a>.</p>
-          <p><a href="/#events">Around Town calendar</a> · <a href="#collection-flyer">Toy-drive flyer</a></p>
-        </div>
-        <div id="request">
-          <h3 id="picker-title">Vote for a song</h3>
-          <p>At the show, tune your car radio to <strong>103.5 FM</strong>.</p>
-          <p id="request-access-help">In the <a href="/#get-around-town">Around Town app</a>, open <strong>Toy drop-offs</strong> and tap <strong>Vote for a light show song</strong> to choose from the playlist.</p>
-          <form id="song-form" hidden>
-            <label for="song">Choose a song to vote for</label>
-            <select id="song" required><option value="">Select from the show playlist</option></select>
-            <button class="button primary" type="submit" disabled>Vote for this song</button>
-            <p>Voting for a song already in line helps it move up. You can vote every five minutes and have one vote waiting at a time.</p>
-          </form>
-          <p id="picker-status" role="status" aria-live="polite"></p>
-        </div>
+    <section class="section collection-flyer" id="collection-flyer" aria-labelledby="flyer-title">
+      <div>
+        <h2 id="flyer-title">Merced’s Cops &amp; Fire for Kids</h2>
+        <p>We collect toys with the Merced Police Department and Merced Fire Rescue for children from birth through age 11.</p>
+        <p>The city collection boxes close <time datetime="2026-11-30">November 30</time>. For later drop-offs in Merced, the flyer lists the police station at 611 W. 22nd St.</p>
       </div>
-    </section>
-
-    <section class="give section" id="give" aria-labelledby="give-title">
-      <h2 id="give-title">Give to this year’s toy drive</h2>
-      <div class="two-up">
-        <div>
-          <h3>Bring a toy</h3>
-          <p>Bring a new, unwrapped toy to <a href="#show-address">our McSwain show location</a>.</p>
-          <p id="dropoff-details" class="dropoff" aria-live="polite">Our toy drop-off runs November 27 through December 11.</p>
-          <a class="text-link" href="/?view=toy-drop-offs#events">See local toy drop-offs</a>
-        </div>
-        <div>
-          <h3>Help us buy toys</h3>
-          <p>We welcome cash donations, including after toy drop-offs end on December 11. We use that money to shop for toys for local kids.</p>
-          <a class="button primary" href="https://www.charitycase.net/#give-title">Donate online for toys</a>
-          <p>For general nonprofit support, <a href="https://www.paypal.com/ncp/payment/LSV2X2VN8N8NQ">donate to GameChangers AI on PayPal</a>.</p>
-        </div>
-      </div>
-      <div class="collection-flyer" id="collection-flyer">
-        <div>
-          <h3>Merced’s 2026 toy collection flyer</h3>
-          <p>We’re the Hatzer family, and we work with the Merced Police Department and Merced Fire Rescue on <strong>Cops &amp; Fire for Kids</strong>. Together we collect new, unwrapped toys for Merced children from birth through age 11.</p>
-          <p>Our family’s <a href="#show-address">McSwain toy drop-off</a> opens November 27 and stays open through <strong><time datetime="2026-12-11">Friday, December 11</time></strong>.</p>
-          <p>The <time datetime="2026-11-30">November 30</time> date on the flyer is for the city collection boxes. For later donations in Merced, the flyer lists the police station at 611 W. 22nd St.</p>
-        </div>
-        <figure>
-          <a href="/assets/flyers/cops-fire-for-kids-toy-collection-2026.png"><img src="/assets/flyers/cops-fire-for-kids-toy-collection-2026-preview.webp" alt="Toy Collection poster with the Merced Police and Merced Fire Rescue badges" width="640" height="828" loading="lazy"><span class="text-link">Open the full-size flyer</span></a>
-        </figure>
-      </div>
+      <figure>
+        <a href="/assets/flyers/cops-fire-for-kids-toy-collection-2026.png"><img src="/assets/flyers/cops-fire-for-kids-toy-collection-2026-preview.webp" alt="Toy Collection poster with the Merced Police and Merced Fire Rescue badges" width="640" height="828" loading="lazy"><span class="text-link">Open the full-size flyer</span></a>
+      </figure>
     </section>
 
     <section class="section drive-story" id="story" aria-labelledby="story-title">

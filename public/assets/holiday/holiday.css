@@ -100,6 +100,9 @@ h3 { font-size: clamp(1.22rem, 2.4vw, 1.6rem); letter-spacing: -.025em; line-hei
 .text-link { display: inline-block; color: var(--accent); font-weight: 600; }
 .text-link:hover { color: var(--ink); }
 .section .dropoff { font-weight: 600; color: var(--ink); }
+#show-address { margin-top: .6rem; font-size: 1.2rem; font-style: normal; line-height: 1.4; }
+#visit, #show-address, #request { scroll-margin-top: 1rem; }
+#give-title, #request { margin-top: 1.5rem; }
 .collection-flyer { display: grid; grid-template-columns: minmax(0, 1fr) minmax(12rem, 17rem); align-items: start; gap: 1rem 2.6rem; margin-top: 1.65rem; padding-top: 1.5rem; border-top: 1px solid var(--line); scroll-margin-top: 1rem; }
 .collection-flyer figure { max-width: 17rem; }
 .collection-flyer img { width: 100%; height: auto; border-radius: .55rem; }

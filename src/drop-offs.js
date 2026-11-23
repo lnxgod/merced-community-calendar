@@ -17,6 +17,9 @@ export function selectDropOffLocations(locations, { query = '', city = 'all', no
 }
 
 export function hasDropOffAddress(location) {
-  return location.status === 'accepting' && Boolean(location.location?.trim())
-    && !/^(?:coming soon|tbd|to be (?:announced|confirmed)|(?:address|location) (?:coming soon|tbd|to be (?:announced|confirmed)))\.?$/i.test(location.location.trim());
+  const address = location.location?.trim();
+  if (!address) return false;
+  if (location.status === 'coming-soon') return /(?:^|,\s*)\d+[A-Z]?(?:-\d+)?\s+\S/i.test(address);
+  return location.status === 'accepting'
+    && !/^(?:coming soon|tbd|to be (?:announced|confirmed)|(?:address|location) (?:coming soon|tbd|to be (?:announced|confirmed)))\.?$/i.test(address);
 }
