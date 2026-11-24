@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:48:02.496151+00:00",
+  "updatedAt": "2026-11-24T16:07:17.804491+00:00",
   "events": [
     {
       "id": "rink-at-castle-ice-skating-season-2026-11-22",
@@ -17,21 +17,6 @@
       "timeNote": "Dates describe the season. Daily skating hours, holiday exceptions and ticket details have yet to be published.",
       "sourceName": "The Rink at Castle — Thunderbird Community Partner",
       "sourceUrl": "https://therinkatcastle.com/"
-    },
-    {
-      "id": "catholic-charities-thanksgiving-afternoon-merced-2026-11-23",
-      "title": "Catholic Charities Thanksgiving Food Pickup — Afternoon Option",
-      "date": "2026-11-23",
-      "startTime": "13:00",
-      "endTime": null,
-      "city": "Merced",
-      "location": "Catholic Charities, 336 W. Main Street, Merced, CA 95340",
-      "category": "Community services",
-      "description": "Catholic Charities directs people without a vehicle to its downtown office after 1 p.m. for Thanksgiving food assistance. The morning drive-through takes place at St. Patrick’s Catholic Church. Afternoon availability depends on remaining supplies.",
-      "cost": "No charge is listed in the organizer’s announcement.",
-      "timeNote": "The organizer says to visit after 1 p.m. Pacific and does not give a closing time.",
-      "sourceName": "Catholic Charities Diocese of Fresno — Turkey Drive",
-      "sourceUrl": "https://ccdof.org/special-events/turkey-drive/"
     },
     {
       "city": "Merced",
@@ -1241,6 +1226,20 @@
       "id": "atwater-flea-farmers-market-2026-12-06"
     },
     {
+      "id": "kids-discovery-station-christmas-photos-santa-2026-12-06",
+      "title": "Christmas at Kids Discovery Station — Photos with Santa",
+      "date": "2026-12-06",
+      "startTime": "10:00",
+      "endTime": "17:00",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Festivals & community",
+      "description": "The museum lists holiday crafts, Slime Time and photos with Santa. Santa is there from 11 a.m. to 1 p.m. No advance registration is required.",
+      "cost": "The museum lists regular admission at $7 per adult and per child over age 1. No separate event fee is listed.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/annual-christmas-event-photos-with-santa"
+    },
+    {
       "id": "ohana-merced-toy-anime-comic-con-2026-12-06",
       "title": "Merced Toy-Anime-Comic Con",
       "date": "2026-12-06",
@@ -1768,6 +1767,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18506&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "moes-sidekicks-christmas-wonderland-2026-12-12",
+      "title": "Christmas Wonderland at Moe’s Sidekicks",
+      "date": "2026-12-12",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "city": "Atwater",
+      "location": "Moe’s Sidekicks, 1279 Broadway Avenue, Atwater, CA 95301",
+      "category": "Festivals & community",
+      "description": "A family event with games, crafts, obstacle courses and local gift vendors. Families should arrive together. Admission includes one treat ticket per person.",
+      "cost": "$10 per family. Raffle tickets are optional.",
+      "sourceName": "Moe’s Sidekicks Taekwondo",
+      "sourceUrl": "https://moessidekickstkd.com/#christmas-wonderland"
     },
     {
       "id": "drop-in-digital-help-merced-library-2026-12-12",
@@ -2593,6 +2606,20 @@
       "sourceName": "Merced Running Club",
       "cost": "Free",
       "timeNote": "End time not published."
+    },
+    {
+      "id": "merced-county-rescue-mission-christmas-eve-banquet-2026-12-24",
+      "title": "Merced County Rescue Mission Christmas Eve Banquet",
+      "date": "2026-12-24",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "city": "Merced",
+      "location": "American Legion Hall, 939 W Main Street, Merced, CA 95340",
+      "category": "Community services",
+      "description": "A community Christmas Eve meal. No reservation or advance signup is required. Children should stay with their accompanying adults. Guests may bring a pie or cake to share.",
+      "cost": "No admission fee is listed.",
+      "sourceName": "Merced County Rescue Mission",
+      "sourceUrl": "https://www.mercedcountyrescuemission.org/news/2026/11/22/2026-thanksgiving-and-christmas-eve-banquets"
     },
     {
       "id": "bookmobile-stephen-leonard-park-2026-12-24",
