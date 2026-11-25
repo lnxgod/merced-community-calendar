@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T16:07:17.804491+00:00",
+  "updatedAt": "2026-11-25T00:46:44.587474+00:00",
   "events": [
     {
       "id": "rink-at-castle-ice-skating-season-2026-11-22",
@@ -459,6 +459,19 @@
       "cost": "Free admission and parking; shopping and food purchases separate."
     },
     {
+      "id": "cars-and-toys-christmas-toy-drive-2026-11-28",
+      "title": "Cars & Toys Christmas Toy Drive",
+      "date": "2026-11-28",
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "city": "Merced",
+      "location": "4355 M St., Merced, CA",
+      "category": "Community services",
+      "description": "A toy collection for the Merced Police Department holiday toy drive. The event flyer encourages at least one toy per car.",
+      "sourceUrl": "https://community.gamechangersai.org/assets/events/cars-and-toys-christmas-toy-drive-2026-11-28-flyer-v1.jpg",
+      "sourceName": "Cars & Toys event flyer / Merced Police Department"
+    },
+    {
       "title": "Bear Creek Ukulele Society — Group Jam",
       "date": "2026-11-28",
       "city": "Merced",
@@ -889,6 +902,20 @@
       "cost": "Free.",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19402&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "uc-merced-beginnings-sculpture-lighting-2026-12-03",
+      "title": "UC Merced Beginnings Sculpture Lighting Ceremony",
+      "date": "2026-12-03",
+      "startTime": "16:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Carol Tomlinson-Keasey (CTK) Quad, UC Merced, 5200 N. Lake Rd., Merced, CA 95343",
+      "category": "Festivals & community",
+      "description": "Join UC Merced for its Beginnings Sculpture Lighting Ceremony. Community members are welcome; see the university event page for the RSVP link. Merced Police will collect toy donations at the event.",
+      "sourceUrl": "https://alumni.ucmerced.edu/events/beginnings-lighting-ceremony",
+      "sourceName": "UC Merced Staff Assembly / Merced Police Department",
+      "timeNote": "Starts at 4:30 p.m.; the collection end time was not announced."
     },
     {
       "id": "merced-college-upcycled-enchantment-2026-12-03",
