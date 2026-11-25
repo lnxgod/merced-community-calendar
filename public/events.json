@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:46:44.587474+00:00",
+  "updatedAt": "2026-11-25T02:12:34.217793+00:00",
   "events": [
     {
       "id": "rink-at-castle-ice-skating-season-2026-11-22",
@@ -628,6 +628,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=19431&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "merced-pd-walmart-toy-drop-off-2026-12-01",
+      "title": "Merced Police Toy Drop-Off at Walmart",
+      "date": "2026-12-01",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Merced Walmart Supercenter, 3055 Loughborough Dr., Merced, CA 95348",
+      "category": "Community services",
+      "description": "Merced Police Department will collect toys at the Merced Walmart from 4 to 6 p.m. as part of its holiday toy drive.",
+      "sourceUrl": "https://www.walmart.com/store/2039-merced-ca",
+      "sourceName": "Merced Police Department (event details) / Walmart (store address)",
+      "toyDriveType": "event"
     },
     {
       "id": "atwater-fire-police-toy-registration-deadline-2026-12-01",
