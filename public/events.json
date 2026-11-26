@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:08:12.262398+00:00",
+  "updatedAt": "2026-11-26T16:10:28.242986+00:00",
   "events": [
     {
       "id": "rink-at-castle-ice-skating-season-2026-11-22",
@@ -17,160 +17,6 @@
       "timeNote": "Dates describe the season. Daily skating hours, holiday exceptions and ticket details have yet to be published.",
       "sourceName": "The Rink at Castle — Thunderbird Community Partner",
       "sourceUrl": "https://therinkatcastle.com/"
-    },
-    {
-      "city": "Merced",
-      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
-      "category": "Library & learning",
-      "sourceName": "Kids Discovery Station",
-      "id": "kids-discovery-thanksgiving-camp-2026-11-25",
-      "title": "Thanksgiving STEAM Camp — Kids Discovery Station",
-      "date": "2026-11-25",
-      "startTime": "08:30",
-      "endTime": "15:30",
-      "description": "Three-day camp, November 23–25, for children in grades TK–5. Hands-on STEAM experiments, creative projects, games and activities. Daily drop-off 8:30 a.m.; pickup 3:30 p.m. Water and lunch provided; children may bring nut-free snacks. Registration required. The organizer publishes a separate registration link for the free MCSD-student option. Contact the organizer about availability and registration requirements.",
-      "cost": "Free for MCSD students through the organizer’s designated registration. For other students, $125 per museum member / $150 per non-member for the three-day camp.",
-      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/thanksgiving-camp-2026"
-    },
-    {
-      "title": "Tiny Tales — Atwater Library",
-      "city": "Atwater",
-      "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
-      "description": "Picture books, fingerplays and music for children ages 3–6 with an adult caregiver. Story time runs 10:30–11 a.m., followed by Stay & Play from 11–11:30 a.m.; a craft is provided.",
-      "category": "Library & learning",
-      "sourceName": "Merced County Library",
-      "cost": "Free",
-      "id": "tiny-tales-atwater-library-2026-11-25",
-      "date": "2026-11-25",
-      "startTime": "10:30",
-      "endTime": "11:30",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18388&month=11&year=2026&day=7&calType=0"
-    },
-    {
-      "title": "Wiggle & Read — Merced Main Library",
-      "city": "Merced",
-      "location": "Merced Main Library, Gracey Room, 2100 O Street, Merced, CA 95340",
-      "description": "Storybooks, music, lap bounces and fingerplays for children ages 0–2 with an adult caregiver. Story time runs 10:30–11 a.m., followed by Stay & Play from 11–11:30 a.m.; a craft is provided.",
-      "category": "Library & learning",
-      "sourceName": "Merced County Library",
-      "cost": "Free",
-      "id": "wiggle-read-merced-library-2026-11-25",
-      "date": "2026-11-25",
-      "startTime": "10:30",
-      "endTime": "11:30",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18346&month=11&year=2026&day=7&calType=0"
-    },
-    {
-      "id": "kids-discovery-little-lab-2026-11-25",
-      "title": "Little Lab Explorers — Kids Discovery Station",
-      "date": "2026-11-25",
-      "startTime": "11:30",
-      "endTime": "12:00",
-      "city": "Merced",
-      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
-      "category": "Library & learning",
-      "description": "Young children try hands-on science experiments with a museum guide. An adult caregiver must supervise children.",
-      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-11-25-11-30",
-      "sourceName": "Kids Discovery Station",
-      "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
-    },
-    {
-      "id": "lifeline-mcnamara-thanksgiving-dinner-merced-2026-11-25",
-      "title": "Free Thanksgiving Dinner at McNamara Community Center",
-      "date": "2026-11-25",
-      "startTime": "12:00",
-      "endTime": "16:00",
-      "city": "Merced",
-      "location": "McNamara Community Center, 1040 Canal Street, Merced, CA 95341",
-      "category": "Community services",
-      "description": "LifeLine CDC invites the community to a free Thanksgiving dinner at McNamara Community Center. Meals are available while supplies last.",
-      "cost": "Free while supplies last.",
-      "sourceName": "LifeLine CDC and McNamara Community Center",
-      "sourceUrl": "https://www.facebook.com/photo/?fbid=122331616364229477&set=a.122121993608229477"
-    },
-    {
-      "id": "family-journaling-merced-library-2026-11-25",
-      "title": "Family Journaling — Merced Main Library",
-      "date": "2026-11-25",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "city": "Merced",
-      "location": "Merced Main Library, Read and Succeed Room, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Family journaling at the library. Available for all ages.",
-      "cost": "Free",
-      "sourceName": "Merced County Library — official calendar",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20488&month=10&year=2026&day=31&calType=0"
-    },
-    {
-      "id": "beads-banter-merced-library-2026-11-25",
-      "title": "Beads & Banter — Merced Main Library",
-      "date": "2026-11-25",
-      "startTime": "17:15",
-      "endTime": "19:15",
-      "city": "Merced",
-      "location": "Merced Main Library, Main Floor, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Beads & Banter program for adults ages 18 and older.",
-      "cost": "Free",
-      "sourceName": "Merced County Library — official calendar",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20449&month=10&year=2026&day=30&calType=0"
-    },
-    {
-      "title": "Chess Club — Merced Main Library",
-      "city": "Merced",
-      "location": "Merced Main Library, Gracey Meeting Room, 2100 O Street, Merced, CA 95340",
-      "description": "Casual chess play and an opportunity to meet other chess enthusiasts.",
-      "category": "Library & learning",
-      "sourceName": "Merced County Library",
-      "cost": "Free",
-      "id": "chess-club-merced-library-2026-11-25",
-      "date": "2026-11-25",
-      "startTime": "17:30",
-      "endTime": "19:30",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=16117&month=11&year=2026&day=7&calType=0"
-    },
-    {
-      "city": "Merced",
-      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
-      "category": "Library & learning",
-      "sourceName": "Kids Discovery Station",
-      "id": "kids-discovery-science-and-engineering-academy-november-2026-11-25",
-      "title": "Science & Engineering Academy: Stop-Motion Filmmaking — Kids Discovery Station",
-      "date": "2026-11-25",
-      "startTime": "17:30",
-      "endTime": "19:00",
-      "description": "Final session of the four-week November drop-off series on stop-motion filmmaking, for families already registered. Kids Discovery Station has closed November registration and lists no single-session tickets.",
-      "cost": "$55 for museum members / $60 for non-members for the full four-session program. Ticket sales have ended.",
-      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/science-and-engineering-academy-november"
-    },
-    {
-      "id": "teen-crochet-club-merced-library-2026-11-25",
-      "title": "Teens: Crochet Club — Merced Main Library",
-      "date": "2026-11-25",
-      "startTime": "17:30",
-      "endTime": "19:00",
-      "city": "Merced",
-      "location": "Merced Main Library, Teens Department, 2100 O Street, Merced, CA 95340",
-      "category": "Library & learning",
-      "description": "Free Crochet Club activity in the library’s Teens Department for ages 12–18.",
-      "cost": "Free.",
-      "sourceName": "Merced County Library",
-      "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20422"
-    },
-    {
-      "id": "mainzer-friendsgiving-drag-show-2026-11-25",
-      "title": "Friendsgiving Drag Show",
-      "date": "2026-11-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "city": "Merced",
-      "location": "The Mainzer, 655 W Main Street, Merced, CA 95340",
-      "category": "Arts & performances",
-      "description": "A Friendsgiving-themed drag performance. The venue lists all ages and opens the doors at 6 p.m. A dinner menu is available.",
-      "cost": "The box office lists $10–$80 across ticket options.",
-      "sourceName": "The Mainzer box office",
-      "sourceUrl": "https://holdmyticket.com/event/468255"
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -280,12 +126,27 @@
       "startTime": "10:00",
       "endTime": "15:00",
       "city": "Merced",
-      "location": "Merced County Fairgrounds, 900 Martin Luther King Jr. Way, Merced, CA 95341",
+      "location": "Half Dome Hall, Merced County Fairgrounds, 900 Martin Luther King Jr. Way, Merced, CA 95341",
       "category": "Markets",
-      "description": "Holiday bazaar at the Merced County Fairgrounds with shopping and food. The current organizer page confirms November 28, 2026, from 10 a.m. to 3 p.m. Admission and parking are free; vendor purchases are separate. Vendor applications and fees are handled by the fair.",
+      "description": "Shop holiday vendors and get free Santa photos from noon to 2 p.m. The fair is offering a free toy for children. Attendees may bring a new, unwrapped toy for Operation Christmas Star. Each donated toy earns a raffle ticket.",
       "sourceUrl": "https://www.mercedcountyfair.com/holidaybazaar",
       "sourceName": "Merced County Fair",
-      "cost": "Free admission and parking; shopping and food purchases separate."
+      "cost": "Free admission and parking; shopping and food purchases separate.",
+      "toyDriveType": "event"
+    },
+    {
+      "id": "nk-designs-family-craft-day-2026-11-28",
+      "title": "Family Craft Day — NK Designs & Gifts",
+      "date": "2026-11-28",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "NK Designs & Gifts, 2836 G Street, Merced, CA 95340",
+      "category": "Games & hobbies",
+      "description": "Drop in to make holiday crafts, including mini fairy gardens, bead projects and decorated nutcrackers. All ages are welcome. Walk-ins are accepted while supplies last.",
+      "cost": "Projects range from $5 to $30.",
+      "sourceName": "NK Designs & Gifts",
+      "sourceUrl": "https://www.facebook.com/events/1447671924245065/"
     },
     {
       "id": "cars-and-toys-christmas-toy-drive-2026-11-28",
@@ -314,6 +175,21 @@
       "id": "bear-creek-ukulele-society-group-jam-2026-11-28"
     },
     {
+      "id": "marketplace-at-merced-santa-arrival-2026-11-28",
+      "title": "Santa’s Arrival at Marketplace at Merced",
+      "date": "2026-11-28",
+      "startTime": "13:00",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Marketplace at Merced, main entrance, 851 W Olive Avenue, Merced, CA 95348",
+      "category": "Festivals & community",
+      "description": "Santa arrives by Merced Fire Department truck at the main entrance, followed by a performance from Denisa’s School of Dance. The mall welcomes walk-ins. Check the photographer’s schedule and package prices for photos.",
+      "cost": "No admission fee is advertised for the arrival. Photo packages are sold separately.",
+      "timeNote": "The arrival is at 1 p.m. The mall has not published a ceremony end time.",
+      "sourceName": "Marketplace at Merced",
+      "sourceUrl": "https://www.marketplaceatmerced.com/events/santas-big-arrival-and-photos/"
+    },
+    {
       "id": "drop-in-digital-help-merced-library-2026-11-28",
       "title": "Drop-In Digital Help — Merced Library",
       "date": "2026-11-28",
@@ -340,6 +216,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library — official calendar",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=20450&month=10&year=2026&day=30&calType=0"
+    },
+    {
+      "id": "rink-at-castle-small-business-vendor-fair-2026-11-28",
+      "title": "Small Business Saturday Vendor Fair at The Rink at Castle",
+      "date": "2026-11-28",
+      "startTime": "16:00",
+      "endTime": "21:00",
+      "city": "Atwater",
+      "location": "The Rink at Castle, 3450 D Street, Atwater, CA 95301",
+      "category": "Markets",
+      "description": "Shop craft, clothing and food vendors and enjoy live entertainment at the outdoor rink. The separate grand opening ceremony is scheduled for 12:45 p.m.",
+      "cost": "A one-hour skate session is $16 including skate rental. The organizer lists no spectator fee. Vendor purchases are separate.",
+      "sourceName": "The Rink at Castle",
+      "sourceUrl": "https://www.facebook.com/events/1194086326278738/"
     },
     {
       "id": "mainzer-local-merced-comedy-2026-11-28",
@@ -834,6 +724,20 @@
       "cost": "Free"
     },
     {
+      "id": "nk-designs-wip-craft-night-2026-12-04",
+      "title": "W.I.P. Craft Night — NK Designs & Gifts",
+      "date": "2026-12-04",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "city": "Merced",
+      "location": "NK Designs & Gifts, 2836 G Street, Merced, CA 95340",
+      "category": "Games & hobbies",
+      "description": "Bring a craft project to work on in the shop’s craft room. A ticket covers attendance. Bring your supplies or buy them separately at the shop.",
+      "cost": "$5 plus a $0.13 ticket service fee.",
+      "sourceName": "NK Designs & Gifts",
+      "sourceUrl": "https://www.nkdesignsgifts.com/events/w-i-p-craft-night-9"
+    },
+    {
       "id": "life-place-church-christmas-dinner-2026-12-04",
       "title": "Winter Wonderland Christmas Dinner — Life Place Church",
       "date": "2026-12-04",
@@ -849,7 +753,7 @@
     },
     {
       "id": "merced-chess-club-marketplace-free-play-2026-12-04",
-      "title": "Merced Chess Club Free-Play Friday",
+      "title": "Merced Chess Club Free-Play Friday — check schedule",
       "date": "2026-12-04",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -859,7 +763,8 @@
       "description": "Play a casual game or learn the basics with the Merced Chess Club. All ages and skill levels are welcome.",
       "sourceUrl": "https://www.marketplaceatmerced.com/events/merced-chess-club-free-play-fridays/",
       "sourceName": "Marketplace at Merced",
-      "cost": "Free"
+      "cost": "Free",
+      "timeNote": "The mall’s date header shows December 4, while its event notice says the 2026 sessions have ended. Confirm with the mall before going."
     },
     {
       "title": "Leyendas del Mariachi",
@@ -965,6 +870,20 @@
       "cost": "Free entry; lunch and vendor purchases are separate. No attendee registration or age restriction is stated on the organizer flyer."
     },
     {
+      "id": "memories-of-christmas-bazaar-merced-2026-12-05",
+      "title": "Memories of Christmas Bazaar",
+      "date": "2026-12-05",
+      "startTime": "09:00",
+      "endTime": "13:00",
+      "city": "Merced",
+      "location": "United Methodist Church, 899 Yosemite Parkway, Merced, CA 95340",
+      "category": "Markets",
+      "description": "The annual public Christmas bazaar features holiday decorations, baked goods, preserves and secondhand finds. Mattie’s Tea Room offers refreshments.",
+      "cost": "No admission fee is advertised. Food and merchandise are sold separately.",
+      "sourceName": "United Methodist Woman Estate Sales in Merced",
+      "sourceUrl": "https://www.facebook.com/events/1606039164068225/"
+    },
+    {
       "id": "coloring-corner-atwater-library-2026-12-05",
       "title": "Coloring Corner — Atwater Library",
       "date": "2026-12-05",
@@ -977,6 +896,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18505&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "nk-designs-beginner-paper-piecing-2026-12-05",
+      "title": "Beginner English Paper Piecing — Hexies by Hand",
+      "date": "2026-12-05",
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "city": "Merced",
+      "location": "NK Designs & Gifts, 2836 G Street, Merced, CA 95340",
+      "category": "Games & hobbies",
+      "description": "Learn to hand-stitch fabric shapes using paper templates. Supplies are included and no sewing experience is required. Purchase a ticket from the organizer.",
+      "cost": "$35 plus a $0.88 ticket service fee.",
+      "sourceName": "NK Designs & Gifts",
+      "sourceUrl": "https://www.nkdesignsgifts.com/events/beginner-english-paper-piecing-hexies-by-hand"
     },
     {
       "id": "atwater-city-fire-tri-tip-dinner-2026-12-05",
@@ -1084,16 +1017,15 @@
       "id": "christmas-at-the-courthouse-merced-2026-12-06",
       "title": "Christmas at the Courthouse Open House",
       "date": "2026-12-06",
-      "startTime": null,
-      "endTime": null,
+      "startTime": "13:00",
+      "endTime": "16:00",
       "city": "Merced",
       "location": "Merced County Courthouse Museum, 21st and N streets, Merced, CA 95340",
       "category": "Festivals & community",
       "description": "The museum invites the community to see more than 80 decorated Christmas trees and enjoy music, treats and traditional courthouse eggnog.",
       "cost": "General museum admission is free. The museum has not announced a separate open-house charge.",
       "sourceName": "Merced County Courthouse Museum",
-      "sourceUrl": "https://mercedmuseum.org/events.shtml",
-      "timeNote": "The museum confirms Sunday, December 6. Open-house hours have not been published."
+      "sourceUrl": "https://mercedmuseum.org/events.shtml"
     },
     {
       "title": "Atwater Flea & Farmers Market",
@@ -1814,6 +1746,21 @@
       "sourceUrl": "https://www.facebook.com/events/1677869659934312/",
       "sourceName": "Merced Theatre",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting."
+    },
+    {
+      "id": "merced-bicycle-coalition-holiday-night-ride-2026-12-13",
+      "title": "Holiday Night Ride — Merced Bicycle Coalition",
+      "date": "2026-12-13",
+      "startTime": "17:30",
+      "endTime": null,
+      "city": "Merced",
+      "location": "Bob Hart Square, West Main Street at Canal Street, Merced, CA 95340",
+      "category": "Sports",
+      "description": "Meet at Bob Hart Square at 5:30 p.m. for a family-friendly bicycle ride through downtown that rolls out at 6 p.m. Helmets and front headlights are required. A guardian must sign in all minors and ride with participants under 16. The organizer recommends alternatives to training wheels.",
+      "cost": "No participation fee is advertised.",
+      "timeNote": "Gather at 5:30 p.m. and ride at 6 p.m. The organizer has not published an end time.",
+      "sourceName": "Merced Bicycle Coalition",
+      "sourceUrl": "https://www.facebook.com/events/1843538780015629/"
     },
     {
       "id": "mommy-me-tap-ballet-mac-2026-12-14",
