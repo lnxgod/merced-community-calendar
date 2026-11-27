@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-26T16:10:28.242986+00:00",
+  "updatedAt": "2026-11-27T18:02:42.652888+00:00",
   "events": [
+    {
+      "id": "uc-merced-la-galeria-chicano-prints-exhibition-2026-10-14",
+      "title": "Chicano Prints — La Galería at UC Merced",
+      "date": "2026-10-14",
+      "endDate": "2026-12-05",
+      "startTime": null,
+      "endTime": null,
+      "allDay": true,
+      "city": "Merced",
+      "location": "La Galería, El Portal Residence Hall, Room 120, UC Merced, 5200 Lake Road, Merced, CA 95343",
+      "category": "Arts & performances",
+      "sourceName": "UC Merced Arts",
+      "sourceUrl": "https://arts.ucmerced.edu/season",
+      "description": "An exhibition of prints by Chicano artists from UC Merced’s permanent collection. Campus visitors and the public are welcome.",
+      "cost": "Free admission. Weekday visitor parking is paid. Green Zone parking in the Bellevue Lot is free on weekends.",
+      "timeNote": "Exhibition through December 5. Regular gallery hours are Wednesday–Saturday, noon–6 p.m. The gallery closes for university holidays and academic breaks, including the November 26–27 Thanksgiving holiday."
+    },
+    {
+      "city": "Merced",
+      "startTime": null,
+      "endTime": null,
+      "sourceName": "Merced College",
+      "id": "backyard-ideals-merced-college-exhibition-2026-11-04",
+      "title": "Backyard Ideals — Merced College Art Gallery",
+      "date": "2026-11-04",
+      "endDate": "2026-12-10",
+      "allDay": true,
+      "category": "Arts & performances",
+      "location": "Merced College Fine Arts Gallery, Theater Building, 3600 M Street, Merced, CA 95348",
+      "description": "An exhibition of work by Alexander Quinones at the Fine Arts Gallery. Open to the public.",
+      "cost": "Free admission. A campus parking permit is required.",
+      "timeNote": "Exhibition dates run through December 10. Regular gallery hours during exhibitions are Tuesday–Thursday, 10:30 a.m.–3 p.m., or by appointment. Check with the gallery for holiday hours.",
+      "sourceUrl": "https://www.mccd.edu/event/art-gallery-exhibition-backyard-ideals/"
+    },
     {
       "id": "rink-at-castle-ice-skating-season-2026-11-22",
       "title": "The Rink at Castle — Outdoor Ice Skating Season",
@@ -17,63 +51,6 @@
       "timeNote": "Dates describe the season. Daily skating hours, holiday exceptions and ticket details have yet to be published.",
       "sourceName": "The Rink at Castle — Thunderbird Community Partner",
       "sourceUrl": "https://therinkatcastle.com/"
-    },
-    {
-      "title": "Atwater Flea & Farmers Market",
-      "city": "Atwater",
-      "location": "2877 Atwater Boulevard, Atwater, CA",
-      "category": "Markets",
-      "description": "Weekly outdoor market, rain or shine. Free entry; Thursday parking free, Sunday parking $2 per car.",
-      "date": "2026-11-26",
-      "startTime": "07:00",
-      "endTime": "15:00",
-      "sourceUrl": "https://mercedatwaterflea.com/atwater-market",
-      "sourceName": "Merced/Atwater Flea & Farmers Market",
-      "timeNote": "Based on the organizer’s published weekly schedule. Check for holiday or weather changes.",
-      "cost": "Free admission and parking",
-      "id": "atwater-flea-farmers-market-2026-11-26"
-    },
-    {
-      "id": "merced-thanksgiving-fun-run-2026-11-26",
-      "title": "Thanksgiving Day Fun Run",
-      "date": "2026-11-26",
-      "startTime": "08:00",
-      "endTime": null,
-      "city": "Merced",
-      "location": "Corner of Tuscany Avenue and Reggio Court, Merced, CA",
-      "category": "Sports",
-      "description": "Merced Running Club outing on Bear Creek paths. Choose a 5-mile, 10-mile or personal-distance route. Walkers welcome; no registration required.",
-      "sourceUrl": "https://mercedrunningclub.com/home/running-events/tdfr/",
-      "sourceName": "Merced Running Club",
-      "timeNote": "End time not published."
-    },
-    {
-      "id": "resm-thanksgiving-community-meal-atwater-2026-11-26",
-      "title": "Community Thanksgiving Meal — Tequila Cafe & RESM",
-      "date": "2026-11-26",
-      "startTime": "10:00",
-      "endTime": "13:00",
-      "city": "Atwater",
-      "location": "CVO, 1390 Broadway Avenue, Atwater, CA",
-      "category": "Community services",
-      "description": "Tequila Cafe and Rising Empowerment Sports Ministries host a community meal on Thanksgiving Day. The organizer welcomes everyone, including families, students, people in need and anyone who would otherwise spend the holiday alone. Check the organizer’s current announcement for updates.",
-      "cost": "The 2026 announcement does not state a meal charge or registration requirement; check with the organizer for details.",
-      "sourceName": "Rising Empowerment Sports Ministries — public 2026 Thanksgiving announcement",
-      "sourceUrl": "https://www.facebook.com/Risingempowermentsportsministries/posts/pfbid0GgbhvS1vdVJFZ5f8DYYiL1St29EKHnAN12t7B1DE2ccsgWFj7emUyGtUmFzWVNz4l"
-    },
-    {
-      "id": "merced-county-rescue-mission-thanksgiving-banquet-2026-11-26",
-      "title": "Merced County Rescue Mission Thanksgiving Banquet",
-      "date": "2026-11-26",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "city": "Merced",
-      "location": "American Legion Hall, 939 W Main Street, Merced, CA 95340",
-      "category": "Community services",
-      "description": "A community Thanksgiving meal. No reservation or advance signup is required. Children should stay with their accompanying adults. Dessert donations are welcome.",
-      "cost": "Free community meal.",
-      "sourceName": "Merced County Rescue Mission",
-      "sourceUrl": "https://www.mercedcountyrescuemission.org/news/2026/11/22/2026-thanksgiving-and-christmas-eve-banquets"
     },
     {
       "id": "kids-discovery-story-puppet-theatre-2026-11-27",
@@ -335,6 +312,21 @@
       "sourceUrl": "https://www.artsmerced.org/events-list/drama-island-16-fcjjd-533dz-r6dcn"
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-11-30",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-11-30",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-11-30",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-11-30",
@@ -379,19 +371,20 @@
     },
     {
       "id": "atwater-fire-police-toy-registration-deadline-2026-12-01",
-      "title": "Fire & Police Toy Assistance — Atwater Registration Deadline",
+      "title": "Registration Full — Atwater Fire & Police Toy Assistance",
       "date": "2026-12-01",
       "startTime": null,
       "endTime": null,
       "city": "Atwater",
       "location": "Atwater Community Center, 760 E. Bellevue Road, Atwater, CA 95301",
       "category": "Community services",
-      "description": "Register eligible children ages 1–12 for the City of Atwater Fire & Police Toy Drive while spaces remain. Proof of residency and each child’s age must be submitted by December 1. Online registration requires a recreation account; documents may also be submitted to the Community Center. Toy pickup is December 16, 4–7 p.m., in the Jessie Frago Room.",
-      "cost": "Free; eligibility documents and advance registration required. Capacity is limited.",
-      "sourceName": "City of Atwater Recreation & Community Events",
-      "sourceUrl": "https://secure.rec1.com/CA/atwater-ca/catalog",
-      "timeNote": "Online registration lists a December 1, 11:59 p.m. deadline, while spaces remain. For in-person help, check Community Center office hours.",
-      "allDay": true
+      "description": "The City of Atwater reports that recipient registration for children ages 1–12 has reached capacity. Families who registered should follow their city program instructions. The city is still accepting new, unwrapped toy donations at participating collection sites.",
+      "cost": "Free assistance for previously registered recipients. Registration is full.",
+      "sourceName": "City of Atwater",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1647940887372755&set=a.306203218213202",
+      "timeNote": "December 1 was the original deadline. The city announced that spaces filled before that date.",
+      "allDay": true,
+      "toyDriveType": "event"
     },
     {
       "id": "operation-christmas-star-application-deadline-2026-12-01",
@@ -467,6 +460,21 @@
       "timeNote": "Doors open at 5 p.m."
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-02",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-02",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "title": "Tiny Tales — Atwater Library",
       "city": "Atwater",
       "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
@@ -507,6 +515,20 @@
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-12-02-11-30",
       "sourceName": "Kids Discovery Station",
       "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
+      "city": "Merced",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sourceName": "Merced College",
+      "id": "merced-college-agtec-south-merced-2026-12-02",
+      "title": "AgTEC Information Session — South Merced Center",
+      "date": "2026-12-02",
+      "category": "Library & learning",
+      "location": "Merced College South Merced Center, 640 T Street, Merced, CA 95341",
+      "description": "An open workshop about training in precision farming, food safety and agricultural technology for people exploring local careers.",
+      "cost": "The college lists no workshop fee or registration requirement.",
+      "sourceUrl": "https://www.mccd.edu/event/agtec-information-sessions/"
     },
     {
       "id": "merced-college-birth-with-confidence-2026-12-02",
@@ -681,6 +703,21 @@
       "timeNote": "Doors open at 5 p.m."
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-04",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-04",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "id": "conversation-circles-merced-library-2026-12-04",
       "title": "Conversation Circles — Merced Main Library",
       "date": "2026-12-04",
@@ -767,17 +804,17 @@
       "timeNote": "The mall’s date header shows December 4, while its event notice says the 2026 sessions have ended. Confirm with the mall before going."
     },
     {
-      "title": "Leyendas del Mariachi",
+      "title": "Leyendas del Mariachi — check schedule",
       "date": "2026-12-04",
       "city": "Merced",
       "location": "Merced Theatre, 301 West Main Street, Merced, CA 95340",
       "category": "Arts & performances",
-      "description": "Ticketed performance. End time not published in the venue listing.",
+      "description": "AXS lists resale tickets for this performance, but the Merced Theatre lists the film Elf in the same auditorium at 7 p.m. Confirm directly with the theatre before buying tickets or attending.",
       "startTime": "19:00",
       "endTime": null,
-      "sourceUrl": "https://www.axs.com/venues/133321/merced-theatre-merced-tickets",
-      "sourceName": "Merced Theatre / AXS",
-      "timeNote": "End time has not been published.",
+      "sourceUrl": "https://www.axs.com/uk/events/1448573/leyendas-del-mariachi-tickets",
+      "sourceName": "AXS / Merced Theatre",
+      "timeNote": "December 4 at 7 p.m. is disputed. The artist’s December tour list omits Merced. The end time is unpublished.",
       "id": "leyendas-del-mariachi-2026-12-04"
     },
     {
@@ -824,6 +861,21 @@
       "cost": "$22–$25; check ticket availability",
       "timeNote": "End time has not been published. Confirm ticket availability before visiting.",
       "id": "mary-poppins-playhouse-merced-2026-12-04"
+    },
+    {
+      "city": "Merced",
+      "startTime": "19:30",
+      "endTime": null,
+      "sourceName": "Merced College box office",
+      "id": "merced-college-community-chorus-loves-pure-light-2026-12-04",
+      "title": "Love’s Pure Light — Merced College Community Chorus",
+      "date": "2026-12-04",
+      "category": "Arts & performances",
+      "location": "Merced College Theater, 3600 M Street, Merced, CA",
+      "description": "The Merced College Community Chorus performs its holiday concert. The box office opens one hour before the performance. Parking permits are waived in lots P5 and P7 for this production.",
+      "cost": "Online prices including fees are $16.50 general and $11.50 discounted. The discount category includes children, students, seniors, military and Merced College employees.",
+      "timeNote": "Starts at 7:30 p.m. Pacific. The box office has not published an end time.",
+      "sourceUrl": "https://www.tix.com/ticket-sales/mccd/4916/event/1492861"
     },
     {
       "id": "breakfast-with-the-grinch-atwater-2026-12-05",
@@ -1130,6 +1182,21 @@
       "sourceUrl": "https://www.artsmerced.org/events-list/drama-island-16-fcjjd-533dz-tws6c"
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-07",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-07",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-12-07",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-12-07",
@@ -1230,6 +1297,21 @@
       "sourceUrl": "https://www.campusce.net/merced/course/course.aspx?catId=16"
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-09",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-09",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "title": "Tiny Tales — Atwater Library",
       "city": "Atwater",
       "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
@@ -1284,6 +1366,20 @@
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/little-lab-explorers-wednesdays-2026-12-09-11-30",
       "sourceName": "Kids Discovery Station",
       "cost": "Museum admission is $7 per adult and per child over 12 months. Children under 12 months enter free. The museum does not specify a separate program fee."
+    },
+    {
+      "city": "Merced",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sourceName": "Merced College",
+      "id": "merced-college-financial-aid-south-merced-2026-12-09",
+      "title": "Financial Aid Workshop — South Merced Center",
+      "date": "2026-12-09",
+      "category": "Library & learning",
+      "location": "Merced College South Merced Center, 640 T Street, Merced, CA 95341",
+      "description": "An open workshop about grants, scholarships, tuition programs and AB 540. College staff will explain eligibility for the programs discussed.",
+      "cost": "The college lists no workshop fee or registration requirement.",
+      "sourceUrl": "https://www.mccd.edu/event/financial-aid-workshop-south-merced-center/"
     },
     {
       "title": "Chess Club — Merced Main Library",
@@ -1442,6 +1538,21 @@
       "cost": "$18 per person. Choose a timed ticket on Eventbrite and check the final total."
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-11",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-11",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "id": "conversation-circles-merced-library-2026-12-11",
       "title": "Conversation Circles — Merced Main Library",
       "date": "2026-12-11",
@@ -1483,6 +1594,21 @@
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18477&month=11&year=2026&day=7&calType=0",
       "sourceName": "Merced County Library",
       "cost": "Free"
+    },
+    {
+      "id": "dr-cruz-optometry-casa-grand-opening-toy-drive-2026-12-11",
+      "title": "Dr. Cruz Optometry Grand Opening & CASA Toy Drive",
+      "date": "2026-12-11",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "city": "Merced",
+      "location": "Dr. Cruz Optometry, 1230 W 16th Street, Merced, CA",
+      "category": "Community services",
+      "description": "Bring a new, unwrapped toy to support foster youth served by CASA of Merced County. The public grand opening includes a ribbon cutting, office tours and toy raffles.",
+      "cost": "The Chamber’s invitation lists no admission price or registration requirement.",
+      "sourceName": "Merced County Hispanic Chamber of Commerce",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1721050753395262&set=a.607662564734092",
+      "toyDriveType": "event"
     },
     {
       "id": "a-christmas-adventure-bloss-house-2026-12-11",
@@ -1530,15 +1656,15 @@
     },
     {
       "id": "merced-college-jazz-ensemble-fall-concert-2026-12-11",
-      "title": "Merced College Jazz Ensemble Fall Concert",
+      "title": "Big Band Jazz — Merced College Jazz Ensemble",
       "date": "2026-12-11",
       "startTime": "19:30",
       "endTime": "22:00",
       "city": "Merced",
       "location": "Merced College Theater, 3600 M Street, Merced, CA 95348",
       "category": "Arts & performances",
-      "description": "Live jazz performed by Merced College students and community musicians, directed by Ken Taylor. Tickets go on sale in November.",
-      "cost": "$15 general admission; $10 for students, seniors, Merced College staff and military.",
+      "description": "Merced College students and community musicians perform under the direction of Ken Taylor. The box office opens one hour before the show. Parking permits are waived in lots P5 and P7 for this production.",
+      "cost": "Online prices including fees are $16.50 general and $11.50 discounted for children, students, seniors, military and Merced College employees.",
       "sourceUrl": "https://www.mccd.edu/event/merced-college-jazz-ensemble-fall-2026-concert/",
       "sourceName": "Merced College"
     },
@@ -1584,6 +1710,35 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18506&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "new-beginnings-holiday-bake-sale-gift-shoppe-2026-12-12",
+      "title": "Holiday Bake Sale & Gift Shoppe — New Beginnings",
+      "date": "2026-12-12",
+      "startTime": "10:00",
+      "endTime": "15:00",
+      "city": "Merced",
+      "location": "Merced Multicultural Arts Center, 645 W Main Street, Merced, CA 95340",
+      "category": "Markets",
+      "description": "New Beginnings For Merced County Animals hosts its 14th annual public holiday fundraiser. Shop for baked goods and handmade holiday wreaths to support local rescue animals.",
+      "cost": "Purchases support the rescue. The organizer lists no entrance fee or registration details.",
+      "sourceName": "New Beginnings For Merced County Animals",
+      "sourceUrl": "https://www.facebook.com/events/1460274008809013/"
+    },
+    {
+      "id": "ron-smith-gmc-casa-toy-teen-care-package-drive-2026-12-12",
+      "title": "CASA Toy & Teen Care Package Drive at Ron Smith GMC",
+      "date": "2026-12-12",
+      "startTime": "12:00",
+      "endTime": "16:00",
+      "city": "Merced",
+      "location": "Ron Smith GMC, 1501 Auto Center Drive, Merced, CA 95340",
+      "category": "Community services",
+      "toyDriveType": "event",
+      "sourceName": "CASA of Merced County",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1614642964023893&set=a.481207280700806",
+      "description": "Bring an unwrapped toy or a teen care package for local foster youth. The event includes a car show, food trucks and photos with Santa. The organizer offers a raffle ticket for each toy donated.",
+      "cost": "Santa photos are free. The organizer does not list a general entry price."
     },
     {
       "id": "moes-sidekicks-christmas-wonderland-2026-12-12",
@@ -1763,6 +1918,21 @@
       "sourceUrl": "https://www.facebook.com/events/1843538780015629/"
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-14",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-14",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "id": "mommy-me-tap-ballet-mac-2026-12-14",
       "title": "Mommy & Me — Merced Tap and Ballet",
       "date": "2026-12-14",
@@ -1864,6 +2034,21 @@
       "cost": "Free"
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-16",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-16",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "title": "Tiny Tales — Atwater Library",
       "city": "Atwater",
       "location": "Atwater Library, 1600 3rd Street, Atwater, CA 95301",
@@ -1907,17 +2092,18 @@
     },
     {
       "id": "atwater-fire-police-toy-distribution-2026-12-16",
-      "title": "Fire & Police Toy Distribution — Atwater",
+      "title": "Fire & Police Toy Distribution — Registered Families Only",
       "date": "2026-12-16",
       "startTime": "16:00",
       "endTime": "19:00",
       "city": "Atwater",
       "location": "Atwater Community Center, Jessie Frago Room, 760 E. Bellevue Road, Atwater, CA 95301",
       "category": "Community services",
-      "description": "Toy distribution for eligible children ages 1–12. Advance registration runs November 1–December 1, 2026, while spaces remain. Proof of residency and each child’s age are required; submit the required documentation by December 1. Online registration requires a recreation account. Check the city’s program details for eligibility and registration instructions.",
-      "cost": "Free; advance registration and required documentation. Capacity is limited.",
-      "sourceName": "City of Atwater Recreation & Community Events",
-      "sourceUrl": "https://secure.rec1.com/CA/atwater-ca/catalog"
+      "description": "Pickup is for previously registered families with eligible children ages 1–12. The City of Atwater reports that recipient registration is full. Follow the city’s instructions for the Jessie Frago Room pickup.",
+      "cost": "Free for registered families. Recipient registration is full.",
+      "sourceName": "City of Atwater",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1647940887372755&set=a.306203218213202",
+      "toyDriveType": "event"
     },
     {
       "title": "Adults: Game Night — Merced Main Library",
@@ -2019,6 +2205,20 @@
       "cost": "Free",
       "sourceName": "Merced County Library",
       "sourceUrl": "https://www.countyofmerced.com/Calendar.aspx?EID=18449&month=11&year=2026&day=7&calType=0"
+    },
+    {
+      "id": "kids-discovery-station-sensory-play-mornings-2026-12-17",
+      "title": "Sensory Play Mornings — Kids Discovery Station",
+      "date": "2026-12-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "city": "Merced",
+      "location": "Kids Discovery Station, 350 W Yosemite Avenue, Merced, CA 95348",
+      "category": "Library & learning",
+      "description": "Toddlers and their accompanying adults can explore three themed sensory bins. An adult must supervise children.",
+      "cost": "General admission is $7 for adults and children over 12 months. Children under 12 months and members enter free. General admission tickets are sold in person.",
+      "sourceName": "Kids Discovery Station",
+      "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/sensory-play-mornings-2026-12-17-11-30"
     },
     {
       "id": "bookmobile-stephen-leonard-park-2026-12-17",
@@ -2134,6 +2334,21 @@
       "timeNote": "The organizer’s event lists an 8 a.m. Pacific start on Friday. Daily hours and closing times are unpublished.",
       "sourceName": "Merced Lao Family Community, Inc. — public organizer event",
       "sourceUrl": "https://www.facebook.com/events/29466461132950182/"
+    },
+    {
+      "city": "Merced",
+      "startTime": null,
+      "endTime": null,
+      "id": "merced-county-rescue-mission-annual-food-drive-deadline-2026-12-18",
+      "title": "Last Day to Donate — Merced County Rescue Mission Food Drive",
+      "date": "2026-12-18",
+      "allDay": true,
+      "category": "Community services",
+      "location": "Merced County Rescue Mission, 644 W. 20th Street, Merced, CA 95340",
+      "description": "The Mission is collecting canned goods and other nonperishable foods for local families and people experiencing homelessness. Requested items include stuffing mix and large cans of corn or green beans.",
+      "timeNote": "December 18 is the donation deadline. Regular weekday office hours are 9 a.m.–4:30 p.m. with a lunch closure from 12:30–1 p.m. Check with the Mission before visiting.",
+      "sourceUrl": "https://www.mercedcountyrescuemission.org/news/2026/11/22/give-the-gift-of-a-meal",
+      "sourceName": "Merced County Rescue Mission"
     },
     {
       "id": "kids-discovery-story-puppet-theatre-2026-12-18",
@@ -2353,6 +2568,21 @@
       "id": "mary-poppins-playhouse-merced-2026-12-20"
     },
     {
+      "id": "harvest-time-perishable-food-pickup-2026-12-21",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-21",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
+    },
+    {
       "id": "winter-steam-camp-kids-discovery-station-2026-12-21",
       "title": "Winter STEAM Camp — Kids Discovery Station (Session A)",
       "date": "2026-12-21",
@@ -2394,6 +2624,21 @@
       "cost": "Free for MCSD students with registration. For non-MCSD students: $125 per child per three-day session for members; $150 for non-members.",
       "sourceName": "Kids Discovery Station",
       "sourceUrl": "https://www.kidsdiscoverystation.org/event-details/kids-winter-camp-2026"
+    },
+    {
+      "id": "harvest-time-perishable-food-pickup-2026-12-23",
+      "title": "Harvest Time Perishable Food Pick-Up — Be in Line by 9 a.m.",
+      "date": "2026-12-23",
+      "startTime": null,
+      "endTime": null,
+      "city": "Merced",
+      "location": "Harvest Time, 1155 W 10th Street, Merced, CA 95341",
+      "category": "Community services",
+      "description": "Walk-up perishable food pickup. Bring two grocery bags and be in line by 9 a.m. to be served.",
+      "cost": "No charge is listed on the organizer’s distribution calendar.",
+      "timeNote": "9 a.m. is the line cutoff. Pickup start and end times are unpublished.",
+      "sourceName": "Harvest Time — public distribution calendar",
+      "sourceUrl": "https://www-harvesttimemerced-org.filesusr.com/html/96edcd_acf97bf5fa2edd0dd89c851a234827b1.html"
     },
     {
       "id": "winter-steam-camp-kids-discovery-station-2026-12-23",
@@ -2781,12 +3026,12 @@
       "id": "game-changers-ai-holiday-show-toy-drop-off",
       "title": "GameChangers AI Christmas Light Show",
       "location": "4874 W State Highway 140, Atwater, CA 95301",
-      "status": "coming-soon",
+      "status": "accepting",
       "city": "McSwain",
       "description": "The Hatzer family is collecting new, unwrapped toys for local kids with Merced’s Cops & Fire for Kids. Visit the Christmas light show through New Year’s Day, January 1, 2027. Tune to 103.5 FM for the music.",
       "sourceName": "GameChangers AI",
       "sourceUrl": "https://community.gamechangersai.org/toydrive/?vote=f486c212bb86c1adb98ee9c7cead53b9#request=V29NbtfcsYDTTqK-rBvWdyKprAdXiNKuRmWtydoGVGY",
-      "timeNote": "Drop-off hours will be announced.",
+      "timeNote": "Toy collection runs November 27–December 11. Drop-off hours will be announced. The treasure chest is beside the official toy-drive sign, just to the right of the big lighted tree as you face the house.",
       "startDate": "2026-11-27",
       "endDate": "2026-12-11"
     },
